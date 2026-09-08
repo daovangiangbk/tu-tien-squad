@@ -96,10 +96,10 @@
 | 56 | `dan-sa-phu` | Đan Sa Phụ | 1 | FS-003 | **approved draft** | `chapter-56-dan-sa-phu.md` |
 | 57 | `luat-dai-cuc` | Luật Đại Cục | 1 | FS-002 | **approved draft** | `chapter-57-luat-dai-cuc.md` |
 | 58 | `tru-co-dan` | Trúc Cơ Đan | 1 | FS-009 | **approved draft** | `chapter-58-tru-co-dan.md` |
-| 59 | `manh-ghep` | Mảnh Ghép | 2 | FS-012 | outline |
-| 60 | `tran-slot-mach` | Tranh Suất Mạch | 2 | — | outline |
-| 61 | `ep-dot-pha` | Ép Đột Phá | 2 | FS-001 | outline |
-| 62 | `tru-co-so` | Trúc Cơ Sơ | 2 | FS-001 | outline |
+| 59 | `manh-ghep` | Mảnh Ghép | 2 | FS-012 | **approved draft** | `chapter-59-manh-ghep.md` |
+| 60 | `tran-slot-mach` | Tranh Suất Mạch | 2 | — | **approved draft** | `chapter-60-tran-slot-mach.md` |
+| 61 | `ep-dot-pha` | Ép Đột Phá | 2 | FS-001 | **approved draft** | `chapter-61-ep-dot-pha.md` |
+| 62 | `tru-co-so` | Trúc Cơ Sơ | 2 | FS-001 | **approved draft** | `chapter-62-tru-co-so.md` |
 | 63 | `ve-bi-canh` | Vé Bí Cảnh | 3 | FS-005 | outline |
 | 64 | `phong-an-tin` | Phong Ấn Tin | 3 | FS-005, 015 | outline |
 | 65 | `monopoly-ve` | Monopoly Vé | 3 | FS-009 | outline |

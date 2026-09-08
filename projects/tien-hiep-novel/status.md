@@ -7,8 +7,8 @@
 
 ## Snapshot
 
-- **Phase:** Arc 1 + Transition **approved** · **Arc 2 ch.56–58 approved draft** · Beat 1 khép · gate ch.59
-- **Session:** Viết ch.56–58 · review r1/r2 · auto-gate · push main
+- **Phase:** Arc 1 + Transition **approved** · **Arc 2 ch.59–62 approved draft** · Beat 2 khép · gate ch.63
+- **Session:** Viết ch.59–62 · review r1/r2 · auto-gate · push main
 - **Blockers:** Không
 - **Human gate (session):** User pre-approve — sau mỗi review: nếu **suggest_pass** / không `critical`, coi **approved draft** (bỏ qua revise trừ ID critical); nếu có critical → revise rồi r2 như workflow
 
@@ -428,6 +428,38 @@
 | Beat | [`ch58-tru-co-dan-beat.md`](logic/chapters/ch58-tru-co-dan-beat.md) |
 | Review | [`review-chapter-58-tru-co-dan.md`](interface/chapter-view/review-chapter-58-tru-co-dan.md) · **suggest_pass** |
 
+## Chương 59 — `manh-ghep`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-59-manh-ghep.md`](interface/chapters/chapter-59-manh-ghep.md) |
+| Beat | [`ch59-manh-ghep-beat.md`](logic/chapters/ch59-manh-ghep-beat.md) |
+| Review | r2 [`review-chapter-59-manh-ghep-r2.md`](interface/chapter-view/review-chapter-59-manh-ghep-r2.md) · **suggest_pass** · revise C-01–C-05 |
+
+## Chương 60 — `tran-slot-mach`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-60-tran-slot-mach.md`](interface/chapters/chapter-60-tran-slot-mach.md) |
+| Beat | [`ch60-tran-slot-mach-beat.md`](logic/chapters/ch60-tran-slot-mach-beat.md) |
+| Review | [`review-chapter-60-tran-slot-mach.md`](interface/chapter-view/review-chapter-60-tran-slot-mach.md) · **suggest_pass** |
+
+## Chương 61 — `ep-dot-pha`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-61-ep-dot-pha.md`](interface/chapters/chapter-61-ep-dot-pha.md) |
+| Beat | [`ch61-ep-dot-pha-beat.md`](logic/chapters/ch61-ep-dot-pha-beat.md) |
+| Review | [`review-chapter-61-ep-dot-pha.md`](interface/chapter-view/review-chapter-61-ep-dot-pha.md) · **suggest_pass** |
+
+## Chương 62 — `tru-co-so`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-62-tru-co-so.md`](interface/chapters/chapter-62-tru-co-so.md) |
+| Beat | [`ch62-tru-co-so-beat.md`](logic/chapters/ch62-tru-co-so-beat.md) |
+| Review | r2 [`review-chapter-62-tru-co-so-r2.md`](interface/chapter-view/review-chapter-62-tru-co-so-r2.md) · **suggest_pass** · revise C-01, C-02 |
+
 ## Chương 48 — `thach-lam-an`
 
 | Trạng thái | Giá trị |
@@ -438,4 +470,4 @@
 
 ---
 
-*Status sync — **58/112 approved draft** · Arc 2 Beat 1 khép (ch.55–58) (2026-09-08). Gate ch.59.*
+*Status sync — **62/112 approved draft** · Arc 2 Beat 2 khép (ch.55–62) (2026-09-08). Gate ch.63.*

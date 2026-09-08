@@ -6,7 +6,7 @@
 > **Task queue agent:** [`status.md`](status.md)
 
 **Lần cập nhật:** 2026-09-08  
-**Session focus:** Arc 2 **ch.56–58 approved draft** · Beat 1 khép · gate ch.59
+**Session focus:** Arc 2 **ch.59–62 approved draft** · Beat 2 khép · gate ch.63
 **Brief:** v2 · **Trần phase 1:** Trúc Cơ đỉnh phong
 
 ---
@@ -34,7 +34,7 @@
 
 | Phase | Trạng thái | Arc | Chương (prose) | Ghi chú |
 | --- | --- | --- | --- | --- |
-| **1** — Trúc Cơ đỉnh phong | `in_progress` | 4 khối (1+T+2+3) | **58 / 112** prose (**58** approved draft) | Arc 1 + Transition **prose_complete** · Arc 2 **in progress** |
+| **1** — Trúc Cơ đỉnh phong | `in_progress` | 4 khối (1+T+2+3) | **62 / 112** prose (**62** approved draft) | Arc 1 + Transition **prose_complete** · Arc 2 **in progress** |
 | **2** — Kim Đan+ | `planned` | — | 0 | Stub sau phase 1 |
 
 ---
@@ -129,7 +129,7 @@
 | --- | --- |
 | Beat sheet | ✅ [`logic/arcs/02-arc2-beats.md`](logic/arcs/02-arc2-beats.md) — 10 beat |
 | Spine | ✅ 34/34 dòng outline (ch.55–88) |
-| Prose | **4** (ch.55–58) |
+| Prose | **8** (ch.55–62) |
 
 | Ch | Tiêu đề | Status | File |
 | --- | --- | --- | --- |
@@ -137,10 +137,14 @@
 | 56 | Đan Sa Phụ | `approved draft` | [chapter-56-dan-sa-phu.md](interface/chapters/chapter-56-dan-sa-phu.md) |
 | 57 | Luật Đại Cục | `approved draft` | [chapter-57-luat-dai-cuc.md](interface/chapters/chapter-57-luat-dai-cuc.md) |
 | 58 | Trúc Cơ Đan | `approved draft` | [chapter-58-tru-co-dan.md](interface/chapters/chapter-58-tru-co-dan.md) |
+| 59 | Mảnh Ghép | `approved draft` | [chapter-59-manh-ghep.md](interface/chapters/chapter-59-manh-ghep.md) |
+| 60 | Tranh Suất Mạch | `approved draft` | [chapter-60-tran-slot-mach.md](interface/chapters/chapter-60-tran-slot-mach.md) |
+| 61 | Ép Đột Phá | `approved draft` | [chapter-61-ep-dot-pha.md](interface/chapters/chapter-61-ep-dot-pha.md) |
+| 62 | Trúc Cơ Sơ | `approved draft` | [chapter-62-tru-co-so.md](interface/chapters/chapter-62-tru-co-so.md) |
 
 | Block | Ch | Status | Cốt lõi |
 | --- | --- | --- | --- |
-| 2A | 55–62 | **ch.55–58 approved draft** | Thuê tranh mạch phụ · Trúc Cơ Sơ |
+| 2A | 55–62 | **ch.55–62 approved draft** · Beat 2 khép | Thuê tranh mạch phụ · **Trúc Cơ Sơ** |
 | 2B | 63–72 | `outline` | Bí cảnh chung; wound đâm · FS-006 |
 | 2C | 73–88 | `outline` | Mạch đoạn; Ma lậu; Linh Dịch lệch |
 
@@ -170,7 +174,7 @@
 Phase 1 [in_progress]
 ├── Arc 1 Phế Địa Tán Tu [prose_complete]  ch 1–48 approved draft
 ├── Transition Thành Trì Khế [approved draft]   ch 49–54 prose
-├── Arc 2 Tranh Mạch Phụ [in_progress]    ch 55–58 approved draft · Beat 1 khép
+├── Arc 2 Tranh Mạch Phụ [in_progress]    ch 55–62 approved draft · Beat 2 khép
 └── Arc 3 Đan Điền Viên Mãn [spine]       ch 89–112 block
 Phase 2 [planned]
 ```
