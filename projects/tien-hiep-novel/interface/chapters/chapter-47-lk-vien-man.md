@@ -38,7 +38,7 @@ Tô Diêu khẽ thở ra một hơi dài rách rưới. Bàn tay phải của h�
 
 Trống rỗng.
 
-Túi da thú chứa toàn bộ Tàn Linh Sa nhặt nhạnh suốt bao tháng ngày ở Kiến Sa Địa đã bị chấn đứt quai rơi mất trong đợt sóng xung kích ở hành lang phía trên. Toàn bộ phù lục gom góp, viên linh thạch hạ phẩm cuối cùng, thậm chí cả đĩa Tụ Linh Vi Trận vỡ góc… tất cả đều không còn. Hắn bước vào hốc đá này với hai bàn tay trắng, trên người chỉ sót lại ba thứ: mảnh Cửu Huyền Trận đang dính chặt vào thịt bàn tay trái, mẩu khế chưa ký kẹp cứng nơi ống tay áo phải, khối Tam Hệ Lệch Khí Ngọc lạnh ngắt áp trước ngực, và mẩu phế kích rỉ sét cụt đầu vừa vồ vội trước khi rơi xuống.
+Túi da thú chứa toàn bộ Tàn Linh Sa nhặt nhạnh suốt bao tháng ngày ở Kiến Sa Địa đã bị chém đứt quai ngoài miệng khe đá sụp lúc trước, rơi lại phía bên kia cùng Thanh Phong Phi Liên, đĩa Tụ Linh Vi Trận vỡ góc, toàn bộ phù liệu, viên linh thạch hạ phẩm cuối cùng và cả viên Hồi Khí phế phẩm duy nhất… tất cả đều không còn. Hắn bước vào hốc đá này với hai bàn tay trắng, trên người chỉ sót lại bốn vật: mảnh Cửu Huyền Trận đang dính chặt vào thịt bàn tay trái, mẩu khế chưa ký kẹp cứng nơi ống tay áo phải, khối Tam Hệ Lệch Khí Ngọc lạnh ngắt áp trước ngực, và mẩu phế kích rỉ sét cụt đầu vừa vồ vội trước khi rơi xuống.
 
 Không có linh thạch để bổ sung linh lực. Không có đan dược trị thương để nối liền kinh mạch.
 
@@ -226,7 +226,7 @@ Tô Diêu nấp trong một hốc đá nứt nẻ cách trục đường lớn b
 
 Tin tức ở Lan Sa Châu lan truyền nhanh hơn cả bão cát.
 
-Tại trạm dịch bỏ hoang ven đường, tiếng vó ngựa phi nước đại xé toang sự tĩnh lặng của màn đêm. Ánh đuốc đỏ rực rọi sáng một tấm bảng gỗ lớn vừa được cắm phập xuống trước trạm dịch.
+Tại trạm dịch bỏ hoang ven đường, tiếng vó ngựa phi nước đại xé toang sự tĩnh lặng của màn đêm. Ánh đuốc đỏ rực rọi sáng một tấm bảng gỗ lớn vừa được cắm phập xuống trước trạm dịch. Ở góc bảng, bên cạnh mẩu tin phủ bụi nhắc tới phong thanh một tòa bí cảnh chung sắp mở ra ở trung tâm châu phủ mà chẳng mấy ai đoái hoài, tờ lệnh truy nã viền máu đỏ lòm vừa được đóng đinh đanh gọn vào giữa tấm gỗ.
 
 Một giọng nói the thé, lạnh lẽo của người thuộc Thanh Sa Thương Hội vang lên rành rọt:
 
@@ -234,7 +234,7 @@ Một giọng nói the thé, lạnh lẽo của người thuộc Thanh Sa Thươ
 
 — Tô Diêu? Chẳng phải là tên tiểu tử nhặt rác ở Kiến Sa Địa sao? Hắn phạm tội gì mà giá cao thế?
 
-— Ai biết được! Nghe đâu hắn cướp mất bảo vật dưới đáy phế trận của Mạc Lão… Nhìn kìa, bên Sát Thủ Các cũng đã nhận thẻ bài rồi!
+— Ai biết được! Nghe đâu hắn cướp mất bảo vật dưới đáy phế trận của Mạc Lão… Lại có kẻ bảo dạo này phong thanh các thế lực lớn rục rịch gom tài nguyên vì tin đồn bí cảnh chung sắp mở, Mạc Lão phát cuồng lên cũng phải. Nhìn kìa, bên Sát Thủ Các cũng đã nhận thẻ bài rồi!
 
 Xuyên qua bóng tối mịt mùng, ánh mắt Tô Diêu ngưng tụ lại.
 
@@ -265,10 +265,14 @@ Thiếu niên siết chặt mẩu phế kích rỉ sét trong tay áo, bước m
   - Tuyệt đối không Trúc Cơ (linh lực vẫn ở dạng khí nồng đậm, chưa có giọt Linh Dịch nào, không có Trúc Cơ Đan).
   - Không giết Mạc Lão; Mạc Lão chỉ suy nhược nặng do thương tích Kim Đan cũ tái phát kết hợp sụp đổ trận pháp, tiếp tục phát lệnh truy nã gay gắt.
   - Đóng **Beat 9** chuẩn xác: Thoát hiểm khỏi tầng rỗng phế trận bằng đường dẫn nước ngầm; đạt cảnh giới Luyện Khí Viên Mãn; mang theo bí mật về mảnh Cửu Huyền Trận và giá trị tầng dưới.
-  - Cái giá khốc liệt (Pyrrhic victory): Toàn bộ tài nguyên mất sạch (0 linh thạch, túi đồ rơi mất), thương thế nặng nề (gãy xương sườn, kinh mạch tổn thương, thần thức suy kiệt), tam hệ linh căn Hỏa–Kim–Mộc vĩnh viễn bị lệch nhẹ do dung nạp lệch khí và tro tàn mạch yếu ("nuôi tạp căn").
-  - Mẩu khế thành trì (FS-004) vẫn kẹp trong ống tay áo, tuyệt đối chưa ký.
+  - Cái giá khốc liệt (Pyrrhic victory): Toàn bộ tài nguyên mất sạch (0 linh thạch, túi da thú bị chém đứt quai ngoài miệng khe đá sụp rơi mất), thương thế nặng nề (gãy xương sườn, kinh mạch tổn thương, thần thức suy kiệt), tam hệ linh căn Hỏa–Kim–Mộc vĩnh viễn bị lệch nhẹ do dung nạp lệch khí và tro tàn mạch yếu ("nuôi tạp căn").
+  - Bốn vật còn lại trên người (mảnh Cửu Huyền Trận dính tay trái, mẩu khế thành trì kẹp ống tay áo phải chưa ký, nửa khối Tam Hệ Lệch Khí Ngọc nứt vỡ/tiêu hao một phần trước ngực, và mẩu phế kích rỉ sét cụt đầu giắt thắt lưng). Mẩu khế thành trì (FS-004) tuyệt đối chưa ký.
 - **Phục bút (FS-003 & FS-005 handoff sang Beat 10 / Chương 48):**
   - **FS-003 (mầm confirm):** Bóng dáng sát thủ Sát Thủ Các và tai mắt Bách Hóa Đường xuất hiện nơi ngã ba đường đón lõng, xác nhận hợp đồng truy nã và mối nguy hiểm rình rập khi bước về phía thành trì.
-  - **FS-005 (seed nhẹ):** Bối cảnh săn lùng và áp lực tài nguyên đặt tiền đề cho tin đồn bí cảnh chung sắp mở ra ở trung tâm châu phủ (sẽ xuất hiện rõ hơn ở ch.48).
+  - **FS-005 (seed nhẹ):** Mẩu tin bí cảnh chung xuất hiện trên bảng gỗ trạm dịch và lời thì thào của tán tu người qua đường (xem như phong thanh tranh đoạt cơ duyên bình thường, không payoff, tạo tiền đề cho áp lực bối cảnh ở ch.48).
+- **Xử lý review (Mode revise):**
+  - **C-01 (đã xử lý):** Chuẩn hóa cơ chế mất túi khớp chính xác ch.44–45: túi da thú bị chém đứt quai ngoài miệng khe đá sụp, rơi lại phía bên kia cùng Thanh Phong Phi Liên, đĩa Tụ Linh Vi Trận vỡ góc, toàn bộ phù liệu, viên linh thạch hạ phẩm cuối cùng và viên Hồi Khí phế phẩm; xóa bỏ hoàn toàn diễn giải sai «chấn đứt quai rơi mất trong đợt sóng xung kích ở hành lang phía trên».
+  - **C-02 (đã xử lý):** Sửa «ba thứ» thành «bốn vật» khi rơi xuống hốc đá (mảnh Cửu Huyền Trận, mẩu khế chưa ký, khối Tam Hệ Lệch Khí Ngọc, mẩu phế kích rỉ sét), giải quyết dứt điểm mâu thuẫn số lượng liệt kê.
+  - **C-03 (đã xử lý):** Bổ sung seed FS-005 tại đoạn trạm dịch / bảng gỗ với mẩu tin phủ bụi và lời xì xào của tán tu về phong thanh bí cảnh chung sắp mở ra ở trung tâm châu phủ (seed thuần túy, không payoff), hoàn thiện handoff sang Beat 10 / Chương 48.
 - **Tên cần chốt:** Không có thực thể mới cần đặt tên canon; tuân thủ hoàn toàn registry hiện hữu (Tô Diêu, Mạc Lão, Lan Sa Châu, Cửu Huyền Phế Trận, Kiến Sa Địa, Thạch Lam Thành, Thanh Sa Thương Hội, Bách Hóa Đường, Sát Thủ Các, Phương Ngự Hàn).
 - **Móc nối chương 48 (Logic hook):** Tô Diêu mang thân phận bị truy nã và thân thể trọng thương tiến về Thạch Lam Thành (Thạch Lam Ẩn); đối mặt với lưới bẫy của Sát Thủ Các và Bách Hóa Đường, tìm kiếm cơ hội ẩn thân và nguồn Trúc Cơ Đan để giải quyết nguy cơ bạo thể của Luyện Khí Viên Mãn.
