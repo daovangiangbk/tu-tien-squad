@@ -129,7 +129,7 @@ Chấp sự không đáp. Chỉ ghi: *xuống sổ chờ · vì đại cục · 
 
 Mạnh Hải nhìn Tô Diêu — còn đứng trên vỉ đá.
 
-Không phải Lục Thanh Phong. Không mirror wound đủ để hắn lao ra. Chỉ một người **bị bỏ slot** trước mặt, trong khi người khác được **giữ tối thiểu** vì sổ cần một mắt.
+Không phải Lục Thanh Phong. Không đủ giống vết thương cũ để hắn lao ra. Chỉ một người **bị bỏ suất** trước mặt, trong khi người khác được **giữ tối thiểu** vì sổ cần một mắt.
 
 Hắn biết **quen**:
 
@@ -157,7 +157,7 @@ Liên đài phía nam:
 
 — Phong ấn vùng **hết** — ai không mua **mất**! Đừng hỏi ai giữ — hỏi **còn** hay **không**!
 
-Tin vé ảo vẫn lưu hành song song — có kẻ rao *phong ấn giả*, *suất lọt lưới*, *đường hầm vào uyên* — nhưng đợt cuối không cần ảo. Cần **thật**: linh thạch, khế, hoặc **bỏ**. Ai không mua mất suất vào Thiên Sa Công Uyên; ai bán cọc mất suất giữ mạch. Hai thị trường giống monopoly Trúc Cơ Đan ở Bách Hóa — chỉ đổi hàng: đan thành vé, mạch thành cọc. Tin cũng là hàng; hàng có giá thì người nghèo **chỉ** còn thân.
+Tin vé ảo vẫn lưu hành song song — có kẻ rao *phong ấn giả*, *suất lọt lưới*, *đường hầm vào uyên* — nhưng đợt cuối không cần ảo. Cần **thật**: linh thạch, khế, hoặc **bỏ**. Ai không mua mất suất vào Thiên Sa Công Uyên; ai bán cọc mất suất giữ mạch. Hai thị trường giống độc quyền Trúc Cơ Đan ở Bách Hóa — chỉ đổi hàng: đan thành vé, mạch thành cọc. Tin cũng là hàng; hàng có giá thì người nghèo **chỉ** còn thân.
 
 Tô Diêu nghe một tán tu nữ khóc nửa tiếng ở liên đài — không phải vì mất vé, vì mất **chồng** cọc khi chồng bán suất giữ lò để gom thạch cho nàng. Hai cuộc nuốt cùng một nhà. Hắn không quay đầu. Quay đầu không đủ tay giữ mắt.
 
