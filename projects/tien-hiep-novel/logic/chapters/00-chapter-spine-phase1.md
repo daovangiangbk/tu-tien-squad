@@ -65,13 +65,16 @@
 
 ## Transition — Thành Trì Khế (ch. 49–54)
 
-| Dải | Slug block | Mục đích (1–2 câu) | Beat / FS | Status |
-| --- | --- | --- | --- | --- |
-| 49–50 | `thach-lam-vao-thanh` | Vào **Thạch Lam Thành**; luật thành vs ngoài thành; truy nã / nợ | FS-004 ký khế | outline |
-| 51–52 | `bach-hoa-dau-gia` | Bách Hóa phân điếm; đổi loot; đan dược đột phá | FS-009 | outline |
-| 53–54 | `sat-thu-khe` | Hắc thị / Sát Thủ Các; buộc chọn ủy thác mạch phụ | FS-003, 004 | outline |
+> **Beat sheet:** [`arcs/02-transition-beats.md`](../arcs/02-transition-beats.md) · **6 beat** ↔ 6 ch.
 
-*Chi tiết từng chương mở khi bắt đầu viết Transition (sau ~ch. 40 Arc 1 hoặc khi user yêu cầu).*
+| Ch | Slug | Tiêu đề làm việc | Beat | FS (chính) | Status |
+| --- | --- | --- | --- | --- | --- |
+| 49 | `cua-thach-lam` | Cửa Thạch Lam | 1 | FS-009, 003 | outline |
+| 50 | `dan-tren-khe` | Danh Trên Khế | 2 | FS-004 | outline |
+| 51 | `bach-hoa-doi` | Bách Hóa Đổi | 3 | FS-009, 001 | outline |
+| 52 | `monopoly-dot-pha` | Monopoly Đột Phá | 4 | FS-015, 009 | outline |
+| 53 | `hac-thi-sat-thu` | Hắc Thị Sát Thủ | 5 | FS-003, 005 | outline |
+| 54 | `ky-khe-mach` | Ký Khế Mạch | 6 | FS-004, 003 | outline |
 
 ---
 

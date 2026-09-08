@@ -55,6 +55,7 @@ Chi tiết arc: [`arcs/00-arc-master-outline.md`](./arcs/00-arc-master-outline.m
 | --- | --- | --- |
 | **Phase 1 full table** | [`chapters/00-chapter-spine-phase1.md`](./chapters/00-chapter-spine-phase1.md) | Arc 1: **từng chương** (slug + tiêu đề làm việc); Arc T/2/3: **block** + dải ch |
 | **Beat Arc 1** | [`arcs/01-arc1-beats.md`](./arcs/01-arc1-beats.md) | 10 beat ↔ dải ch |
+| **Beat Transition** | [`arcs/02-transition-beats.md`](./arcs/02-transition-beats.md) | 6 beat ↔ ch 49–54 |
 | **Beat Arc 2** | [`arcs/02-arc2-beats.md`](./arcs/02-arc2-beats.md) | 10 beat ↔ ch 55–88 |
 | **Mục lục Interface** | [`../interface/chapters/00-index.md`](../interface/chapters/00-index.md) | Chỉ chương có file hoặc tiêu đề đã chốt |
 

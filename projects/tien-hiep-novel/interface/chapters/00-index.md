@@ -59,7 +59,7 @@
 
 ### Transition — Thành Trì Khế (ch. 49–54)
 
-*Chưa mở prose — block outline trong chapter spine.*
+*Outline Logic — [`02-transition-beats.md`](../../logic/arcs/02-transition-beats.md) · spine ch.49–54. Chưa prose.*
 
 ### Arc 2 — Tranh Mạch Phụ (ch. 55–88)
 

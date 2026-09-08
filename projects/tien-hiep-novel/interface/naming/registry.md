@@ -1,6 +1,6 @@
 # Naming registry — `tien-hiep-novel` (Interface)
 
-> **Phiên bản:** 2026-09-07 · **Phạm vi:** Arc 1 *Phế Địa Tán Tu* + hook thành trì (Arc T).  
+> **Phiên bản:** 2026-09-08 · **Phạm vi:** Arc 1 + **Transition** + Arc 2 *Tranh Mạch Phụ* (naming chốt Logic).  
 > **Neo:** `00-master-brief.md` v2 · `logic/arcs/00-arc-master-outline.md` · `logic/arcs/01-arc1-beats.md` · `foundation/core/00-glossary.md`.  
 > **Quy ước:** Tên riêng **Hán Việt**; thuật ngữ hệ thống giữ glossary; cột *First appearance* = arc / chương ước (beats).  
 > **Vật FS-001:** tên canon **Mảnh Cửu Huyền Trận** (九玄阵残片) — xem § Quy ước gọi vật bên dưới.
@@ -44,7 +44,7 @@
 | **Nhân vật — phụ (Sa Điêu Đổ)** | **Bùi Thạch** (裴石) | Arc 1 / ch 6 | Thiếu niên **nộp danh**, dây xám; nợ thuốc (vạch nợ trên thẻ, không nhầm **dây đỏ** thẻ suất). |
 | **Nhân vật — phụ (Sa Điêu Đổ)** | **Người mắt trắng** *(chưa danh)* | Arc 1 / ch 6 | Giữ sổ / thu phí bảo hộ tại trại; mắt trái màng trắng; vòng đồng cánh chim điêu. |
 | **Nhân vật — phụ (Phi Vân)** | **Kha Tầm** (柯探) | Arc 1 / ch 12–13 | Bán ngọc giản ấn pháp tàn; quầy vá Phi Vân; biết giá thử thần thức. |
-| **Nhân vật — FS hook** | **Khách thuê sát** *(chưa tên)* | Arc 1 / ch 15–20 | Silhouette FS-TBD-003; đặt tên khi lộ phe (Arc 2). |
+| **Nhân vật — FS hook** | **Tống Minh Vi** (宋明微) | Arc 1 silhouette · Arc 2 / ch 53+ | **Khách thuê sát** (**FS-003**); lộ phe Transition / Arc 2 — **không** NC. |
 | **Linh căn — MC** | **Tam Hệ Tạp Linh Căn** (三系杂灵根): **Hỏa · Kim · Mộc** | Arc 1 / ch 1 | Đo pháp khí → **phế căn**; tu chậm; phù/trận hạ hiệu quất lệch (Beat 3). |
 | **Linh căn — ghi chú variant** | *(Logic bridge, chưa gán pool cố định)* | Arc 1 / ch 1, 3 | Khí **phế địa loạn** cộng hưởng Hỏa–Kim–Mộc (Beat 1, 7); tham chiếu pool **Hư Vô Linh Căn** (虚无灵根) — hấp đa hệ chậm, **Cấm địa/phế địa** ×2–3 (`11-thien-phu-ky-nang-an.md` §1), **không** đổi nhãn công khai thành Thiên linh căn. |
 | **Địa lý — vùng** | **Lan Sa Châu** (岚沙洲) | Arc 1 / ch 1 | **Linh khí nghèo**; rìa Hạ Giới; ngoài thành = rừng luật (`02` Luật 3–4). |
@@ -77,6 +77,25 @@
 | **Dược phẩm** | **Bột Liễm Huyết** (敛血散) | Arc 1 / ch 4 | Hứa thị / quầy Phi Vân; che mùi huyết ngoài da; **không** che linh lực; ~2 hạt; có thể dùng **Tàn Linh Sa** làm chất dẫn. → **`03-dan-duoc.md`** § phàm thương mại |
 | **Dược phẩm** | **Bột ngấm thương** *(chưa Hán chốt)* | Arc 1 / ch 2 | Quầy dược Phi Vân; cầm máu ngoài da; rẻ. |
 | **Arc — packaging** | **Phế Địa Tán Tu** (废地散修) | Arc 1 | Tên arc Logic; không đổi. |
+
+---
+
+## Arc 2 + Transition — canon (2026-09-08)
+
+| Category | Canon name (Hán Việt) | First appearance | Notes |
+| --- | --- | --- | --- |
+| **Nhân vật — antagonist xám** | **Tạ Hàm Nguyệt** (谢涵月) | Arc 2 / ch 57+ | Trưởng lão **Kim Đan**, **Thanh Vi Tông**; logic *đại cục*; mirror **Mạc Lão** (**FS-013**). |
+| **Nhân vật — thánh tử phe** | **Tạ Minh Huy** (谢明徽) | Arc 2 / ch 70+ | Đệ tử ưu tú nội bộ; slot mạch được ưu tiên — **không** POV. |
+| **Nhân vật — đồng minh thuê** | **Lục Thanh Phong** (陆清风) | Arc 2 / ch 59–72 | Tán tu **Trúc Cơ**; mirror wound; **chết Beat 5** — bia không tên (**FS-006**). |
+| **Nhân vật — FS-003** | **Tống Minh Vi** (宋明微) | Transition ch 53+ / Arc 2 ch 68 | **Khách thuê sát**; con cháu phe / ủy thác **Sát Thủ Các**; **không** NC. |
+| **Tổ chức — tông** | **Thanh Vi Tông** (青微宗) | Arc 2 / ch 55+ | Tông “Chính danh” tranh **Đan Sa Phụ Mạch**; xám kinh tế. |
+| **Tổ chức — tông đối** | **Huyền Lôi Phái** (玄雷派) | Arc 2 / ch 60+ | Đối thủ vùng; tranh slot mạch phụ. |
+| **Tổ chức — Ma chi nhánh** | **Huyết Sa Đạo** (血沙道) | Arc 2 / ch 81+ | Ma lậu **hút linh** nhánh phế; mirror logic đại cục; hook Arc 3. |
+| **Địa lý — linh mạch** | **Đan Sa Phụ Mạch** (丹砂辅脉) | Transition ch 53+ / Arc 2 | Mạch phụ **#7** vùng; điểm tranh Cấp III (**FS-015**). |
+| **Địa lý — bí cảnh** | **Thiên Sa Công Uyên** (天砂共渊) | Arc 2 / ch 63+ | **Bí cảnh chung** vé hạn; monopoly tin (**FS-005**). |
+| **Địa lý — hắc thị** | **U Ngõ · Thạch Lam** (幽巷) | Transition / ch 53 | Ngõ hắc thị ngoài **Bách Hóa**; **Sát Thủ Các** điếm. |
+| **Arc — packaging** | **Tranh Mạch Phụ** (争脉) | Arc 2 | Tên arc Logic; ch 55–88. |
+| **Arc — packaging** | **Thành Trì Khế** (城契) | Transition | Tên khối Logic; ch 49–54. |
 
 ---
 
@@ -145,6 +164,9 @@
 | **Tô Diêu** | Tại hạ / ta | **Diêu Tử** (tán tu); kẻ lạ: “tiểu tử Kiến Sa”. |
 | **Trần Quy Mạc** | Lão phu | **Mạc Lão**, **Quy Mạc tiền bối** (sắc mặt). |
 | **Phương Ngự Hàn** | Phương mỗi | **Phương huynh** (đội tạm). |
+| **Tạ Hàm Nguyệt** | Lão phu / bản tông | **Tạ trưởng lão**, **Hàm Nguyệt tiền bối**. |
+| **Lục Thanh Phong** | Lục mỗi | **Lục huynh** (đội thuê). |
+| **Tống Minh Vi** | *(ẩn danh qua trung gian)* | **Tống công tử** (hắc thị); **Minh Vi** (Arc 2 lộ một tầng). |
 
 ---
 
@@ -152,7 +174,8 @@
 
 - **`xianxia-prose-writer`:** Dùng chính tả bảng trên; FS-001 = **mảnh Cửu Huyền Trận** (§ Quy ước gọi); chương 1 mở tại **Kiến Sa Địa · Cửu Huyền Phế Trận**, MC **Tô Diêu**; không gọi linh căn là Thiên linh căn.
 - **`foreshadowing-architect`:** FS-001 = **Mảnh Cửu Huyền Trận**; FS-TBD-002 → bia **Cửu Huyền Cổ Phong** / thoại **Mạc Lão**.
-- **`logic/arcs/01-arc1-beats.md`:** Thay placeholder địa danh/phe bằng tên canon cột trên.
+- **`logic/arcs/02-arc2-beats.md`:** Dùng tên canon § Arc 2 + Transition.
+- **`logic/arcs/02-transition-beats.md`:** Thạch Lam, Bách Hóa, **Tống Minh Vi**, **Đan Sa Phụ Mạch**.
 - **Core:** Không ghi tên vào `foundation/core/` (brief §6); variant tạp căn chi tiết chỉ Logic + registry.
 
 ---

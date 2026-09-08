@@ -6,7 +6,7 @@
 > **Task queue agent:** [`status.md`](status.md)
 
 **Lần cập nhật:** 2026-09-08  
-**Session focus:** **Arc 2 beat sheet** (`02-arc2-beats.md`) · spine ch.55–88 outline · ch.1–44 approved draft  
+**Session focus:** Transition beat sheet (ch.49–54) · naming Arc 2 · foreshadow ch band · Arc 2 beats synced  
 **Brief:** v2 · **Trần phase 1:** Trúc Cơ đỉnh phong
 
 ---
@@ -104,13 +104,22 @@
 
 ---
 
-### Transition — Thành Trì Khế · ch. 49–54 · LK VM `[spine]`
+### Transition — Thành Trì Khế · ch. 49–54 · LK VM `[spine + beats]`
 
-| Ch | Block / tiêu đề | Status |
+| Metric | Giá trị |
+| --- | --- |
+| Beat sheet | ✅ [`logic/arcs/02-transition-beats.md`](logic/arcs/02-transition-beats.md) — 6 beat |
+| Spine | ✅ 6/6 dòng outline |
+| Prose | 0 |
+
+| Ch | Tiêu đề | Status |
 | --- | --- | --- |
-| 49–54 | Vào Thạch Lam → Bách Hóa → Sát Thủ / khế | `block` |
-
-*Mở từng chương trong chapter spine khi bắt đầu viết Transition.*
+| 49 | Cửa Thạch Lam | `outline` |
+| 50 | Danh Trên Khế | `outline` |
+| 51 | Bách Hóa Đổi | `outline` |
+| 52 | Monopoly Đột Phá | `outline` |
+| 53 | Hắc Thị Sát Thủ | `outline` |
+| 54 | Ký Khế Mạch | `outline` |
 
 ---
 
@@ -153,7 +162,7 @@
 ```
 Phase 1 [in_progress]
 ├── Arc 1 Phế Địa Tán Tu [prose_partial]  ch 1–33 approved draft · 34–48 outline
-├── Transition Thành Trì Khế [spine]      ch 49–54 block
+├── Transition Thành Trì Khế [spine+beats]  ch 49–54 outline
 ├── Arc 2 Tranh Mạch Phụ [spine+beats]    ch 55–88 outline
 └── Arc 3 Đan Điền Viên Mãn [spine]       ch 89–112 block
 Phase 2 [planned]

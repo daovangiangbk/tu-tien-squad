@@ -8,11 +8,11 @@
 
 ## Handoff từ Transition (ch. 49–54)
 
+Chi tiết: [`02-transition-beats.md`](./02-transition-beats.md).
+
 | Ch block | Mục đích | FS |
 | --- | --- | --- |
-| **49–50** `thach-lam-vao-thanh` | MC vào **Thạch Lam Thành**; luật thành vs ngoài thành; truy nã / nợ từ Arc 1 | **FS-004** ký khế (điều khoản **thế thân** mầm) |
-| **51–52** `bach-hoa-dau-gia` | **Bách Hóa** đổi loot; mua tài nguyên **Trúc Cơ Đan** (monopoly); **Tam Hệ Lệch Khí Ngọc** được thẩm | **FS-009**, **FS-001** nurture |
-| **53–54** `sat-thu-khe` | **Sát Thủ Các** / hắc thị: buộc chọn **ủy thác bảo vệ mạch phụ** — không vào = trục xuất + truy | **FS-003** confirm phe; **FS-005** tin bí cảnh chung nhắc |
+| **49–54** | Thạch Lam → Bách Hóa → **U Ngõ** / Sát Thủ → ký khế **Đan Sa Phụ Mạch** | **FS-004** ký; **FS-003** **Tống Minh Vi**; **FS-005** tin **Thiên Sa Công Uyên** |
 
 **Trạng thái MC vào Arc 2:** LK **Viên Mãn** (ch.47); mang **Mảnh Cửu Huyền Trận**, **Tam Hệ Lệch Khí Ngọc**, mẩu khế đã ký (**FS-004**); **wound** + **Tâm ma mầm** (ch.33); **Phương Ngự Hàn** distrust; **người áo tro** không còn tin.
 
@@ -22,14 +22,14 @@
 
 | # | Beat (tóm tắt) | Chương (ước) | Inciting / Mid / Lost / Climax | FS plant / payoff |
 | --- | --- | --- | --- | --- |
-| **1** | **Thuê vào tranh mạch** — MC ký **hợp đồng thuê** (khế thành + Sát Thủ Các) bảo vệ **mạch phụ #7** *(placeholder: **Đan Sa Phụ Mạch**)* cho phe trung gian; **trưởng lão Kim Đan** *(placeholder: **Tạ Hàm Nguyệt** · Thanh Vi Tông)* đặt luật: tán tu = **mảnh ghép**, không có tên trên bia. MC nhận **Trúc Cơ Đan** (mua/đổi — monopoly Bách Hóa). | **55–58** | **Inciting (arc)**; thiết lập stakes III | **FS-004** “cắn”; **FS-009** Trúc Cơ Đan = hàng; **FS-003** khách thuê sát ở hậu trường |
-| **2** | **Mảnh ghép & đột phá Sơ** — MC làm **trận phụ / trinh sát** (đa nghề); phe đối **Huyền Lôi Phái** + gia tộc nhỏ tranh slot; MC **ép Trúc Cơ Sơ** giữa tranh chấp (trade-off thần thức + **mảnh trận** hỗ trợ một nhịp — không vượt luật). **Tạ Hàm Nguyệt** nói *“vì đại cục”* — tone khác wound MC. | **59–62** | Tích lũy + **breakthrough Sơ**; cliff block 2A: slot tưởng an toàn | **FS-002** nurture; **FS-012** tối ưu đa nghề; **FS-001** mang vào mạch phụ |
-| **3** | **Monopoly tin — bí cảnh chung** — Giữa tranh mạch, tin **bí cảnh chung** sắp mở (vé hạn); **Thanh Sa / Bách Hóa** bán vé; MC thấy ai **monopolize phong ấn** (chưa lộ danh). Midpoint setup: tranh mạch **và** tranh vé song song. | **63–66** | **Midpoint setup** | **FS-005** nurture đầy; **FS-015** mạch phụ liên Cửu Huyền |
-| **4** | **Phí Sát Thủ** — **Khách thuê sát** *(đặt tên Arc 2)* lộ một tầng: không phải NC — **con cháu / thánh tử** phe cần mạch; trả **phí Sát Thủ Các** để dọn tán tu. MC **không** bị truy trực tiếp nhưng đồng đội thuê khác chết — distrust **FS-016** echo. | **67–69** | Escalation; **Cường giả vi tôn** đóng gói hợp đồng | **FS-003** payoff một tầng (phe & stakes); **FS-016** nurture |
-| **5** | **Wound đâm — hy sinh “đại cục”** — MC bảo vệ **đồng minh thuê mới** *(placeholder: **Lục Thanh Phong** · tán tu Trúc Cơ, mirror wound)*; phe / trưởng lão **cố ý** bỏ slot để giữ mạch cho **thánh tử**; Lục chết *“vì đại cục”* — **bia tông không ghi tên** (chỉ số hiệu). MC **có thể** trả thù xám (lấy manh mối / slot) hoặc rút — không heal wound. | **70–72** | **Midpoint twist / All is lost (arc)**; Arc **bắt buộc** đau §3.1 | **FS-006** **payoff** bia; **FS-014** đâm; **FS-011** ép Hữu vs Vô lần 2 |
+| **1** | **Thuê vào tranh mạch** — MC ký **hợp đồng thuê** (khế thành + Sát Thủ Các) bảo vệ **Đan Sa Phụ Mạch** cho phe trung gian; **Tạ Hàm Nguyệt** (**Thanh Vi Tông**) đặt luật: tán tu = **mảnh ghép**, không có tên trên bia. MC nhận **Trúc Cơ Đan** (mua/đổi — monopoly Bách Hóa). | **55–58** | **Inciting (arc)**; thiết lập stakes III | **FS-004** “cắn”; **FS-009** Trúc Cơ Đan = hàng; **FS-003** **Tống Minh Vi** ở hậu trường |
+| **2** | **Mảnh ghép & đột phá Sơ** — MC làm **trận phụ / trinh sát** (đa nghề); **Huyền Lôi Phái** + gia tộc nhỏ tranh slot; MC **ép Trúc Cơ Sơ** giữa tranh chấp (trade-off thần thức + **mảnh trận** hỗ trợ một nhịp — không vượt luật). **Tạ Hàm Nguyệt** nói *“vì đại cục”* — tone khác wound MC. | **59–62** | Tích lũy + **breakthrough Sơ**; cliff block 2A: slot tưởng an toàn | **FS-002** nurture; **FS-012** tối ưu đa nghề; **FS-001** mang vào mạch phụ |
+| **3** | **Monopoly tin — bí cảnh chung** — Giữa tranh mạch, tin **Thiên Sa Công Uyên** sắp mở (vé hạn); **Thanh Sa / Bách Hóa** bán vé; MC thấy ai **monopolize phong ấn** (chưa lộ danh). Midpoint setup: tranh mạch **và** tranh vé song song. | **63–66** | **Midpoint setup** | **FS-005** nurture đầy; **FS-015** mạch phụ liên Cửu Huyền |
+| **4** | **Phí Sát Thủ** — **Tống Minh Vi** lộ một tầng: không phải NC — **con cháu / thánh tử** phe cần mạch; trả **phí Sát Thủ Các** để dọn tán tu. MC **không** bị truy trực tiếp nhưng đồng đội thuê khác chết — distrust **FS-016** echo. | **67–69** | Escalation; **Cường giả vi tôn** đóng gói hợp đồng | **FS-003** payoff một tầng (phe & stakes); **FS-016** nurture |
+| **5** | **Wound đâm — hy sinh “đại cục”** — MC bảo vệ **Lục Thanh Phong** (tán tu Trúc Cơ, mirror wound); phe / **Tạ Hàm Nguyệt** **cố ý** bỏ slot để giữ mạch cho **Tạ Minh Huy**; Lục chết *“vì đại cục”* — **bia tông không ghi tên** (chỉ số hiệu). MC **có thể** trả thù xám (lấy manh mối / slot) hoặc rút — không heal wound. | **70–72** | **Midpoint twist / All is lost (arc)**; Arc **bắt buộc** đau §3.1 | **FS-006** **payoff** bia; **FS-014** đâm; **FS-011** ép Hữu vs Vô lần 2 |
 | **6** | **Hậu quan & Trúc Cơ Trung** — Hỗn loạn chính trị; MC **ổn Trúc Cơ Trung** (không nhẹ nhàng — hao tài nguyên); **Phương Ngự Hàn** có thể xuất hiện ngắn (tin sai / đúng một nửa) — không reconciliation. **Tạ Hàm Nguyệt** không cười ác: giải thích **logic đại cục** (mirror Mạc Lão tầng cao). | **73–76** | Recovery; leo cảnh giới **có giá** | **FS-010** quả tích lũy mầm; **FS-013** mirror trưởng lão |
 | **7** | **Mạch phụ đoạn nhánh** — Tranh chấp leo thang; **một nhánh mạch phụ bị cắt** (trận / Kim Đan một đòn); vùng khí **sụt** — Nhân-Quả vùng mầm; MC thấy **phế địa cục bộ** sinh ra từ “đại cục”. | **77–80** | **Climax setup** block 2C | **FS-010** nurture; **FS-015** payoff một tầng (không ai phong ấn) |
-| **8** | **Ma lậu hút linh** — **Ma đường lậu** *(placeholder phe: **Huyết Sa Đạo** · chi nhánh vùng)* lộ: **hút linh** nhánh phế để “cứu vùng ngắn hạn”; leader **không** cười ác — logic giống trưởng lão. MC **không** gia nhập; chỉ thấy **shortcut** và giá Nghiệp mầm. | **81–84** | Antagonist mirror; theme xám Ma vs Chính | **FS-002** *Nghịch/Thuận* từ góc Ma; hook Arc 3 shortcut |
+| **8** | **Ma lậu hút linh** — **Huyết Sa Đạo** (chi nhánh vùng) lộ: **hút linh** nhánh phế để “cứu vùng ngắn hạn”; leader **không** cười ác — logic giống trưởng lão. MC **không** gia nhập; chỉ thấy **shortcut** và giá Nghiệp mầm. | **81–84** | Antagonist mirror; theme xám Ma vs Chính | **FS-002** *Nghịch/Thuận* từ góc Ma; hook Arc 3 shortcut |
 | **9** | **Linh Dịch lệch** — Sau stress đột phá + mạch đoạn, MC **Linh Dịch không đồng điệu** (tạp căn + ngọc lệch + mảnh trận); không ổn định — cần **đan sư** hoặc **phương lậu**. **Không** power creep: đa nghề **trade-off** tăng (hao thần). | **85–87** | **All is lost (kỹ thuật)** hướng Arc 3 | **FS-007** **plant**; **FS-012** payoff một tầng |
 | **10** | **Cliffhanger → Arc 3** — Tin **đan sư lậu phương** / hiệp hội đan; MC mang Linh Dịch lệch **vào thành**; **bí cảnh chung** vé sắp mở — camera: **đan dược** trên bàn đấu giá, MC **không đủ tiền** mua cách chữa. | **88** | **Hệ quả sang Arc 3** | **FS-005** treo; **FS-007** mở; **FS-008** chưa plant |
 
@@ -46,17 +46,19 @@
 
 ---
 
-## Xung đột & thế lực (placeholder naming — chốt registry Arc 2)
+## Xung đột & thế lực (canon — `interface/naming/registry.md`)
 
 | Thực thể | Vai trò Logic | Ghi chú |
 | --- | --- | --- |
 | **Tạ Hàm Nguyệt** (谢涵月) · Trưởng lão Kim Đan | Antagonist xám chính; từng bỏ phế địa giữ mạch thánh tử | Mirror **Mạc Lão** + **FS-013** |
-| **Thanh Vi Tông** (青微宗) | Tông “Chính danh” tranh mạch phụ #7 | Không thuần ác |
+| **Thanh Vi Tông** (青微宗) | Tông “Chính danh” tranh **Đan Sa Phụ Mạch** | Không thuần ác |
 | **Huyền Lôi Phái** (玄雷派) | Đối thủ tông vùng | Stakes tranh slot |
 | **Đan Sa Phụ Mạch** (丹砂辅脉) | Mạch phụ #7 — điểm tranh III | Liên **FS-015** |
 | **Lục Thanh Phong** (陆清风) | Đồng minh thuê; **chết Beat 5** — bia không tên | Payoff **FS-006** |
-| **Khách thuê sát** *(tên chốt Beat 4)* | FS-003; con cháu / thánh tử phe | **Không** NC |
+| **Tống Minh Vi** (宋明微) | **Khách thuê sát** (**FS-003**); ủy thác Sát Thủ Các | **Không** NC |
+| **Tạ Minh Huy** (谢明徽) | Thánh tử / slot được ưu tiên | Không POV |
 | **Huyết Sa Đạo** (血沙道) · chi nhánh | Ma lậu hút linh; mirror logic đại cục | Hook Arc 3 |
+| **Thiên Sa Công Uyên** (天砂共渊) | Bí cảnh chung vé hạn | **FS-005** |
 
 ---
 
@@ -86,7 +88,7 @@
 
 | Agent / artifact | Việc tiếp |
 | --- | --- |
-| **xianxia-naming-specialist** | Chốt tên cột placeholder § Xung đột; **Khách thuê sát**; đan sư Arc 3 |
+| **xianxia-naming-specialist** | ✅ Chốt § Arc 2 + Transition trong `registry.md` (2026-09-08) |
 | **foreshadowing-architect** | Cập nhật ledger: **FS-006** payoff ch band 70–72; **FS-007** plant 85–87; gán ch Transition 49–54 khi viết |
 | **project-orchestrator** | Mở dòng spine **từng chương** 55–88 khi sắp prose Transition; sync `00-progress-map.md` |
 | **xianxia-prose-writer** | Không viết Arc 2 prose trước khi Transition + naming Arc 2 chốt (khuyến nghị) |

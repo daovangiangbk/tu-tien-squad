@@ -7,8 +7,8 @@
 
 ## Snapshot
 
-- **Phase:** Arc 1 prose — **ch.1–44 approved draft** · **Arc 2 Logic outline** (`02-arc2-beats.md` + spine ch.55–88)
-- **Session:** Arc 2 beat sheet — 10 beat, placeholder naming, FS map
+- **Phase:** Arc 1 prose ch.1–44 · **Transition + Arc 2 Logic** (beats, naming, FS ch band)
+- **Session:** Transition beat sheet · registry Arc 2 · foreshadow ledger sync
 - **Blockers:** Không
 - **Human gate (session):** User pre-approve — sau mỗi review: nếu **suggest_pass** / không `critical`, coi **approved draft** (bỏ qua revise trừ ID critical); nếu có critical → revise rồi r2 như workflow
 
