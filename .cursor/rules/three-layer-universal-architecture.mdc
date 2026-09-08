@@ -1,0 +1,29 @@
+---
+description: Khung kiến trúc 3 lớp tổng quát (Foundation / Logic / Interface)
+alwaysApply: true
+---
+
+# 3-Layer Universal Architecture
+
+Rút gọn mọi hệ thống phức tạp thành **3 lớp phi-ngành**. Luồng: **Interface → Logic → Foundation** (yêu cầu xuống); **Foundation → Logic → Interface** (giá trị lên).
+
+| Lớp | Bản chất | Vai trò |
+| --- | --- | --- |
+| **Interface (Tiếp xúc)** | Cái thấy được — điểm chạm | Nhận input / trả output; che phức tạp; bảo vệ lớp trong |
+| **Logic (Điều phối)** | Cái nghĩ/làm — quy trình | Biến đổi yêu cầu; lọc & điều hướng; **không** cho tác động ngoài chạm thẳng Foundation |
+| **Foundation (Nền tảng)** | Cái làm gốc — hạ tầng | Giá trị/dữ liệu/quy tắc cốt lõi; biến động thấp; định nghĩa giới hạn không vi phạm |
+
+## Nguyên tắc khi thiết kế hoặc review
+
+1. **Foundation trước:** Chốt quy tắc, tài nguyên gốc, invariant trước khi thêm logic hay UI/API.
+2. **Logic là màng lọc:** Mọi đọc/ghi Foundation đi qua Logic; Interface không bypass.
+3. **Interface mỏng:** Chỉ presentation, validation sơ bộ, mapping — không nhét business rule cốt lõi.
+4. **Phụ thuộc một chiều:** Interface → Logic → Foundation; Foundation không import Interface.
+
+## Ví dụ mapping nhanh
+
+- **Phần mềm:** UI/API → Service/Domain → DB/Config/Core entities
+- **Tổ chức:** Khách hàng/Công chúng → Quy trình/Vận hành → Văn hóa/Luật/TC nội bộ
+- **Sáng tác dài:** Văn phong & chương (Interface) ← Cốt truyện & xung đột (Logic) ← Triết lý & luật thế giới (Foundation)
+
+Khi agent đề xuất cấu trúc mới, gắn nhãn từng phần vào một lớp và báo nếu vi phạm hướng phụ thuộc hoặc thiếu lớp Nền tảng.

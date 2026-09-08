@@ -1,0 +1,121 @@
+# Chapter spine — Phase 1
+
+> **Neo:** [`00-story-spine.md`](../00-story-spine.md) · [`arcs/00-arc-master-outline.md`](../arcs/00-arc-master-outline.md) · [`arcs/01-arc1-beats.md`](../arcs/01-arc1-beats.md)  
+> **Quy ước file prose:** `interface/chapters/chapter-{NN}-{slug}.md` (NN = 2 chữ số)  
+> **Cập nhật:** 2026-09-07 — orchestrator thiết lập xương sống trước chi tiết prose.
+
+---
+
+## Arc 1 — Phế Địa Tán Tu (ch. 1–48)
+
+| Ch | Slug | Tiêu đề làm việc | Beat | FS (plant chính) | Status | File |
+| --- | --- | --- | --- | --- | --- | --- |
+| 01 | `kien-sa` | Kiến Sa | 1 | FS-001, 002, 012, 014 | **approved draft** | `chapter-01-kien-sa.md` |
+| 02 | `thuan-thien-tan` | Thuận Thiên Tàn | 1 | FS-002 | **approved draft** | `chapter-02-thuan-thien-tan.md` |
+| 03 | `tam-he-huyet` | Tam Hệ Huyết | 1 | FS-012 | **approved draft** | `chapter-03-tam-he-huyet.md` |
+| 04 | `phi-van-tap` | Phi Vân Tập | 2 | FS-009 | **approved draft** | `chapter-04-phi-van-tap.md` |
+| 05 | `sa-dieu-do` | Sa Điêu Đổ | 2 | FS-013 | **approved draft** | `chapter-05-sa-dieu-do.md` |
+| 06 | `bao-ho-phi` | Bảo Hộ Phí | 2 | FS-009, 013 | **approved draft** | `chapter-06-bao-ho-phi.md` |
+| 07 | `san-yeu-ha` | Săn Yêu Hạ | 2 | FS-009 *(nuôi)* | **approved draft** | `chapter-07-san-yeu-ha.md` |
+| 08 | `linh-thach-dem` | Linh Thạch Đếm | 2 | FS-009, 012 *(mầm)* | **approved draft** | `chapter-08-linh-thach-dem.md` |
+| 09 | `an-phap-so` | Ấn Pháp Sơ | 3 | FS-012 | **approved draft** | `chapter-09-an-phap-so.md` |
+| 10 | `yeu-dan-doi` | Yêu Đan Đổi | 3 | — | **approved draft** | `chapter-10-yeu-dan-doi.md` |
+| 11 | `ho-than-phu` | Hộ Thân Phù | 3 | FS-001 | **approved draft** | `chapter-11-ho-than-phu.md` |
+| 12 | `da-hanh-lech` | Đa Hành Lệch | 3 | FS-012 | **approved draft** | `chapter-12-da-hanh-lech.md` |
+| 13 | `than-thuc-moi` | Thần Thức Mỏi | 3 | — | **approved draft** | `chapter-13-than-thuc-moi.md` |
+| 14 | `manh-cuu-huyen-tran` | Mảnh Cửu Huyền Trận | 3 | FS-001 | **approved draft** | `chapter-14-manh-cuu-huyen-tran.md` |
+| 15 | `linh-sa-uyen-tin` | Linh Sa Uyên Tin | 4 | FS-009, 003 | **approved draft** | `chapter-15-linh-sa-uyen-tin.md` |
+| 16 | `thanh-sa-gia` | Thanh Sa Giá | 4 | — | **approved draft** | `chapter-16-thanh-sa-gia.md` |
+| 17 | `hop-doi-lenh` | Hợp Đội Lệnh | 4 | — | **approved draft** | `chapter-17-hop-doi-lenh.md` |
+| 18 | `phuong-ngu-han` | Phương Ngự Hàn | 4 | — | **approved draft** | `chapter-18-phuong-ngu-han.md` |
+| 19 | `toa-do-mua` | Tọa Độ Mua | 4 | FS-003 | **approved draft** | `chapter-19-toa-do-mua.md` |
+| 20 | `vao-uyen` | Vào Uyên | 4 | — | **approved draft** | `chapter-20-vao-uyen.md` |
+| 21 | `tran-slot` | Tranh Suất | 5 | — | **approved draft** | `chapter-21-tran-slot.md` |
+| 22 | `phong-buoc` | Phong Bộc | 5 | — | **approved draft** | `chapter-22-phong-buoc.md` |
+| 23 | `thanh-phong-lien` | Thanh Phong Liên | 5 | — | **approved draft** | `chapter-23-thanh-phong-lien.md` |
+| 24 | `vong-vay` | Vòng Vây | 5 | — | **approved draft** | `chapter-24-vong-vay.md` |
+| 25 | `dao-keo` | Đảo Kèo | 5 | FS-016 | **approved draft** | `chapter-25-dao-keo.md` |
+| 26 | `mat-tin` | Mất Tin | 5 | FS-016 | **approved draft** | `chapter-26-mat-tin.md` |
+| 27 | `loot-chia` | Lượt Chia | 5 | — | **approved draft** | `chapter-27-loot-chia.md` |
+| 28 | `ra-uyen` | Ra Uyên | 5 | — | **approved draft** | `chapter-28-ra-uyen.md` |
+| 29 | `moi-yeu` | Mồi Yêu | 6 | FS-011 | **approved draft** | `chapter-29-moi-yeu.md` |
+| 30 | `cuu-hay-khong` | Cứu Hay Không | 6 | FS-011, 010 | **approved draft** | `chapter-30-cuu-hay-khong.md` |
+| 31 | `huu-tinh-gia` | Hữu Tình Giá | 6 | FS-010, 006 | **approved draft** | `chapter-31-huu-tinh-gia.md` |
+| 32 | `mat-loi` | Mất Lối | 6 | FS-010 | **approved draft** | `chapter-32-mat-loi.md` |
+| 33 | `tam-ma-mam` | Tâm Ma Mầm | 6 | FS-006 | **approved draft** | `chapter-33-tam-ma-mam.md` |
+| 34 | `ve-phe-dia` | Về Phế Địa | 7 | — | **approved draft** | `chapter-34-ve-phe-dia.md` |
+| 35 | `tu-linh-vi-tran` | Tụ Linh Vi Trận | 7 | — | **approved draft** | `chapter-35-tu-linh-vi-tran.md` |
+| 36 | `lk-that-cuu` | LK Thất Cửu | 7 | — | **approved draft** | `chapter-36-lk-that-cuu.md` |
+| 37 | `mac-lao-mat` | Mạc Lão Mắt | 7 | FS-002, 013 | **approved draft** | `chapter-37-mac-lao-mat.md` |
+| 38 | `nghich-thien-mi` | Nghịch Thiên Mi | 7 | FS-002 | **approved draft** | `chapter-38-nghich-thien-mi.md` |
+| 39 | `gia-tri-khai-thac` | Giá Trị Khai Thác | 7 | FS-013 | **approved draft** | `chapter-39-gia-tri-khai-thac.md` |
+| 40 | `tran-rung` | Trận Rung | 8 | FS-015 | **approved draft** | `chapter-40-tran-rung.md` |
+| 41 | `lop-duoi` | Lớp Dưới | 8 | FS-015 | **approved draft** | `chapter-41-lop-duoi.md` |
+| 42 | `lech-khi-ngoc` | Lệch Khí Ngọc | 8 | — | **approved draft** | `chapter-42-lech-khi-ngoc.md` |
+| 43 | `khe-chua-ky` | Khế Chưa Ký | 8 | FS-004 | **approved draft** | `chapter-43-khe-chua-ky.md` |
+| 44 | `ban-tin` | Bán Tin | 8 | FS-016, 004 | **approved draft** · **Beat 8 đóng** | `chapter-44-ban-tin.md` |
+| 45 | `ep-cong` | Ép Công | 9 | FS-001 | outline | — |
+| 46 | `tran-tan-mot-nhip` | Trận Tàn Một Nhịp | 9 | FS-001 | outline | — |
+| 47 | `lk-vien-man` | LK Viên Mãn | 9 | — | outline | — |
+| 48 | `thach-lam-an` | Thạch Lam Ẩn | 10 | FS-003, 005, 009 | outline | — |
+
+**Ghi chú Arc 1:** Tiêu đề làm việc — đổi khi prose chốt; slug ổn định trừ khi ticket đổi tên file.
+
+---
+
+## Transition — Thành Trì Khế (ch. 49–54)
+
+| Dải | Slug block | Mục đích (1–2 câu) | Beat / FS | Status |
+| --- | --- | --- | --- | --- |
+| 49–50 | `thach-lam-vao-thanh` | Vào **Thạch Lam Thành**; luật thành vs ngoài thành; truy nã / nợ | FS-004 ký khế | outline |
+| 51–52 | `bach-hoa-dau-gia` | Bách Hóa phân điếm; đổi loot; đan dược đột phá | FS-009 | outline |
+| 53–54 | `sat-thu-khe` | Hắc thị / Sát Thủ Các; buộc chọn ủy thác mạch phụ | FS-003, 004 | outline |
+
+*Chi tiết từng chương mở khi bắt đầu viết Transition (sau ~ch. 40 Arc 1 hoặc khi user yêu cầu).*
+
+---
+
+## Arc 2 — Tranh Mạch Phụ (ch. 55–88)
+
+| Block | Ch ước | Cảnh giới | Cốt lõi block | Cliffhanger block |
+| --- | --- | --- | --- | --- |
+| **2A** | 55–62 | Trúc Cơ đột phá Sơ | Thuê tranh **mạch phụ**; MC mảnh ghép; trưởng lão Kim Đan xám | Slot mạch tưởng an toàn |
+| **2B** | 63–72 | Trúc Cơ Trung ổn | Bí cảnh chung vé; phí Sát Thủ; **wound đâm** — hy sinh “đại cục” | FS-006 payoff bia |
+| **2C** | 73–88 | Trúc Cơ Trung–Hậu | Mạch phụ đoạn nhánh; Ma lậu hút linh; Linh Dịch lệch | Cần đan sư / phương lậu |
+
+---
+
+## Arc 3 — Đan Điền Viên Mãn (ch. 89–112)
+
+| Block | Ch ước | Cảnh giới | Cốt lõi block | Kết phase 1 |
+| --- | --- | --- | --- | --- |
+| **3A** | 89–98 | Trúc Cơ Hậu | Hiệp hội đan; gian lận cống hiến; đa nghề tối ưu | — |
+| **3B** | 99–106 | Trúc Cơ VM hướng | Shortcut Ma vs chậm; phế địa leo III | FS-007 mầm |
+| **3C** | 107–112 | **Đại Viên Mãn** | Tâm ma mầm; tin bí cảnh chung | FS-008 seed; Phase 2 stub |
+
+---
+
+## Tổng hợp số chương
+
+| Khối | Ch từ–đến | Số ch (ước) |
+| --- | --- | --- |
+| Arc 1 | 1–48 | 48 |
+| Transition | 49–54 | 6 |
+| Arc 2 | 55–88 | 34 |
+| Arc 3 | 89–112 | 24 |
+| **Tổng** | 1–112 | **112** |
+
+*(Có thể rút về ~96 bằng gộp Transition vào Arc 2 — xem [`00-story-spine.md`](../00-story-spine.md).)*
+
+---
+
+## Checklist trước khi viết prose chương N
+
+- [ ] Dòng **Ch N** tồn tại ở bảng Arc 1 (hoặc block đã mở chi tiết).
+- [ ] Beat + FS ledger khớp cột FS.
+- [ ] Naming registry có thực thể mới (nếu có).
+- [ ] Cập nhật `interface/chapters/00-index.md` khi `draft`.
+
+---
+
+*Chapter spine v1 — project-orchestrator — 2026-09-07.*

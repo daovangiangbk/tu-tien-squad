@@ -1,0 +1,34 @@
+---
+description: Kiến trúc 3 lớp cho tiểu thuyết tiên hiệp/kỳ ảo đỉnh cao
+alwaysApply: true
+---
+
+# 3-Layer Architecture — Tiên hiệp / Kỳ ảo
+
+Áp dụng khung 3 lớp cho sáng tác epic (tham chiếu phong cách Tru Tiên: triết lý xám, bi kịch, phục bút dài hơi).
+
+## Lớp Nền tảng — Tư tưởng & quy luật thế giới (viết/sửa trước)
+
+- **Theme:** 1–2 xung đột tư tưởng xuyên suốt (vd. Chính–Tà không đơn sắc, Thiên mệnh–Ý chí, hi sinh đại nghĩa–tình cá nhân).
+- **World rules:** Hệ tu luyện (nguồn lực, cấp bậc, **cái giá**); ranh giới Thần/Ma/Linh khí; lịch sử & tôn chỉ từng thế lực (không phe thuần ác/tốt).
+- **Nhân vật gốc:** Bản chất + bi kịch gốc MC; đối lập/sóng đôi có động cơ hợp lý (Ma giáo hi sinh, Chính đạo mâu thuẫn nội tâm).
+
+## Lớp Điều phối — Mạch truyện & kịch tính
+
+- **Arcs (4–5 đại cục):** Nhập môn/tích lũy → bi kịch & bước ngoặt → sa ngã/khám bí mật → đại kết (giải quan hệ + theme).
+- **Conflict engine:** Nội tâm (tình–môn phái/sứ mệnh); thế lực (âm mưu, gián điệp); pacing + **foreshadowing** (manh mối chương đầu → payoff hàng trăm chương sau).
+- **Quan hệ:** Tam giác tình, Sư–Đồ, Huynh–Đệ — ràng buộc cảm xúc **và** lợi ích.
+
+## Lớp Tiếp xúc — Câu chữ & trải nghiệm độc giả
+
+- **Văn phong:** Cổ phong, trầm buồn; **tình cảnh tương sinh**; nhịp câu dồn (giao tranh) / sâu lắng (sinh ly, nội tâm).
+- **Phân cảnh:** Chiến — uy áp, thần khí, hủy hoại môi trường, tâm lý; cảm xúc — vài **iconic moment** có thể nhớ lâu.
+- **Packaging:** Tên chương/pháp bảo/môn phái Hán Việt cổ kính; **cliffhanger** cuối chương (câu hỏi hoặc tình huống dở).
+
+## Checklist trước khi viết chương mới
+
+| Đã có ở Foundation? | Đã khớp Logic? | Interface |
+| --- | --- | --- |
+| Scene không vi phạm luật tu luyện / theme | Arc & foreshadowing được đẩy hoặc gài thêm | Văn phong + cảnh + hook cuối chương |
+
+Khi outline, sửa chương, hay bổ sung lore: **Foundation → Logic → Interface**. Cảnh hay mà thiếu luật/thu phí → bổ sung Core; twist mà chưa cài mầm → thêm Logic trước khi polish prose.

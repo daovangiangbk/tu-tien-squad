@@ -1,0 +1,39 @@
+---
+description: Chỉnh sửa prose theo ý user — hiểu intent, không chép mô tả; tuân quy tắc tổng thể
+alwaysApply: true
+---
+
+# Chỉnh sửa theo ý user
+
+Khi user yêu cầu sửa đoạn (kèm ý nghĩa, cách hiểu, cách diễn đạt mong muốn), agent **thực hiện trong prose**, không lặp lại brief của user trong chat thay cho việc sửa file.
+
+## Trước khi sửa
+
+- Đối chiếu **quy tắc tổng thể**: ngôn ngữ tiên hiệp, 3 lớp, naming/registry, POV/văn phong arc, luật thế giới.
+- Nếu yêu cầu **mâu thuẫn** canon hoặc rule (vd. vi phạm glossary, đổi giọng MC, tiếng Anh trong chương): **nói rõ** và đề xuất cách đạt ý user mà vẫn hợp lệ; không âm thầm phá canon.
+
+## Intent → hành văn (không chép brief)
+
+| User nói (brief) | Không đưa vào chương | Nên làm |
+| --- | --- | --- |
+| «Chuyên nghiệp / dứt khoát / nhanh» | Nhãn, giải thích, «một nhịp:», «thao tác quen» | Động từ ngắn, ít từ thừa, hành động nối liền |
+| Logic hiển nhiên | «Lòng bàn ngửa» khi đã «đưa tay / thả hạt vào» | Bỏ câu giải thích; giữ đủ để đọc hiểu |
+| Cấu trúc ý (câu 1… câu 2…) | Copy nguyên gạch đầu dòng user | Tách **2–3 câu prose** đúng nhịp, cùng ý |
+| Thuật ngữ / canon user chốt | Diễn giải dài trong ngoặc | Gọi đúng tên registry; câu gãy gọn |
+
+**Nguyên tắc:** User mô tả **kết quả đọc** (cảm giác, thứ tự sự kiện, điều cần tránh); agent viết **cảnh trong thế giới truyện**, không meta-hướng dẫn cho độc giả.
+
+## Ví dụ (cùng repo)
+
+```markdown
+❌ Hắn kiểm tra linh thạch một cách chuyên nghiệp và dứt khoát.
+✅ Hắn ghim lên ngọn đèn treo, soi u quang, thu vào túi bên hông.
+
+❌ Hứa Bình đưa tay, lòng bàn ngửa sẵn để nhận hạt.
+✅ Hứa Bình đưa tay. Tô Diêu thả một hạt linh thạch vào — hạt trượt chạm nhẫn đồng, kêu một tiếng thanh, khẽ.
+```
+
+## Phạm vi file
+
+- Ưu tiên: `projects/**/interface/chapters/**`, outline/beat có thoại mô tả.
+- Registry / Foundation: sửa **quy ước** ngắn gọn; không nhét prose chương vào Core.

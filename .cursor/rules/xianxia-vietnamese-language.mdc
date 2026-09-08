@@ -1,0 +1,28 @@
+---
+description: Ngôn ngữ tiểu thuyết — không tiếng Anh; Hán Nôm/Hán Việt; giữ văn phong hiện tại
+alwaysApply: true
+---
+
+# Ngôn ngữ — Tiên hiệp (Interface & sáng tác)
+
+## Tuyệt đối không tiếng Anh
+
+- **Chương truyện** (`projects/**/interface/chapters/**`), hội thoại, độc thoại, mô tả cảnh: **không** từ/câu tiếng Anh (kể cả slang, OK, skill, level…).
+- **Naming canon** (`interface/naming/registry.md`), tiêu đề chương, thoại trong outline/beat: tiếng Việt + **Hán Việt** theo glossary; không romanization kiểu Zhang/Wang trừ khi user yêu cầu.
+- **Ngoại lệ kỹ thuật repo:** slug file (`chapter-01-kien-sa`), `work_slug`, đường dẫn, ID agent/task trong `status.md` — giữ nguyên; **không** đưa vào prose chương.
+
+## Ưu tiên Hán Nôm / Hán Việt khi thuận tiện
+
+- Thuật ngữ tu tiên, địa danh, nhân vật, công pháp, pháp bảo: **Hán Việt cổ kính** — tham chiếu `foundation/core/00-glossary.md` và `interface/naming/registry.md`.
+- Khi canon đã có **chữ Hán** trong registry (vd. 苏遥), có thể ghi **một lần** kèm tên Việt ở lần xuất hiện đầu hoặc trong registry; prose ưu tiên **Tô Diêu**, không lạm dụng chữ Hán trên từng câu.
+- Tránh phiên âm Anh hoá (pinyin không dấu trong truyện).
+
+## Văn phong
+
+- **Giữ nguyên** tone đã chốt: cổ phong, trầm, tình cảnh tương sinh; tham chiếu brief (Tru Tiên xám, không bài giảng).
+- Không đổi giọng kể / POV (third limited MC) khi sửa chương trừ user yêu cầu.
+- Không thêm hài hiện đại, meme, hoặc giọng văn công nghệ.
+
+## Khi bổ sung lore có tên mới
+
+- Prose/registry trước → **promotion** sang `foundation/resources/` (không nhét tên vào `foundation/core/` im lặng) — xem `foundation/resources/README.md` § Promotion từ tác phẩm.
