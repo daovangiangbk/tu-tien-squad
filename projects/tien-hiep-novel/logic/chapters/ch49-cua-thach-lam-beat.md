@@ -6,24 +6,22 @@
 
 ## Mở
 
-- Cầu nối tối thiểu ch.45–48: Tô Diêu đã thoát Cửu Huyền Phế Trận, đạt Luyện Khí Viên Mãn bằng ép công, trọng thương và kiệt linh lực; đi bộ tới Thạch Lam Thành.
-- Neo hình ảnh: tường đá lam trong mưa bụi; ngoài cửa là luật rừng, trong cửa là luật được khắc chữ.
+- Nối trực tiếp ch.48: bước vào hắc thị / Hạ Thành; alias **Tô Thạch**; đã thấy truy nã 500 hạt (Sát Thủ Các) — không tái nhập cổng Nam Môn.
+- Bốn vật canon; mảnh dính tay trái; 0 linh thạch.
 
 ## Giữa
 
-- Đọc bia luật: cấm đấu công khai; người vô danh chỉ được dừng ngoài cửa; nhập thành phải có thẻ thân phận, bảo chứng hoặc lập danh tạm.
-- Bảng truy nã có chân dung Mạc Lão và dấu Thanh Sa treo thưởng người/vật từ Cửu Huyền; tên Tô Diêu chưa viết thẳng nhưng mô tả vật mang đủ gần.
-- Người gác cửa kiểm thương thế, hỏi xuất xứ; Tô Diêu không khai vật, không chống đối.
-- FS-003 chỉ là bóng áo sẫm phản trong mặt đồng/bóng cột, không lộ Tống Minh Vi hay Sát Thủ Các.
-- FS-009: phí vào, phí khám thương, phí lập danh; an toàn trong thành là món hàng.
+- Luật Hạ Thành (vách đá) vs **Cửa Thăng** lên Trung Thành — bia luật, phí lập danh.
+- Bảng thu vật Cửu Huyền / tìm Quy Mạc; không dừng đọc lại truy Tô Diêu.
+- Người gác hỏi xuất xứ; MC khai **Tô Thạch**, Kiến Sa / Hạ Thành.
+- FS-003: bóng áo sẫm qua mặt đồng.
+- FS-009: phí, Thanh Sa độc quyền vật Lan Sa.
 
 ## Kết / cliff
 
-- Tô Diêu bị chặn vì không thẻ, không linh thạch, không người bảo chứng.
-- Lựa chọn duy nhất: tới nhà đăng khế bên cửa, lập danh tạm và nhận một khoản nợ.
+- Không thẻ, không linh thạch → nhà đăng khế, lập danh tạm trước khi cửa đóng.
 
 ## Canon
 
-- MC Luyện Khí Viên Mãn nhưng kiệt lực, không giao chiến.
-- Không phù, trận đĩa, linh thạch; giữ mảnh Cửu Huyền Trận, Tam Hệ Lệch Khí Ngọc, mẩu khế chưa ký.
-- Không lộ danh Tống Minh Vi; không ký khế dài hạn trong chương.
+- MC LK Viên Mãn (12 khiếu), kiệt lực, không giao chiến.
+- Không ký khế dài hạn trong chương.
