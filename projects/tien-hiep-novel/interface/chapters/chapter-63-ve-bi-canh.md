@@ -81,13 +81,13 @@ Trên đường, gặp chấp sự trinh sát mang cuộn bản đồ mới đi 
 
 Ít người hơn dự kiến — không vì trinh sát sai, vì **tin** đã rút người trước khi lôi quét.
 
-Hắn không hỏi chấp sự. Hỏi cũng không đổi sổ — tranh mạch không hỏi ý tán tu, chỉ hỏi còn chỗ hay không. Ca chiều vẫn đến. Huyền Lôi vẫn vá sát nhánh bảy. **Hậu phương** có thể bị **bỏ** trước khi leo thang — bà đã nói đêm qua: *rút một nửa toán*, *tránh leo thang*. Hắn tin bà **không** nói dối về đại cục. Hắn không tin *tin* cứu được ai.
+Hắn không hỏi chấp sự. Hỏi cũng không đổi sổ — tranh mạch không hỏi ý tán tu, chỉ hỏi còn chỗ hay không. Ca chiều vẫn đến. Huyền Lôi vẫn vá sát nhánh bảy. **Hậu phương** có thể bị **bỏ** trước khi leo thang — bà đã nói **sáng nay** lúc xếp ca: *rút một nửa toán*, *tránh leo thang*. Hắn tin bà **không** nói dối về đại cục. Hắn không tin *tin* cứu được ai.
 
 ---
 
 Ô mười chín không có cờ.
 
-Chỉ có một tảng đá che lõm vào vách, phía sau là hang ngắn — *hậu phương* trên sổ mạch, nơi linh áp được ghi **thấp** để kẻ yếu có chỗ đứng. Ca chiều chưa bắt đầu; trên vỉ đá trước hang chỉ có ba người — ít hơn ô an toàn đêm qua, ít hơn cả dự đoán của hắn khi còn ở khe số ba.
+Chỉ có một tảng đá che lõm vào vách, phía sau là hang ngắn — *hậu phương* trên sổ mạch, nơi linh áp được ghi **thấp** để kẻ yếu có chỗ đứng. Ca chiều chưa bắt đầu; trên vỉ đá trước hang chỉ có ba người — ít hơn dự kiến trên sổ, ít hơn cả lúc hắn còn ở khe số ba.
 
 Số bốn mươi hai ngồi gối đầu gối, đang bó băng cổ tay. Số ba mươi chín nhìn hắn, gật đầu — không hỏi từ đâu về. Số hai mươi lăm mới tới, túi da thú mỏng, mặt tái như kẻ vừa trả hai mươi hạt nghe tin mà không nghe được gì ngoài *giá tham chiếu*.
 
@@ -101,7 +101,7 @@ Chia Hỏa–Kim–Mộc — không để đánh, để **đọc khí**.
 
 Thói quen đa nghề: một tia Hỏa men theo huyệt mắt, Kim dò dưới lòng bàn chân quỳ, Mộc yếu giữ thần không gãy hẳn. Đổi lại, đau sau mắt như kim chọc nơi vừa gãy một tầng ở hang cát son. Dưới lớp đá che — trên giấy vẫn *ít linh áp* — khí **không** yên.
 
-Kim sát mỏng xiên từ đông bắc. Cát son trong hang ngắn **chảy** một đường, không vòng, không ngưng — về **nam**, về độ sâu mà sổ mạch ghi *nhánh bảy*. Linh áp không đập thẳng như trên vỉ đá ô an toàn sai đêm qua; nó **rút** — như có miệng hút dưới đá, và ô mười chín nằm trên **môi** miệng ấy.
+Kim sát mỏng xiên từ đông bắc. Cát son trong hang ngắn **chảy** một đường, không vòng, không ngưng — về **nam**, về độ sâu mà sổ mạch ghi *nhánh bảy*. Linh áp không đập thẳng như trên vỉ đá khe số ba; nó **rút** — như có miệng hút dưới đá, và ô mười chín nằm trên **môi** miệng ấy.
 
 Ba trượng.
 

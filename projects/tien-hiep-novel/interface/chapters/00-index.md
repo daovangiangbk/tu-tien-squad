@@ -83,6 +83,10 @@
 | 60 | Tranh Suất Mạch | approved draft | [chapter-60-tran-slot-mach.md](./chapter-60-tran-slot-mach.md) |
 | 61 | Ép Đột Phá | approved draft | [chapter-61-ep-dot-pha.md](./chapter-61-ep-dot-pha.md) |
 | 62 | Trúc Cơ Sơ | approved draft | [chapter-62-tru-co-so.md](./chapter-62-tru-co-so.md) |
+| 63 | Vé Bí Cảnh | approved draft | [chapter-63-ve-bi-canh.md](./chapter-63-ve-bi-canh.md) |
+| 64 | Phong Ấn Tin | approved draft | [chapter-64-phong-an-tin.md](./chapter-64-phong-an-tin.md) |
+| 65 | Độc Quyền Vé | approved draft | [chapter-65-monopoly-ve.md](./chapter-65-monopoly-ve.md) |
+| 66 | Hai Cuộc | approved draft | [chapter-66-hai-cuoc.md](./chapter-66-hai-cuoc.md) |
 
 *Outline Logic — [`02-arc2-beats.md`](../../logic/arcs/02-arc2-beats.md) · spine ch.55–88 trong [`00-chapter-spine-phase1.md`](../../logic/chapters/00-chapter-spine-phase1.md).*
 

@@ -100,10 +100,10 @@
 | 60 | `tran-slot-mach` | Tranh Suất Mạch | 2 | — | **approved draft** | `chapter-60-tran-slot-mach.md` |
 | 61 | `ep-dot-pha` | Ép Đột Phá | 2 | FS-001 | **approved draft** | `chapter-61-ep-dot-pha.md` |
 | 62 | `tru-co-so` | Trúc Cơ Sơ | 2 | FS-001 | **approved draft** | `chapter-62-tru-co-so.md` |
-| 63 | `ve-bi-canh` | Vé Bí Cảnh | 3 | FS-005 | outline |
-| 64 | `phong-an-tin` | Phong Ấn Tin | 3 | FS-005, 015 | outline |
-| 65 | `monopoly-ve` | Monopoly Vé | 3 | FS-009 | outline |
-| 66 | `hai-cuoc` | Hai Cuộc | 3 | — | outline |
+| 63 | `ve-bi-canh` | Vé Bí Cảnh | 3 | FS-005 | **approved draft** | `chapter-63-ve-bi-canh.md` |
+| 64 | `phong-an-tin` | Phong Ấn Tin | 3 | FS-005, 015 | **approved draft** | `chapter-64-phong-an-tin.md` |
+| 65 | `monopoly-ve` | Độc Quyền Vé | 3 | FS-009 | **approved draft** | `chapter-65-monopoly-ve.md` |
+| 66 | `hai-cuoc` | Hai Cuộc | 3 | — | **approved draft** | `chapter-66-hai-cuoc.md` |
 | 67 | `sat-thu-phi` | Sát Thủ Phí | 4 | FS-003 | outline |
 | 68 | `khach-thue` | Khách Thuê | 4 | FS-003, 016 | outline |
 | 69 | `hop-dong-can` | Hợp Đồng Cắn | 4 | FS-004 | outline |

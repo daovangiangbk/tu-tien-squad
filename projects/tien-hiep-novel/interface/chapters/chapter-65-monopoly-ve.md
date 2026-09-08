@@ -56,7 +56,7 @@ Không hai việc.
 
 Ở Thạch Lam, Bách Hóa cũng không nói hai việc — chỉ có ba hộp Trúc Cơ Đan, hơn hai mươi người, và luật *lô cuối không đấu ngay*. Người không đủ vật thế chấp dừng ngoài cửa. Người đủ vẫn có thể **không** mua, nếu chấp nhận đứng lại.
 
-Monopoly không cần giải thích. Chỉ cần **giữ hàng** và **đặt giá**.
+Độc quyền không cần giải thích. Chỉ cần **giữ hàng** và **đặt giá**.
 
 Hắn nhớ gian phòng bát giác: tám ngọn đèn xanh, giá khởi bốn trăm tám mươi, dừng ở sáu trăm tám mươi, bảy trăm mười — rồi hộp thứ ba **không** đấu. Bách Hóa có nói bán cả ba bằng một cách sao?
 
@@ -237,7 +237,7 @@ Hắn giữ khế.
 - **Thực thi phục bút:**
   - **FS-009:** Payoff một tầng — monopoly vé **mirror** monopoly Trúc Cơ Đan (ch.51–52): giữ hàng, giá phe đặt, chỉ mua hoặc bỏ; vé ảo song song; MC tính sinh tồn vs cơ duyên.
   - **FS-005:** Thanh Sa + Bách Hóa bán vé **chính thức** Thiên Sa Công Uyên; hạn suất, giá khởi tám trăm.
-  - **FS-015:** Rung khí dưới ô mười chín echo phế địa; mảnh **ấm một nhịp**; nhánh bảy liên manh, không giải Thượng cổ.
+  - **FS-015:** Rung khí dưới ô mười chín vang lại phế địa; mảnh **ấm một nhịp**; nhánh bảy liên manh, không giải Thượng cổ.
   - **FS-002:** Tạ Hàm Nguyệt *vì đại cục* — ưu tiên giữ mạch; MC không tin, đối chiếu wound.
 - **Nhân vật phụ:** Tán tu bán cọc mua vé — **không** Lục Thanh Phong; MC nhìn, không cứu.
 - **Tên cần chốt:** Không có.

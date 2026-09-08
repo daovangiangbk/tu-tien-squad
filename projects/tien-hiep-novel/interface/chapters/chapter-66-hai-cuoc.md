@@ -5,13 +5,13 @@
 > **Nhịp:** 3 · *Midpoint setup khép — tranh mạch và tranh vé song song; ô mười chín trùng đợt vé cuối*  
 > **Mầm phục bút:** FS-005 *(nuôi đầy · midpoint treo)* · FS-015 *(mầm · nhánh bảy dịch mạnh)* · FS-002 *(nuôi · vì đại cục)*
 
-Ca mở khi chưa sáng hẳn.
+Ca sáng vừa mở — nối liền đuôi ca chiều hôm qua, không kịp ngủ sâu.
 
-Tô Diêu đứng trên vỉ đá ô mười chín — tây nam, sau dãy đá che, *hậu phương* trên giấy — và nghe **hai tiếng** cùng một lúc: tiếng lôi Huyền Lôi vá sát nhánh bảy phía đông bắc, và tiếng xếp hàng mua vé từ kho đồn phía nam, nơi Thanh Sa dựng liên đài cuối.
+Tô Diêu quỳ trên vỉ đá ô mười chín — tây nam, sau dãy đá che, *hậu phương* trên giấy — và nghe **hai tiếng** cùng một lúc: tiếng lôi Huyền Lôi vá sát nhánh bảy phía đông bắc, và tiếng xếp hàng mua vé từ kho đồn phía nam, nơi Thanh Sa dựng liên đài cuối.
 
 Hai cuộc.
 
-Không ai gọi tên như vậy trên sổ. Sổ chỉ ghi *ca sáng · ô mười chín* và *đợt bán vé vùng · hết trước giờ Mão*. Nhưng tai tán tu đủ nhạy để biết: tranh mạch và tranh tin đã **chạm nhau** — cùng một ngày, cùng một chỗ hút linh thạch, cùng một lúc ai yếu sẽ bị **bỏ** trước.
+Không ai gọi tên như vậy trên sổ. Sổ chỉ ghi *ca sáng · ô mười chín* và *đợt bán vé vùng · hết trước giờ Tỵ*. Nhưng tai tán tu đủ nhạy để biết: tranh mạch và tranh tin đã **chạm nhau** — cùng một ngày, cùng một chỗ hút linh thạch, cùng một lúc ai yếu sẽ bị **bỏ** trước.
 
 Giọt Linh Dịch trong đan điền run theo nhịp dưới đá.
 
@@ -28,10 +28,10 @@ Trên giấy: *ít linh áp.*
 Liên đài vé cuối dựng dưới chân gò đá, cách kho đồn không đầy nửa dặm — đủ gần để tiếng gọi giá văng lên vỉ đá, đủ xa để không ai rời ca mà không bị khế ghi *bỏ cọc*. Bảng treo ba dòng chữ mới:
 
 *Thiên Sa Công Uyên — vé hạn vùng Đan Sa.*  
-*Đợt cuối — trước giờ Mão.*  
+*Đợt cuối — trước giờ Tỵ.*  
 *Phong ấn vào trước đã bán hết khu — không hỏi danh.*
 
-Tin bí cảnh chung đã là hàng từ Thạch Lam — hắn nhớ bảng gỗ phủ bụi, mẩu thông cáo treo cột cờ. Giờ hàng **có giá**, có hạn, có người giữ trước quyền vào mà không lộ mặt. Tô Diêu không nhìn sang liên đài — nhìn cũng không đủ linh thạch, không đủ khế để bỏ ca. Hắn đã tính từ đêm qua: mua vé = mất cọc mạch; không mua = mất cơ duyên, nhưng **giữ** đường xóa nợ Bách Hóa.
+Tin bí cảnh chung đã là hàng từ Thạch Lam — hắn nhớ bảng gỗ phủ bụi, mẩu thông cáo treo cột cờ. Giờ hàng **có giá**, có hạn, có người giữ trước quyền vào mà không lộ mặt. Tô Diêu không nhìn sang liên đài — nhìn cũng không đủ linh thạch, không đủ khế để bỏ ca. Hắn đã tính từ đêm qua trong hang: mua vé = mất cọc mạch; không mua = mất cơ duyên, nhưng **giữ** đường xóa nợ Bách Hóa.
 
 Trong túi bên hông còn bốn mươi mốt hạt linh thạch hạ phẩm — đủ mua một bình dược cầm huyết, không đủ mua một **suất** đã tăng giá. Lãi đóng băng treo trên khế ty như móng đóng vào gỗ; chỉ có **giữ ca** mới kéo dài thời hạn. Cơ duyên Thiên Sa và cơ duyên **sống thêm mười lăm ngày** không cùng một cân.
 
@@ -39,9 +39,9 @@ Hôm nay đợt cuối.
 
 Giá **tăng** mỗi khắc như lửa leo trên thước tre. Tiếng gọi từ phía nam:
 
-— Hai trăm hai mươi! Còn bảy suất!
+— Tám trăm hai mươi! Còn bảy suất!
 
-— Hai trăm bốn mươi! Ai chậm mất chỗ!
+— Tám trăm bốn mươi! Ai chậm mất chỗ!
 
 Một tán tu — không phải Lục Thanh Phong; Lục huynh đang giữ cọc phía tây, xa liên đài — vừa bán hết cọc nhánh phụ để gom thạch. Hắn nghe tiếng ấy trong đầu như tiếng vỡ túi: người khác **đổi** mạch lấy vé; người khác chọn tin bí cảnh hơn tin ô trên giấy.
 
@@ -73,7 +73,7 @@ Không để đánh. Để **đọc khí** — thói quen đa nghề, đổi l�
 
 Dưới ba trượng: nhánh bảy **thở** mạnh hơn một nhịp.
 
-Không phải động đất — không rung như Cửu Huyền Phế Trận ngày trận rung. Mà **dịch**: cát son trong khe ngắn chảy một đường, không vòng; Kim sát xiên từ đông bắc; Mộc khí xanh xám nhấp nháy rồi tắt, như ngọn nến trước gió lôi. Giống **echo** rung trận — manh mối mạch phụ liên Cửu Huyền, không giải Thượng cổ.
+Không phải động đất — không rung như Cửu Huyền Phế Trận ngày trận rung. Mà **dịch**: cát son trong khe ngắn chảy một đường, không vòng; Kim sát xiên từ đông bắc; Mộc khí xanh xám nhấp nháy rồi tắt, như ngọn nến trước gió lôi. Giống **vang lại** rung trận — manh mối mạch phụ liên Cửu Huyền, không giải Thượng cổ.
 
 Mảnh Cửu Huyền Trận trong ngực áo **ấm** một nhịp.
 
@@ -111,11 +111,11 @@ Bà không cười ác. Không giả vờ thương. Bà chỉ **sắp** người
 
 Chấp sự gọi tên:
 
-— Số hai mươi tư. Số ba mươi. Số mười chín —
+— Số hai mươi tư. Số ba mươi. Số mười bảy —
 
 Dừng.
 
-— Số mười chín **giữ**. Một người. Đủ **mắt** tối thiểu. Không leo. Không rút.
+— Số mười bảy **giữ**. Một người. Đủ **mắt** tối thiểu. Không leo. Không rút.
 
 Tô Diêu không biết đó là **may** hay **toán**.
 
@@ -183,7 +183,7 @@ Kim men chậm. Hỏa không trào. Mộc yếu. Đủ **giữ** — không đ�
 
 Dưới đá, dịch động **mạnh hơn** một nhịp nữa.
 
-Mảnh Cửu Huyền Trận ấm lần hai — ngắn hơn lần một, như tim đập hai lần trong một hơi. Echo phế địa. Mạch phụ liên. Không vượt luật tu luyện; không kích hoạt trận. Chỉ **gọi** — và giọt dịch lệch **theo**, mỏng thêm, như bị rút một lớp từ trong.
+Mảnh Cửu Huyền Trận ấm lần hai — ngắn hơn lần một, như tim đập hai lần trong một hơi. Vang lại phế địa. Mạch phụ liên. Không vượt luật tu luyện; không kích hoạt trận. Chỉ **gọi** — và giọt dịch lệch **theo**, mỏng thêm, như bị rút một lớp từ trong.
 
 Hắn không buông mắt.
 
@@ -237,7 +237,7 @@ Hắn sống qua ca.
 
 Không vé. Giữ ô.
 
-Wound không heal — chỉ thêm một khuôn mặt (**Mạnh Hải**) bị kéo xuống gò trong khi hắn được gọi **giữ**. Không phải vì đủ tốt. Vì sổ cần một mắt. *Vì đại cục* — lần này có thể là hắn, lần sau có thể không.
+Vết thương cũ không lành — chỉ thêm một khuôn mặt (**Mạnh Hải**) bị kéo xuống gò trong khi hắn được gọi **giữ**. Không phải vì đủ tốt. Vì sổ cần một mắt. *Vì đại cục* — lần này có thể là hắn, lần sau có thể không.
 
 Hắn bước xuống vỉ đá khi chấp sự hô *hết ca*.
 
@@ -259,7 +259,7 @@ Không phải vì ăn. Vì **tin mới** — treo trên cột cạnh bảng vé 
 
 *Sát Thủ Các nhận **ủy thác** — **dọn tán tu** vi phạm khế mạch / bỏ cọc / cản leo cọc.*  
 *Phí: theo **đầu** · thanh toán **linh thạch** hoặc **ghi nợ phe bảo lãnh**.*  
-*Hiệu lực: sau giờ Mão.*
+*Hiệu lực: sau giờ Tỵ.*
 
 Chữ vuông, mực đen — giống chữ trên cửa **Sát** ở U Ngõ Thạch Lam, một nét không thừa.
 
@@ -273,7 +273,7 @@ Không lộ ai **thuê**. Chỉ lộ **cơ chế**: hợp đồng sát trên m�
 
 Một chấp sự Thanh Vi đi ngang, thấy hắn đứng im:
 
-— Số mười bảy — không, mười chín. Ca chiều **nghỉ**. Ngươi giữ mắt đúng. Đừng **cản** leo cọc. Đừng **giúp** ai xuống sổ kêu oan. Sát Thủ Các **không** hỏi lý.
+— Số mười bảy. Ca chiều **nghỉ**. Ngươi giữ mắt đúng. Đừng **cản** leo cọc. Đừng **giúp** ai xuống sổ kêu oan. Sát Thủ Các **không** hỏi lý.
 
 Không phải đe. Chỉ **thông báo**.
 
@@ -304,14 +304,14 @@ Nhưng tin đã **móc** — và ca chiều chưa đến.
 ## Ghi chú sáng tác
 
 - **Kiểm tra chính sử:** Đạt.
-  - MC **Trúc Cơ Sơ kỳ**, giọt **Linh Dịch lệch**; ô **mười chín**; wound echo người áo tro — **không nổi loạn**, không heal.
+  - MC **Trúc Cơ Sơ kỳ**, giọt **Linh Dịch lệch**; ô **mười chín** (hiệu số **mười bảy**); vết thương cũ vang lại người áo tro — **không nổi loạn**, không lành.
   - Beat 3 **midpoint setup khép**: tranh mạch (Huyền Lôi / Hứa leo cọc nhánh bảy, rút hậu phương) + tranh vé (đợt cuối, giá tăng, phong ấn vùng hết) **song song**, trùng ca.
   - MC **sống** qua ca; **không vé**; **không mất ô** — Tạ Hàm Nguyệt giữ nhân số tối thiểu (một mắt), không thân thiện.
   - Không payoff FS-006; không chết Lục Thanh Phong; không lộ Tống Minh Vi; không NC; không tiếng Anh; không power creep.
 - **Thực thi phục bút:**
   - **FS-005:** Nuôi đầy — Thiên Sa vé hạn, phong ấn vùng bán hết (chưa lộ ai giữ), đợt cuối đóng; midpoint treo hai trục mạch + bí cảnh.
-  - **FS-015:** Nhánh bảy dịch **mạnh hơn** một nhịp (echo phế địa); mảnh Cửu Huyền Trận ấm hai nhịp; mạch phụ liên — không giải Thượng cổ.
-  - **FS-002:** Lệnh rút hậu phương + *vì đại cục*; Mạnh Hải bỏ slot (mầm Beat 5); tone Tạ Hàm Nguyệt sạch; MC đối chiếu wound, không tin.
+  - **FS-015:** Nhánh bảy dịch **mạnh hơn** một nhịp (vang lại phế địa); mảnh Cửu Huyền Trận ấm hai nhịp; mạch phụ liên — không giải Thượng cổ.
+  - **FS-002:** Lệnh rút hậu phương + *vì đại cục*; Mạnh Hải bỏ suất (mầm Beat 5); tone Tạ Hàm Nguyệt sạch; MC đối chiếu vết thương cũ, không tin.
 - **Mầm Beat 5:** Tán tu **Mạnh Hải** (không Lục Thanh Phong) bị bỏ suất *vì đại cục* — mirror hy sinh sắp tới.
 - **Tên cần chốt:** **Mạnh Hải** (孟海) — tán tu phụ chương; có thể promotion `foundation/resources/` nếu tái xuất.
 - **Móc ch.67 (Beat 4):** Bảng **Sát Thủ Các** / **phí dọn tán tu** trên mạch; Tống Minh Vi một tầng — chưa lộ danh.

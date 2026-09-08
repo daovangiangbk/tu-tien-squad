@@ -5,25 +5,21 @@
 > **Nhịp:** 3 · *Tin phong ấn vé lan; ai gom quyền phân phối chưa lộ danh; ô mười chín và nhánh bảy*  
 > **Mầm phục bút:** FS-005 *(nuôi · phong ấn vé)* · FS-015 *(mầm · mạch phụ liên Cửu Huyền)* · FS-002 *(nuôi · vì đại cục)*
 
-Tin **phong ấn vé** không đến như lôi.
+Tin **phong ấn vé** không tan sau ca chiều.
 
-Không chớp. Không gầm. Chỉ là một dòng chữ mới treo dưới thông cáo **Thiên Sa Công Uyên** trên cột kho đồn — chữ nhỏ hơn tiêu đề, mực son còn ướt, như ai vừa viết tay khi ca chiều còn chưa tan:
+Không chớp. Không gầm. Chỉ còn dòng chữ treo dưới thông cáo **Thiên Sa Công Uyên** trên cột kho đồn — mực son đã khô, nhưng *đã phân* vẫn đỏ:
 
 *Phong ấn vùng Đan Sa đã **phân**. Quyền vào trước **khóa**. Giá chính thức chờ công bố.*
 
-Tô Diêu đứng dưới cột, đọc đến cuối.
-
-Ba khắc trước, hắn mới đọc hết bảng tin lần đầu — **bí cảnh chung**, vé **hạn**, chưa mở ngày cụ thể; Thanh Sa giữ một phần; Bách Hóa treo **giá tham chiếu** sáu trăm linh thạch hạ phẩm một vé, chữ mờ, không niêm, không bán. Tin cũng là hàng. Hàng hôm nay chỉ để **nhìn**.
-
-Giờ, hàng đổi loại.
+Tô Diêu nằm trong hang ngắn sau ô mười chín, nghe tiếng gió đá và tiếng gõ khay từ kho — hàng **chưa** mở bán, chỉ **nghe** phí và **đợi** giá.
 
 Không phải phong ấn **trận**. Không phải ai niêm cửa bí cảnh bằng linh văn. Là **quyền vào trước** — ai mua trước quyền phân phối vùng, ai khóa trước suất, còn lại đứng ngoài chờ giá người giữ quyết. Phong ấn **tin**: khóa **vé** trước khi giá chính thức treo.
 
-Hắn không có đủ hạt mua vé. Không có khế đổi suất. Nhưng huyết khế dưới da biết hắn còn **ca** — ô mười chín, chiều nay, *hậu phương* trên giấy. Kẹt giữa tranh mạch và tranh tin: một bên bắt **giữ**, một bên bắt **gom**.
+Hắn không có đủ hạt mua vé. Không có khế đổi suất. Nhưng huyết khế dưới da biết hắn còn **ca** — ô mười chín, sáng mai, *hậu phương* trên giấy. Kẹt giữa tranh mạch và tranh tin: một bên bắt **giữ**, một bên bắt **gom**.
 
-Tiếng mõ ca chiều vẫn còn trong tai. Phía đông bắc, Huyền Lôi vá sát nhánh bảy — tia lôi chớp, búa đập đá, không ai dừng vì một dòng chữ trên cột.
+Phía đông bắc, Huyền Lôi vá sát nhánh bảy — tia lôi chớp xa, búa đập đá, không ai dừng vì một dòng chữ trên cột.
 
-Tô Diêu gấp tay áo, men về ô mười chín.
+Tô Diêu nhắm mắt, không xuống kho. Giọt Linh Dịch lệch trong đan điền **run** theo nhịp dưới đá.
 
 ---
 
@@ -81,7 +77,7 @@ Người kia cười ngắn, không vui:
 
 — Sổ không cần danh. Chỉ cần **giữ hàng** trước khi treo giá.
 
-Họ không nói tên tông. Không nói Kim Đan. Không nói Thanh Sa hay Bách Hóa **mua** phong ấn — chỉ nói *đã khóa*, *đã phân*, *còn lại*. Tô Diêu đứng trong bóng vách đá, nghe như nghe chuyện người khác; nhưng bàn tay trong ngực áo chạm mảnh kim — vẫn ấm một nhịp đêm qua — và hắn nhớ gian phòng bát giác ở Thạch Lam: tám ngọn đèn xanh, hộp thứ ba **không** đấu, giá do người giữ quyết.
+Họ không nói tên tông. Không nói Kim Đan. Không nói Thanh Sa hay Bách Hóa **mua** phong ấn — chỉ nói *đã khóa*, *đã phân*, *còn lại*. Tô Diêu đứng trong bóng vách đá, nghe như nghe chuyện người khác; nhưng bàn tay trong ngực áo chạm mảnh kim — vẫn ấm một nhịp sau ca chiều — và hắn nhớ gian phòng bát giác ở Thạch Lam: tám ngọn đèn xanh, hộp thứ ba **không** đấu, giá do người giữ quyết.
 
 **Gom tin** trước **gom giá**.
 
@@ -150,13 +146,13 @@ Tạ Hàm Nguyệt mặc áo bào xanh nhạt, tóc bạc búi gọn, không ki�
 
 Tán tu dưới đài im một nhịp. Có người muốn hỏi, nuốt lại — Kim Đan không cần trả lời từng câu khi sổ đã ghi.
 
-— Phong ấn vé là chuyện **thương**. Tranh mạch là chuyệt **sống**. Ai bán cọc để mua vé — khế ty ghi rõ: **mất ca**, **mất cọc**, hoặc **mất cả hai** nếu chen sai giờ. Ai giữ cọc — **giữ**. Đan Sa không đợi ai xong việc riêng.
+— Phong ấn vé là chuyện **thương**. Tranh mạch là chuyện **sống**. Ai bán cọc để mua vé — khế ty ghi rõ: **mất ca**, **mất cọc**, hoặc **mất cả hai** nếu chen sai giờ. Ai giữ cọc — **giữ**. Đan Sa không đợi ai xong việc riêng.
 
 Bà không nhìn Tô Diêu. Không cần. *Vì đại cục* là nói với **tất cả** mảnh ghép — tán tu, gia tộc nhỏ, phu mỏ, kẻ giữ ô *hậu phương* trên giấy.
 
 Tô Diêu đứng ở rìa đám, tay phải trong áo chạm huyết khế.
 
-Hắn nhớ **Mạc Lão** ở Lan Sa — cũng nói *đại cục*, cũng nói *giữ phong ấn*, cũng để người chết vì **tin** và vì **trận**. Tạ Hàm Nguyệt sạch hơn: áo không dính máu, giọng không gắt. Nhưng sổ vẫn ghi **rút một nửa toán**, **tránh leo thang**, **hậu phương** có thể bỏ trước khi leo thang — bà đã nói ở kho đồn đêm qua, khi xếp ca ô mười chín.
+Hắn nhớ **Mạc Lão** ở Lan Sa — cũng nói *đại cục*, cũng nói *giữ phong ấn*, cũng để người chết vì **tin** và vì **trận**. Tạ Hàm Nguyệt sạch hơn: áo không dính máu, giọng không gắt. Nhưng sổ vẫn ghi **rút một nửa toán**, **tránh leo thang**, **hậu phương** có thể bỏ trước khi leo thang — bà đã nói **sáng nay** lúc xếp ca ô mười chín.
 
 *Vì đại cục* không cứu ai. Chỉ sắp xếp ai **chết trước**.
 
