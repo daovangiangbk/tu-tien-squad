@@ -63,7 +63,7 @@
 
 ### Arc 2 — Tranh Mạch Phụ (ch. 55–88)
 
-*Block outline — chưa liệt kê từng chương.*
+*Outline Logic — [`02-arc2-beats.md`](../../logic/arcs/02-arc2-beats.md) · spine ch.55–88 trong [`00-chapter-spine-phase1.md`](../../logic/chapters/00-chapter-spine-phase1.md). Chưa prose.*
 
 ### Arc 3 — Đan Điền Viên Mãn (ch. 89–112)
 

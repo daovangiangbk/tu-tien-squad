@@ -60,6 +60,7 @@ Tiểu thuyết tiên hiệp dài, tone **Tru Tiên** (triết lý xám, bi kị
 
 - [x] `arc-planner` → `logic/arcs/00-arc-master-outline.md` — mốc cảnh giới rõ đến Trúc Cơ đỉnh phong; Arc 1 không tam giác sớm
 - [x] *(khuyến nghị)* `logic/arcs/01-arc1-beats.md` — 5–10 beat, hook chương 1
+- [x] `logic/arcs/02-arc2-beats.md` — 10 beat, ch 55–88 (2026-09-08)
 - [x] `foreshadowing-architect` → `logic/foreshadowing/00-foreshadow-ledger.md` — plant Arc 1, không payoff twist xa sớm
 - [x] Tham chiếu quy mô: `foundation/logic/01-event-scale-system.md`
 

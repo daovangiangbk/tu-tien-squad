@@ -6,7 +6,7 @@
 > **Task queue agent:** [`status.md`](status.md)
 
 **Lần cập nhật:** 2026-09-08  
-**Session focus:** Ch.1–44 **approved draft** · **Beat 8 (ch.40–44) complete** · gate mở ch.45  
+**Session focus:** **Arc 2 beat sheet** (`02-arc2-beats.md`) · spine ch.55–88 outline · ch.1–44 approved draft  
 **Brief:** v2 · **Trần phase 1:** Trúc Cơ đỉnh phong
 
 ---
@@ -114,13 +114,19 @@
 
 ---
 
-### Arc 2 — Tranh Mạch Phụ · ch. 55–88 · Trúc Cơ Sơ–Trung `[spine]`
+### Arc 2 — Tranh Mạch Phụ · ch. 55–88 · Trúc Cơ Sơ–Trung `[spine + beats]`
+
+| Metric | Giá trị |
+| --- | --- |
+| Beat sheet | ✅ [`logic/arcs/02-arc2-beats.md`](logic/arcs/02-arc2-beats.md) — 10 beat |
+| Spine | ✅ 34/34 dòng outline (ch.55–88) |
+| Prose | 0 |
 
 | Block | Ch | Status | Cốt lõi |
 | --- | --- | --- | --- |
-| 2A | 55–62 | `block` | Thuê tranh mạch phụ |
-| 2B | 63–72 | `block` | Bí cảnh chung; wound đâm |
-| 2C | 73–88 | `block` | Mạch đoạn; Ma lậu |
+| 2A | 55–62 | `outline` | Thuê tranh mạch phụ · Trúc Cơ Sơ |
+| 2B | 63–72 | `outline` | Bí cảnh chung; wound đâm · FS-006 |
+| 2C | 73–88 | `outline` | Mạch đoạn; Ma lậu; Linh Dịch lệch |
 
 ---
 
@@ -148,7 +154,7 @@
 Phase 1 [in_progress]
 ├── Arc 1 Phế Địa Tán Tu [prose_partial]  ch 1–33 approved draft · 34–48 outline
 ├── Transition Thành Trì Khế [spine]      ch 49–54 block
-├── Arc 2 Tranh Mạch Phụ [spine]          ch 55–88 block
+├── Arc 2 Tranh Mạch Phụ [spine+beats]    ch 55–88 outline
 └── Arc 3 Đan Điền Viên Mãn [spine]       ch 89–112 block
 Phase 2 [planned]
 ```

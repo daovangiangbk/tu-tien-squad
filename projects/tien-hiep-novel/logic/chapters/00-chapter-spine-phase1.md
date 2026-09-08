@@ -77,11 +77,52 @@
 
 ## Arc 2 — Tranh Mạch Phụ (ch. 55–88)
 
+> **Beat sheet:** [`arcs/02-arc2-beats.md`](../arcs/02-arc2-beats.md) · **10 beat** ↔ 3 block.
+
 | Block | Ch ước | Cảnh giới | Cốt lõi block | Cliffhanger block |
 | --- | --- | --- | --- | --- |
 | **2A** | 55–62 | Trúc Cơ đột phá Sơ | Thuê tranh **mạch phụ**; MC mảnh ghép; trưởng lão Kim Đan xám | Slot mạch tưởng an toàn |
 | **2B** | 63–72 | Trúc Cơ Trung ổn | Bí cảnh chung vé; phí Sát Thủ; **wound đâm** — hy sinh “đại cục” | FS-006 payoff bia |
 | **2C** | 73–88 | Trúc Cơ Trung–Hậu | Mạch phụ đoạn nhánh; Ma lậu hút linh; Linh Dịch lệch | Cần đan sư / phương lậu |
+
+### Arc 2 — Dòng chương (outline Logic)
+
+| Ch | Slug | Tiêu đề làm việc | Beat | FS (chính) | Status |
+| --- | --- | --- | --- | --- | --- |
+| 55 | `khe-thue-mach` | Khế Thuê Mạch | 1 | FS-004, 009 | outline |
+| 56 | `dan-sa-phu` | Đan Sa Phụ | 1 | FS-003 | outline |
+| 57 | `luat-dai-cuc` | Luật Đại Cục | 1 | FS-002 | outline |
+| 58 | `tru-co-dan` | Trúc Cơ Đan | 1 | FS-009 | outline |
+| 59 | `manh-ghep` | Mảnh Ghép | 2 | FS-012 | outline |
+| 60 | `tran-slot-mach` | Tranh Suất Mạch | 2 | — | outline |
+| 61 | `ep-dot-pha` | Ép Đột Phá | 2 | FS-001 | outline |
+| 62 | `tru-co-so` | Trúc Cơ Sơ | 2 | FS-001 | outline |
+| 63 | `ve-bi-canh` | Vé Bí Cảnh | 3 | FS-005 | outline |
+| 64 | `phong-an-tin` | Phong Ấn Tin | 3 | FS-005, 015 | outline |
+| 65 | `monopoly-ve` | Monopoly Vé | 3 | FS-009 | outline |
+| 66 | `hai-cuoc` | Hai Cuộc | 3 | — | outline |
+| 67 | `sat-thu-phi` | Sát Thủ Phí | 4 | FS-003 | outline |
+| 68 | `khach-thue` | Khách Thuê | 4 | FS-003, 016 | outline |
+| 69 | `hop-dong-can` | Hợp Đồng Cắn | 4 | FS-004 | outline |
+| 70 | `giu-slot` | Giữ Slot | 5 | FS-011 | outline |
+| 71 | `vi-dai-cuc` | Vì Đại Cục | 5 | FS-006, 014 | outline |
+| 72 | `bia-khong-ten` | Bia Không Tên | 5 | FS-006 | outline |
+| 73 | `hon-loan` | Hỗn Loạn | 6 | FS-010 | outline |
+| 74 | `on-trung` | Ổn Trung | 6 | FS-012 | outline |
+| 75 | `ta-ham-nguyet` | Tạ Hàm Nguyệt | 6 | FS-002, 013 | outline |
+| 76 | `phuong-tin` | Phương Tin | 6 | FS-016 | outline |
+| 77 | `mach-doan` | Mạch Đoạn | 7 | FS-010, 015 | outline |
+| 78 | `khi-sut` | Khí Sụt | 7 | FS-015 | outline |
+| 79 | `phe-dia-moi` | Phế Địa Mới | 7 | FS-010 | outline |
+| 80 | `nhan-qua-vung` | Nhân Quả Vùng | 7 | — | outline |
+| 81 | `huyet-sa` | Huyết Sa | 8 | FS-002 | outline |
+| 82 | `hut-linh` | Hút Linh | 8 | — | outline |
+| 83 | `shortcut-ma` | Shortcut Ma | 8 | FS-011 | outline |
+| 84 | `cuu-vung` | Cứu Vùng | 8 | — | outline |
+| 85 | `linh-dich-lech` | Linh Dịch Lệch | 9 | FS-007 | outline |
+| 86 | `tam-ma-nhe` | Tâm Ma Nhẹ | 9 | FS-014 | outline |
+| 87 | `hao-than` | Hao Thần | 9 | FS-012 | outline |
+| 88 | `can-dan-su` | Cần Đan Sư | 10 | FS-005, 007 | outline |
 
 ---
 

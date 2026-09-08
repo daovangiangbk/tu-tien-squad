@@ -7,8 +7,8 @@
 
 ## Snapshot
 
-- **Phase:** Arc 1 prose — **ch.1–44 approved draft** · **Beat 8 (ch.40–44) complete** · gate mở **ch.45**
-- **Session:** Orchestrator — tuần tự **ch.40→44** (user **auto-gate** 2026-09-08)
+- **Phase:** Arc 1 prose — **ch.1–44 approved draft** · **Arc 2 Logic outline** (`02-arc2-beats.md` + spine ch.55–88)
+- **Session:** Arc 2 beat sheet — 10 beat, placeholder naming, FS map
 - **Blockers:** Không
 - **Human gate (session):** User pre-approve — sau mỗi review: nếu **suggest_pass** / không `critical`, coi **approved draft** (bỏ qua revise trừ ID critical); nếu có critical → revise rồi r2 như workflow
 
