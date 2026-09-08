@@ -148,7 +148,7 @@ Kẻ đó khoác một tấm trường bào xám tro viền đen rộng thùng t
 
 Một cơn ớn lạnh quen thuộc chạy dọc từ thắt lưng lên gáy Tô Diêu.
 
-Hắn nhớ lại những đêm trước tại Phi Vân Tập, nhớ lại những lần đứng từ xa quan sát các cuộc giao dịch mờ ám ngoài trạm dịch ven hoang mạc khi chuẩn bị tiến vào Linh Sa Uyên ở Beat 4. Bóng người ấy — hoặc ít nhất là kẻ mang cùng một chiếc mặt nạ sắt và cỗ khí tức âm lãnh, vô tình này — đã từng xuất hiện bên cạnh những tên chấp sự bí ẩn của thương hội.
+Hắn nhớ lại những đêm trước tại Phi Vân Tập, nhớ lại những lần đứng từ xa quan sát các cuộc giao dịch mờ ám ngoài trạm dịch ven hoang mạc trước khi bước vào Linh Sa Uyên. Bóng người ấy — hoặc ít nhất là kẻ mang cùng một chiếc mặt nạ sắt và cỗ khí tức âm lãnh, vô tình này — đã từng xuất hiện bên cạnh những tên chấp sự bí ẩn của thương hội.
 
 Sát Thủ Các và Bách Hóa Đường. Một kẻ ở ngoài sáng buôn bán đan dược tài nguyên, một kẻ trong tối nhận bạc lấy mạng người. Bọn chúng chia nhau trấn giữ hai đầu cán cân quyền lực của Thạch Lam Thành.
 
@@ -208,7 +208,7 @@ Các đại tông môn, thương hội và gia tộc quyền quý đã dùng b�
 
 Kẻ nào muốn sống? Kẻ nào muốn đột phá? Hãy quỳ xuống, ký vào khế ước bán thân, làm trâu làm ngựa, làm tử sĩ đi mở đường máu trong các cấm địa chết chóc để đổi lấy một viên đan dược hạ phẩm với xác suất thành công rẻ mạt hai phần mười!
 
-Arc 1 của cuộc đời hắn bắt đầu bằng sự nghèo đói cùng cực giữa bãi phế liệu, và giờ đây, khi hắn đã dùng hết tâm cơ, trả giá bằng xương máu để đứng trên đỉnh cao Luyện Khí Viên Mãn, hắn cay đắng nhận ra mình vẫn nghèo đói như ngày đầu tiên.
+Từ ngày hắn cặm cụi nhặt rác mưu sinh giữa bãi phế liệu Kiến Sa, con đường của hắn đã bắt đầu bằng sự nghèo đói cùng cực, và giờ đây, khi hắn đã dùng hết tâm cơ, trả giá bằng xương máu để đứng trên đỉnh cao Luyện Khí Viên Mãn, hắn cay đắng nhận ra mình vẫn nghèo đói như ngày đầu tiên.
 
 Thành trì không hề cứu rỗi hắn. Quy củ của thành trì chỉ là sự tàn nhẫn của sa mạc hoang dã được khoác lên một tấm áo gấm hoa lệ mà thôi. Kẻ mạnh vi tôn ở nơi này được cân đo đong đếm bằng từng đồng linh thạch và từng bản khế ước nô dịch.
 
@@ -244,7 +244,7 @@ Ngay dưới thông cáo bí cảnh là một tấm biển gỗ lớn mới tinh
 
 Ngón tay Tô Diêu khẽ run lên.
 
-Bàn tay phải của hắn vô thức lần vào bên trong ống tay áo, chạm vào bề mặt thô ráp, lạnh lẽo của mẩu khế ước thành trì vấy máu mà hắn đã nhặt được từ xác chết của tên tu sĩ trong phế trận ở Beat 8.
+Bàn tay phải của hắn vô thức lần vào bên trong ống tay áo, chạm vào bề mặt thô ráp, lạnh lẽo của mẩu khế ước thành trì vấy máu mà hắn đã nhặt được từ xác chết của tên tu sĩ dưới đáy Cửu Huyền Phế Trận.
 
 Mẩu khế ấy hắn vẫn giữ bên mình. Chưa ký. Chưa nhỏ một giọt máu nào vào dấu ấn khế ước.
 
@@ -306,7 +306,7 @@ Cộp. Cộp. Cộp.
 
 Tiếng giày sắt nện xuống mặt đường đá vụn đột ngột vang lên từ đầu con hẻm, xé toang sự tĩnh lặng của đêm tàn.
 
-Ánh đèn lồng màu đỏ quạch từ khúc quanh hắt tới, kéo theo bóng của ba gã chấp sự tuần tra mặc cẩm bào viền vàng của Bách Hóa Đường và thủ vệ mang đao sắc lẻm. Giọng nói the thé, hách dịch của tên dẫn đầu vang lên the thé giữa con ngõ hẹp:
+Ánh đèn lồng màu đỏ quạch từ khúc quanh hắt tới, kéo theo bóng của ba gã chấp sự tuần tra mặc cẩm bào viền vàng của Bách Hóa Đường và thủ vệ mang đao sắc lẻm. Giọng nói the thé, hách dịch của tên dẫn đầu vang vọng giữa con ngõ hẹp:
 
 — Lục soát kỹ từng ngóc ngách! Lệnh bài truy nã đã cắm ở Sát Thủ Các, tên tiểu tử họ Tô kia dẫu có mọc cánh cũng không bay khỏi Thạch Lam! Kẻ nào không có hộ khế, không có thẻ tạm trú… lập tức bắt giam tống vào hắc lao!
 
@@ -339,8 +339,14 @@ Tô Diêu cắn chặt răng, bàn tay siết chặt lấy mẩu phế kích r�
 - **Thực thi phục bút (Foreshadow Ledger):**
   - **FS-003 (confirm):** Bóng dáng sát thủ Sát Thủ Các mang mặt nạ sắt và cẩm bào Bách Hóa Đường đón lõng, thẻ bài truy nã đỏ 500 linh thạch hạ phẩm được treo lên, xác nhận sự liên kết giữa thương hội và sát thủ từ Beat 4.
   - **FS-009 (payoff tầng Arc 1):** Bảng giá Trúc Cơ Đan 8.000 linh thạch hạ phẩm hoặc khế ước 10 năm tử sĩ tại Bách Hóa Đường — hiện thực hóa sự độc quyền tài nguyên bóp nghẹt tầng lớp dưới đáy, khép lại Arc 1 bằng sự nghèo cùng cực.
-  - **FS-005 (nurture):** Mẩu tin về Bí cảnh chung cấp III (Cửu U Hóa Linh Uyên) dán trên cột cờ đá cùng sự tranh đoạt hạn ngạch của các đại thế lực.
+  - **FS-005 (nurture):** Mẩu tin về Bí cảnh chung cấp III (Cổ Cửu U Hóa Linh Uyên) dán trên cột cờ đá cùng sự tranh đoạt hạn ngạch của các đại thế lực.
   - **FS-004 (nurture):** Áp lực của bản khế ước thành trì đè nặng khi nha môn thông báo quy chế tạm trú và nợ cũ thương hội.
   - **FS-001 (nurture):** Mảnh Cửu Huyền Trận nóng rực lên một nhịp ngắn ngủi làm dịu ba dòng lệch khí trong đan điền rồi tắt ngấm.
+- **Xử lý review (Mode revise — Critical items):**
+  - **C-01 (đã xử lý):** Xóa bỏ nhãn meta «Beat 4» trong dòng hồi tưởng; thay bằng diễn đạt in-world mượt mà «trước khi bước vào Linh Sa Uyên».
+  - **C-02 (đã xử lý):** Loại bỏ cụm từ mang nhãn Logic «Arc 1 của cuộc đời hắn»; thay bằng câu văn nội tại thời gian tự nhiên «Từ ngày hắn cặm cụi nhặt rác mưu sinh giữa bãi phế liệu Kiến Sa, con đường của hắn đã bắt đầu bằng sự nghèo đói cùng cực…».
+  - **C-03 (đã xử lý):** Xóa bỏ nhãn meta «Beat 8»; chuyển thành sự kiện in-world «dưới đáy Cửu Huyền Phế Trận» khi nhắc đến nguồn gốc mẩu khế nhặt từ xác tu sĩ.
+  - **C-04 (đã xử lý):** Khắc phục lỗi lặp từ «the thé» trong cùng một câu (L309); sửa thành «vang vọng giữa con ngõ hẹp».
+  - **C-05 (đã xử lý):** Thống nhất danh xưng bí cảnh FS-005 thành **Cổ Cửu U Hóa Linh Uyên** đồng bộ cả trong văn bản thông cáo lẫn mục ghi chú phục bút.
 - **Móc nối Chương 49 (Mở Transition — Thành Trì Khế):**
   - Cliffhanger gắt gao: Tiếng giày sắt tuần tra và đuốc lửa truy lùng của Bách Hóa Đường chặn đường phía trước; cánh cửa hắc thị sâu thẳm mở ra phía sau cùng lời mời gọi ma mị đổi mạng lấy đan dược. Tô Diêu buộc phải dấn thân sâu hơn vào hắc thị của Thạch Lam Thành, mở màn cho Transition (Chương 49).
