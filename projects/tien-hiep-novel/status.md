@@ -7,8 +7,8 @@
 
 ## Snapshot
 
-- **Phase:** Arc 1 — **ch.1–48 approved draft** · **Beat 10 complete** · **Arc 1 đóng (prose_complete)** · gate mở **Transition ch.49**
-- **Session:** Orchestrator — **ch.48** Thạch Lam Ẩn · kết Arc 1 (auto-gate 2026-09-08)
+- **Phase:** Arc 1 **ch.1–48 approved** · **Transition ch.49–54 draft** · gate Arc 2 ch.55
+- **Session:** Merge PR #1–4 · Arc 1 đóng + Transition prose + Arc 2 outline
 - **Blockers:** Không
 - **Human gate (session):** User pre-approve — sau mỗi review: nếu **suggest_pass** / không `critical`, coi **approved draft** (bỏ qua revise trừ ID critical); nếu có critical → revise rồi r2 như workflow
 

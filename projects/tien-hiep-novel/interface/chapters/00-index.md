@@ -62,11 +62,18 @@
 
 ### Transition — Thành Trì Khế (ch. 49–54)
 
-*Chưa mở prose — block outline trong chapter spine.*
+| Ch | Tiêu đề | Status | File |
+| --- | --- | --- | --- |
+| 49 | Cửa Thạch Lam | draft | [chapter-49-cua-thach-lam.md](./chapter-49-cua-thach-lam.md) |
+| 50 | Danh Trên Khế | draft | [chapter-50-dan-tren-khe.md](./chapter-50-dan-tren-khe.md) |
+| 51 | Bách Hóa Đổi | draft | [chapter-51-bach-hoa-doi.md](./chapter-51-bach-hoa-doi.md) |
+| 52 | Monopoly Đột Phá | draft | [chapter-52-monopoly-dot-pha.md](./chapter-52-monopoly-dot-pha.md) |
+| 53 | Hắc Thị Sát Thủ | draft | [chapter-53-hac-thi-sat-thu.md](./chapter-53-hac-thi-sat-thu.md) |
+| 54 | Ký Khế Mạch | draft | [chapter-54-ky-khe-mach.md](./chapter-54-ky-khe-mach.md) |
 
 ### Arc 2 — Tranh Mạch Phụ (ch. 55–88)
 
-*Block outline — chưa liệt kê từng chương.*
+*Outline Logic — [`02-arc2-beats.md`](../../logic/arcs/02-arc2-beats.md) · spine ch.55–88 trong [`00-chapter-spine-phase1.md`](../../logic/chapters/00-chapter-spine-phase1.md). Chưa prose.*
 
 ### Arc 3 — Đan Điền Viên Mãn (ch. 89–112)
 
