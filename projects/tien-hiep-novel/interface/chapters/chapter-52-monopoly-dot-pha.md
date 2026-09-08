@@ -1,4 +1,4 @@
-# Chương 52: Monopoly Đột Phá
+# Chương 52: Độc Quyền Đột Phá
 > **Đại cục:** Chuyển tiếp · *Thành Trì Khế*  
 > **Góc nhìn:** Ngôi thứ ba hạn Tô Diêu  
 > **Nhịp:** 4 · *Đấu Trúc Cơ Đan, thẩm ngọc, mua manh phương và nhận đan bằng khế trả góp*  
@@ -12,11 +12,9 @@ Sau cánh cửa ấy có Trúc Cơ Đan.
 
 Tô Diêu đứng gần cột thứ tư. Vai phải dưới áo còn quấn băng, sườn trái mỗi khi thở sâu vẫn đau âm ỉ. Hai ngày dưỡng thương trong căn phòng thuê chỉ khiến máu ngừng thấm ra ngoài. Những vết nứt trong kinh mạch chưa kín. Linh lực Luyện Khí Viên Mãn đầy mà không thuận, như nước dâng sau một con đê vá vội.
 
-Trong tay áo hắn là túi linh thạch vừa đổi ở quầy trước.
+Trong tay áo hắn là túi linh thạch.
 
-Nặng hơn lúc vào Thạch Lam.
-
-Vẫn nhẹ hơn giá một con đường.
+Nặng hơn lúc rời Bách Hóa sáng qua — mười ba hạt đổi vật, trừ mười một trả nợ phòng, còn hai; hai ngày sau hắn nhận việc xếp trận liệu và quét sân sau quầy Thanh Sa, thêm chín mươi lăm hạt vào túi vải. Chín mươi bảy hạt vẫn nhẹ hơn giá một con đường lên Trúc Cơ.
 
 Cửa gỗ mở.
 

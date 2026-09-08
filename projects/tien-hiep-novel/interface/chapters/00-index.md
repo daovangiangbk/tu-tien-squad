@@ -64,12 +64,12 @@
 
 | Ch | Tiêu đề | Status | File |
 | --- | --- | --- | --- |
-| 49 | Cửa Thạch Lam | draft | [chapter-49-cua-thach-lam.md](./chapter-49-cua-thach-lam.md) |
-| 50 | Danh Trên Khế | draft | [chapter-50-dan-tren-khe.md](./chapter-50-dan-tren-khe.md) |
-| 51 | Bách Hóa Đổi | draft | [chapter-51-bach-hoa-doi.md](./chapter-51-bach-hoa-doi.md) |
-| 52 | Monopoly Đột Phá | draft | [chapter-52-monopoly-dot-pha.md](./chapter-52-monopoly-dot-pha.md) |
-| 53 | Hắc Thị Sát Thủ | draft | [chapter-53-hac-thi-sat-thu.md](./chapter-53-hac-thi-sat-thu.md) |
-| 54 | Ký Khế Mạch | draft | [chapter-54-ky-khe-mach.md](./chapter-54-ky-khe-mach.md) |
+| 49 | Cửa Thạch Lam | approved draft | [chapter-49-cua-thach-lam.md](./chapter-49-cua-thach-lam.md) |
+| 50 | Danh Trên Khế | approved draft | [chapter-50-dan-tren-khe.md](./chapter-50-dan-tren-khe.md) |
+| 51 | Bách Hóa Đổi | approved draft | [chapter-51-bach-hoa-doi.md](./chapter-51-bach-hoa-doi.md) |
+| 52 | Độc Quyền Đột Phá | approved draft | [chapter-52-monopoly-dot-pha.md](./chapter-52-monopoly-dot-pha.md) |
+| 53 | Hắc Thị Sát Thủ | approved draft | [chapter-53-hac-thi-sat-thu.md](./chapter-53-hac-thi-sat-thu.md) |
+| 54 | Ký Khế Mạch | approved draft | [chapter-54-ky-khe-mach.md](./chapter-54-ky-khe-mach.md) |
 
 ### Arc 2 — Tranh Mạch Phụ (ch. 55–88)
 

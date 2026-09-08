@@ -59,7 +59,7 @@
 | 49 | `cua-thach-lam` | Cửa Thạch Lam |
 | 50 | `dan-tren-khe` | Danh Trên Khế |
 | 51 | `bach-hoa-doi` | Bách Hóa Đổi |
-| 52 | `monopoly-dot-pha` | Monopoly Đột Phá |
+| 52 | `monopoly-dot-pha` | Độc Quyền Đột Phá |
 | 53 | `hac-thi-sat-thu` | Hắc Thị Sát Thủ |
 | 54 | `ky-khe-mach` | Ký Khế Mạch |
 

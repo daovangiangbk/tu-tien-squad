@@ -9,8 +9,6 @@ Không có mục bắt buộc sửa.
 
 ## Mục cần sửa
 
-*(Nếu không có dòng trong bảng trên: human có thể coi chương pass.)*
-
 ## Human confirm
 
-*(Không có mục.)*
+*(Nếu không có dòng trong bảng trên: human có thể coi chương pass.)*

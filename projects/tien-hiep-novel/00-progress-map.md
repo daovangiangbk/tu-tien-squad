@@ -6,7 +6,7 @@
 > **Task queue agent:** [`status.md`](status.md)
 
 **Lần cập nhật:** 2026-09-08  
-**Session focus:** Arc 1 **ch.1–48 approved** · Transition **ch.49–54 draft** · Arc 2 Logic outline
+**Session focus:** Arc 1 **ch.1–48 approved** · Transition **ch.49–54 approved draft** · gate Arc 2 ch.55
 **Brief:** v2 · **Trần phase 1:** Trúc Cơ đỉnh phong
 
 ---
@@ -34,7 +34,7 @@
 
 | Phase | Trạng thái | Arc | Chương (prose) | Ghi chú |
 | --- | --- | --- | --- | --- |
-| **1** — Trúc Cơ đỉnh phong | `in_progress` | 4 khối (1+T+2+3) | **54 / 112** prose (**48** Arc 1 approved + **6** Transition draft) | Arc 1 **prose_complete** |
+| **1** — Trúc Cơ đỉnh phong | `in_progress` | 4 khối (1+T+2+3) | **54 / 112** prose (**54** approved draft incl. Transition) | Arc 1 **prose_complete** · Transition **prose_complete** |
 | **2** — Kim Đan+ | `planned` | — | 0 | Stub sau phase 1 |
 
 ---
@@ -104,7 +104,7 @@
 
 ---
 
-### Transition — Thành Trì Khế · ch. 49–54 · LK VM `[prose_complete draft]`
+### Transition — Thành Trì Khế · ch. 49–54 · LK VM `[prose_complete approved draft]`
 
 | Metric | Giá trị |
 | --- | --- |
@@ -114,12 +114,12 @@
 
 | Ch | Tiêu đề | Status | File |
 | --- | --- | --- | --- |
-| 49 | Cửa Thạch Lam | `draft` | [chapter-49-cua-thach-lam.md](interface/chapters/chapter-49-cua-thach-lam.md) |
-| 50 | Danh Trên Khế | `draft` | [chapter-50-dan-tren-khe.md](interface/chapters/chapter-50-dan-tren-khe.md) |
-| 51 | Bách Hóa Đổi | `draft` | [chapter-51-bach-hoa-doi.md](interface/chapters/chapter-51-bach-hoa-doi.md) |
-| 52 | Monopoly Đột Phá | `draft` | [chapter-52-monopoly-dot-pha.md](interface/chapters/chapter-52-monopoly-dot-pha.md) |
-| 53 | Hắc Thị Sát Thủ | `draft` | [chapter-53-hac-thi-sat-thu.md](interface/chapters/chapter-53-hac-thi-sat-thu.md) |
-| 54 | Ký Khế Mạch | `draft` | [chapter-54-ky-khe-mach.md](interface/chapters/chapter-54-ky-khe-mach.md) |
+| 49 | Cửa Thạch Lam | `approved draft` | [chapter-49-cua-thach-lam.md](interface/chapters/chapter-49-cua-thach-lam.md) |
+| 50 | Danh Trên Khế | `approved draft` | [chapter-50-dan-tren-khe.md](interface/chapters/chapter-50-dan-tren-khe.md) |
+| 51 | Bách Hóa Đổi | `approved draft` | [chapter-51-bach-hoa-doi.md](interface/chapters/chapter-51-bach-hoa-doi.md) |
+| 52 | Độc Quyền Đột Phá | `approved draft` | [chapter-52-monopoly-dot-pha.md](interface/chapters/chapter-52-monopoly-dot-pha.md) |
+| 53 | Hắc Thị Sát Thủ | `approved draft` | [chapter-53-hac-thi-sat-thu.md](interface/chapters/chapter-53-hac-thi-sat-thu.md) |
+| 54 | Ký Khế Mạch | `approved draft` | [chapter-54-ky-khe-mach.md](interface/chapters/chapter-54-ky-khe-mach.md) |
 
 ---
 
@@ -162,7 +162,7 @@
 ```
 Phase 1 [in_progress]
 ├── Arc 1 Phế Địa Tán Tu [prose_complete]  ch 1–48 approved draft
-├── Transition Thành Trì Khế [draft]         ch 49–54 prose
+├── Transition Thành Trì Khế [approved draft]   ch 49–54 prose
 ├── Arc 2 Tranh Mạch Phụ [spine+beats]    ch 55–88 outline
 └── Arc 3 Đan Điền Viên Mãn [spine]       ch 89–112 block
 Phase 2 [planned]

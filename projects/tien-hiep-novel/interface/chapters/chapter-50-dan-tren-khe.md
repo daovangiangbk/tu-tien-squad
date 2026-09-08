@@ -28,7 +28,7 @@ Tô Diêu đọc hết tờ giấy.
 
 Không có dòng nhỏ ở mặt sau. Không có chỗ huyết ấn. Chỉ có tên khách, dấu tay bằng mực thường và ấn của chủ quán.
 
-Hắn viết hai chữ **Tô Diêu**.
+Hắn viết hai chữ **Tô Thạch**.
 
 Nét đầu hơi run.
 
@@ -384,7 +384,7 @@ Chỉ có dấu nhà đăng khế và hai hàng đã viết sẵn:
 
 **Nợ phòng đến giờ Thìn.**
 
-**Quá hạn, tên Tô Diêu chuyển vào sổ nhận công.**
+**Quá hạn, tên Tô Thạch chuyển vào sổ nhận công.**
 
 Phần dành cho người nhận công để trống.
 

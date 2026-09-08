@@ -16,7 +16,7 @@ Chỉ có bốn chữ:
 
 Tô Diêu đứng đối diện một lúc.
 
-Trong túi vải mượn của chủ quán là phần còn lại của Đại cục 1: mấy đoạn nanh yêu thú đã mòn, một túm gân khô, hai mảnh giáp lưng, ba nhánh linh dược mất rễ, vài chiếc đinh đồng lấy từ lớp dưới và một nắm vụn khoáng lẫn trong đường thoát khỏi phế trận.
+Trong túi vải mượn của chủ quán là đồ hắn nhặt suốt đêm qua ở đống rác lò luyện Hạ Thành: mấy đoạn nanh yêu thú đã mòn, một túm gân khô, hai mảnh giáp vỡ, ba nhánh linh dược mất rễ, vài mảnh đinh đồng rỉ và một nắm vụn khoáng lẫn tro luyện đan.
 
 Không có Thanh Phong Phi Liên.
 
@@ -24,7 +24,7 @@ Không có trận đĩa.
 
 Không có phù.
 
-Những thứ đáng tiền đã mất, đã dùng, hoặc chưa thể bán.
+Gia sản ky cóp từ Kiến Sa và phế trận đã vùi hết dưới đáy Cửu Huyền. Chỉ còn bốn vật trên người — không thể đem ra quầy.
 
 Hắn bước qua cửa.
 
@@ -226,7 +226,7 @@ Tô Diêu lấy mảnh Cửu Huyền Trận ra.
 
 Không lấy từ túi chính.
 
-Hắn rút nó khỏi lớp áo trong, vẫn bọc một lớp vải xám. Khi lớp vải mở, mảnh kim loại nằm trên bàn, lạnh, xỉn, vết nứt chạy qua giữa thân.
+Hắn cẩn thận tách ngón tay khỏi da thịt dính chặt lòng bàn tay trái, bọc mảnh bằng một lớp vải xám rồi đặt lên bàn. Khi lớp vải mở, mảnh kim loại nằm trên bàn, lạnh, xỉn, vết nứt chạy qua giữa thân.
 
 Không sáng.
 
@@ -272,7 +272,7 @@ Tô Diêu bọc mảnh lại.
 
 — Mười hai.
 
-Hắn cất mảnh vào áo.
+Hắn bọc mảnh lại, ép sát lòng bàn tay trái rồi buộc vải quanh cổ tay.
 
 Lão giả nhìn chỗ áo khép lại, cuối cùng đẩy mười ba hạt qua bàn.
 
@@ -352,17 +352,9 @@ Quản sự vẫn cười.
 
 — Người bán thường nghĩ vậy.
 
-Phía bên kia sảnh có một cầu thang dẫn lên tầng hai. Trước cầu thang đặt bảng đan dược. Tụ Khí Đan, Tẩy Tủy Đan, Hộ Mạch Đan đều có giá rõ.
+Tô Diêu hỏi tiểu nhị đứng gần cầu thang tầng hai:
 
-Dòng cuối cùng chỉ ghi ba chữ:
-
-**Trúc Cơ Đan.**
-
-Không có giá.
-
-Tô Diêu hỏi tiểu nhị đứng gần đó:
-
-— Trúc Cơ Đan bán ở đâu?
+— Trúc Cơ Đan đấu giá — giá khởi bao nhiêu?
 
 Tiểu nhị nhìn tu vi hắn, thái độ lập tức cung kính hơn một phần.
 
@@ -374,11 +366,9 @@ Tiểu nhị nhìn tu vi hắn, thái độ lập tức cung kính hơn một ph
 
 — Giá khởi?
 
-— Tám trăm hạt hạ phẩm.
+— Tám trăm hạt hạ phẩm. — Tiểu nhị thêm, không nhìn hắn. — Bia niêm yết ngoài sảnh là đan tàn khuyết, tám ngàn, hoặc khế tử sĩ mười năm. Đấu giá là đan thật. Khác cửa, khác giá.
 
-Con số rơi xuống rất nhẹ.
-
-Nhưng nặng hơn cả túi sa hắn từng vác.
+Tô Diêu nhớ con số tám ngàn trên bia ngọc đêm qua — cánh cửa công khai dành cho kẻ đã có danh và tiền, hoặc cho kẻ sẵn sàng bán mười năm mạng. Còn tám trăm khởi giá chỉ là bước chân đầu vào phòng đấu.
 
 — Giá cuối?
 
@@ -388,7 +378,7 @@ Tô Diêu nhìn hai hạt linh thạch còn có thể giữ lại sau khi trả 
 
 Hai.
 
-So với tám trăm.
+So với tám trăm — dù chỉ là khởi giá.
 
 Không phải thiếu một ít.
 
@@ -484,9 +474,7 @@ Hắn lên phòng.
 
 Trên bàn, mẩu khế cũ vẫn nằm trong nửa mảnh trúc. Bên cạnh là bảng giá đan mà tiểu nhị đã chép cho hắn.
 
-Tám trăm hạt.
-
-Giá khởi.
+Tám trăm hạt — khởi giá đấu giá.
 
 Tô Diêu đặt hai hạt linh thạch phía dưới con số ấy.
 
@@ -500,7 +488,7 @@ Còn dưới lầu Bách Hóa, tiếng cân đồng vang lên một tiếng tron
 
 ## Ghi chú sáng tác
 
-- **Kiểm tra chính sử:** Đạt — không Trúc Cơ, không giao chiến, không thêm pháp bảo hay linh thạch vô cớ. Tô Diêu chỉ đổi vật liệu vụn còn lại từ Đại cục 1.
+- **Kiểm tra chính sử:** Đạt — không Trúc Cơ, không giao chiến, không thêm pháp bảo hay linh thạch vô cớ. Tô Diêu đổi vật nhặt ở Hạ Thành; bốn vật canon vẫn trên người.
 - **FS-009:** Nuôi qua phí Thanh Sa, phí truy nguyên, ép giá, nợ lưu trú và độc quyền Trúc Cơ Đan/khế ứng trước.
 - **FS-001:** Mảnh Cửu Huyền Trận được thẩm bằng ba que dò; không sáng, không lộ phản ứng tam hành, bị định là cổ kim tàn. Tô Diêu không bán.
 - **Vật mang:** Tam Hệ Lệch Khí Ngọc và mẩu khế không đưa ra; cả ba vật logic tiếp tục được giữ.

@@ -7,8 +7,8 @@
 
 ## Snapshot
 
-- **Phase:** Arc 1 **ch.1–48 approved** · **Transition ch.49–54 draft** · gate Arc 2 ch.55
-- **Session:** Merge PR #1–4 · Arc 1 đóng + Transition prose + Arc 2 outline
+- **Phase:** Arc 1 **ch.1–48 approved** · **Transition ch.49–54 approved draft** · gate Arc 2 ch.55
+- **Session:** Review + revise Transition ch.49–54 · r2 pass
 - **Blockers:** Không
 - **Human gate (session):** User pre-approve — sau mỗi review: nếu **suggest_pass** / không `critical`, coi **approved draft** (bỏ qua revise trừ ID critical); nếu có critical → revise rồi r2 như workflow
 
@@ -381,7 +381,20 @@
 | T-prose-48 | Ch.48 `thach-lam-an` | **done** · approved draft (Arc 1 Finale) |
 | T-review-48 | Review ch.48 | **done** · r2 suggest_pass · revise C-01–C-05 |
 | T-revise-48 | Revise ch.48 | **done** |
-| T-prose-49 | Transition ch.49 | **backlog** |
+| T-prose-49…54 | Transition prose | **done** · approved draft |
+| T-review-49…54 | Review Transition | **done** · ch.49/51/52 revise + r2 pass · ch.50/53/54 r1 pass |
+| T-revise-49…52 | Revise critical | **done** |
+
+## Transition ch.49–54
+
+| Ch | Slug | Prose | Review |
+| --- | --- | --- | --- |
+| 49 | `cua-thach-lam` | **approved draft** | r2 [`review-chapter-49-cua-thach-lam-r2.md`](interface/chapter-view/review-chapter-49-cua-thach-lam-r2.md) · suggest_pass |
+| 50 | `dan-tren-khe` | **approved draft** | [`review-chapter-50-dan-tren-khe.md`](interface/chapter-view/review-chapter-50-dan-tren-khe.md) · suggest_pass |
+| 51 | `bach-hoa-doi` | **approved draft** | r2 [`review-chapter-51-bach-hoa-doi-r2.md`](interface/chapter-view/review-chapter-51-bach-hoa-doi-r2.md) · suggest_pass |
+| 52 | `monopoly-dot-pha` | **approved draft** | r2 [`review-chapter-52-monopoly-dot-pha-r2.md`](interface/chapter-view/review-chapter-52-monopoly-dot-pha-r2.md) · suggest_pass |
+| 53 | `hac-thi-sat-thu` | **approved draft** | [`review-chapter-53-hac-thi-sat-thu.md`](interface/chapter-view/review-chapter-53-hac-thi-sat-thu.md) · suggest_pass |
+| 54 | `ky-khe-mach` | **approved draft** | [`review-chapter-54-ky-khe-mach.md`](interface/chapter-view/review-chapter-54-ky-khe-mach.md) · suggest_pass |
 
 ## Chương 48 — `thach-lam-an`
 
@@ -393,4 +406,4 @@
 
 ---
 
-*Status sync — **Arc 1 ch.1–48 approved draft** · Beat 10 complete · Arc 1 prose_complete (2026-09-08). Gate Transition ch.49.*
+*Status sync — **Arc 1 ch.1–48** + **Transition ch.49–54 approved draft** (2026-09-08). Gate Arc 2 ch.55.*
