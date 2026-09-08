@@ -46,6 +46,21 @@ Câu trả lời không có con số. Tô Diêu đứng ở rìa đám, nghe xon
 
 Hắn nhớ gian phòng đấu giá: tám ngọn đèn xanh, ba hộp Trúc Cơ Đan, hơn hai mươi người. Người có hạt tranh. Người không có hạt **nghe** — nghe cũng trả phí, nếu muốn nghe đủ để biết mình thua từ đâu.
 
+Bàn Bách Hóa treo bảng **giá tham chiếu** trên da cừu — chữ son, nét đậm, không còn chỗ *ước lượng*:
+
+*Tám trăm linh thạch hạ phẩm / vé · vùng Đan Sa.*  
+*Chỉ mang tính báo giá. Giá chính thức chờ thông báo.*
+
+Một tán tu chen lên bàn phải, đặt xuống **mười hai hạt**:
+
+— Nghe đủ. Có bản sao?
+
+Chấp sự Bách Hóa ghi sổ, đưa cuộn giấy mỏng — không phải vé, không phải khế, chỉ **số** và **điều khoản treo**. Tán tu kia mở cuộn, mặt tái dần; hắn không nghe được lời trong cuộn, chỉ thấy ngón tay gã **siết** giấy đến gãy nếp.
+
+Tin cũng là hàng. Hàng có **giá tham chiếu** trước khi có hàng thật — và giá tham chiếu đã đủ để kẻ ít hạt **bỏ** tranh mạch, đi gom thạch, hoặc đi nghe tin giả rẻ hơn ở góc sân.
+
+Góc sân có một người rao **năm trăm hạt, giao tay ngay** — phiếu ngọc không niêm, linh văn mờ. Chấp sự Thanh Vi không đuổi. Không cần. Vé ảo vẫn lưu hành song song với giá treo; ai mua ảo, ai mua thật — Bách Hóa chỉ ghi người trả phí **nghe đủ** trên sổ chính thức.
+
 Một tán tu từ hàng trước quay lại, giọng bực:
 
 — Ô mười chín còn ai? Ta nghe đông tuyến **rút** mười hai suất đi gom thạch. Hậu phương còn gì để giữ?
@@ -61,6 +76,12 @@ Hắn đã có cuộn bản đồ khí trong ngực áo — ghi công trinh sát
 Rút là **lùi**. Lùi không phải an toàn. Lùi là nhường chỗ cho kẻ còn hạt leo lên chỗ hiểm.
 
 Hắn rời sân kho, men theo hành lang đá về phía tây nam.
+
+Trên đường, gặp chấp sự trinh sát mang cuộn bản đồ mới đi phát cho toán đông tuyến — toán vừa **rút** mười hai suất, như tiếng nói trong hàng. Cuộn đi qua, không dừng; trên giấy lộ một đoạn, đủ để thấy ô mười chín vẫn ghi *ít linh áp*, nhưng cột *nhân sự dự kiến* đã **gạch** từ bảy xuống bốn.
+
+Ít người hơn dự kiến — không vì trinh sát sai, vì **tin** đã rút người trước khi lôi quét.
+
+Hắn không hỏi chấp sự. Hỏi cũng không đổi sổ — tranh mạch không hỏi ý tán tu, chỉ hỏi còn chỗ hay không. Ca chiều vẫn đến. Huyền Lôi vẫn vá sát nhánh bảy. **Hậu phương** có thể bị **bỏ** trước khi leo thang — bà đã nói đêm qua: *rút một nửa toán*, *tránh leo thang*. Hắn tin bà **không** nói dối về đại cục. Hắn không tin *tin* cứu được ai.
 
 ---
 
@@ -141,6 +162,12 @@ Hắn không nhìn xuống. Nhìn xuống là nghĩ đến khe ba — nơi đã 
 Giữa ca, một tia Kim sát từ nhánh bảy vút lên, cắt ngang vỉ đá. Số hai mươi lăm hét. Tô Diêu phất phù, Hỏa đốt đường máu trên đá — thói quen từ khe, không phải công pháp cao. Kim men theo, siết sát khí lùi lại nửa tấc. Đủ. Không đủ nếu Huyền Lôi vá trượt.
 
 May là lôi **không** trượt. Chỉ gần.
+
+Giữa ca, hắn nghe tiếng từ kho — không rõ lời, chỉ **nhịp**: gõ khay, ghi sổ, một giọng chấp sự đọc *giá tham chiếu* như đọc kinh. Số hai mươi lăm nhìn hắn, thì thầm:
+
+— Ngươi có nghe không? Thanh Sa **giữ trước** — không phải giữ vé, là giữ **quyền** phân suất trước khi treo giá. Giống… giống hộp thứ ba không cho đấu.
+
+Tô Diêu không đáp. Hắn biết hộp thứ ba. Hắn biết người không đủ hạt đứng ngoài cửa dù biết giá dừng. Giữ trước không cần giải thích — chỉ cần **sổ** và người **có tên** không xếp hàng sau.
 
 Ca kết khi chuông kho điểm giờ Mùi — mùi khói lò, mùi điện cháy, mùi mồ hôi từ hàng xếp mua tin còn vương trên gió.
 
