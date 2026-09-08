@@ -38,6 +38,30 @@ Một viên Trúc Cơ Đan.
 
 Hai ngày rưỡi trước khoản trả đầu.
 
+Qua một quầy bán phù cháy dở, hắn thấy ba tấm bảng gỗ treo úp. Khách tới không hỏi tên phù, chỉ đặt linh thạch vào ba chiếc bát khác nhau. Chủ quầy nhấc bảng tương ứng, để lộ giá của một lối qua cửa bắc, một tên trong đội tuần thành và một giờ trận hộ thành đổi phiên.
+
+Tô Diêu dừng nửa bước.
+
+Ở Phi Vân Tập, người ta bán tin yêu thú đi qua khe nào. Tại Bách Hóa, người ta bán tin một vật đáng thẩm hay không. Đến U Ngõ, ngay cả giờ một cánh cửa được canh lỏng cũng nằm trong bát.
+
+Chủ quầy kéo tấm vải che mặt thấp hơn.
+
+— Mua gì?
+
+— Việc.
+
+— Việc giết hay việc bị giết?
+
+— Việc có tiền.
+
+— Vậy cuối ngõ.
+
+Người nọ hất cằm, đoạn dùng ngón tay đẩy một hạt linh thạch sang bát giữa. Hạt thạch vừa chạm đáy đã biến mất dưới một lớp khói. Sau rèm quầy có bàn tay khác nhận lấy.
+
+U Ngõ không chỉ giấu người bán.
+
+Nó còn giấu cả kẻ đứng sau một cái giá.
+
 Hắn hỏi ba quầy việc hộ tống. Quầy thứ nhất chỉ nhận người có thẻ cư trú nửa năm. Quầy thứ hai cần Luyện Khí Viên Mãn không mang truy nã. Quầy thứ ba chịu bỏ qua bảng truy, nhưng tiền công chỉ đủ một phần lãi, còn phải rời thành ngay trong đêm.
 
 Đến cuối ngõ, hắn thấy một mái hiên không treo đèn.
@@ -117,6 +141,24 @@ Tô Diêu chưa chạm thẻ.
 — Mạch của ai?
 
 — Đang tranh thì chưa là của ai.
+
+— Người chết khi tranh tính cho ai?
+
+— Người có khế thì tính vào khế. Người không khế tính vào đất.
+
+Tô Diêu nhìn tấm thẻ gỗ đầu tiên. Ba mươi hạt cho bảy ngày hộ dược. Nếu hàng mất, người hộ phải bồi. Nếu người mất, hàng vẫn được đưa tới. Chữ trên thẻ không viết câu đó, nhưng khoảng trống giữa hai mục giá và phạt đã nói đủ.
+
+Hắn lật thẻ thứ hai. Mép gỗ có một vệt nâu cũ, đã cạo mà không sạch. Người giữ kho trước có lẽ từng cầm chính tấm này. Có lẽ cũng từng hỏi trong kho là gì.
+
+— Hai việc này đã đổi người bao nhiêu lần?
+
+— Việc thứ nhất ba. Việc thứ hai năm.
+
+— Họ hoàn thành?
+
+— Có người hoàn thành phần của mình.
+
+Người áo xám thu hai thẻ lại, như thể số người đã cầm chúng chưa từng là một mục cần ghi.
 
 — Ai thuê?
 
@@ -327,6 +369,14 @@ Trung gian đặt bút xuống.
 Tô Diêu cầm khế lên.
 
 Bên ngoài U Ngõ, trời chiều chắc đã tắt. Trong này, mười hai ngọn đèn trắng không hề đổi sắc, không phân ngày đêm, như thể mọi lựa chọn đều đã nằm sẵn dưới ánh sáng.
+
+Một bình phong gần cửa được kéo sang. Người ngồi sau đó để lại trên bàn một tờ khế đã điểm huyết cùng nửa ngón tay út quấn vải. Không rõ y cắt ngón để lập ấn hay đã mất nó trong công trước. Trung gian thu giấy trước, sau đó mới thu giọt máu rơi trên mặt bàn.
+
+Chỗ ngồi trống chưa đầy một hơi đã có người khác thế vào.
+
+Tô Diêu nhìn ô huyết ấn của mình.
+
+Sát Thủ Các không cần biết ai can đảm hơn ai. Bách Hóa cũng không cần biết ai đáng Trúc Cơ hơn ai. Chỉ cần luôn có một kẻ đứng sau người vừa bỏ cuộc, giá sẽ không hạ.
 
 Hắn không ký.
 

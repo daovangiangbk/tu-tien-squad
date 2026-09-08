@@ -98,6 +98,28 @@ Không giận dữ. Không thúc ép.
 
 Ngoài mái hiên, mưa rơi đều lên bậc đá. Một người chờ sau Tô Diêu khẽ ho, rồi ôm chặt tờ giấy bán công vào ngực.
 
+Người ấy là một hán tử cụt hai ngón, áo còn mùi dược đắng. Bên cạnh hắn có bé gái chừng tám tuổi ngủ gục trên ghế đá, cổ tay quấn dải vải vàng của y quán.
+
+Phụ nhân giữ án liếc ra.
+
+— Người sau, khế gì?
+
+Hán tử cúi đầu.
+
+— Khế thuốc. Bán hai năm canh kho.
+
+— Một năm đủ tiền thuốc.
+
+— Còn tiền ở thành cho nó.
+
+Phụ nhân không nói nữa.
+
+Tô Diêu nhìn dải vải vàng trên cổ tay đứa bé. Hai năm của một người được chia rất gọn: một năm đổi thuốc, một năm đổi mái che. Nếu hán tử không ký, y vẫn tự do. Tự do ôm con rời thành trước khi trời sáng.
+
+Không phải mọi khế đều là lừa.
+
+Chính vì có lúc khế giữ được một mạng, người ta mới chịu tin những dòng bị mực trắng phủ lên cũng chỉ là một phần giá phải trả.
+
 Tô Diêu hỏi:
 
 — Bỏ mục này, ta trả thêm lãi.
@@ -307,6 +329,28 @@ Trên cổ tay họ có những sợi sáng mờ khác nhau.
 Khế.
 
 Người vì nợ đan, kẻ vì nợ thuốc, người bán công lấy vé cư trú. Có lẽ cũng có kẻ chỉ vì linh thạch. Tất cả đứng dưới cờ xám không tên, chuẩn bị đi giữ một mạch chưa thuộc về ai.
+
+Quản đội đi dọc hàng, phát cho mỗi người một thẻ vị trí. Thẻ của Tô Diêu ghi xe trận thứ hai, hàng ngoài, số mười bảy. Không có tên.
+
+Người đứng trước hắn nhận số mười sáu. Đó là một nữ tu lớn tuổi, tóc đã lẫn bạc, lưng đeo sáu cây trận kỳ bó bằng dây gai. Bà nhìn thẻ hắn rồi nhìn vai phải còn cứng.
+
+— Giữ được kỳ không?
+
+— Nếu kỳ không nặng hơn người.
+
+— Đến mạch rồi, có khi người nhẹ hơn kỳ.
+
+Bà quay đi, không cho biết tên.
+
+Trên xe đầu, một quản sự đếm lớn từng số. Mỗi tiếng đáp “có” vang lên, bút trong tay hắn lại gạch một nét. Tô Diêu chợt hiểu hàng ứng cử trong khế không cần gọi tên. Chỉ cần một số im tiếng, số đứng sau sẽ tiến lên.
+
+— Mười bảy.
+
+— Có.
+
+Một nét mực hạ xuống.
+
+Sợi lạnh nơi cổ tay hắn siết nhẹ, như khế cũng vừa nghe thấy.
 
 Tô Diêu được xếp vào xe trận thứ hai.
 
