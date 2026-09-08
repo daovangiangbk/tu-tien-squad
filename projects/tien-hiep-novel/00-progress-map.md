@@ -6,7 +6,7 @@
 > **Task queue agent:** [`status.md`](status.md)
 
 **Lần cập nhật:** 2026-09-08  
-**Session focus:** Ch.1–44 **approved draft** · **Beat 8 (ch.40–44) complete** · gate mở ch.45  
+**Session focus:** Ch.1–47 **approved draft** · **Beat 9 (ch.45–47) complete** · gate mở ch.48  
 **Brief:** v2 · **Trần phase 1:** Trúc Cơ đỉnh phong
 
 ---
@@ -34,7 +34,7 @@
 
 | Phase | Trạng thái | Arc | Chương (prose) | Ghi chú |
 | --- | --- | --- | --- | --- |
-| **1** — Trúc Cơ đỉnh phong | `in_progress` | 4 khối (1+T+2+3) | **44 / 112** prose (**44** approved) | Spine Arc 1 đủ 48 ch |
+| **1** — Trúc Cơ đỉnh phong | `in_progress` | 4 khối (1+T+2+3) | **47 / 112** prose (**47** approved) | Spine Arc 1 đủ 48 ch |
 | **2** — Kim Đan+ | `planned` | — | 0 | Stub sau phase 1 |
 
 ---
@@ -48,7 +48,7 @@
 | Metric | Giá trị |
 | --- | --- |
 | Spine | ✅ 48/48 dòng |
-| Prose | **44** approved draft · **4** outline |
+| Prose | **47** approved draft · **1** outline |
 | Beat sheet | [`logic/arcs/01-arc1-beats.md`](logic/arcs/01-arc1-beats.md) |
 
 | Ch | Tiêu đề | Status | File |
@@ -97,9 +97,9 @@
 | 42 | Lệch Khí Ngọc | **approved draft** | [chapter-42-lech-khi-ngoc.md](interface/chapters/chapter-42-lech-khi-ngoc.md) · [review r2](interface/chapter-view/review-chapter-42-lech-khi-ngoc-r2.md) |
 | 43 | Khế Chưa Ký | **approved draft** | [chapter-43-khe-chua-ky.md](interface/chapters/chapter-43-khe-chua-ky.md) · [review r2](interface/chapter-view/review-chapter-43-khe-chua-ky-r2.md) |
 | 44 | Bán Tin | **approved draft** · Beat 8 đóng | [chapter-44-ban-tin.md](interface/chapters/chapter-44-ban-tin.md) · [review r2](interface/chapter-view/review-chapter-44-ban-tin-r2.md) |
-| 45 | Ép Công | `outline` | — |
-| 46 | Trận Tàn Một Nhịp | `outline` | — |
-| 47 | LK Viên Mãn | `outline` | — |
+| 45 | Ép Công | **approved draft** · Beat 9 mở | [chapter-45-ep-cong.md](interface/chapters/chapter-45-ep-cong.md) · [review r2](interface/chapter-view/review-chapter-45-ep-cong-r2.md) |
+| 46 | Trận Tàn Một Nhịp | **approved draft** | [chapter-46-tran-tan-mot-nhip.md](interface/chapters/chapter-46-tran-tan-mot-nhip.md) · [review r2](interface/chapter-view/review-chapter-46-tran-tan-mot-nhip-r2.md) |
+| 47 | LK Viên Mãn | **approved draft** · Beat 9 đóng | [chapter-47-lk-vien-man.md](interface/chapters/chapter-47-lk-vien-man.md) · [review r2](interface/chapter-view/review-chapter-47-lk-vien-man-r2.md) |
 | 48 | Thạch Lam Ẩn | `outline` | — |
 
 ---
@@ -146,7 +146,7 @@
 
 ```
 Phase 1 [in_progress]
-├── Arc 1 Phế Địa Tán Tu [prose_partial]  ch 1–33 approved draft · 34–48 outline
+├── Arc 1 Phế Địa Tán Tu [prose_partial]  ch 1–47 approved draft · 48 outline
 ├── Transition Thành Trì Khế [spine]      ch 49–54 block
 ├── Arc 2 Tranh Mạch Phụ [spine]          ch 55–88 block
 └── Arc 3 Đan Điền Viên Mãn [spine]       ch 89–112 block

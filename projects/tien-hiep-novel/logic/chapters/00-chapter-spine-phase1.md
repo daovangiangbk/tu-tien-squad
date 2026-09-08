@@ -54,9 +54,9 @@
 | 42 | `lech-khi-ngoc` | Lệch Khí Ngọc | 8 | — | **approved draft** | `chapter-42-lech-khi-ngoc.md` |
 | 43 | `khe-chua-ky` | Khế Chưa Ký | 8 | FS-004 | **approved draft** | `chapter-43-khe-chua-ky.md` |
 | 44 | `ban-tin` | Bán Tin | 8 | FS-016, 004 | **approved draft** · **Beat 8 đóng** | `chapter-44-ban-tin.md` |
-| 45 | `ep-cong` | Ép Công | 9 | FS-001 | outline | — |
-| 46 | `tran-tan-mot-nhip` | Trận Tàn Một Nhịp | 9 | FS-001 | outline | — |
-| 47 | `lk-vien-man` | LK Viên Mãn | 9 | — | outline | — |
+| 45 | `ep-cong` | Ép Công | 9 | FS-001 | **approved draft** | `chapter-45-ep-cong.md` |
+| 46 | `tran-tan-mot-nhip` | Trận Tàn Một Nhịp | 9 | FS-001 | **approved draft** | `chapter-46-tran-tan-mot-nhip.md` |
+| 47 | `lk-vien-man` | Luyện Khí Viên Mãn | 9 | — | **approved draft** · **Beat 9 đóng** | `chapter-47-lk-vien-man.md` |
 | 48 | `thach-lam-an` | Thạch Lam Ẩn | 10 | FS-003, 005, 009 | outline | — |
 
 **Ghi chú Arc 1:** Tiêu đề làm việc — đổi khi prose chốt; slug ổn định trừ khi ticket đổi tên file.
