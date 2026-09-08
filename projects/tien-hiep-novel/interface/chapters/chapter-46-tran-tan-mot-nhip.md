@@ -4,89 +4,31 @@
 > **Nhịp:** 9 · *Trận tàn phát động một nhịp, mảnh đồng cộng hưởng, phá vòng vây trong khe sụp*  
 > **Mầm phục bút:** FS-001 *(nurture · mảnh phản hồi nhịp trận, hiện ấn trận cổ một khắc)*
 
-Mặt đất dưới chân rung lên từng đợt ngắn, dồn dập như tiếng trống trận giục giã từ cõi u minh.
+Lưng áp sát vào vách đá hoa cương lạnh buốt, Tô Diêu cảm nhận rõ từng đợt chấn động trầm đục từ tận đáy sâu vực thẳm đang dội thẳng qua phiến đá vào tủy sống mình.
 
-Đó không phải là sự rung lắc của đất đá bình thường khi hang sụp. Đó là sự chuyển động của một cỗ máy khổng lồ bằng đồng đen và đá tảng, bị chôn vùi hàng vạn năm dưới lòng sâu Lan Sa Châu, nay đột ngột bị đánh thức bởi một giọt máu tươi và một luồng lệch khí hỗn tạp. Khí lạnh từ đáy vực sau lưng Tô Diêu bốc lên ngùn ngụt, mang theo thứ mùi kim loại cháy khét lẹt cùng áp lực nặng nề đến mức khiến từng sợi lông tơ trên cánh tay hắn đều dựng ngược.
+Đó không phải là sự rung lắc của đất đá bình thường khi sụt hầm. Đáy sâu vạn trượng của Cửu Huyền Phế Trận đang chuyển mình dồn dập, tựa như một cỗ máy khổng lồ bằng đồng đen và đá tảng sau giấc ngủ vạn năm vừa được đánh thức bởi một giọt máu tươi và một luồng lệch khí hỗn tạp. Những làn khói đen kịt bốc lên từ các đường rãnh khắc cổ xưa dưới chân chưa kịp tản đi, nay ngưng kết lại, rực lên từng dải u quang màu đỏ sẫm xen lẫn xám xịt. U quang bò ngoằn ngoèo theo các đường vân trận pháp trên mặt sàn đá hoa cương, mang theo thứ áp lực ngột ngạt của quy tắc hỗn loạn tích tụ suốt muôn vàn năm tháng hoang cổ.
 
-Tô Diêu vẫn quỳ một chân trên phiến đá hoa cương nứt toác, bàn tay trái chống xuống đất, các ngón tay siết chặt lấy mảnh Cửu Huyền Trận.
+Nhịp thở duy nhất ấy đang dâng lên tới đỉnh điểm!
 
-Khí huyết trong lồng ngực hắn đang sôi trào như nước lũ phá đê.
+Trong khoang ngực Tô Diêu, khí huyết cuộn trào như lũ vỡ bờ. 
 
-Luyện Khí tầng mười!
+Luyện Khí tầng mười! 
 
-Khiếu huyệt thứ mười — Huyền Xu — vừa mới bị luồng Tam Hệ Lệch Khí xé toạc ra một lỗ hổng đẫm máu. Đan điền của hắn như một cái hồ cạn bất ngờ bị đào sâu thêm một trượng, nhưng nước đổ vào không phải là linh tuyền trong vắt của người tu đạo chính tông, mà là bùn lầy, tro tàn và mảnh sắt vụn rách nát. Ba dòng linh lực Hỏa, Kim, Mộc sau khi cưỡng ép xông phá bình cảnh liền lập tức mất đi sự ước thúc mỏng manh của khối ngọc, bắt đầu điên cuồng cắn xé lẫn nhau ngay bên trong kinh mạch hắn.
+Khiếu huyệt thứ mười — Huyền Xu — vừa bị hắn dùng máu và Tam Hệ Lệch Khí xé toạc, tựa như một cái hồ cạn bất ngờ bị nạo sâu thêm một trượng. Nhưng thứ lấp đầy đan điền không phải linh lưu thuần khiết của người tu đạo chính tông, mà là ba dòng lệch khí Hỏa, Kim, Mộc đang điên cuồng cắn xé kinh mạch hắn. Hỏa khí như tàn than đỏ rực thiêu đốt cuống họng; Kim khí sắc nhọn cứa dọc theo từng đường gân thớ thịt; còn Mộc khí thì cuộn xoắn lại như rễ cây mục, làm nghẽn tắc khí tức ở lồng ngực. Cảnh giới tầng mười này chênh vênh như một tòa tháp đất dựng vội trên bãi cát lún giữa cơn bão cát, chưa hề ổn định một khắc nào. 
 
-Hỏa khí như tàn than đỏ rực thiêu đốt cuống họng; Kim khí sắc nhọn cứa dọc theo từng đường gân thớ thịt; còn Mộc khí thì cuộn xoắn lại như rễ cây mục, làm nghẽn tắc khí tức ở lồng ngực. Mỗi một nhịp tim đập, Tô Diêu lại cảm thấy một cơn đau thấu xương tủy truyền thẳng lên đỉnh đầu. Cảnh giới tầng mười này hoàn toàn chưa hề vững chắc, tựa như một tòa tháp đất dựng vội trên bãi cát lún giữa cơn bão cát, chỉ cần một làn gió mạnh thổi qua cũng đủ khiến nó sụp đổ tan tành.
+Máu tươi từ khóe môi Tô Diêu rỉ ra không dứt, tí tách rơi xuống mu bàn tay trái đang siết chặt lấy mảnh Cửu Huyền Trận cắm ngập trong khe đá hoa cương.
 
-Máu tươi từ khóe môi hắn rỉ ra không dứt, tí tách rơi xuống phiến đá lạnh buốt, hòa vào những đường rãnh khắc cổ xưa đen đúa dưới chân.
+Hắn không có đường lùi, cũng chẳng còn thứ gì trên người. Túi da thú đã vùi lấp dưới đoạn hành lang sụp trước đó; toàn bộ linh thạch, đan dược, phù liệu, đĩa trận vụn đều tan thành cát bụi. Chỉ còn mẩu khế thành trì chưa ký kẹp cứng nơi cổ tay áo bên phải, khối Tam Hệ Lệch Khí Ngọc trước ngực đã nguội ngắt như đá lạnh, và mảnh tàn trận lạnh thấu xương trong lòng bàn tay.
 
-Nhưng hắn không ngã xuống.
+Ở phía đối diện, giữa làn bụi đá từ vòm trần trút xuống rào rào như mưa đổ, đám thuê binh vừa bị uy áp trận pháp đè ngã dúi dụi đang lồm cồm bò dậy. Đao thương giương lên nhưng bước chân bọn chúng run rẩy, đứa nào đứa nấy mặt mày tái mét nhìn thiếu niên gầy gò đầy máu đang tựa lưng vào vách đá.
 
-Tô Diêu cắn chặt răng, mượn cơn đau nhức nhối để giữ cho thần trí mình không rơi vào hôn mê. Hắn chậm rãi đứng thẳng người dậy. Tấm áo vải thô trên người hắn đã rách tơi tả, bết dính máu tươi và bụi đá, nhưng sống lưng hắn lại thẳng tắp như một ngọn giáo sắt cùn cắm giữa đống đổ nát. Đôi mắt đen kịt của hắn xuyên qua màn bụi mù mịt, nhìn thẳng về phía trước.
+Mạc Lão vừa thu lại pháp quyết ổn định thân hình sau cú chấn động từ đáy vực, sắc mặt già nua đã tối sầm lại.
 
-Ở cách hắn ba trượng, đám thuê binh bịt mặt đang lục tục bò dậy từ đống đá vụn.
+Là một tu sĩ Kim Đan dẫu mang thân thể tàn phế, cảm ứng của lão với linh khí thiên địa vẫn nhạy bén hơn đám thuê binh gấp trăm lần. Lão lập tức nhận ra dải u quang đang rực sáng trên các rãnh khắc không phải là dấu hiệu sụp hầm ngẫu nhiên. Mùi kim loại cháy khét lẹt, luồng uy áp cổ xưa ngột ngạt đang bốc lên ngùn ngụt, và nhất là ánh mắt của Tô Diêu — đôi mắt đen kịt như đầm nước chết không hề nhìn vào đao kiếm hay bàn tay lão, mà khóa chặt vào những đường vân trận pháp đang toác rộng dưới chân — khiến da đầu lão tê rần.
 
-Tên đầu lĩnh thuê binh đứng ở vị trí trung tâm, bàn tay phải của hắn buông thõng, máu đỏ tươi chảy ròng ròng từ hổ khẩu nứt toác xuống mũi giày. Thanh quỷ đầu đao nặng nề của hắn lúc này vẫn đang cắm ngập nửa thân trên trần đá hoa cương, sau cú va chạm dữ dội với luồng kình khí hộ thể khi Tô Diêu phá cảnh. Đôi mắt sau lớp khăn bịt mặt của tên đầu lĩnh đỏ ngầu những tia máu, vừa kinh hãi, vừa bộc lộ vẻ hung tợn của một con thú dữ bị thương.
+Tiểu tử này không hề có ý định chịu trói. Hắn đang câu giờ chờ nhịp trận bùng nổ!
 
-Ba tên cầm giáo sắt đi cùng hắn cũng đã lấy lại thăng bằng. Bọn chúng siết chặt chuôi giáo, mũi thương chĩa thẳng về phía Tô Diêu, nhưng bước chân lại ngập ngừng, không dám tiến lên nửa bước.
-
-Mười mấy tên thuê binh khác ở phía sau lập tức tản ra theo hình cánh cung, đao kiếm giương lên, nỏ sắt lại một lần nữa kéo căng dây, bịt kín toàn bộ lối ra duy nhất của hành lang đá. 
-
-Bọn chúng là những kẻ liếm máu trên lưỡi đao, từng chém giết vô số tán tu ở phế địa. Nhưng chưa một kẻ nào từng chứng kiến một tên thiếu niên mang tạp căn phế vật, không đan dược, không bùa chú hỗ trợ, lại dám dùng chính máu thịt và tàn trận để cưỡng ép phá vỡ bình cảnh Luyện Khí tầng mười ngay trước mũi đao của đối phương.
-
-Khí tức tỏa ra từ người Tô Diêu lúc này không hề có vẻ thanh cao, tĩnh lặng của bậc tu sĩ, mà tràn ngập mùi tanh tưởi của tử khí, sự hung hãn của dã thú cùng đường, và một thứ chấp niệm đen tối đến rợn người.
-
-Phía sau tầng tầng lớp lớp đao thương ấy, một bóng áo chùng màu tro từ từ bước lên.
-
-Trần Quy Mạc.
-
-Mạc Lão chắp hai tay sau lưng, bước chân của lão nhẹ bẫng, không phát ra một tiếng động nào trên nền đá lổn nhổn sa khoáng. Nhưng mỗi bước lão hạ xuống, không khí xung quanh lại như đặc quánh thêm một phần. Luồng uy áp của một tu sĩ Kim Đan — dẫu là một Kim Đan tàn phế mang đầy ám thương trong cơ thể — vẫn như một ngọn núi đá ngàn cân đè nặng lên không gian chật hẹp của khoang hầm.
-
-Đôi mắt ti hí của Mạc Lão dừng lại trên bàn tay trái của Tô Diêu, nơi mảnh kim loại rỉ sét đang nằm gọn trong lòng bàn tay đầy máu. Rồi ánh mắt lão trượt xuống khối Tam Hệ Lệch Khí Ngọc trước ngực hắn, nơi đang tỏa ra từng làn khói xám nhạt mờ ảo.
-
-Nếp nhăn trên gương mặt già nua của Mạc Lão giật giật.
-
-— Luyện Khí tầng mười… — Mạc Lão khẽ mở miệng, giọng nói khàn đục như tiếng đá cọ vào nhau giữa đêm đông, nhưng từng âm tiết lại vang vọng rõ mồn một trong tâm thức của tất cả những người có mặt. — Dùng ba luồng lệch khí cắn xé kinh mạch, mượn tàn lực của phế trận thượng cổ để xé rách bình cảnh Huyền Xu. Khá lắm. Quả thực là một tên tiểu tử tàn nhẫn với chính bản thân mình.
-
-Mạc Lão dừng lại cách Tô Diêu hai trượng rưỡi. Khoảng cách này đối với một tu sĩ Kim Đan chỉ bằng một cái phất tay áo.
-
-— Lão phu ở Lan Sa Châu mấy chục năm qua, thấy qua không ít thiên tài danh môn, cũng đạp qua vô số xác chết của lũ tán tu tham lam. Nhưng kẻ mang tam hệ tạp căn phế vật mà có thể mở ra khiếu huyệt thứ mười theo cách này… ngươi là kẻ đầu tiên.
-
-Mạc Lão nheo mắt lại, trong con ngươi đục ngầu lóe lên một tia sáng tham lam lạnh lẽo:
-
-— Mảnh Cửu Huyền Trận đó, ngươi nhặt được ở tầng mấy của phế địa? Nói ra, giao cả khối ngọc trên ngực ngươi lại đây, lão phu có thể giữ lại cho ngươi một cái mạng phế nhân, cho ngươi một chén cơm thừa dưới trướng Sa Điêu Đổ để sống nốt nửa đời còn lại. Bằng không, lão phu sẽ bẻ gãy từng đoạn xương trên người ngươi, rút hồn phách ngươi ra tra hỏi dưới ngọn minh đăng, để ngươi hiểu thế nào là cái giá của việc nghịch thiên.
-
-Tô Diêu không trả lời.
-
-Hắn thậm chí không hề chớp mắt.
-
-Hắn biết rõ Mạc Lão là hạng người nào. Ở nơi phế địa này, từ ngữ "giữ lại mạng sống" từ miệng một kẻ như Mạc Lão chỉ đồng nghĩa với việc biến một con người thành một khối thịt thối biết thở để vắt kiệt giá trị cuối cùng. Một khi giao ra mảnh trận và khối ngọc, hắn sẽ chết thảm hơn bất kỳ kẻ nào nằm dưới đống xương vụn ngoài kia.
-
-Huống chi, Tô Diêu không có đường lùi.
-
-Sau lưng hắn là vực thẳm đen ngòm của Cửu Huyền Phế Trận. Trước mặt hắn là Kim Đan tàn phế cùng hơn mười tên thuê binh khát máu.
-
-Trong người hắn lúc này hoàn toàn trống rỗng. Túi da thú đã mất ở đoạn hành lang sụp trước đó, toàn bộ linh thạch, phù lục, đĩa trận vụn đều không còn. Mẩu khế chưa ký vẫn kẹp chặt nơi cổ tay áo bên phải, lạnh ngắt và cứng đờ như một mảnh gỗ mục. Hắn chỉ còn lại một cái mạng rách nát, khiếu huyệt thứ mười đang rung chuyển dữ dội, và mảnh Cửu Huyền Trận đang cắm một góc vào khe đá hoa cương.
-
-Và một điều nữa: tiếng đập từ lòng đất đang ngày một dồn dập.
-
-Uỳnh… Uỳnh…!
-
-Mặt đất dưới chân bỗng nảy lên một nhịp ngắn.
-
-Lần này, không chỉ Tô Diêu cảm nhận được, mà toàn bộ đám thuê binh đều loạng choạng. Bụi đá từ vòm trần rơi xuống rào rào như mưa trút. Những đường rãnh khắc cổ xưa trên mặt sàn đá hoa cương — vốn đã câm lặng hàng ngàn năm — bỗng nhiên bốc lên những tia u quang màu đỏ sẫm xen lẫn xám xịt. Đó là thứ u quang của địa mạch tàn phá, tích tụ oán khí và linh lực hỗn loạn qua muôn vàn năm tháng chiến tranh hoang cổ.
-
-Mạc Lão biến sắc.
-
-Là một tu sĩ Kim Đan, cảm ứng của lão với linh khí thiên địa nhạy bén hơn đám thuê binh gấp trăm lần. Lão lập tức nhận ra luồng dao động bên dưới không phải là một vụ sụt lở hang động thông thường. 
-
-Đó là một nhịp mạch trận của Cửu Huyền Phế Trận đang thức tỉnh!
-
-Sau trận rung chuyển ở tầng dưới mấy ngày trước, phế trận này như một con cự thú hấp hối vừa tích tụ đủ tàn lực sau một giấc ngủ dài, chuẩn bị thở ra một hơi thở cuối cùng.
-
-Chỉ một nhịp duy nhất!
-
-Một nhịp mạch trận này nếu bùng phát toàn diện, uy lực của nó đủ để nghiền nát toàn bộ hành lang đá này thành bình địa, chôn vùi tất cả những kẻ đang đứng ở đây xuống lòng đất sâu muôn trượng.
+Một nhịp mạch trận tích tụ tàn lực vạn năm của Cửu Huyền Phế Trận nếu bùng phát toàn diện, uy lực của nó đủ để nghiền nát toàn bộ hành lang đá này thành bình địa, chôn vùi tất cả xuống lòng đất sâu muôn trượng.
 
 — Không ổn! — Mạc Lão quát lớn, thanh âm không còn giữ được vẻ ung dung thường ngày. — Tên tiểu tử kia đang câu giờ! Bắt lấy hắn mau! Phế đan điền, chặt đứt hai tay nó cho ta!
 
@@ -156,7 +98,7 @@ Nhưng nhịp thở của Cửu Huyền Phế Trận đã được nối liền!
 
 Mảnh Cửu Huyền Trận trên tay hắn, thông qua giọt máu và luồng lệch khí ba hệ, đã trở thành một chiếc chìa khóa tạm thời cắm vào trái tim đang đập của phế trận vạn năm.
 
-UỲNH… CƠM…!
+UỲNH… ẦM…!
 
 Một tiếng nổ long trời lở đất bùng phát từ tận đáy sâu lòng đất Lan Sa Châu.
 
@@ -284,6 +226,10 @@ Tô Diêu nằm đó giữa vũng máu của chính mình, lồng ngực nghẹn
 
 ## Ghi chú sáng tác
 
+- **Chỉnh sửa sau duyệt (C-01, C-02, C-03):**
+  - **C-01 (đã xử lý):** Sửa lỗi gõ phím/typo «UỲNH… CƠM…!» thành tiếng nổ rung chuyển cổ kính, dứt khoát «UỲNH… ẦM…!».
+  - **C-02 (đã xử lý):** Cắt bỏ hoàn toàn đoạn mở đầu lặp lại các beat và tình tiết cuối chương 45 (từ thế quỳ gượng đứng, cảnh thuê binh khiếp sợ, đoạn Mạc Lão bước lên nói "Khá lắm"). Bắt đầu chương 46 nối thẳng từ tình thế cliffhanger ch45: Tô Diêu đã áp sát lưng vào vách đá, Cửu Huyền Phế Trận đang chuyển mình chuẩn bị một nhịp mạch trận duy nhất.
+  - **C-03 (đã xử lý):** Dải u quang dọc các rãnh khắc cổ xưa nối tiếp liền mạch từ làn khói đen kịt cuối chương 45, dâng trào trực tiếp thành cao trào của nhịp mạch trận duy nhất, không tạo cảm giác thiết lập nhịp thứ hai.
 - **Kiểm tra chính sử (Canon check):** Đạt.
   - Tô Diêu ở Luyện Khí tầng mười nhưng cảnh giới hoàn toàn bất ổn, kinh mạch rách thêm một đường dài, thần thức chấn thương sơ bộ (thần thức tổn sơ) do phản phệ của đồ hình cổ trận.
   - Tuyệt đối không vượt cấp đánh bại hay giết Kim Đan; Mạc Lão chỉ bị phản phệ của Cửu Huyền Phế Trận đánh trúng vết thương Kim Đan cũ, suy yếu tạm thời; tên đầu lĩnh thuê binh bị luồng kình khí hỗn loạn quét gãy xương ngực, không chết.
