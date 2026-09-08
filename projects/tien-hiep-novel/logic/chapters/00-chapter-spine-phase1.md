@@ -93,9 +93,9 @@
 | Ch | Slug | Tiêu đề làm việc | Beat | FS (chính) | Status |
 | --- | --- | --- | --- | --- | --- |
 | 55 | `khe-thue-mach` | Khế Thuê Mạch | 1 | FS-004, 009 | **approved draft** | `chapter-55-khe-thue-mach.md` |
-| 56 | `dan-sa-phu` | Đan Sa Phụ | 1 | FS-003 | outline |
-| 57 | `luat-dai-cuc` | Luật Đại Cục | 1 | FS-002 | outline |
-| 58 | `tru-co-dan` | Trúc Cơ Đan | 1 | FS-009 | outline |
+| 56 | `dan-sa-phu` | Đan Sa Phụ | 1 | FS-003 | **approved draft** | `chapter-56-dan-sa-phu.md` |
+| 57 | `luat-dai-cuc` | Luật Đại Cục | 1 | FS-002 | **approved draft** | `chapter-57-luat-dai-cuc.md` |
+| 58 | `tru-co-dan` | Trúc Cơ Đan | 1 | FS-009 | **approved draft** | `chapter-58-tru-co-dan.md` |
 | 59 | `manh-ghep` | Mảnh Ghép | 2 | FS-012 | outline |
 | 60 | `tran-slot-mach` | Tranh Suất Mạch | 2 | — | outline |
 | 61 | `ep-dot-pha` | Ép Đột Phá | 2 | FS-001 | outline |

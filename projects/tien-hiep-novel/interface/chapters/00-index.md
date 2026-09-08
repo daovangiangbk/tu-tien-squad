@@ -76,6 +76,9 @@
 | Ch | Tiêu đề | Status | File |
 | --- | --- | --- | --- |
 | 55 | Khế Thuê Mạch | approved draft | [chapter-55-khe-thue-mach.md](./chapter-55-khe-thue-mach.md) |
+| 56 | Đan Sa Phụ | approved draft | [chapter-56-dan-sa-phu.md](./chapter-56-dan-sa-phu.md) |
+| 57 | Luật Đại Cục | approved draft | [chapter-57-luat-dai-cuc.md](./chapter-57-luat-dai-cuc.md) |
+| 58 | Trúc Cơ Đan | approved draft | [chapter-58-tru-co-dan.md](./chapter-58-tru-co-dan.md) |
 
 *Outline Logic — [`02-arc2-beats.md`](../../logic/arcs/02-arc2-beats.md) · spine ch.55–88 trong [`00-chapter-spine-phase1.md`](../../logic/chapters/00-chapter-spine-phase1.md).*
 

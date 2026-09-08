@@ -7,8 +7,8 @@
 
 ## Snapshot
 
-- **Phase:** Arc 1 + Transition **approved** · **Arc 2 ch.55 approved draft** · gate ch.56
-- **Session:** Viết ch.55 · review r1 revise C-01 · r2 pass · auto-gate
+- **Phase:** Arc 1 + Transition **approved** · **Arc 2 ch.56–58 approved draft** · Beat 1 khép · gate ch.59
+- **Session:** Viết ch.56–58 · review r1/r2 · auto-gate · push main
 - **Blockers:** Không
 - **Human gate (session):** User pre-approve — sau mỗi review: nếu **suggest_pass** / không `critical`, coi **approved draft** (bỏ qua revise trừ ID critical); nếu có critical → revise rồi r2 như workflow
 
@@ -404,6 +404,30 @@
 | Beat | [`ch55-khe-thue-mach-beat.md`](logic/chapters/ch55-khe-thue-mach-beat.md) |
 | Review | r2 [`review-chapter-55-khe-thue-mach-r2.md`](interface/chapter-view/review-chapter-55-khe-thue-mach-r2.md) · **suggest_pass** · revise C-01 |
 
+## Chương 56 — `dan-sa-phu`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-56-dan-sa-phu.md`](interface/chapters/chapter-56-dan-sa-phu.md) |
+| Beat | [`ch56-dan-sa-phu-beat.md`](logic/chapters/ch56-dan-sa-phu-beat.md) |
+| Review | r2 [`review-chapter-56-dan-sa-phu-r2.md`](interface/chapter-view/review-chapter-56-dan-sa-phu-r2.md) · **suggest_pass** · revise C-01 |
+
+## Chương 57 — `luat-dai-cuc`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-57-luat-dai-cuc.md`](interface/chapters/chapter-57-luat-dai-cuc.md) |
+| Beat | [`ch57-luat-dai-cuc-beat.md`](logic/chapters/ch57-luat-dai-cuc-beat.md) |
+| Review | [`review-chapter-57-luat-dai-cuc.md`](interface/chapter-view/review-chapter-57-luat-dai-cuc.md) · **suggest_pass** |
+
+## Chương 58 — `tru-co-dan`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-58-tru-co-dan.md`](interface/chapters/chapter-58-tru-co-dan.md) |
+| Beat | [`ch58-tru-co-dan-beat.md`](logic/chapters/ch58-tru-co-dan-beat.md) |
+| Review | [`review-chapter-58-tru-co-dan.md`](interface/chapter-view/review-chapter-58-tru-co-dan.md) · **suggest_pass** |
+
 ## Chương 48 — `thach-lam-an`
 
 | Trạng thái | Giá trị |
@@ -414,4 +438,4 @@
 
 ---
 
-*Status sync — **55/112 approved draft** · Arc 2 ch.55 mở (2026-09-08). Gate ch.56.*
+*Status sync — **58/112 approved draft** · Arc 2 Beat 1 khép (ch.55–58) (2026-09-08). Gate ch.59.*

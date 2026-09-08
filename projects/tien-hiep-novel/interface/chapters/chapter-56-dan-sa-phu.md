@@ -358,9 +358,7 @@ Ba nét xiên đỏ dưới da cùng sáng. Từ khe nứt, một lực kéo vô
 
 Khế cần một thân người đứng ở đây.
 
-Hôm qua là bà lão tóc bạc.
-
-Hôm nay là hắn.
+Chỗ số mười sáu đáng lẽ thuộc bà lão tóc bạc — nay đến hắn.
 
 Tô Diêu tháo bó cọc, đặt cây thứ nhất vào hõm đá. Máu khô trên bao gai rơi thành bụi. Hắn không lau, chỉ chỉnh mũi cọc theo vết trận còn sót lại.
 
