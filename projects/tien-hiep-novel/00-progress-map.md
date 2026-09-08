@@ -99,7 +99,7 @@
 | 44 | Bán Tin | **approved draft** · Beat 8 đóng | [chapter-44-ban-tin.md](interface/chapters/chapter-44-ban-tin.md) · [review r2](interface/chapter-view/review-chapter-44-ban-tin-r2.md) |
 | 45 | Ép Công | **approved draft** | [chapter-45-ep-cong.md](interface/chapters/chapter-45-ep-cong.md) |
 | 46 | Trận Tàn Một Nhịp | **approved draft** | [chapter-46-tran-tan-mot-nhip.md](interface/chapters/chapter-46-tran-tan-mot-nhip.md) |
-| 47 | LK Viên Mãn | `outline` | — |
+| 47 | LK Viên Mãn | `draft` | [chapter-47-lk-vien-man.md](interface/chapters/chapter-47-lk-vien-man.md) |
 | 48 | Thạch Lam Ẩn | `outline` | — |
 
 ---
