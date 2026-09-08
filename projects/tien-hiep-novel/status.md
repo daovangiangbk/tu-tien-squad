@@ -7,8 +7,8 @@
 
 ## Snapshot
 
-- **Phase:** Arc 1 + Transition **approved** · **Arc 2 ch.59–62 approved draft** · Beat 2 khép · gate ch.63
-- **Session:** Viết ch.59–62 · review r1/r2 · auto-gate · push main
+- **Phase:** Arc 1 + Transition **approved** · **Arc 2 ch.63–66 approved draft** · Beat 3 khép · gate ch.67
+- **Session:** Viết ch.63–66 · review r1/r2 · auto-gate · push main
 - **Blockers:** Không
 - **Human gate (session):** User pre-approve — sau mỗi review: nếu **suggest_pass** / không `critical`, coi **approved draft** (bỏ qua revise trừ ID critical); nếu có critical → revise rồi r2 như workflow
 
@@ -460,6 +460,38 @@
 | Beat | [`ch62-tru-co-so-beat.md`](logic/chapters/ch62-tru-co-so-beat.md) |
 | Review | r2 [`review-chapter-62-tru-co-so-r2.md`](interface/chapter-view/review-chapter-62-tru-co-so-r2.md) · **suggest_pass** · revise C-01, C-02 |
 
+## Chương 63 — `ve-bi-canh`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-63-ve-bi-canh.md`](interface/chapters/chapter-63-ve-bi-canh.md) |
+| Beat | [`ch63-ve-bi-canh-beat.md`](logic/chapters/ch63-ve-bi-canh-beat.md) |
+| Review | r2 [`review-chapter-63-ve-bi-canh-r2.md`](interface/chapter-view/review-chapter-63-ve-bi-canh-r2.md) · **suggest_pass** · revise C-01 |
+
+## Chương 64 — `phong-an-tin`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-64-phong-an-tin.md`](interface/chapters/chapter-64-phong-an-tin.md) |
+| Beat | [`ch64-phong-an-tin-beat.md`](logic/chapters/ch64-phong-an-tin-beat.md) |
+| Review | r2 [`review-chapter-64-phong-an-tin-r2.md`](interface/chapter-view/review-chapter-64-phong-an-tin-r2.md) · **suggest_pass** · revise C-01–C-05 |
+
+## Chương 65 — `monopoly-ve`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-65-monopoly-ve.md`](interface/chapters/chapter-65-monopoly-ve.md) |
+| Beat | [`ch65-monopoly-ve-beat.md`](logic/chapters/ch65-monopoly-ve-beat.md) |
+| Review | [`review-chapter-65-monopoly-ve.md`](interface/chapter-view/review-chapter-65-monopoly-ve.md) · **suggest_pass** |
+
+## Chương 66 — `hai-cuoc`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-66-hai-cuoc.md`](interface/chapters/chapter-66-hai-cuoc.md) |
+| Beat | [`ch66-hai-cuoc-beat.md`](logic/chapters/ch66-hai-cuoc-beat.md) |
+| Review | [`review-chapter-66-hai-cuoc.md`](interface/chapter-view/review-chapter-66-hai-cuoc.md) · **suggest_pass** · revise C-01–C-04 |
+
 ## Chương 48 — `thach-lam-an`
 
 | Trạng thái | Giá trị |
@@ -470,4 +502,4 @@
 
 ---
 
-*Status sync — **62/112 approved draft** · Arc 2 Beat 2 khép (ch.55–62) (2026-09-08). Gate ch.63.*
+*Status sync — **66/112 approved draft** · Arc 2 Beat 3 khép (ch.63–66) (2026-09-08). Gate ch.67.*
