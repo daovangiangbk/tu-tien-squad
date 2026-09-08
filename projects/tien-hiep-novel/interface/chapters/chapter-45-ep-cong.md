@@ -30,17 +30,13 @@ Phía sau tầng tầng lớp lớp đao kích ấy, Mạc Lão vẫn đứng y�
 
 Trần Quy Mạc chắp hai tay sau lưng áo chùng màu tro, râu cằm lưa thưa bất động giữa luồng gió ngầm hung hãn. Đôi mắt lão nheo lại thành hai khe hẹp, bình thản nhìn Tô Diêu như một tay buôn đồ cổ sành sỏi đang ngắm nghía một món phế khí sắp nứt toác.
 
-— Ngươi nghĩ cái khe nứt từ vạn năm trước có thể che cho ngươi được bao lâu? — Giọng Mạc Lão vang lên, không lớn, nhưng xuyên qua tiếng gió hú rợn người, đè nặng lên màng nhĩ Tô Diêu như đá tảng. — Tầng chín bất ổn, kinh mạch rách nát, trong túi không còn nửa hạt linh thạch, trên tay không có một tấm phù lành. Một mảnh đồng rỉ nhặt từ bãi rác, cũng đòi cản lão phu?
+— Ngươi nghĩ cái khe nứt từ vạn năm trước có thể che cho ngươi được bao lâu? — Giọng Mạc Lão vang lên, không lớn, nhưng xuyên qua tiếng gió hú rợn người, đè nặng lên màng nhĩ Tô Diêu như đá tảng. — Tầng chín bất ổn, kinh mạch rách nát, trên người không còn nửa hạt linh thạch, chẳng còn lấy một tấm phù lành. Một mảnh đồng rỉ nhặt từ bãi rác, cũng đòi cản lão phu?
 
 Mạc Lão nói không sai nửa chữ.
 
 Tô Diêu tự biết rõ hơn bất kỳ ai tình cảnh của bản thân lúc này.
 
-Hắn khẽ rũ mi mắt, ngón tay run rẩy sờ vào túi trữ vật bên hông. Bên trong trống rỗng đến thê lương. Trận đĩa vi hình mà hắn tích cóp bao tháng ngày đã vỡ vụn thành bột đá từ hồi giao tranh ở tầng trên; phù lục phòng thân cháy sạch không còn một mảnh; ba mươi hạt linh thạch hạ phẩm đổi bằng máu và mồ hôi ở Phi Vân Tập đã cạn kiệt trong lúc chạy trốn. Trong góc túi chỉ còn lại một mảnh vỏ bình gốm vỡ vụn, vương vãi chút bột khô khốc của viên Hồi Khí hoàn phẩm hạ đã tan chảy từ lâu.
-
-Hắn quệt ngón tay dính chút bụi đan đắng nghét ấy, đưa lên mũi ngửi một cái, rồi buông tay để nó rơi vào kẽ đá.
-
-Một thứ đan dược cặn bã như thế, nuốt vào lúc này chỉ tổ làm tắc nghẽn thêm những nhánh kinh mạch đang rách toang.
+Túi da thú đã bị chém đứt quai, rơi lại ngoài miệng khe đá sụp. Thanh Phong Phi Liên, trận đĩa vi hình vỡ vụn, phù liệu, và cả viên Hồi Khí hoàn phế phẩm duy nhất — tất cả đều đã nằm lại phía bên kia. Không còn đan dược, không còn lấy nửa hạt linh thạch để bổ khuyết linh lực trơ đáy. Dù viên đan cặn bã ấy còn trên tay, nuốt vào lúc này cũng chỉ tổ làm tắc nghẽn thêm những nhánh kinh mạch đang rách toang.
 
 Trong người hắn lúc này, ngoài mẩu khế chưa ký kẹp chặt nơi cổ tay áo, chỉ còn lại hai vật:
 
@@ -52,7 +48,7 @@ Và bản thân hắn — một kẻ mang Tam Hệ Tạp Linh Căn Hỏa–Kim�
 
 Mỗi một hơi thở hít vào, lồng ngực Tô Diêu lại đau buốt như bị hàng ngàn mũi kim châm cùng lúc xuyên thấu.
 
-Bình thường, để một tu sĩ Luyện Khí tầng chín bước lên tầng mười — ngưỡng cửa bắt đầu đả thông một trăm linh tám khiếu huyệt chu thiên để hướng tới cảnh giới Viên Mãn — người đó cần phải bế quan trong tĩnh thất có linh mạch dồi dào, uống Tụ Khí Đan, dùng Tẩy Tủy Dịch gột rửa kinh mạch, có sư trưởng hoặc đạo hữu hộ pháp suốt mười ngày nửa tháng. Đột phá là quá trình mài giũa tỉ mỉ, thuận theo thiên địa, dẫn linh khí tinh thuần vào từng khiếu huyệt như nước chảy vào mương rãnh.
+Bình thường, để một tu sĩ Luyện Khí tầng chín bước lên tầng mười — khai mở khiếu huyệt thứ mười trong chu thiên mười hai khiếu huyệt để hướng tới cảnh giới Luyện Khí Viên Mãn — người đó cần phải bế quan trong tĩnh thất có linh mạch dồi dào, uống Tụ Khí Đan, dùng Tẩy Tủy Dịch gột rửa kinh mạch, có sư trưởng hoặc đạo hữu hộ pháp suốt mười ngày nửa tháng. Đột phá là quá trình mài giũa tỉ mỉ, thuận theo thiên địa, dẫn linh khí tinh thuần vào từng khiếu huyệt như nước chảy vào mương rãnh.
 
 Nhưng Tô Diêu không có gì cả.
 
@@ -282,6 +278,9 @@ Bàn tay đầy máu của Tô Diêu siết chặt lấy mảnh tàn trận, án
 
 ## Ghi chú sáng tác
 
+- **Chỉnh sửa sau duyệt (C-01, C-02):**
+  - **C-01 (đã xử lý):** Loại bỏ mâu thuẫn với chương 44. Không còn chi tiết túi trữ vật hay vét bột Hồi Khí trong túi; túi da thú cùng đan dược, phù liệu, trận đĩa vỡ đã rơi lại ngoài khe đá sụp; trên người Tô Diêu chỉ còn mẩu khế kẹp cổ tay áo, Tam Hệ Lệch Khí Ngọc trước ngực và mảnh Cửu Huyền Trận trong tay trái.
+  - **C-02 (đã xử lý):** Sửa quy ước khiếu huyệt từ "một trăm linh tám khiếu huyệt" thành chu thiên "mười hai khiếu huyệt" (mở huyệt thứ mười hướng tới cảnh giới Luyện Khí Viên Mãn), khớp chuẩn xác với hệ 12 tầng / 12 huyệt dùng xuyên suốt arc (ch.36, ch.47).
 - **Kiểm tra chính sử:** Đạt — Tô Diêu ép mở Luyện Khí tầng mười (khiếu huyệt Huyền Xu) nhưng chưa ổn định; không nhảy vọt lên tầng 11–12; không giết Mạc Lão hay vượt cấp đánh bại Kim Đan; toàn bộ cái giá của ép công (kinh mạch rách thêm, thổ huyết, thần thức suy kiệt, tam hệ lệch khí xung đột cắn xé) bám sát tuyệt đối quy tắc Core `03` §1–2.
 - **FS-001 (trả nhẹ một phần):** Mảnh Cửu Huyền Trận cắm vào vòng khắc chết phát ra một đường sáng xanh kim cực mảnh duy nhất, kết nối khiếu huyệt thứ mười và khối ngọc, trợ lực phá vỡ bình cảnh rồi tắt ngụi; Tô Diêu chưa hiểu nguồn gốc trận pháp hay bí mật Thượng cổ.
 - **FS-004:** Mẩu khế thành trì vẫn kẹp trong cổ tay áo, chưa ký.
