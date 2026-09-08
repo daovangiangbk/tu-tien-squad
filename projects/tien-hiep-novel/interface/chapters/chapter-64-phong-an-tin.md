@@ -9,7 +9,7 @@ Tin **phong ấn vé** không treo trên bảng chính thức.
 
 Nó lan như khói từ lò phụ — không thấy nguồn, chỉ thấy người che miệng, người đổi chỗ, người bỏ ca giữ cọc để chạy về kho đồn hỏi chấp sự. Tô Diêu nghe từ hang đá ngắn phía tây nam, nơi ô mười chín nằm sau dãy đá che: *không phải phong ấn trận*, *không khóa bí cảnh* — **khóa quyền vào trước**. Ai giữ trước quyền phân phối vé vùng, ai khóa suất trước khi Bách Hóa treo giá đầy đủ. Thiên Sa Công Uyên vẫn chưa mở ngày; nhưng cửa vào đã có người **đóng cọc** bằng tin.
 
-Ca chiều hôm qua, hắn đã đọc hết thông cáo trên cột kho — chữ **Thiên Sa Công Uyên**, vé hạn, điều kiện khế chưa khai. Đêm qua, tin phong ấn chen vào giữa tiếng lôi vá nhánh bảy và tiếng xếp hàng mua **giá tham chiếu** treo lơ lửng. Hôm nay, tin ấy **đặt tên**: phong ấn. Không phải ấn trên cổng bí cảnh. Là ấn trên **lượt mua**.
+Ca chiều hôm qua, hắn đã đọc hết thông cáo trên cột kho — lần đầu chữ **Thiên Sa Công Uyên** đủ dòng: bí cảnh **chung**, vé **hạn**, điều kiện khế chưa khai, ngày mở **chưa** niêm. Tre trên cột run trong gió; mực son còn ướt; phía dưới có dòng nhỏ *Thanh Sa giữ một phần suất trước công bố* — không giải thích *một phần* là bao nhiêu, không giải thích *trước* là trước ai. Đêm qua, tin phong ấn chen vào giữa tiếng lôi vá nhánh bảy và tiếng xếp hàng trước quầy treo **giá tham chiếu** — một con số treo lơ lửng, chưa phải giá vé, đủ để tán tu **đoán** và **gom** thạch. Hôm nay, tin ấy **đặt tên**: phong ấn. Không phải ấn trên cổng bí cảnh. Là ấn trên **lượt mua**.
 
 Tô Diêu không rời ô mười chín.
 
@@ -17,7 +17,9 @@ Trúc Cơ Sơ kỳ mới hai đêm; giọt Linh Dịch trong đan điền vẫn 
 
 Trên giấy, ô mười chín *ít linh áp, hậu tuyến phụ*.
 
-Dưới chân hắn, cát son chảy một đường — không vòng, không ngưng — về **nam**, về độ sâu sổ mạch ghi *nhánh bảy*. Ba trượng. Hắn đã đọc khí trước khi nhận ca; tin vé không làm ô an toàn hơn khe số ba. Chỉ làm kho đồn **vắng** hơn: một nửa toán rút về gom thạch, chen nhau trước quầy Thanh Sa.
+Dưới chân hắn, cát son chảy một đường — không vòng, không ngưng — về **nam**, về độ sâu sổ mạch ghi *nhánh bảy*. Ba trượng. Hắn đã đọc khí trước khi nhận ca; tin vé không làm ô an toàn hơn khe số ba. Chỉ làm kho đồn **vắng** hơn: một nửa toán rút về gom thạch, chen nhau trước quầy Thanh Sa. Hang đá ngắn chỉ còn hắn và một tán tu già giữ nhịp mõ trấn — gã không hỏi vé, chỉ hỏi *lôi còn vá bao lâu*. Huyền Lôi đáp từ phía đông bắc; mỗi nhịp, vách run, cát son trượt thêm một hạt. Tiếng **xếp hàng mua tin** từ kho đồn chen vào tiếng lôi — người muốn biết **giá tham chiếu** trước khi biết **giá vé**; người muốn biết ai **giữ trước** trước khi biết mình **còn chỗ** hay không.
+
+Tô Diêu kẹt giữa hai thứ: **tranh mạch** — huyết khế, ca, nợ đóng băng nếu giữ vị — và **tranh tin** — thạch hắn không có, ấn hắn chưa mua, quyền vào trước đã có người **chốt** trong bóng tối.
 
 ---
 
@@ -43,7 +45,7 @@ Không phải tiếng. Không phải sáng. Chỉ **ấm** — một nhịp, ng�
 
 Hắn nhớ Kiến Sa.
 
-Nhớ vách phế địa run khi vẽ phù gần mảnh; nhớ Tam Hệ Lệch Khí Ngọc lạnh sát xương giữa hang cát son Thạch Lam. Ở đây, dưới Đan Sa, rung **mỏng** hơn — như trận tàn cách một lớp đá, không phải trận sống. Manh mối **mạch phụ liên** Cửu Huyền: nhánh bảy không chỉ nuôi lò, nuôi đan — **liên** với thứ đã bỏ từ lâu ở châu nghèo linh khí.
+Nhớ vách phế địa run khi vẽ phù gần mảnh — Hỏa–Kim–Mộc phản xung, cát đỏ trượt theo vân trận tàn; nhớ tiếng **gõ** từ sâu đá, không phải mõ, không phải búa, mà là trận **còn thói quen** run dù đã phế. Nhớ Tam Hệ Lệch Khí Ngọc lạnh sát xương giữa hang cát son Thạch Lam — khí thứ ba kéo giọt dịch lệch. Ở đây, dưới Đan Sa, rung **mỏng** hơn — như trận tàn cách một lớp đá, không phải trận sống, mà là **xương** của trận cũ nằm dưới mạch phụ, nằm dưới lò Hứa thị và công Thanh Vi. Manh mối **mạch phụ liên** Cửu Huyền: nhánh bảy không chỉ nuôi lò, nuôi đan — **liên** với thứ đã bỏ từ lâu ở châu nghèo linh khí. Lan Sa và Đan Sa cách nhau cả đời tu — trên giấy không cùng một sổ — nhưng mảnh **ấm** đúng nhịp lôi vá, như có đường thẳng xiên qua đá mà sổ mạch chưa vẽ.
 
 Mảnh ấm xong, lại im.
 
@@ -103,6 +105,8 @@ Nhớ ba bát: cửa, giá, mạng. Nhớ tin cũng là hàng — có giá thì 
 
 — Tin thật? — hắn hỏi. Không hỏi giá vé. Hỏi **phong ấn** hai người ngoài hang.
 
+Chấp sự im một nhịp. Gió sáng sớm mang mùi lưu huỳnh từ lò phụ — giống Bách Hóa nhưng bẩn hơn, giống Phi Vân nhưng nặng hơn. Ở Phi Vân, người ta bán tin yêu thú đi qua khe nào. Ở Bách Hóa, người ta bán tin một vật đáng thẩm hay không. Ở Đan Sa, tin **phong ấn** bán **quyền đứng trước** — và tin giả bán **cái chết** rẻ hơn.
+
 Chấp sự nhìn hắn — đủ lâu để biết hắn **nghe** lén, không hỏi hắn nghe gì.
 
 — Bản tông **không** công bố ai giữ quyền phân phối trước ngày mở. Có **khế tin** — có người **chốt** vùng. Danh **chưa** lên bảng. — Dừng một nhịp. — Đừng mua tin ngoài quầy. Đừng bỏ ca để **gom** ấn giả. Giữ trấn vị, ghi công — **đó** cũng là khế.
@@ -147,7 +151,9 @@ Bà không cười ác. Không giả vờ thương. Bà **ưu tiên** giữ mạ
 
 Hắn **không tin**.
 
-Không phải vì bà nói dối. Vì *tin* không cứu được ai ở hang cát son. Vì **phong ấn tin** và **phong ấn mạch** — khóa vé trước, khóa suất trước, đặt người vào ô *an toàn* trên giấy — có thể **cùng một tay** chưa lộ danh. Chưa chứng minh. Chỉ **cùng nhịp**: monopolize trước, công bố sau, người chết vì tin giả, người sống vì **giữ ca**.
+Không phải vì bà nói dối. Vì *tin* không cứu được ai ở hang cát son. Vì ô mười chín trên giấy *ít linh áp* vẫn cách nhánh bảy ba trượng — **hậu phương** có thể **bị rút** trước leo thang, như bà đã nói khi điều động hắn khỏi khe ba: *rút một nửa toán*, *tránh leo thang*. Lùi không phải an toàn. Lùi là nhường chỗ cho chỗ hiểm leo lên — và trong cùng một đêm, tin phong ấn vé lan, quyền phân phối **chốt** trước, danh **chưa** lên bảng.
+
+Vì **phong ấn tin** và **phong ấn mạch** — khóa vé trước, khóa suất trước, đặt người vào ô *an toàn* trên giấy — có thể **cùng một tay** chưa lộ danh. Chưa chứng minh. Chỉ **cùng nhịp**: monopolize trước, công bố sau, người chết vì tin giả, người sống vì **giữ ca**. Bà ưu tiên giữ mạch — đúng với sổ tranh cọc. Nhưng ai đã **monopolize tin** trước quầy treo giá, ai đã **khóa** vùng tây trên bảng tham chiếu — **không** nằm trong lời *vì đại cục* vừa nói. Nằm **trước** lời ấy. Như Trúc Cơ Đan ở Bách Hóa: giữ lô cuối, công bố sau, người không có vật thế chấp **đứng ngoài cửa**.
 
 Bà hạ tay.
 
@@ -179,7 +185,9 @@ Tô Diêu không lại gần.
 
 Hắn mở cuộn bản đồ khí — ô mười chín vẫn ghi *ít linh áp*. Dưới đá, nhánh bảy vẫn thở. Mảnh Cửu Huyền Trận im — sau nhịp ấm đêm qua, không ấm thêm. Chỉ **nhớ** hướng: echo rung phế địa, mạch phụ liên, ba trượng.
 
-Phía quầy Thanh Sa, tiếng gõ tre — **mở** treo mẫu ấn tin. Đám đông không ào như tin đồn; **xếp hàng** — người muốn **nhìn** trước khi **mua** ngày mai. Bách Hóa liên đài phía bắc treo **giá tham chiếu** trên bảng nhỏ — chưa giá vé, chỉ giá **tin**: một dòng số, một dòng *phong ấn đã bán hết vùng tây*.
+Phía quầy Thanh Sa, tiếng gót tre — **mở** treo mẫu ấn tin. Đám đông không ào như tin đồn; **xếp hàng** — người muốn **nhìn** trước khi **mua** ngày mai. Mẫu ấn treo trên dây — ngọc trắng, vân xám, **chưa** kích; bên cạnh có dòng chữ *Thiên Sa · suất vào trước · chưa niêm giá*. Không ai được chạm. Chỉ được **đọc** và **đoán** ai đã mua quyền **phong ấn** trước khi mẫu treo.
+
+Bách Hóa liên đài phía bắc treo **giá tham chiếu** trên bảng nhỏ — chưa giá vé, chỉ giá **tin**: một dòng số, một dòng *phong ấn đã bán hết vùng tây*. Tán tu đứng đọc, không ai nói to tên người **chốt** — vì **không có** tên trên bảng. Chỉ có **đã bán hết**. Giống lúc Bách Hóa nói *lô cuối không đấu ngay* — cửa đã **đóng** một phần trước khi phiên mở cho kẻ chỉ mang linh thạch.
 
 Đã bán hết.
 
