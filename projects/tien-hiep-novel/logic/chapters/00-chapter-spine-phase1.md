@@ -69,12 +69,12 @@
 
 | Ch | Slug | Tiêu đề làm việc | Beat | FS (chính) | Status |
 | --- | --- | --- | --- | --- | --- |
-| 49 | `cua-thach-lam` | Cửa Thạch Lam | 1 | FS-009, 003 | outline |
-| 50 | `dan-tren-khe` | Danh Trên Khế | 2 | FS-004 | outline |
-| 51 | `bach-hoa-doi` | Bách Hóa Đổi | 3 | FS-009, 001 | outline |
-| 52 | `monopoly-dot-pha` | Monopoly Đột Phá | 4 | FS-015, 009 | outline |
-| 53 | `hac-thi-sat-thu` | Hắc Thị Sát Thủ | 5 | FS-003, 005 | outline |
-| 54 | `ky-khe-mach` | Ký Khế Mạch | 6 | FS-004, 003 | outline |
+| 49 | `cua-thach-lam` | Cửa Thạch Lam | 1 | FS-009, 003 | **draft** | `chapter-49-cua-thach-lam.md` |
+| 50 | `dan-tren-khe` | Danh Trên Khế | 2 | FS-004 | **draft** | `chapter-50-dan-tren-khe.md` |
+| 51 | `bach-hoa-doi` | Bách Hóa Đổi | 3 | FS-009, 001 | **draft** | `chapter-51-bach-hoa-doi.md` |
+| 52 | `monopoly-dot-pha` | Monopoly Đột Phá | 4 | FS-015, 009 | **draft** | `chapter-52-monopoly-dot-pha.md` |
+| 53 | `hac-thi-sat-thu` | Hắc Thị Sát Thủ | 5 | FS-003, 005 | **draft** | `chapter-53-hac-thi-sat-thu.md` |
+| 54 | `ky-khe-mach` | Ký Khế Mạch | 6 | FS-004, 003 | **draft** | `chapter-54-ky-khe-mach.md` |
 
 ---
 

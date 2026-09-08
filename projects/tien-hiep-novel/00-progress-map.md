@@ -6,7 +6,7 @@
 > **Task queue agent:** [`status.md`](status.md)
 
 **Lần cập nhật:** 2026-09-08  
-**Session focus:** Transition beat sheet (ch.49–54) · naming Arc 2 · foreshadow ch band · Arc 2 beats synced  
+**Session focus:** Transition prose **ch.49–54 draft** · Arc 2 Logic outline · ch.1–44 approved  
 **Brief:** v2 · **Trần phase 1:** Trúc Cơ đỉnh phong
 
 ---
@@ -34,7 +34,7 @@
 
 | Phase | Trạng thái | Arc | Chương (prose) | Ghi chú |
 | --- | --- | --- | --- | --- |
-| **1** — Trúc Cơ đỉnh phong | `in_progress` | 4 khối (1+T+2+3) | **44 / 112** prose (**44** approved) | Spine Arc 1 đủ 48 ch |
+| **1** — Trúc Cơ đỉnh phong | `in_progress` | 4 khối (1+T+2+3) | **50 / 112** prose (**44** approved + **6** Transition draft) | Spine Arc 1 đủ 48 ch |
 | **2** — Kim Đan+ | `planned` | — | 0 | Stub sau phase 1 |
 
 ---
@@ -104,22 +104,22 @@
 
 ---
 
-### Transition — Thành Trì Khế · ch. 49–54 · LK VM `[spine + beats]`
+### Transition — Thành Trì Khế · ch. 49–54 · LK VM `[prose_complete draft]`
 
 | Metric | Giá trị |
 | --- | --- |
 | Beat sheet | ✅ [`logic/arcs/02-transition-beats.md`](logic/arcs/02-transition-beats.md) — 6 beat |
 | Spine | ✅ 6/6 dòng outline |
-| Prose | 0 |
+| Prose | **6 / 6** draft |
 
-| Ch | Tiêu đề | Status |
-| --- | --- | --- |
-| 49 | Cửa Thạch Lam | `outline` |
-| 50 | Danh Trên Khế | `outline` |
-| 51 | Bách Hóa Đổi | `outline` |
-| 52 | Monopoly Đột Phá | `outline` |
-| 53 | Hắc Thị Sát Thủ | `outline` |
-| 54 | Ký Khế Mạch | `outline` |
+| Ch | Tiêu đề | Status | File |
+| --- | --- | --- | --- |
+| 49 | Cửa Thạch Lam | `draft` | [chapter-49-cua-thach-lam.md](interface/chapters/chapter-49-cua-thach-lam.md) |
+| 50 | Danh Trên Khế | `draft` | [chapter-50-dan-tren-khe.md](interface/chapters/chapter-50-dan-tren-khe.md) |
+| 51 | Bách Hóa Đổi | `draft` | [chapter-51-bach-hoa-doi.md](interface/chapters/chapter-51-bach-hoa-doi.md) |
+| 52 | Monopoly Đột Phá | `draft` | [chapter-52-monopoly-dot-pha.md](interface/chapters/chapter-52-monopoly-dot-pha.md) |
+| 53 | Hắc Thị Sát Thủ | `draft` | [chapter-53-hac-thi-sat-thu.md](interface/chapters/chapter-53-hac-thi-sat-thu.md) |
+| 54 | Ký Khế Mạch | `draft` | [chapter-54-ky-khe-mach.md](interface/chapters/chapter-54-ky-khe-mach.md) |
 
 ---
 
@@ -162,7 +162,7 @@
 ```
 Phase 1 [in_progress]
 ├── Arc 1 Phế Địa Tán Tu [prose_partial]  ch 1–33 approved draft · 34–48 outline
-├── Transition Thành Trì Khế [spine+beats]  ch 49–54 outline
+├── Transition Thành Trì Khế [draft]         ch 49–54 prose
 ├── Arc 2 Tranh Mạch Phụ [spine+beats]    ch 55–88 outline
 └── Arc 3 Đan Điền Viên Mãn [spine]       ch 89–112 block
 Phase 2 [planned]

@@ -7,8 +7,8 @@
 
 ## Snapshot
 
-- **Phase:** Arc 1 prose ch.1–44 · **Transition + Arc 2 Logic** (beats, naming, FS ch band)
-- **Session:** Transition beat sheet · registry Arc 2 · foreshadow ledger sync
+- **Phase:** Arc 1 prose ch.1–44 approved · **Transition ch.49–54 draft** · gate Arc 2 ch.55
+- **Session:** Prose Transition 6 chương + beat files
 - **Blockers:** Không
 - **Human gate (session):** User pre-approve — sau mỗi review: nếu **suggest_pass** / không `critical`, coi **approved draft** (bỏ qua revise trừ ID critical); nếu có critical → revise rồi r2 như workflow
 
