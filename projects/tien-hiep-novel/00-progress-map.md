@@ -6,7 +6,7 @@
 > **Task queue agent:** [`status.md`](status.md)
 
 **Lần cập nhật:** 2026-09-08  
-**Session focus:** Ch.1–47 **approved draft** · Ch.48 **draft** · **Beat 10 (ch.48) complete · Arc 1 closing**  
+**Session focus:** Arc 1 **ch.1–48 approved draft** · **Beat 10 complete** · **Arc 1 prose_complete** · gate Transition ch.49  
 **Brief:** v2 · **Trần phase 1:** Trúc Cơ đỉnh phong
 
 ---
@@ -34,7 +34,7 @@
 
 | Phase | Trạng thái | Arc | Chương (prose) | Ghi chú |
 | --- | --- | --- | --- | --- |
-| **1** — Trúc Cơ đỉnh phong | `in_progress` | 4 khối (1+T+2+3) | **48 / 112** prose (**47** approved, **1** draft) | Spine Arc 1 đủ 48 ch (Arc 1 prose complete) |
+| **1** — Trúc Cơ đỉnh phong | `in_progress` | 4 khối (1+T+2+3) | **48 / 112** prose (**48** approved · Arc 1) | Arc 1 **prose_complete** |
 | **2** — Kim Đan+ | `planned` | — | 0 | Stub sau phase 1 |
 
 ---
@@ -48,7 +48,7 @@
 | Metric | Giá trị |
 | --- | --- |
 | Spine | ✅ 48/48 dòng |
-| Prose | **47** approved draft · **1** draft (Ch.48 Arc 1 finale) |
+| Prose | **48** approved draft · Arc 1 **prose_complete** |
 | Beat sheet | [`logic/arcs/01-arc1-beats.md`](logic/arcs/01-arc1-beats.md) |
 
 | Ch | Tiêu đề | Status | File |
@@ -100,7 +100,7 @@
 | 45 | Ép Công | **approved draft** · Beat 9 mở | [chapter-45-ep-cong.md](interface/chapters/chapter-45-ep-cong.md) · [review r2](interface/chapter-view/review-chapter-45-ep-cong-r2.md) |
 | 46 | Trận Tàn Một Nhịp | **approved draft** | [chapter-46-tran-tan-mot-nhip.md](interface/chapters/chapter-46-tran-tan-mot-nhip.md) · [review r2](interface/chapter-view/review-chapter-46-tran-tan-mot-nhip-r2.md) |
 | 47 | LK Viên Mãn | **approved draft** · Beat 9 đóng | [chapter-47-lk-vien-man.md](interface/chapters/chapter-47-lk-vien-man.md) · [review r2](interface/chapter-view/review-chapter-47-lk-vien-man-r2.md) |
-| 48 | Thạch Lam Ẩn | `draft` · Beat 10 đóng (Arc 1 đóng) | [`interface/chapters/chapter-48-thach-lam-an.md`](interface/chapters/chapter-48-thach-lam-an.md) |
+| 48 | Thạch Lam Ẩn | **approved draft** · Beat 10 đóng · **Arc 1 đóng** | [chapter-48-thach-lam-an.md](interface/chapters/chapter-48-thach-lam-an.md) · [review r2](interface/chapter-view/review-chapter-48-thach-lam-an-r2.md) |
 
 ---
 
@@ -146,7 +146,7 @@
 
 ```
 Phase 1 [in_progress]
-├── Arc 1 Phế Địa Tán Tu [prose_partial]  ch 1–47 approved draft · 48 outline
+├── Arc 1 Phế Địa Tán Tu [prose_complete]  ch 1–48 approved draft
 ├── Transition Thành Trì Khế [spine]      ch 49–54 block
 ├── Arc 2 Tranh Mạch Phụ [spine]          ch 55–88 block
 └── Arc 3 Đan Điền Viên Mãn [spine]       ch 89–112 block
