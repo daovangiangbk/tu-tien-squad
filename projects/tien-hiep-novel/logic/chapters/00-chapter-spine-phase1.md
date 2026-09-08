@@ -57,7 +57,7 @@
 | 45 | `ep-cong` | Ép Công | 9 | FS-001 | **approved draft** | `chapter-45-ep-cong.md` |
 | 46 | `tran-tan-mot-nhip` | Trận Tàn Một Nhịp | 9 | FS-001 | **approved draft** | `chapter-46-tran-tan-mot-nhip.md` |
 | 47 | `lk-vien-man` | Luyện Khí Viên Mãn | 9 | — | **approved draft** · **Beat 9 đóng** | `chapter-47-lk-vien-man.md` |
-| 48 | `thach-lam-an` | Thạch Lam Ẩn | 10 | FS-003, 005, 009 | outline | — |
+| 48 | `thach-lam-an` | Thạch Lam Ẩn | 10 | FS-003, 005, 009 | **approved draft** · **Beat 10 đóng (Arc 1 đóng)** | `chapter-48-thach-lam-an.md` |
 
 **Ghi chú Arc 1:** Tiêu đề làm việc — đổi khi prose chốt; slug ổn định trừ khi ticket đổi tên file.
 

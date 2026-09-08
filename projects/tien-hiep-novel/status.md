@@ -7,8 +7,8 @@
 
 ## Snapshot
 
-- **Phase:** Arc 1 prose — **ch.1–47 approved draft** · **Beat 9 (ch.45–47) complete** · gate mở **ch.48**
-- **Session:** Orchestrator — **ch.45→47** Beat 9 (user **auto-gate** 2026-09-08)
+- **Phase:** Arc 1 — **ch.1–48 approved draft** · **Beat 10 complete** · **Arc 1 đóng (prose_complete)** · gate mở **Transition ch.49**
+- **Session:** Orchestrator — **ch.48** Thạch Lam Ẩn · kết Arc 1 (auto-gate 2026-09-08)
 - **Blockers:** Không
 - **Human gate (session):** User pre-approve — sau mỗi review: nếu **suggest_pass** / không `critical`, coi **approved draft** (bỏ qua revise trừ ID critical); nếu có critical → revise rồi r2 như workflow
 
@@ -378,8 +378,19 @@
 | T-prose-45…47 | Prose Beat 9 | **done** · approved draft (auto-gate) |
 | T-review-45…47 | Review Beat 9 | **done** · ch.45/46/47 có r2 khi critical |
 | T-revise-45…47 | Revise khi critical | **done** |
-| T-prose-48 | Ch.48 `thach-lam-an` | **backlog** · Beat 10 |
+| T-prose-48 | Ch.48 `thach-lam-an` | **done** · approved draft (Arc 1 Finale) |
+| T-review-48 | Review ch.48 | **done** · r2 suggest_pass · revise C-01–C-05 |
+| T-revise-48 | Revise ch.48 | **done** |
+| T-prose-49 | Transition ch.49 | **backlog** |
+
+## Chương 48 — `thach-lam-an`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-48-thach-lam-an.md`](interface/chapters/chapter-48-thach-lam-an.md) · **Arc 1 Finale** |
+| Beat | [`ch48-thach-lam-an-beat.md`](logic/chapters/ch48-thach-lam-an-beat.md) · **Beat 10 đóng (Arc 1 đóng)** |
+| Review | r2 [`review-chapter-48-thach-lam-an-r2.md`](interface/chapter-view/review-chapter-48-thach-lam-an-r2.md) · **suggest_pass** |
 
 ---
 
-*Status sync — **ch.1–47 approved draft** · Beat 9 complete (2026-09-08). Gate ch.48 Thạch Lam Ẩn.*
+*Status sync — **Arc 1 ch.1–48 approved draft** · Beat 10 complete · Arc 1 prose_complete (2026-09-08). Gate Transition ch.49.*
