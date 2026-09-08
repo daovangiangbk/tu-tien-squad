@@ -55,7 +55,10 @@
 | 42 | Lệch Khí Ngọc | approved draft | [chapter-42-lech-khi-ngoc.md](./chapter-42-lech-khi-ngoc.md) |
 | 43 | Khế Chưa Ký | approved draft | [chapter-43-khe-chua-ky.md](./chapter-43-khe-chua-ky.md) |
 | 44 | Bán Tin | approved draft | [chapter-44-ban-tin.md](./chapter-44-ban-tin.md) |
-| 45–48 | *Xem spine Logic* | outline | [`00-chapter-spine-phase1.md`](../../logic/chapters/00-chapter-spine-phase1.md) |
+| 45 | Ép Công | approved draft | [chapter-45-ep-cong.md](./chapter-45-ep-cong.md) |
+| 46 | Trận Tàn Một Nhịp | approved draft | [chapter-46-tran-tan-mot-nhip.md](./chapter-46-tran-tan-mot-nhip.md) |
+| 47 | Luyện Khí Viên Mãn | approved draft | [chapter-47-lk-vien-man.md](./chapter-47-lk-vien-man.md) |
+| 48 | Thạch Lam Ẩn | draft | [chapter-48-thach-lam-an.md](./chapter-48-thach-lam-an.md) |
 
 ### Transition — Thành Trì Khế (ch. 49–54)
 

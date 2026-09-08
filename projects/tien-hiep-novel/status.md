@@ -7,8 +7,8 @@
 
 ## Snapshot
 
-- **Phase:** Arc 1 prose ch.1–44 approved · **Transition ch.49–54 draft** · gate Arc 2 ch.55
-- **Session:** Prose Transition 6 chương + beat files
+- **Phase:** Arc 1 **ch.1–48 approved** · **Transition ch.49–54 draft** · gate Arc 2 ch.55
+- **Session:** Merge PR #1–4 · Arc 1 đóng + Transition prose + Arc 2 outline
 - **Blockers:** Không
 - **Human gate (session):** User pre-approve — sau mỗi review: nếu **suggest_pass** / không `critical`, coi **approved draft** (bỏ qua revise trừ ID critical); nếu có critical → revise rồi r2 như workflow
 
@@ -348,4 +348,49 @@
 
 ---
 
-*Status sync — **ch.1–44 approved draft** · Beat 8 complete (2026-09-08). Gate ch.45 Ép Công.*
+## Chương 45 — `ep-cong`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-45-ep-cong.md`](interface/chapters/chapter-45-ep-cong.md) |
+| Beat | [`ch45-ep-cong-beat.md`](logic/chapters/ch45-ep-cong-beat.md) · **Beat 9 mở** |
+| Review | r2 [`review-chapter-45-ep-cong-r2.md`](interface/chapter-view/review-chapter-45-ep-cong-r2.md) · **suggest_pass** · revise C-01/C-02 |
+
+## Chương 46 — `tran-tan-mot-nhip`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-46-tran-tan-mot-nhip.md`](interface/chapters/chapter-46-tran-tan-mot-nhip.md) |
+| Beat | [`ch46-tran-tan-mot-nhip-beat.md`](logic/chapters/ch46-tran-tan-mot-nhip-beat.md) |
+| Review | r2 [`review-chapter-46-tran-tan-mot-nhip-r2.md`](interface/chapter-view/review-chapter-46-tran-tan-mot-nhip-r2.md) · **suggest_pass** · revise C-01–C-03 |
+
+## Chương 47 — `lk-vien-man`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-47-lk-vien-man.md`](interface/chapters/chapter-47-lk-vien-man.md) |
+| Beat | [`ch47-lk-vien-man-beat.md`](logic/chapters/ch47-lk-vien-man-beat.md) · **Beat 9 đóng** |
+| Review | r2 [`review-chapter-47-lk-vien-man-r2.md`](interface/chapter-view/review-chapter-47-lk-vien-man-r2.md) · **suggest_pass** · revise C-01–C-03 |
+
+| ID | Task | Status |
+| --- | --- | --- |
+| T-beat-45-47 | Beat sheet ch.45–47 (Beat 9) | **done** |
+| T-prose-45…47 | Prose Beat 9 | **done** · approved draft (auto-gate) |
+| T-review-45…47 | Review Beat 9 | **done** · ch.45/46/47 có r2 khi critical |
+| T-revise-45…47 | Revise khi critical | **done** |
+| T-prose-48 | Ch.48 `thach-lam-an` | **done** · approved draft (Arc 1 Finale) |
+| T-review-48 | Review ch.48 | **done** · r2 suggest_pass · revise C-01–C-05 |
+| T-revise-48 | Revise ch.48 | **done** |
+| T-prose-49 | Transition ch.49 | **backlog** |
+
+## Chương 48 — `thach-lam-an`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-48-thach-lam-an.md`](interface/chapters/chapter-48-thach-lam-an.md) · **Arc 1 Finale** |
+| Beat | [`ch48-thach-lam-an-beat.md`](logic/chapters/ch48-thach-lam-an-beat.md) · **Beat 10 đóng (Arc 1 đóng)** |
+| Review | r2 [`review-chapter-48-thach-lam-an-r2.md`](interface/chapter-view/review-chapter-48-thach-lam-an-r2.md) · **suggest_pass** |
+
+---
+
+*Status sync — **Arc 1 ch.1–48 approved draft** · Beat 10 complete · Arc 1 prose_complete (2026-09-08). Gate Transition ch.49.*

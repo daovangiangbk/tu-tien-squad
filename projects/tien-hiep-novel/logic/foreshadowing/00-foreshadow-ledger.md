@@ -107,6 +107,8 @@ MC — tạp căn bị xếp phế, sống bằng kinh tế tàn — mang theo *
 - **2026-09-08:** Prose ch.29 `moi-yeu` — **FS-011** plant (Hữu/Vô, bước ngược Phi Vân); **FS-006** mầm (nạn nhân không tên); **FS-014** echo ngắn.
 - **2026-09-08:** Prose ch.30 `cuu-hay-khong` — **FS-011** nurture (chọn cứu); **FS-010** mầm (giá vật chất); **FS-006** thiếu niên không tên.
 - **2026-09-08:** Prose ch.31 `huu-tinh-gia` — **FS-010** plant (mất lối/cọc đóng); **FS-006** nurture; **FS-011** hữu có giá.
+- **2026-09-08:** Prose ch.32 `mat-loi` — **FS-010** nurture (trễ bán, hao tài nguyên, 6 hạt); cliff tâm ma mầm.
+- **2026-09-08:** Prose ch.48 `thach-lam-an` (Arc 1 Finale) — **FS-003** confirm (thẻ bài Sát Thủ Các / Bách Hóa đón đường); **FS-009** payoff Arc 1 (độc quyền Trúc Cơ Đan / cùng quẫn thành trì); **FS-005** nurture (mẩu tin bí cảnh chung trên cột thành); **FS-004** nurture (mẩu khế chưa ký đè nặng); **FS-001** nurture (mảnh Cửu Huyền Trận nóng một nhịp). Đóng Arc 1.
 - **2026-09-08:** Transition + Arc 2 Logic — ch band **FS-003/004/005/006/007/015**; naming **Tống Minh Vi**, **Đan Sa Phụ Mạch**, **Thiên Sa Công Uyên** (`02-transition-beats.md`, `02-arc2-beats.md`, `registry.md`).
 
 ---
