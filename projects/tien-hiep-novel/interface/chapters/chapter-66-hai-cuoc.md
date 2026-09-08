@@ -31,7 +31,9 @@ Liên đài vé cuối dựng dưới chân gò đá, cách kho đồn không đ
 *Đợt cuối — trước giờ Mão.*  
 *Phong ấn vào trước đã bán hết khu — không hỏi danh.*
 
-**FS-005** không cần ai giải thích. Tin đã là hàng từ ch.48; giờ hàng **có giá**, có hạn, có người giữ trước quyền vào mà không lộ mặt. Tô Diêu không nhìn sang liên đài — nhìn cũng không đủ linh thạch, không đủ khế để bỏ ca. Ch.65 hắn đã tính: mua vé = mất cọc mạch; không mua = mất cơ duyên, nhưng **giữ** đường xóa nợ Bách Hóa.
+Tin bí cảnh chung đã là hàng từ Thạch Lam — hắn nhớ bảng gỗ phủ bụi, mẩu thông cáo treo cột cờ. Giờ hàng **có giá**, có hạn, có người giữ trước quyền vào mà không lộ mặt. Tô Diêu không nhìn sang liên đài — nhìn cũng không đủ linh thạch, không đủ khế để bỏ ca. Hắn đã tính từ đêm qua: mua vé = mất cọc mạch; không mua = mất cơ duyên, nhưng **giữ** đường xóa nợ Bách Hóa.
+
+Trong túi bên hông còn bốn mươi mốt hạt linh thạch hạ phẩm — đủ mua một bình dược cầm huyết, không đủ mua một **suất** đã tăng giá. Lãi đóng băng treo trên khế ty như móng đóng vào gỗ; chỉ có **giữ ca** mới kéo dài thời hạn. Cơ duyên Thiên Sa và cơ duyên **sống thêm mười lăm ngày** không cùng một cân.
 
 Hôm nay đợt cuối.
 
@@ -61,21 +63,23 @@ Rút.
 
 Từ *hậu phương* thành *phụ mắt* — hoặc từ *phụ mắt* thành *không còn trên sổ*.
 
-Tô Diêu siết chân trên vỉ đá. Đá dưới bàn chân **rút** khí — không đập như khe ba, mà **hút**, như miệng đã nói từ ch.62. Ô mười chín không an toàn hơn khe ba. Chỉ **ít người tranh** hơn trên giấy — và hôm nay giấy cũng mỏng.
+Tô Diêu siết chân trên vỉ đá. Đá dưới bàn chân **rút** khí — không đập như khe ba, mà **hút**, như miệng hắn đã cảm từ đêm đột phá. Ô mười chín không an toàn hơn khe ba. Chỉ **ít người tranh** hơn trên giấy — và hôm nay giấy cũng mỏng.
+
+Sương mù còn bám mép đá che. Phía tây, ba người vừa **lên** phụ mắt đông — mang theo dây đồng và phù vá, không nhìn lại hậu tuyến. Phía nam, tiếng gọi giá vé cắt qua sương như dao. Tô Diêu đứng giữa: không thuộc liên đài, không thuộc đài leo — chỉ thuộc **một ô** trên sổ, và ô ấy đang hút khí cùng nhánh bảy.
 
 Hắn chia Hỏa–Kim–Mộc.
 
-Không để đánh. Để **đọc khí** — thói quen đa nghề, trade-off thần thức: một tia Hỏa men theo huyệt mắt, Kim dò dưới lòng bàn chân, Mộc yếu giữ thần không gãy hẳn. Đau sau mắt như kim; đáng.
+Không để đánh. Để **đọc khí** — thói quen đa nghề, đổi lấy thần thức: một tia Hỏa men theo huyệt mắt, Kim dò dưới lòng bàn chân, Mộc yếu giữ thần không gãy hẳn. Đau sau mắt như kim; đáng.
 
 Dưới ba trượng: nhánh bảy **thở** mạnh hơn một nhịp.
 
-Không phải động đất — không rung như phế địa ch.40. Mà **dịch**: cát son trong khe ngắn chảy một đường, không vòng; Kim sát xiên từ đông bắc; Mộc khí xanh xám nhấp nháy rồi tắt, như ngọn nến trước gió lôi. Giống **echo** rung trận — manh mối mạch phụ liên Cửu Huyền, không giải Thượng cổ.
+Không phải động đất — không rung như Cửu Huyền Phế Trận ngày trận rung. Mà **dịch**: cát son trong khe ngắn chảy một đường, không vòng; Kim sát xiên từ đông bắc; Mộc khí xanh xám nhấp nháy rồi tắt, như ngọn nến trước gió lôi. Giống **echo** rung trận — manh mối mạch phụ liên Cửu Huyền, không giải Thượng cổ.
 
 Mảnh Cửu Huyền Trận trong ngực áo **ấm** một nhịp.
 
 Không sáng. Không kích hoạt. Chỉ ấm như da chạm da nóng — rồi im. Tam Hệ Lệch Khí Ngọc lạnh sát xương một khắc, như kéo giọt dịch lệch thêm nửa phách.
 
-**FS-015:** dịch **mạnh hơn** đêm qua. Một nhịp. Đủ để biết nhánh bảy không chỉ bị Huyền Lôi vá — có thứ **dưới** đá cũng đang bị kéo.
+Dịch **mạnh hơn** đêm qua. Một nhịp. Đủ để biết nhánh bảy không chỉ bị Huyền Lôi vá — có thứ **dưới** đá cũng đang bị kéo, như có tay thứ ba không ghi trên sổ tranh.
 
 Hắn không nói với ai.
 
@@ -127,15 +131,21 @@ Mạnh Hải nhìn Tô Diêu — còn đứng trên vỉ đá.
 
 Không phải Lục Thanh Phong. Không mirror wound đủ để hắn lao ra. Chỉ một người **bị bỏ slot** trước mặt, trong khi người khác được **giữ tối thiểu** vì sổ cần một mắt.
 
-Mầm Beat 5 — hắn chưa biết tên *Beat*. Chỉ biết **quen**:
+Hắn biết **quen**:
 
 Người đứng sau thường không lên bia.
 
 Người bị bỏ thường nghe *vì đại cục*.
 
+Ký ức người áo tro không có bia — chỉ có tro và hang và cánh tay đẩy hắn vào bóng tối. Mạnh Hải còn sống, còn khóc, còn bị kéo xuống gò. Chưa tro. Chỉ **suất** — và suất cũng là mạng khi leo cọc đang cắn.
+
 Hắn nhớ người áo tro. Không nổi loạn. Nổi loạn không đổi sổ, không trả nợ, không giữ giọt dịch. Chỉ **nuốt** — như nuốt một miếng đá — và quay lại **mắt** ô mười chín.
 
 Mạnh Hải bị hai chấp sự kéo xuống gò. Tiếng khóc tắt trong tiếng lôi.
+
+Hắn không cứu.
+
+Không phải vì máu lạnh. Vì **quyền**: tán tu thuê không có tên trên bia, không có ghế ở đài phân suất — chỉ có hiệu số và khế. Kêu oan trước Tạ Hàm Nguyệt đồng nghĩa **cản leo cọc**; cản leo cọc đồng nghĩa **bỏ cọc**. Hắn đã thấy đủ người chết vì tin vào chỗ *an toàn* trên giấy. Người áo tro chết vì **không** tin — và vì **ở lại**. Hai đường đều không cứu được ai nếu hắn nổi loạn giữa ca.
 
 ---
 
@@ -147,7 +157,9 @@ Liên đài phía nam:
 
 — Phong ấn vùng **hết** — ai không mua **mất**! Đừng hỏi ai giữ — hỏi **còn** hay **không**!
 
-Tin vé ảo vẫn lưu hành song song — ch.65 đã nói — nhưng đợt cuối không cần ảo. Cần **thật**: linh thạch, khế, hoặc **bỏ**. Ai không mua mất suất vào Thiên Sa Công Uyên; ai bán cọc mất suất giữ mạch. Hai thị trường mirror monopoly Trúc Cơ Đan — **FS-009** — chỉ đổi hàng: đan thành vé, mạch thành cọc.
+Tin vé ảo vẫn lưu hành song song — có kẻ rao *phong ấn giả*, *suất lọt lưới*, *đường hầm vào uyên* — nhưng đợt cuối không cần ảo. Cần **thật**: linh thạch, khế, hoặc **bỏ**. Ai không mua mất suất vào Thiên Sa Công Uyên; ai bán cọc mất suất giữ mạch. Hai thị trường giống monopoly Trúc Cơ Đan ở Bách Hóa — chỉ đổi hàng: đan thành vé, mạch thành cọc. Tin cũng là hàng; hàng có giá thì người nghèo **chỉ** còn thân.
+
+Tô Diêu nghe một tán tu nữ khóc nửa tiếng ở liên đài — không phải vì mất vé, vì mất **chồng** cọc khi chồng bán suất giữ lò để gom thạch cho nàng. Hai cuộc nuốt cùng một nhà. Hắn không quay đầu. Quay đầu không đủ tay giữ mắt.
 
 Tô Diêu **không** có vé.
 
@@ -175,6 +187,12 @@ Mảnh Cửu Huyền Trận ấm lần hai — ngắn hơn lần một, như tim
 
 Hắn không buông mắt.
 
+Trên vỉ đá, phù văn khắc mờ **sống** dưới lòng bàn — không sáng như cọc tranh vị, chỉ đủ báo: *còn người*. Một mắt. Tối thiểu. Tô Diêu cảm linh áp từ đông bắc **đè** xuống như tấm lưới kim; từ nam, tiếng *hết suất* vang lên như đóng cửa. Giữa hai áp lực, giọt dịch lệch là thứ **mỏng nhất** — tan thì Trúc Cơ Sơ thành khí loãng, khế cắn, nợ không trả.
+
+Hắn nhớ câu làng: *Thuận thiên giả tự nhiên, đừng nghịch.*
+
+Nghịch ở đây không phải leo cọc. Nghịch là **buông mắt** khi sổ cần một người — và để miệng hút dưới đá nuốt hậu tuyến trước khi Huyền Lôi kịp vá. Thuận thiên trên mạch nghĩa là **theo sổ**; sổ hôm nay cần hắn **đứng**.
+
 ---
 
 Một tiếng **nổ** gãy từ phía đông — không phải lôi. **Cọc** leo.
@@ -191,7 +209,7 @@ Hắn quỳ một gối trên vỉ đá, bàn tay đặt lên phù văn khắc m
 
 *Không bỏ cọc* — dù ô này không có cọc, chỉ có **ca**.
 
-Hắn chia Kim men theo kinh mạch rạn — đau, như ch.61 — dẫn Mộc bọc vai, Hỏa giữ phù văn sáng. Trúc Cơ Sơ: linh lực **đặt** được; một giọt dịch lệch **bám** thêm một khắc.
+Hắn chia Kim men theo kinh mạch rạn — đau, như kim trong vết nứt cũ ở hang cát son — dẫn Mộc bọc vai, Hỏa giữ phù văn sáng. Trúc Cơ Sơ: linh lực **đặt** được; một giọt dịch lệch **bám** thêm một khắc.
 
 Phía nam, liên đài vé gọi lần cuối:
 
@@ -209,7 +227,7 @@ Ca kéo đến khi mặt trời lên tận cung.
 
 Lôi tắt một nhịp. Huyền Lôi **chưa** chiếm hẳn nhánh bảy; Hứa thị **chưa** gãy lò. Leo cọc **treo** — tranh mạch không khép trong một sáng. Nhưng **đợt vé cuối** đã khép: Thiên Sa Công Uyên, vùng Đan Sa, **hết suất** công bố. Ai giữ phong ấn vào trước — vẫn **không lộ** trên liên đài. Chỉ có dòng chữ treo: *phong ấn vùng đã bán hết*.
 
-**FS-005** nuôi đầy, midpoint setup **treo**: reader hiểu Arc 2 kéo **hai trục** — mạch và bí cảnh; MC kẹt nợ, khế, Linh Dịch lệch, không vé, không cơ duyên Thiên Sa trong đợt này.
+Hai trục — mạch và bí cảnh — đã **khóa** cùng một nhịp trong sáng nay: leo cọc treo, vé đóng, phong ấn vùng hết mà không ai đứng ra nhận. Tô Diêu kẹt giữa: nợ, khế, giọt lệch, không vé, không cơ duyên Thiên Sa trong đợt này — chỉ còn **ca** và **mắt** và đường thở mười lăm ngày.
 
 Tô Diêu vẫn đứng trên vỉ đá.
 
@@ -227,6 +245,10 @@ Bụng đói. Thần thức ù. Vai rát. Giọt dịch lệch **im** — mỏng
 
 Dưới chân, cát son trên đường về kho đồn dính máu khô — không phải máu hắn. Máu từ phụ mắt đông, từ người leo cọc, từ ai đó mua vé bằng cọc của người khác.
 
+Hắn đi chậm. Vai đau. Đầu ù. Giọt dịch **im** trong bụng nhưng không **yên** — chỉ nghỉ một nhịp trước khi nhánh bảy lại kéo. Trên ngực, mảnh Cửu Huyền Trận lạnh trở lại; Tam Hệ Lệch Khí Ngọc nặng như hòn đá nhỏ. Ba vật — nợ, khế, lệch — cùng một chỗ, cùng một người mang.
+
+Qua gò đá, hắn nhìn lại liên đài vé một lần: bảng ghi *hết*, quầy trống, một chấp sự gom thẻ tre còn sót. Không còn ai gọi giá. Thiên Sa Công Uyên đã **khép** cánh cửa tin cho vùng Đan Sa trong đợt này — ai vào sau, phải mua từ tay ai **giữ** phong ấn, không hỏi danh.
+
 Hai cuộc. Một ngày. Cùng nuốt linh thạch và **suất**.
 
 ---
@@ -239,7 +261,7 @@ Không phải vì ăn. Vì **tin mới** — treo trên cột cạnh bảng vé 
 *Phí: theo **đầu** · thanh toán **linh thạch** hoặc **ghi nợ phe bảo lãnh**.*  
 *Hiệu lực: sau giờ Mão.*
 
-Chữ vuông, mực đen — giống chữ trên cửa **Sát** ở U Ngõ ch.53.
+Chữ vuông, mực đen — giống chữ trên cửa **Sát** ở U Ngõ Thạch Lam, một nét không thừa.
 
 Tô Diêu đứng trước bảng, đọc **hai lần**.
 
@@ -247,7 +269,7 @@ Dọn tán tu.
 
 Không nói *giết hết*. Nói **dọn** — như dọn rác trước cửa lò, như dọn suất thừa trên sổ. Phí theo đầu. Phe bảo lãnh ghi nợ — Huyền Lôi, Thanh Vi, hay ai thuê **Sát Thủ Các** để giữ mạch khi leo cọc và tranh vé cùng **ép** người yếu?
 
-**FS-003** chưa lộ tên. Chỉ lộ **cơ chế**: hợp đồng sát trên mạch, giữa tranh mạch và tranh tin, khi *vì đại cục* đã bỏ một nửa hậu phương và đóng đợt vé cuối.
+Không lộ ai **thuê**. Chỉ lộ **cơ chế**: hợp đồng sát trên mạch, giữa tranh mạch và tranh tin, khi *vì đại cục* đã bỏ một nửa hậu phương và đóng đợt vé cuối. Thuê sát không cần mặt — chỉ cần **phí** và **danh sách**.
 
 Một chấp sự Thanh Vi đi ngang, thấy hắn đứng im:
 
@@ -257,11 +279,17 @@ Không phải đe. Chỉ **thông báo**.
 
 Tô Diêu gật.
 
+Bên cột, có người **xì xào** — không phải về phí, về **danh sách**: ai bỏ cọc, ai cản leo, ai còn nợ khế mạch sau khi bán suất mua vé. Tên không đọc to. Chỉ **hiệu số**. Mạnh Hải có thể đã nằm trong đó — hoặc chưa, nếu chỉ *xuống sổ chờ*. Phân biệt ấy mỏng như giấy khế.
+
 Trong đám tán tu chen quanh cột, có bóng áo xanh quen — **Lục Thanh Phong** đang đọc cùng dòng chữ, mặt trắng, tay siết thẻ cọc. Hắn nhìn Tô Diêu một nhịp: đồng đội thuê, chưa đủ gọi là huynh đệ, chưa đủ tin để cùng chết. Chỉ cùng **kẹt**.
+
+— Phí theo đầu, — Lục Thanh Phong nói khẽ, không hỏi ý kiến. — Phe nào trả, chưa biết. Biết **đủ** để không cản leo.
+
+Tô Diêu không đáp. Cản leo là chuyện sáng nay; dọn tán tu là chuyện **chiều**. Hai cuộc chưa xong — chỉ **đổi** hàng.
 
 Hắn quay đi.
 
-Midpoint setup **hoàn**: tranh mạch và tranh vé **song song** đã chạm đỉnh một nhịp; MC sống, không vé, giữ ô, nợ treo, giọt lệch, mảnh ấm, nhánh bảy dịch — và trên mạch, **phí dọn tán tu** đã treo giá như hàng cuối cùng của ngày hôm nay.
+Tranh mạch và tranh vé **song song** đã chạm đỉnh một nhịp — hắn sống, không vé, giữ ô, nợ treo, giọt lệch, mảnh ấm, nhánh bảy dịch. Trên mạch, **phí dọn tán tu** treo giá như hàng cuối cùng của ngày: sau vé, sau leo cọc, sau *vì đại cục* — **dọn** những gì còn sót trên sổ.
 
 Phía đông bắc, lôi lại chớp.
 
