@@ -39,7 +39,9 @@ Hang cát son lạnh ướt.
 
 Mùi đất và một tia kim loại cũ — không phải lôi Huyền Lôi, là dư âm từ phía dưới, giống hơi thở hắn đã nghe khi quỳ báo khí. Thứ **thở** dưới lớp đá khiến cát son di chuyển ngược, khiến Kim sát gãy nhịp, khiến mảnh kim muốn quay về hướng chưa thấy. Lan Sa. Phế địa. Đan Sa — cùng một loại khí lệch, khác tên trên sổ.
 
-Tô Diêu quỳ, đặt hộp đan trước mặt.
+Hắn quỳ sâu, lưng cúi, trán gần chạm cát. Không phải bái. Là **nghe**. Ở đây, linh áp nhánh bảy không đập thẳng vào ngực như trên vỉ đá ô an toàn sai — nó lướt qua hang như nước lướt qua khe đá, để lại rung nhẹ trong xương. Đủ để biết cửa sổ manh phương không nằm trong hang; cửa sổ nằm giữa hang và thế giới đang tranh mạch bên ngoài.
+
+Tô Diêu quỳ thẳng, đặt hộp đan trước mặt.
 
 Ngón tay còn lành — út trái — chạm sáp niêm phía tây. Lõm nửa hạt gạo. Ba đạo phù chỉ. Một lần mở. Khế ty ghi: *lĩnh tạm, chưa xóa nợ Bách Hóa.*
 
