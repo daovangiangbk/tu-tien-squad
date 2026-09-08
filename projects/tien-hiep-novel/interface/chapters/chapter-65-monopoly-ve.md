@@ -11,6 +11,10 @@ Tô Diêu quỳ sau tảng đá lởm chởm, một tay giữ phù báo khí, m�
 
 Phía kho, tiếng mõ gãy nhịp. Không phải mõ ca mạch. Mõ **bán vé**.
 
+Hắn chia Hỏa–Kim–Mộc — không để đánh, để **đọc khí** ô mười chín. Một tia Hỏa men theo huyệt mắt, Kim dò dưới lòng bàn chân quỳ, Mộc yếu giữ thần không gãy hẳn. Đổi lại, đau sau mắt như kim chọc nơi vừa gãy một tầng ở hang cát son. Dưới lớp đá che — trên giấy vẫn *ít linh áp* — khí **không** yên: Kim sát mỏng xiên từ đông bắc, cát son trong hang ngắn **chảy** một đường về nam, về nhánh bảy. Ba trượng. Tin vé trên cột kho **không** làm ô an toàn hơn. Chỉ làm người giữ ô **ít** hơn dự kiến — vì một phần đã rút đi gom hạt.
+
+Hắn gấp cảm nhận, không nói với ai. Nói cũng không đổi sổ.
+
 ---
 
 Ba ngày trước, tin **phong ấn vé** lan như khói lò: không phải phong ấn trận, là **quyền vào trước** — ai mua trước quyền phân phối vùng, ai khóa trước suất, còn lại chờ giá công bố. Tô Diêu không thấy mặt người giữ phong ấn. Chỉ thấy chấp sự Thanh Vi treo cảnh báo trên cột: tin giả vé, phong ấn giả, **cũng có giá** — người chết vì tin, như ở U Ngõ Thạch Lam.
@@ -20,6 +24,14 @@ Hôm nay, giá **chính thức**.
 Hắn không xuống kho ngay. Ca ô mười chín còn nửa khắc. Nhưng tiếng chen nhau từ sân sau kho đã tràn qua vách đá — không phải tiếng tranh cãi mạch, là tiếng **đếm hạt**, tiếng **gõ khay**, tiếng ai hỏi *còn bao nhiêu vé*.
 
 Hắn gấp bản đồ, nhét vào ngực, men theo hành lang đá hẹp về phía kho.
+
+Trên cột kho — nơi mấy ngày trước chỉ treo *giá tham chiếu* — giờ bảng **đầy chữ**. Lần đầu hắn đứng lại đọc hết, không lướt như khi còn giữ cọc khe số ba:
+
+**Thiên Sa Công Uyên** — bí cảnh **chung**, vé **hạn**, mở theo lịch chưa công bố. Phong ấn vé không phải phong ấn trận: là **khóa suất** trước khi giá chính thức. Thanh Sa giữ một phần. Bách Hóa treo giá. Tán tu tranh mạch **rút** một phần để gom linh thạch — ô mười chín trên giấy trinh sát **ít người** hơn hôm qua.
+
+Hắn đọc đến cuối, rồi đi tiếp.
+
+Tin cũng là hàng. Hôm nay hàng **mở bán**.
 
 ---
 
@@ -56,6 +68,16 @@ Hôm nay, vé cũng vậy. Thanh Sa giữ trước. Bách Hóa phân phối. Gi�
 
 Tin cũng là hàng. Hàng có giá. Hàng giả rẻ hơn — và đắt hơn, nếu tính bằng xác.
 
+Một tán tu chen đến bàn trái Thanh Sa — không mua vé, chỉ hỏi:
+
+— Phong ấn vùng Đan Sa ai giữ?
+
+Chấp sự Thanh Vi không đáp tên. Chỉ ghi một dòng vào sổ riêng, như ghi người hỏi giá đan mà không có hạt:
+
+— Đã **phân**. Hôm nay chỉ bán vé **đã thẩm**.
+
+Tô Diêu nhìn dòng chữ trên bảng — *Thanh Sa giữ trước một trăm hai mươi* — và nhớ lại hộp thứ ba ở Bách Hóa không đấu. Ai giữ hộp, ai giữ giá, ai quyết định ai đứng ngoài cửa. Không cần danh. Chỉ cần **sổ**.
+
 ---
 
 Hàng đầu bàn Bách Hóa là một nam tử Trúc Cơ trung kỳ, áo ngoại môn đã bỏ dấu tông, cổ tay sẹo vòng cũ — không phải người hắn quen, không phải Lục Thanh Phong. Người này đặt túi linh thạch lên khay, giọng khàn:
@@ -88,6 +110,18 @@ Không mua = mất cơ duyên bí cảnh = giữ ô mười chín = lãi vẫn �
 
 Hắn đếm trong đầu, không cần bút. Sinh tồn trước. Tu luyện sau. Cơ duyên không nuôi được giọt dịch lệch nếu thân xác nằm dưới sổ *mất cọc*.
 
+Góc sân, người rao vé ảo hạ giọng khi thấy hắn nhìn:
+
+— Sáu trăm. Không qua khế ty. Giao tay.
+
+Phiếu ngọc trong tay kẻ rao không niêm, linh văn mờ như chữ tro trên vách Phi Vân. Rẻ hơn tám trăm. Đủ để một Luyện Khí Viên Mãn **muốn** tin — như lão tóc bạc vừa lùi khỏi hàng thật.
+
+Tô Diêu không đưa tay.
+
+Ở U Ngõ, chấp sự đã nói: tin giả cũng có giá. Người chết vì tin. Vé ảo có thể vào cửa — cửa **chết**, không phải cửa bí cảnh. Hắn không đủ hạt mua vé thật; cũng không đủ **thời** đi đòi khế ty buông cọc trước giờ Tỵ. Ba đường: mua ảo và chết sau, mua thật và mất ô, không mua và mất cơ duyên nhưng giữ **số**.
+
+Hắn chọn số.
+
 ---
 
 — Số mười bảy!
@@ -104,13 +138,15 @@ Hắn nhìn. Không lại gần. Không cứu.
 
 Chưa đủ quyền. Không liên quan trực tiếp. Ở Kiến Sa, hắn cũng không cứu người bán suất cho Mạc Lão — chỉ biết ai bán, ai mua, ai còn đứng. Cứu bằng miệng ở đây không đổi được sổ; cứu bằng hạt thì mất ô mười chín. *Vì đại cục* không phải lời hắn được nói.
 
-Người bán cọc chen lên bàn Bách Hóa. Chấp sự ghi:
+Người bán cọc — tên trên thẻ **số hai mươi hai**, Trúc Cơ sơ kỳ, mặt đen vì thiếu ngủ — chen lên bàn Bách Hóa. Khế ty mang một tấm phù đỏ, xác nhận rút cọc nhánh phụ nam: trừ hai mươi phần trăm phí, còn lại đổi hạt. Số hai mươi hai đặt túi, tay vẫn run:
 
 — Một vé. Khế chuyển cọc — khế ty xác nhận?
 
 — Xác nhận!
 
-Túi đặt xuống. Tám trăm. Phiếu ngọc giao qua. Người đó cầm vé, tay run **khác** lão tóc bạc — run vì **có**, không vì **thiếu**. Hắn quay đi, không nhìn lại khe phía nam nơi cọc vừa bán.
+Túi đặt xuống. Tám trăm. Phiếu ngọc giao qua. Người đó cầm vé, tay run **khác** lão tóc bạc — run vì **có**, không vì **thiếu**. Hắn bọc phiếu vào vải, nhét ngực, bước qua đám như người vừa nuốt Trúc Cơ Đan — không ăn, chỉ **mang** cơ duyên trong áo. Rồi quay đi, không nhìn lại khe phía nam nơi cọc vừa bán, nơi toán thuê còn lại hai người thay vì ba.
+
+Hai người nhìn lưng số hai mươi hai. Không trách. Chỉ **tính** xem mình có đủ hạt bán cọc hay không.
 
 Một mảnh ghép luật đại cục: mạch phụ nuôi lò, lò nuôi đan, đan nuôi người — và **vé** nuôi cơ duyên ngoài mạch. Ai có hạt, ai vào trước. Ai bán cọc, ai **rút** khỏi tranh mạch để tranh tin.
 
@@ -154,6 +190,10 @@ Giữ cọc. Giữ ca. Giữ giọt dịch lệch không tan.
 
 Mất vé. Mất cơ duyên Thiên Sa — ít nhất mất **đợt này**. Tin vé ảo vẫn rao ở góc sân; người mua vé thật vẫn bọc hộp gỗ đen. Hai loại hàng, một loại **ép**.
 
+Hắn đứng trong bóng đá, nghe khay Bách Hóa gõ — mỗi tiếng như gõ vào hộp Trúc Cơ Đan ngày xưa: không hỏi ai xứng đáng, chỉ hỏi ai còn hạt. Thương nhân mí sụp nhìn qua đám một lần nữa. Không gọi tên. Không nhận diện Diêu Tử từ Kiến Sa. Ở đây hắn chỉ là **số mười bảy**, hoặc sẽ là số *mất cọc* nếu bỏ.
+
+Giọt Linh Dịch trong đan điền **mỏng** lại một tia khi tiếng gõ dồn — không vì vé, vì nhánh bảy phía đông bắc phản xung theo nhịp lôi. Trúc Cơ Sơ mới thành; thân chưa quen đứng giữa hai thứ cùng **đòi** linh lực.
+
 ---
 
 Tiếng mõ ca mạch gãy ba nhịp.
@@ -168,9 +208,15 @@ Hai mươi ba vé. Đợt cuối. Giờ Tỵ — còn ba khắc rưỡi.
 
 Ca ô mười chín. Ca **trùng** đợt bán vé cuối. Không ai trên sân nói *trùng*; sổ ghi hai việc, người sống một thân. Huyền Lôi leo cọc nhánh bảy. Tán tu rút mua vé. Hậu phương trên giấy vẫn *ít linh áp* — dưới đá, nhánh bảy **thở** mạnh hơn khi lôi vá và khi khay vé gõ.
 
-Hắn men nhanh về ô mười chín. Quỳ sau đá che. Đặt tay lên phù báo khí. Giọt Linh Dịch rung theo **hai** nhịp — một từ đông bắc, một từ dưới đáy — rồi chồng lên nhau như hai ngón tay bấm cùng một chỗ trên sổ.
+Hắn men nhanh về ô mười chín. Đường hành lang vắng — ai giữ cọc đã vào vị, ai bán cọc đã xuống kho. Chỉ còn hắn và tiếng **dồn** từ hai phía.
 
-Phía kho, tiếng đếm hạt **dồn**. Phía đông bắc, lôi **chớp**. Giữa hai tiếng, Tô Diêu nghe thấy điều chưa ai nói thành lời:
+Quỳ sau đá che. Đặt tay lên phù báo khí. Phù ấm. Cát son dưới đầu gối **khô** nhưng **chảy** một đường mảnh về nam mỗi khi khay vé gõ — không nhìn thấy, chỉ cảm bằng da và bằng giọt dịch lệch trong đan điền. Giọt rung theo **hai** nhịp — một từ đông bắc, một từ dưới đáy — rồi chồng lên nhau như hai ngón tay bấm cùng một chỗ trên sổ.
+
+Huyết khế hạ nhiệt. *Không bỏ cọc.*
+
+Phía kho, tiếng đếm hạt **dồn** — *hai mươi hai, hai mươi một, hai mươi* — chấp sự Bách Hóa không hạ giá, không mở thêm suất. Phía đông bắc, lôi **chớp**, tiếng búa vá khe chen vào như kim đập thẳng xuống nhánh bảy. Hứa thị giữ lò phụ — hắn nghe khói Hỏa mỏng trong gió — nhưng không thấy người. Chỉ thấy **sổ** leo khi vé bán.
+
+Giữa hai tiếng, Tô Diêu nghe thấy điều chưa ai nói thành lời:
 
 Hai cuộc tranh đang **cùng** leo đến điểm giao — và ô mười chín nằm ngay trên đường giao.
 
