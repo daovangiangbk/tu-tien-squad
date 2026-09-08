@@ -7,8 +7,8 @@
 
 ## Snapshot
 
-- **Phase:** Arc 1 **ch.1–48 approved** · **Transition ch.49–54 approved draft** · gate Arc 2 ch.55
-- **Session:** Review + revise Transition ch.49–54 · r2 pass
+- **Phase:** Arc 1 + Transition **approved** · **Arc 2 ch.55 approved draft** · gate ch.56
+- **Session:** Viết ch.55 · review r1 revise C-01 · r2 pass · auto-gate
 - **Blockers:** Không
 - **Human gate (session):** User pre-approve — sau mỗi review: nếu **suggest_pass** / không `critical`, coi **approved draft** (bỏ qua revise trừ ID critical); nếu có critical → revise rồi r2 như workflow
 
@@ -396,6 +396,14 @@
 | 53 | `hac-thi-sat-thu` | **approved draft** | [`review-chapter-53-hac-thi-sat-thu.md`](interface/chapter-view/review-chapter-53-hac-thi-sat-thu.md) · suggest_pass |
 | 54 | `ky-khe-mach` | **approved draft** | [`review-chapter-54-ky-khe-mach.md`](interface/chapter-view/review-chapter-54-ky-khe-mach.md) · suggest_pass |
 
+## Chương 55 — `khe-thue-mach`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-55-khe-thue-mach.md`](interface/chapters/chapter-55-khe-thue-mach.md) |
+| Beat | [`ch55-khe-thue-mach-beat.md`](logic/chapters/ch55-khe-thue-mach-beat.md) |
+| Review | r2 [`review-chapter-55-khe-thue-mach-r2.md`](interface/chapter-view/review-chapter-55-khe-thue-mach-r2.md) · **suggest_pass** · revise C-01 |
+
 ## Chương 48 — `thach-lam-an`
 
 | Trạng thái | Giá trị |
@@ -406,4 +414,4 @@
 
 ---
 
-*Status sync — **Arc 1 ch.1–48** + **Transition ch.49–54 approved draft** (2026-09-08). Gate Arc 2 ch.55.*
+*Status sync — **55/112 approved draft** · Arc 2 ch.55 mở (2026-09-08). Gate ch.56.*

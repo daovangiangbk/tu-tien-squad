@@ -92,7 +92,7 @@
 
 | Ch | Slug | Tiêu đề làm việc | Beat | FS (chính) | Status |
 | --- | --- | --- | --- | --- | --- |
-| 55 | `khe-thue-mach` | Khế Thuê Mạch | 1 | FS-004, 009 | outline |
+| 55 | `khe-thue-mach` | Khế Thuê Mạch | 1 | FS-004, 009 | **approved draft** | `chapter-55-khe-thue-mach.md` |
 | 56 | `dan-sa-phu` | Đan Sa Phụ | 1 | FS-003 | outline |
 | 57 | `luat-dai-cuc` | Luật Đại Cục | 1 | FS-002 | outline |
 | 58 | `tru-co-dan` | Trúc Cơ Đan | 1 | FS-009 | outline |

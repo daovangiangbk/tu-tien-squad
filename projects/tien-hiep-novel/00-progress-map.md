@@ -6,7 +6,7 @@
 > **Task queue agent:** [`status.md`](status.md)
 
 **Lần cập nhật:** 2026-09-08  
-**Session focus:** Arc 1 **ch.1–48 approved** · Transition **ch.49–54 approved draft** · gate Arc 2 ch.55
+**Session focus:** Arc 2 **ch.55 approved draft** · Transition complete · ch.56+
 **Brief:** v2 · **Trần phase 1:** Trúc Cơ đỉnh phong
 
 ---
@@ -34,7 +34,7 @@
 
 | Phase | Trạng thái | Arc | Chương (prose) | Ghi chú |
 | --- | --- | --- | --- | --- |
-| **1** — Trúc Cơ đỉnh phong | `in_progress` | 4 khối (1+T+2+3) | **54 / 112** prose (**54** approved draft incl. Transition) | Arc 1 **prose_complete** · Transition **prose_complete** |
+| **1** — Trúc Cơ đỉnh phong | `in_progress` | 4 khối (1+T+2+3) | **55 / 112** prose (**55** approved draft) | Arc 1 + Transition **prose_complete** · Arc 2 **in progress** |
 | **2** — Kim Đan+ | `planned` | — | 0 | Stub sau phase 1 |
 
 ---
@@ -129,11 +129,15 @@
 | --- | --- |
 | Beat sheet | ✅ [`logic/arcs/02-arc2-beats.md`](logic/arcs/02-arc2-beats.md) — 10 beat |
 | Spine | ✅ 34/34 dòng outline (ch.55–88) |
-| Prose | 0 |
+| Prose | **1** (ch.55) |
+
+| Ch | Tiêu đề | Status | File |
+| --- | --- | --- | --- |
+| 55 | Khế Thuê Mạch | `approved draft` | [chapter-55-khe-thue-mach.md](interface/chapters/chapter-55-khe-thue-mach.md) |
 
 | Block | Ch | Status | Cốt lõi |
 | --- | --- | --- | --- |
-| 2A | 55–62 | `outline` | Thuê tranh mạch phụ · Trúc Cơ Sơ |
+| 2A | 55–62 | **ch.55 draft** | Thuê tranh mạch phụ · Trúc Cơ Sơ |
 | 2B | 63–72 | `outline` | Bí cảnh chung; wound đâm · FS-006 |
 | 2C | 73–88 | `outline` | Mạch đoạn; Ma lậu; Linh Dịch lệch |
 

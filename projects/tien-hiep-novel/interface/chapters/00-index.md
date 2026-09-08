@@ -73,7 +73,11 @@
 
 ### Arc 2 — Tranh Mạch Phụ (ch. 55–88)
 
-*Outline Logic — [`02-arc2-beats.md`](../../logic/arcs/02-arc2-beats.md) · spine ch.55–88 trong [`00-chapter-spine-phase1.md`](../../logic/chapters/00-chapter-spine-phase1.md). Chưa prose.*
+| Ch | Tiêu đề | Status | File |
+| --- | --- | --- | --- |
+| 55 | Khế Thuê Mạch | approved draft | [chapter-55-khe-thue-mach.md](./chapter-55-khe-thue-mach.md) |
+
+*Outline Logic — [`02-arc2-beats.md`](../../logic/arcs/02-arc2-beats.md) · spine ch.55–88 trong [`00-chapter-spine-phase1.md`](../../logic/chapters/00-chapter-spine-phase1.md).*
 
 ### Arc 3 — Đan Điền Viên Mãn (ch. 89–112)
 
