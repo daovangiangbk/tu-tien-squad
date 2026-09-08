@@ -6,7 +6,7 @@
 > **Task queue agent:** [`status.md`](status.md)
 
 **Lần cập nhật:** 2026-09-08  
-**Session focus:** Ch.1–47 **approved draft** · **Beat 9 (ch.45–47) complete** · gate mở ch.48  
+**Session focus:** Ch.1–47 **approved draft** · Ch.48 **draft** · **Beat 10 (ch.48) complete · Arc 1 closing**  
 **Brief:** v2 · **Trần phase 1:** Trúc Cơ đỉnh phong
 
 ---
@@ -34,7 +34,7 @@
 
 | Phase | Trạng thái | Arc | Chương (prose) | Ghi chú |
 | --- | --- | --- | --- | --- |
-| **1** — Trúc Cơ đỉnh phong | `in_progress` | 4 khối (1+T+2+3) | **47 / 112** prose (**47** approved) | Spine Arc 1 đủ 48 ch |
+| **1** — Trúc Cơ đỉnh phong | `in_progress` | 4 khối (1+T+2+3) | **48 / 112** prose (**47** approved, **1** draft) | Spine Arc 1 đủ 48 ch (Arc 1 prose complete) |
 | **2** — Kim Đan+ | `planned` | — | 0 | Stub sau phase 1 |
 
 ---
@@ -43,12 +43,12 @@
 
 **Logic:** [`logic/00-story-spine.md`](logic/00-story-spine.md) · [`logic/arcs/00-arc-master-outline.md`](logic/arcs/00-arc-master-outline.md)
 
-### Arc 1 — Phế Địa Tán Tu · ch. 1–48 · LK 1→12 `[prose_partial]`
+### Arc 1 — Phế Địa Tán Tu · ch. 1–48 · LK 1→12 `[prose_complete]`
 
 | Metric | Giá trị |
 | --- | --- |
 | Spine | ✅ 48/48 dòng |
-| Prose | **47** approved draft · **1** outline |
+| Prose | **47** approved draft · **1** draft (Ch.48 Arc 1 finale) |
 | Beat sheet | [`logic/arcs/01-arc1-beats.md`](logic/arcs/01-arc1-beats.md) |
 
 | Ch | Tiêu đề | Status | File |
@@ -100,7 +100,7 @@
 | 45 | Ép Công | **approved draft** · Beat 9 mở | [chapter-45-ep-cong.md](interface/chapters/chapter-45-ep-cong.md) · [review r2](interface/chapter-view/review-chapter-45-ep-cong-r2.md) |
 | 46 | Trận Tàn Một Nhịp | **approved draft** | [chapter-46-tran-tan-mot-nhip.md](interface/chapters/chapter-46-tran-tan-mot-nhip.md) · [review r2](interface/chapter-view/review-chapter-46-tran-tan-mot-nhip-r2.md) |
 | 47 | LK Viên Mãn | **approved draft** · Beat 9 đóng | [chapter-47-lk-vien-man.md](interface/chapters/chapter-47-lk-vien-man.md) · [review r2](interface/chapter-view/review-chapter-47-lk-vien-man-r2.md) |
-| 48 | Thạch Lam Ẩn | `outline` | — |
+| 48 | Thạch Lam Ẩn | `draft` · Beat 10 đóng (Arc 1 đóng) | [`interface/chapters/chapter-48-thach-lam-an.md`](interface/chapters/chapter-48-thach-lam-an.md) |
 
 ---
 
