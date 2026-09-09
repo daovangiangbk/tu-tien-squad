@@ -107,9 +107,9 @@
 | 67 | `sat-thu-phi` | Sát Thủ Phí | 4 | FS-003 | **approved draft** | `chapter-67-sat-thu-phi.md` |
 | 68 | `khach-thue` | Khách Thuê | 4 | FS-003, 016 | **approved draft** | `chapter-68-khach-thue.md` |
 | 69 | `hop-dong-can` | Hợp Đồng Cắn | 4 | FS-004 | **approved draft** | `chapter-69-hop-dong-can.md` |
-| 70 | `giu-slot` | Giữ Slot | 5 | FS-011 | outline |
-| 71 | `vi-dai-cuc` | Vì Đại Cục | 5 | FS-006, 014 | outline |
-| 72 | `bia-khong-ten` | Bia Không Tên | 5 | FS-006 | outline |
+| 70 | `giu-slot` | Giữ Suất | 5 | FS-011 | **approved draft** | `chapter-70-giu-slot.md` |
+| 71 | `vi-dai-cuc` | Vì Đại Cục | 5 | FS-006, 014 | **approved draft** | `chapter-71-vi-dai-cuc.md` |
+| 72 | `bia-khong-ten` | Bia Không Tên | 5 | FS-006 | **approved draft** | `chapter-72-bia-khong-ten.md` |
 | 73 | `hon-loan` | Hỗn Loạn | 6 | FS-010 | outline |
 | 74 | `on-trung` | Ổn Trung | 6 | FS-012 | outline |
 | 75 | `ta-ham-nguyet` | Tạ Hàm Nguyệt | 6 | FS-002, 013 | outline |

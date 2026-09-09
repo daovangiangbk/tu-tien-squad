@@ -6,7 +6,7 @@
 > **Task queue agent:** [`status.md`](status.md)
 
 **Lần cập nhật:** 2026-09-09  
-**Session focus:** Arc 2 **ch.67–69 approved draft** · Beat 4 khép · gate ch.70
+**Session focus:** Arc 2 **ch.70–72 approved draft** · Beat 5 khép · gate ch.73
 **Brief:** v2 · **Trần phase 1:** Trúc Cơ đỉnh phong
 
 ---
@@ -34,7 +34,7 @@
 
 | Phase | Trạng thái | Arc | Chương (prose) | Ghi chú |
 | --- | --- | --- | --- | --- |
-| **1** — Trúc Cơ đỉnh phong | `in_progress` | 4 khối (1+T+2+3) | **69 / 112** prose (**69** approved draft) | Arc 1 + Transition **prose_complete** · Arc 2 **in progress** |
+| **1** — Trúc Cơ đỉnh phong | `in_progress` | 4 khối (1+T+2+3) | **72 / 112** prose (**72** approved draft) | Arc 1 + Transition **prose_complete** · Arc 2 **in progress** |
 | **2** — Kim Đan+ | `planned` | — | 0 | Stub sau phase 1 |
 
 ---
@@ -129,7 +129,7 @@
 | --- | --- |
 | Beat sheet | ✅ [`logic/arcs/02-arc2-beats.md`](logic/arcs/02-arc2-beats.md) — 10 beat |
 | Spine | ✅ 34/34 dòng outline (ch.55–88) |
-| Prose | **15** (ch.55–69) |
+| Prose | **18** (ch.55–72) |
 
 | Ch | Tiêu đề | Status | File |
 | --- | --- | --- | --- |
@@ -148,11 +148,14 @@
 | 67 | Sát Thủ Phí | `approved draft` | [chapter-67-sat-thu-phi.md](interface/chapters/chapter-67-sat-thu-phi.md) |
 | 68 | Khách Thuê | `approved draft` | [chapter-68-khach-thue.md](interface/chapters/chapter-68-khach-thue.md) |
 | 69 | Hợp Đồng Cắn | `approved draft` | [chapter-69-hop-dong-can.md](interface/chapters/chapter-69-hop-dong-can.md) |
+| 70 | Giữ Suất | `approved draft` | [chapter-70-giu-slot.md](interface/chapters/chapter-70-giu-slot.md) |
+| 71 | Vì Đại Cục | `approved draft` | [chapter-71-vi-dai-cuc.md](interface/chapters/chapter-71-vi-dai-cuc.md) |
+| 72 | Bia Không Tên | `approved draft` | [chapter-72-bia-khong-ten.md](interface/chapters/chapter-72-bia-khong-ten.md) |
 
 | Block | Ch | Status | Cốt lõi |
 | --- | --- | --- | --- |
 | 2A | 55–62 | **approved draft** · Beat 2 khép | Thuê tranh mạch phụ · Trúc Cơ Sơ |
-| 2B | 63–72 | **ch.63–69 approved draft** · Beat 4 khép | Bí cảnh chung; vé + phong ấn tin; Sát Thủ Phí |
+| 2B | 63–72 | **approved draft** · Beat 5 khép | Bí cảnh chung; vé; Sát Thủ; wound đâm — Lục chết |
 | 2C | 73–88 | `outline` | Mạch đoạn; Ma lậu; Linh Dịch lệch |
 
 ---
@@ -181,7 +184,7 @@
 Phase 1 [in_progress]
 ├── Arc 1 Phế Địa Tán Tu [prose_complete]  ch 1–48 approved draft
 ├── Transition Thành Trì Khế [approved draft]   ch 49–54 prose
-├── Arc 2 Tranh Mạch Phụ [in_progress]    ch 55–69 approved draft · Beat 4 khép
+├── Arc 2 Tranh Mạch Phụ [in_progress]    ch 55–72 approved draft · Beat 5 khép · Block 2B khép
 └── Arc 3 Đan Điền Viên Mãn [spine]       ch 89–112 block
 Phase 2 [planned]
 ```

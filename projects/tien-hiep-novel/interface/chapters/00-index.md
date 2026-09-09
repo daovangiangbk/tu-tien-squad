@@ -90,6 +90,9 @@
 | 67 | Sát Thủ Phí | approved draft | [chapter-67-sat-thu-phi.md](./chapter-67-sat-thu-phi.md) |
 | 68 | Khách Thuê | approved draft | [chapter-68-khach-thue.md](./chapter-68-khach-thue.md) |
 | 69 | Hợp Đồng Cắn | approved draft | [chapter-69-hop-dong-can.md](./chapter-69-hop-dong-can.md) |
+| 70 | Giữ Suất | approved draft | [chapter-70-giu-slot.md](./chapter-70-giu-slot.md) |
+| 71 | Vì Đại Cục | approved draft | [chapter-71-vi-dai-cuc.md](./chapter-71-vi-dai-cuc.md) |
+| 72 | Bia Không Tên | approved draft | [chapter-72-bia-khong-ten.md](./chapter-72-bia-khong-ten.md) |
 
 *Outline Logic — [`02-arc2-beats.md`](../../logic/arcs/02-arc2-beats.md) · spine ch.55–88 trong [`00-chapter-spine-phase1.md`](../../logic/chapters/00-chapter-spine-phase1.md).*
 
