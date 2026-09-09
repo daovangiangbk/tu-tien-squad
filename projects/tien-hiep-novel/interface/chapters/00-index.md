@@ -87,6 +87,9 @@
 | 64 | Phong Ấn Tin | approved draft | [chapter-64-phong-an-tin.md](./chapter-64-phong-an-tin.md) |
 | 65 | Độc Quyền Vé | approved draft | [chapter-65-monopoly-ve.md](./chapter-65-monopoly-ve.md) |
 | 66 | Hai Cuộc | approved draft | [chapter-66-hai-cuoc.md](./chapter-66-hai-cuoc.md) |
+| 67 | Sát Thủ Phí | approved draft | [chapter-67-sat-thu-phi.md](./chapter-67-sat-thu-phi.md) |
+| 68 | Khách Thuê | approved draft | [chapter-68-khach-thue.md](./chapter-68-khach-thue.md) |
+| 69 | Hợp Đồng Cắn | approved draft | [chapter-69-hop-dong-can.md](./chapter-69-hop-dong-can.md) |
 
 *Outline Logic — [`02-arc2-beats.md`](../../logic/arcs/02-arc2-beats.md) · spine ch.55–88 trong [`00-chapter-spine-phase1.md`](../../logic/chapters/00-chapter-spine-phase1.md).*
 

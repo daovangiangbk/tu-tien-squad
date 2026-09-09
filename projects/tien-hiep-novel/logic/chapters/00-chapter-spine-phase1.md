@@ -104,9 +104,9 @@
 | 64 | `phong-an-tin` | Phong Ấn Tin | 3 | FS-005, 015 | **approved draft** | `chapter-64-phong-an-tin.md` |
 | 65 | `monopoly-ve` | Độc Quyền Vé | 3 | FS-009 | **approved draft** | `chapter-65-monopoly-ve.md` |
 | 66 | `hai-cuoc` | Hai Cuộc | 3 | — | **approved draft** | `chapter-66-hai-cuoc.md` |
-| 67 | `sat-thu-phi` | Sát Thủ Phí | 4 | FS-003 | outline |
-| 68 | `khach-thue` | Khách Thuê | 4 | FS-003, 016 | outline |
-| 69 | `hop-dong-can` | Hợp Đồng Cắn | 4 | FS-004 | outline |
+| 67 | `sat-thu-phi` | Sát Thủ Phí | 4 | FS-003 | **approved draft** | `chapter-67-sat-thu-phi.md` |
+| 68 | `khach-thue` | Khách Thuê | 4 | FS-003, 016 | **approved draft** | `chapter-68-khach-thue.md` |
+| 69 | `hop-dong-can` | Hợp Đồng Cắn | 4 | FS-004 | **approved draft** | `chapter-69-hop-dong-can.md` |
 | 70 | `giu-slot` | Giữ Slot | 5 | FS-011 | outline |
 | 71 | `vi-dai-cuc` | Vì Đại Cục | 5 | FS-006, 014 | outline |
 | 72 | `bia-khong-ten` | Bia Không Tên | 5 | FS-006 | outline |

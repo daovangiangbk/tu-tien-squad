@@ -7,7 +7,7 @@
 
 ## Snapshot
 
-- **Phase:** Arc 1 + Transition **approved** · **Arc 2 ch.63–66 approved draft** · Beat 3 khép · gate ch.67
+- **Phase:** Arc 1 + Transition **approved** · **Arc 2 ch.67–69 approved draft** · Beat 4 khép · gate ch.70
 - **Session:** Viết ch.63–66 · review r1/r2 · auto-gate · push main
 - **Blockers:** Không
 - **Human gate (session):** User pre-approve — sau mỗi review: nếu **suggest_pass** / không `critical`, coi **approved draft** (bỏ qua revise trừ ID critical); nếu có critical → revise rồi r2 như workflow
@@ -492,6 +492,30 @@
 | Beat | [`ch66-hai-cuoc-beat.md`](logic/chapters/ch66-hai-cuoc-beat.md) |
 | Review | [`review-chapter-66-hai-cuoc.md`](interface/chapter-view/review-chapter-66-hai-cuoc.md) · **suggest_pass** · revise C-01–C-04 |
 
+## Chương 67 — `sat-thu-phi`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-67-sat-thu-phi.md`](interface/chapters/chapter-67-sat-thu-phi.md) |
+| Beat | [`ch67-sat-thu-phi-beat.md`](logic/chapters/ch67-sat-thu-phi-beat.md) |
+| Review | r2 [`review-chapter-67-sat-thu-phi-r2.md`](interface/chapter-view/review-chapter-67-sat-thu-phi-r2.md) · **suggest_pass** · revise C-01–C-03 |
+
+## Chương 68 — `khach-thue`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-68-khach-thue.md`](interface/chapters/chapter-68-khach-thue.md) |
+| Beat | [`ch68-khach-thue-beat.md`](logic/chapters/ch68-khach-thue-beat.md) |
+| Review | r2 [`review-chapter-68-khach-thue-r2.md`](interface/chapter-view/review-chapter-68-khach-thue-r2.md) · **suggest_pass** · revise C-01–C-04 |
+
+## Chương 69 — `hop-dong-can`
+
+| Trạng thái | Giá trị |
+| --- | --- |
+| Prose | **approved draft** · [`chapter-69-hop-dong-can.md`](interface/chapters/chapter-69-hop-dong-can.md) |
+| Beat | [`ch69-hop-dong-can-beat.md`](logic/chapters/ch69-hop-dong-can-beat.md) |
+| Review | r2 [`review-chapter-69-hop-dong-can-r2.md`](interface/chapter-view/review-chapter-69-hop-dong-can-r2.md) · **suggest_pass** · revise C-01–C-04 |
+
 ## Chương 48 — `thach-lam-an`
 
 | Trạng thái | Giá trị |
@@ -502,4 +526,4 @@
 
 ---
 
-*Status sync — **66/112 approved draft** · Arc 2 Beat 3 khép (ch.63–66) (2026-09-08). Gate ch.67.*
+*Status sync — **69/112 approved draft** · Arc 2 Beat 4 khép (ch.67–69) (2026-09-09). Gate ch.70.*
