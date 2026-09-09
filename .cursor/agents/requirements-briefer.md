@@ -19,7 +19,7 @@ projects/
     foundation/               ← (tùy chọn) Core riêng, nếu không dùng shared
 ```
 
-- **work_slug:** chữ thường, gạch ngang (`tien-hiep-novel`, `vo-dong-ky`).
+- **work_slug:** chữ thường, gạch ngang (`tap-linh-dieu-lo`, `vo-dong-ky`).
 - **foundation_root:** trong brief §0 — hoặc `foundation/` (shared repo root), hoặc `projects/<slug>/foundation/`.
 - Tác phẩm **mới:** tạo `projects/<slug>/`, cập nhật `projects/README.md` (bảng tác phẩm), set `active-work.md` nếu user muốn làm việc ngay trên đó.
 

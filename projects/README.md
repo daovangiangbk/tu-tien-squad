@@ -19,10 +19,10 @@ Mỗi tiểu thuyết (tác phẩm) là **một thư mục con** `projects/<work
 
 **Foundation dùng chung:** tác phẩm có thể trỏ `foundation_root: foundation/` ở root repo (xem brief §0). Tác phẩm mới hoàn toàn độc lập → đặt Core trong `projects/<slug>/foundation/core/`.
 
-**Quy ước slug:** chữ thường, số, gạch ngang (`tien-hiep-novel`, `vo-dong-ky`).
+**Quy ước slug:** chữ thường, số, gạch ngang (`tap-linh-dieu-lo`, `vo-dong-ky`).
 
 ## Tác phẩm trong repo
 
 | Slug | Tên hiển thị | Ghi chú |
 | --- | --- | --- |
-| `tien-hiep-novel` | Tiên Hiệp Novel | Core dùng chung `foundation/` root |
+| `tap-linh-dieu-lo` | Tạp Linh Diêu Lộ | Core dùng chung `foundation/` root |

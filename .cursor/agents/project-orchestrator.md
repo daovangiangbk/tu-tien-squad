@@ -37,7 +37,7 @@ Một lượt orchestrator = **tối đa một bước delegate mới** + cập 
 ## Resolve tác phẩm đang làm việc
 
 1. User nói rõ slug → dùng `projects/<slug>/`.
-2. Không rõ → đọc **`projects/active-work.md`** (một dòng, ví dụ `tien-hiep-novel`).
+2. Không rõ → đọc **`projects/active-work.md`** (một dòng, ví dụ `tap-linh-dieu-lo`).
 3. Mọi path Logic/Interface/Brief/Status **phải** nằm dưới `work_root` từ brief **§0 Work identity**, trừ `foundation_root` có thể là `foundation/` shared.
 
 **Không trộn artifact** giữa hai slug (arc tác phẩm A không ghi vào thư mục B).

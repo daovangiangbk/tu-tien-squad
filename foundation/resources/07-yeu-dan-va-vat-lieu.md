@@ -19,8 +19,8 @@
 | Tên | Nguồn | Công dụng | Cảnh giới / nghề | Hiếm | Trade-off |
 | --- | --- | --- | --- | --- | --- |
 | **Yêu cốt** (妖骨) `[bổ sung sáng tác]` | Yêu thú ≥ Trúc Cơ | Luyện khí xương pháp khí | LK–Trúc Cơ | TB | — |
-| **Mảnh xương yêu thú** (妖兽碎骨) | Phế địa / xác tích đại chiến (`projects/tien-hiep-novel` · Kiến Sa) | Vụn xương quái tàn; thu cùng linh sa, giá thấp | Phàm–LK | Rất thấp | **Không** thay **Yêu cốt** |
-| **Tàn Linh Sa** (残灵砂) | Kiến Sa Địa / phế trận (`tien-hiep-novel`) | Đối **linh thạch hạ phẩm** tại Phi Vân; xem § Tàn Linh Sa — quy đổi | Phàm–LK | Thấp (hàng số lượng) | Thu **đống**, ép giá; không tỷ lệ 1:1 công khai |
+| **Mảnh xương yêu thú** (妖兽碎骨) | Phế địa / xác tích đại chiến (*Tạp Linh Diêu Lộ* · `tap-linh-dieu-lo` · Kiến Sa) | Vụn xương quái tàn; thu cùng linh sa, giá thấp | Phàm–LK | Rất thấp | **Không** thay **Yêu cốt** |
+| **Tàn Linh Sa** (残灵砂) | Kiến Sa Địa / phế trận (*Tạp Linh Diêu Lộ* · `tap-linh-dieu-lo`) | Đối **linh thạch hạ phẩm** tại Phi Vân; xem § Tàn Linh Sa — quy đổi | Phàm–LK | Thấp (hàng số lượng) | Thu **đống**, ép giá; không tỷ lệ 1:1 công khai |
 | **Yêu giáp** (妖甲) | Yêu Kim Đan | Giáp luyện khí | Trúc Cơ–Kim Đan | Cao | Nặng; cần rèn |
 | **Linh thú huyết** (灵兽血) `[bổ sung sáng tác]` | Linh thú nuôi tông | Mực phù; huyết luyện | Phù / Ma | TB | Ma: **Nghiệp** |
 | **Yêu hạt nhân** (妖核) — hạ giai | Yêu thú LK | Phù hạ; đan phụ | LK | Thấp | — |
@@ -31,12 +31,13 @@
 | **Huyết tinh thạch** (血晶石) `[bổ sung sáng tác]` | Huyết pool Ma | Ma luyện khí | Ma | Cao | **Nghiệp** |
 | **Ngưng cốt huyết** (凝骨血) `[bổ sung sáng tác]` | Yêu cốt + linh thú | Phệ huyết đan phụ | Ma | Cao | Luật 4 |
 
-## Tàn Linh Sa — quy đổi linh thạch (Lan Sa · Kiến Sa) `[bổ sung sáng tác]` · `tien-hiep-novel`
+## Tàn Linh Sa — quy đổi linh thạch (Lan Sa · Kiến Sa) `[bổ sung sáng tác]` · `tap-linh-dieu-lo`
 
 | Mục | Quy tắc |
 | --- | --- |
 | **Đơn vị giao dịch** | Quầy thu **đống** (túi / can đã gom), **không** niêm yết «1 hạt Tàn Linh Sa = X hạt» |
-| **Mốc canon (MC · ch.2)** | Một **túi da thú** đống (sau đêm nhặt + sáng ch.1, túi **nặng**) → **60 linh thạch hạ phẩm**; **3 hạt Tàn Linh Sa lẻ** quầy **không** gom vào đống |
+| **Mốc đống (tham chiếu)** | ~**20 hạt Tàn Linh Sa** gom đủ một mốc quầy ≈ **1 linh thạch hạ phẩm** (ép giá; đổ lẻ / mảnh vụn tệ hơn — ch.8: **19 hạt** ≈ không đủ **nửa** thạch lành). |
+| **Mốc canon (MC · ch.2)** | Đêm dày (ch.1): **43 hạt** mang về → quầy trả **2 linh thạch** + bột ngấm thương, **3 hạt lẻ** không gom; cộng túi thạch cũ → **60** (ledger). Prose ch.2 **không** tách số cũ. |
 | **Tách giao dịch** | Bột ngấm thương (phàm) có thể **kèm** đống (ch.2) — **không** tính vào 60 hạt |
 | **Lao động (ch.1 — không phải tỷ lệ đống)** | Cả **một đêm** nhặt lẻ ≈ **một tuần cơm lạt + một Tụ Khí Đan hạ đen** (~ **2–5 hạt** tham chiếu `01-linh-thach-tien-te.md`) |
 | **Prose gợi ý** | «Vài hạt / vài linh thạch hạ phẩm **nếu** ai đi đổi lẻ» — **ẩn dụ giá trị thấp**, không dùng làm tỷ giá chính thức |

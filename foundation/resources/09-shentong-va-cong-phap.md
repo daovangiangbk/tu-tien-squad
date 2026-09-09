@@ -105,7 +105,7 @@
 
 | Tên (Hán Việt) | Chữ Hán | Loại | Phẩm | Cảnh giới | Nguồn / phạm vi | Công dụng | Trade-off / tiêu hao (§0) | Canon ref |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Ngũ Hành Tán Dương Công** | 五行散养功 | Công pháp tu luyện | **Hoàng** (Hạ–Trung) | Luyện Khí 1→12; nền Trúc Cơ yếu | `[bổ sung sáng tác]` Lan Sa–type: vùng **linh khí nghèo**, **tán tu**; copy lang bạt, **không** tông truyền chính thức | Hấp linh khí **cân Ngũ hành nhẹ** ( không thiên một hệ ); phù hợp **tạp căn** tu chậm | Tu chậm hơn công pháp thiên một hệ cùng phẩm; tốn **Tụ Khí Đan** / linh thạch; không mở tuyệt kỹ sâu | `projects/tien-hiep-novel` registry · ch. 1+ |
+| **Ngũ Hành Tán Dương Công** | 五行散养功 | Công pháp tu luyện | **Hoàng** (Hạ–Trung) | Luyện Khí 1→12; nền Trúc Cơ yếu | `[bổ sung sáng tác]` Lan Sa–type: vùng **linh khí nghèo**, **tán tu**; copy lang bạt, **không** tông truyền chính thức | Hấp linh khí **cân Ngũ hành nhẹ** ( không thiên một hệ ); phù hợp **tạp căn** tu chậm | Tu chậm hơn công pháp thiên một hệ cùng phẩm; tốn **Tụ Khí Đan** / linh thạch; không mở tuyệt kỹ sâu | `projects/tap-linh-dieu-lo` registry · ch. 1+ |
 | **Phong Bộ Thiểm Bộ** | 风步闪步 | Thân pháp | **Hoàng** | Luyện Khí 4+ | `[bổ sung sáng tác]` tán tu / ngoại môn thấp | Tăng tốc ngắn, né sơ cấp | **Thể lực** ●●●; combo dài → co kinh mạch nếu Luyện Thể yếu | registry · Arc 1 Beat 5 |
 | **Cơ Bản Ấn Pháp** | 基本印法 | Thuật (ấn) — hỗ trợ phù | **Hoàng** | Luyện Khí 6+ *(khuyến nghị)* | `[bổ sung sáng tác]` ngọc giản / dạy nghề phù sơ | Kết **ấn** kích phù, trận vi | **Thần thức** ●●●; đa nghề + tu song song → mệt đầu, lỗi ấn | registry · `10` phù; Arc 1 Beat 3 |
 
