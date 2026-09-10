@@ -15,3 +15,8 @@ Review **chỉ liệt kê mục cần sửa** (bảng ngắn + lý do 1 câu), k
 3. **Human** tick ID trong bảng *Human confirm*
 4. `project-orchestrator` → `xianxia-prose-writer` **revise**
 5. Human **approved** → chương tiếp theo
+
+## Experimental reader
+
+- Prefix: **`reader-`**
+- Thư mục: `reader-comment/` (beta read độc giả mới; không trộn với `review-`)

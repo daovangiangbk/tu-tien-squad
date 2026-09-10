@@ -7,8 +7,19 @@
 
 ## Xác minh R1
 
-Không có mục bắt buộc từ r1.
+| ID | Trạng thái | Ghi chú ngắn |
+| C-01 | Đã sửa | L90: «Canh **một** **đêm** **trôi** chậm» — khớp đêm / giờ Hợi. |
+| M-01 | Đã sửa | L50, L68: **Tạ Hàm Nguyệt** (khớp ch.69 đài). |
+| M-02 | Đã sửa | L135–136, L147: khế **cắn** trước miệng; L82 nới/siết báo khí. |
+| M-03 | Đã sửa | L96: `* **Chuyển suất · ca đêm** *` — hết `**` thừa. |
 
 ## Mục cần sửa
 
 Không có mục bắt buộc sửa.
+
+## Human confirm
+
+| ID | [ ] sửa / [ ] bỏ qua |
+| *(r2 — không mục mới)* | |
+
+*(Human có thể coi chương pass sau r1.)*

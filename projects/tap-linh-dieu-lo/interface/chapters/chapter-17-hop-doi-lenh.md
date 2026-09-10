@@ -1,4 +1,5 @@
 # Chương 17 — Hợp Đội Lệnh
+
 > **Đại cục:** 1 · *Phế Địa Tán Tu*  
 > **Góc nhìn:** Ngôi thứ ba hạn MC (Tô Diêu)  
 > **Mầm phục bút:** FS-009 *(góp giá · chia phần)*  
@@ -260,7 +261,7 @@ Lão nhân ngồi xuống một tảng đá, chìa tay.
 
 — Ai cần lời ta.
 
-Người áo tro nghiến răng, ném một hạt linh thạch qua. Lão nhân bắt lấy, cắn thử rồi nói:
+Người áo tro nghiến răng, ném một hạt linh thạch qua. Lão nhân bắt lấy, thu hạt rồi nói:
 
 — Tiểu tử này giữ lệnh trước. Ngươi ra giá một hạt. Y không bán. Không ai cướp ai.
 
@@ -300,7 +301,7 @@ Người đội nón đặt hai miếng gỗ cạnh nhau.
 
 — Câu thứ nhất. Lệnh nào là thật?
 
-Người áo tro nhìn rất nhanh.
+Người áo tro nhìn rất nhanh, nói:
 
 — Miếng bên phải. Gỗ già hơn.
 
@@ -315,6 +316,8 @@ Hắn nhìn ngọn đèn.
 Khi hai miếng được đưa tới gần lửa, miếng bên trái hút hơi nóng, mặt gỗ sẫm dần. Miếng bên phải không đổi. Nhưng ở cạnh dưới miếng bên phải, ba vết khía đang giữ một ít bụi màu xanh rất nhạt.
 
 Màu xanh giống lớp đồng xỉn trên cỗ xe Thanh Sa.
+
+Tô Diêu nói:
 
 — Miếng bên phải.
 

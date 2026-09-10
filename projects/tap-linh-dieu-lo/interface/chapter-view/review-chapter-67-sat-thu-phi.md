@@ -1,7 +1,6 @@
 # review-chapter-67-sat-thu-phi
 
 **Chương:** `projects/tap-linh-dieu-lo/interface/chapters/chapter-67-sat-thu-phi.md`  
-**Beat:** `logic/chapters/ch67-sat-thu-phi-beat.md`  
 **Ngày:** 2026-09-09 · read-only
 
 **Gợi ý:** suggest_revise
@@ -9,15 +8,15 @@
 ## Mục cần sửa
 
 | ID | Vị trí (đoạn / trích ngắn) | Cần sửa gì | Lý do (1 câu) |
-| C-01 | L44–56 · Lục «Phí theo đầu…» + chấp sự «Số mười bảy… đừng cản leo» | Cắt hoặc rút gọn — hai cảnh **trùng** đuôi ch.66 (L274–286) | Continuity ch.66: reader vừa đọc cùng thoại / cùng cảnh báo |
-| C-02 | L150 · «…đã đọc trên bảng **ch.66**» | Thay bằng mốc trong thế giới (vd. *sáng nay trên bảng*) | Rule prose: không slug/meta chương trong thân truyện |
-| C-03 | L98 · «**FS-003** không phải người»; L158 · «**FS-016** không cần lời thú» | Viết bằng cảnh / nội tâm — bỏ mã FS trong prose | Rule ngôn ngữ: không mã agent trong chương (cf. ch.59 review) |
+| M-01 | Mở chương · «Không nói *giết hết*…» + thoại Lục «Phí theo đầu» | Cắt hoặc rút gọn đoạn lặp ch.66; mở sau Tỵ bằng sổ/dây gai hiệu lực, nhắc cảnh báo chấp sự một nhịp (không replay cả cảnh Lục) | Handoff REWRITE: nội dung trùng đoạn cuối ch.66 (L196–216) khi độc liên tiếp. |
+| M-02 | Danh sách · «mười một… ba mươi tư» (mở) vs «thêm số mười một» / «Số mười một… Lên danh» (đêm) | Thống nhất một luồng: hoặc bỏ 11 khỏi dây gai lúc mở, hoặc cuối đêm chỉ «đọc tên»/bổ sung lỗi — không «thêm»/«lên danh» như mới | Continuity hiệu số trên danh sách dọn mâu thuẫn trong cùng chương. |
+| M-03 | Khối meta dòng 6 · `distrust đồng đội thuê` | Đổi sang tiếng Việt (vd. *bất tín đồng đội thuê*) cho khớp rule chương | Tiếng Anh trong file chương (meta), dù thân bài sạch. |
 
 ## Human confirm
 
 | ID | [ ] sửa / [ ] bỏ qua |
-| C-01 | |
-| C-02 | |
-| C-03 | |
+| M-01 | |
+| M-02 | |
+| M-03 | |
 
-*(Beat 4 / FS-003 mầm / FS-016 / số mười bảy · ô mười chín · Trúc Cơ Sơ kỳ · Linh Dịch lệch · Lục sống · không lộ Tống Minh Vi — khớp beat sau khi xử lý C-01–C-03.)*
+*(Beat, FS-003/FS-016, Trúc Cơ Sơ kỳ, 17 không trên dọn, cliff ch.68, ~2.761 chữ trong band 2.500–4.000 — không ghi thêm nếu human chỉ tick các M- trên.)*

@@ -1,7 +1,7 @@
 # review-chapter-73-hon-loan
 
 **Chương:** `projects/tap-linh-dieu-lo/interface/chapters/chapter-73-hon-loan.md`  
-**Ngày:** 2026-09-09 · read-only · đối chiếu `logic/chapters/ch73-hon-loan-beat.md`
+**Ngày:** 2026-09-09 · read-only · fresh rewrite pass · đối chiếu `logic/chapters/ch73-hon-loan-beat.md`, handoff ch.72
 
 **Gợi ý:** suggest_revise
 
@@ -9,12 +9,11 @@
 
 | ID | Vị trí (đoạn / trích ngắn) | Cần sửa gì | Lý do (1 câu) |
 | --- | --- | --- | --- |
-| C-01 | «Sáng thứ tư, **lệnh** **mới** **dán**» + bullet ổn Trúc Cơ | Bỏ «mới dán» / coi là lệnh đã có từ ch.72; MC **nhìn lại** hoặc **nhắc** điều kiện chờ mạch khép | Ch.72 đã dán cùng nội dung «sáng hôm sau» — đăng lại = continuity. |
-| C-02 | «Sáng thứ hai» (cãi đài) **trước** «Ngày thứ nhất sau bia» | Sắp lại nhãn ngày một chiều (1→2→3→4) hoặc gom đoạn cãi vào đúng thứ tự | Thứ hai xuất hiện trước thứ nhất — timeline đọc sai. |
-| C-03 | Mở «Sáng thứ hai» Huyền Lôi / Thanh Vi + «ít hơn hai đầu… Mạnh Hải, Lục Thanh Phong» | Rút trùng với ch.72 «sáng hôm sau, hỗn loạn mầm» hoặc đánh dấu **ngày 2–3** (không tái mở beat ngày 1) | Handoff ch.72 đã cãi đài + giảm đầu thuê; ch.73 lặp như sự kiện mới. |
-| M-01 | «**body memory**» · «**Wound**» · «**Recovery**» (×2) · «**mirror**» | Thay bằng Việt/Hán Việt (ký ức thân, vết cũ, hồi phục, phản chiếu…) | Rule prose chương: không tiếng Anh trong thân truyện. |
-| M-02 | «**FS-013** **mầm** — **mirror**…» (câu kể sau thoại chấp sự) | Bỏ mã FS và meta; giữ chỉ cảm giác đại cục / giọng sạch | Meta spine không thuộc Interface prose. |
-| M-03 | «thánh tử **Minh Huy**» | Đồng bộ **Tạ Minh Huy** (registry) | Naming canon ch.70+. |
+| C-01 | «**Đêm thứ hai**» — sau *Sáng thứ ba* / điểm tin chiều / bia chiều muộn | Đổi **đêm thứ ba** (hoặc bỏ nhãn, giữ một đêm sau ngày 3) | Nội dung gắn ca phụ đông ngày 3; «thứ hai» lệch chuỗi 1→2→3→4 và lệch «Đêm thứ ba» ngay sau. |
+| C-02 | «**Ngày thứ nhất sau bia**» + cãi đài / lệnh *ổn Trúc Cơ Trung* / ít đầu thuê | Rút trùng với ch.72 «sáng hôm sau, hỗn loạn mầm» hoặc mở ch.73 từ **ngày 2** (canh tiếp, không tái beat ngày 1) | Handoff ch.72 đã prose cùng sáng; đọc liền như lặp sự kiện. |
+| C-03 | «Giữa trưa… **không** Kim Đan solo» | Chỉ giữ xung đột tranh suất; bỏ nhãn beat trong câu kể | Meta checklist canon lọt Interface prose (cùng lớp lỗi mã FS trong thân). |
+| M-01 | Blockquote mầm · «*(wound)*» · «*(distrust)*» | Thay chú thích tiếng Anh bằng Việt (vd. vết cũ / bất tín) | Rule chương: không tiếng Anh kể cả metadata mầm nếu đưa vào file đọc. |
+| M-02 | «tro **dín** gió» (mở chương) | Sửa **dính** (hoặc gom «tro dính vào gió») | Lỗi chính tả gãy nhịp câu mở. |
 
 ## Human confirm
 
@@ -25,6 +24,5 @@
 | C-03 | |
 | M-01 | |
 | M-02 | |
-| M-03 | |
 
-*(Beat FS-010/011/004/014/016/009/013, cliff canh Sửu → ch.74, không Trúc Cơ Trung trong ch.73: khớp beat sau khi vá continuity.)*
+*(~3082 từ thân · band 2.500–4.000: đạt. Beat 6 mở, FS-010/011/014/004/016/009/013 in-world; không heal vết; không NC Trúc Cơ Trung trong ch.73; cliff canh Sửu → ch.74: khớp beat sau khi vá C-01–C-02.)*

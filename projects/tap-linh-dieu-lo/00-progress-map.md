@@ -5,8 +5,8 @@
 > **Chi tiết spine (slug, FS, beat):** [`logic/chapters/00-chapter-spine-phase1.md`](logic/chapters/00-chapter-spine-phase1.md)  
 > **Task queue agent:** [`status.md`](status.md)
 
-**Lần cập nhật:** 2026-09-09  
-**Session focus:** Arc 3 **prose_complete** — ch.89–112 **approved draft** (auto-gate)
+**Lần cập nhật:** 2026-09-10  
+**Session focus:** **REWRITE-66-112 complete** — ch.66–112 rewrite approved · Phase 1 khép · Phase 2 stub
 **Tác phẩm:** Tạp Linh Diêu Lộ (杂灵遥路) · **Brief:** v3 · **Trần phase 1:** Trúc Cơ đỉnh phong
 
 ---
@@ -144,35 +144,35 @@
 | 63 | Vé Bí Cảnh | `approved draft` | [chapter-63-ve-bi-canh.md](interface/chapters/chapter-63-ve-bi-canh.md) |
 | 64 | Phong Ấn Tin | `approved draft` | [chapter-64-phong-an-tin.md](interface/chapters/chapter-64-phong-an-tin.md) |
 | 65 | Độc Quyền Vé | `approved draft` | [chapter-65-monopoly-ve.md](interface/chapters/chapter-65-monopoly-ve.md) |
-| 66 | Hai Cuộc | `approved draft` | [chapter-66-hai-cuoc.md](interface/chapters/chapter-66-hai-cuoc.md) |
-| 67 | Sát Thủ Phí | `approved draft` | [chapter-67-sat-thu-phi.md](interface/chapters/chapter-67-sat-thu-phi.md) |
-| 68 | Khách Thuê | `approved draft` | [chapter-68-khach-thue.md](interface/chapters/chapter-68-khach-thue.md) |
-| 69 | Hợp Đồng Cắn | `approved draft` | [chapter-69-hop-dong-can.md](interface/chapters/chapter-69-hop-dong-can.md) |
-| 70 | Giữ Suất | `approved draft` | [chapter-70-giu-slot.md](interface/chapters/chapter-70-giu-slot.md) |
-| 71 | Vì Đại Cục | `approved draft` | [chapter-71-vi-dai-cuc.md](interface/chapters/chapter-71-vi-dai-cuc.md) |
-| 72 | Bia Không Tên | `approved draft` | [chapter-72-bia-khong-ten.md](interface/chapters/chapter-72-bia-khong-ten.md) |
-| 73 | Hỗn Loạn | `approved draft` | [chapter-73-hon-loan.md](interface/chapters/chapter-73-hon-loan.md) · [review r3](interface/chapter-view/review-chapter-73-hon-loan-r3.md) |
-| 74 | Ổn Trung | `approved draft` | [chapter-74-on-trung.md](interface/chapters/chapter-74-on-trung.md) · [review r2](interface/chapter-view/review-chapter-74-on-trung-r2.md) |
-| 75 | Tạ Hàm Nguyệt | `approved draft` | [chapter-75-ta-ham-nguyet.md](interface/chapters/chapter-75-ta-ham-nguyet.md) · [review r2](interface/chapter-view/review-chapter-75-ta-ham-nguyet-r2.md) |
-| 76 | Phương Tin | `approved draft` | [chapter-76-phuong-tin.md](interface/chapters/chapter-76-phuong-tin.md) · [review r2](interface/chapter-view/review-chapter-76-phuong-tin-r2.md) |
-| 77 | Mạch Đoạn | `approved draft` | [chapter-77-mach-doan.md](interface/chapters/chapter-77-mach-doan.md) · [review r2](interface/chapter-view/review-chapter-77-mach-doan-r2.md) |
-| 78 | Khí Sụt | `approved draft` | [chapter-78-khi-sut.md](interface/chapters/chapter-78-khi-sut.md) · [review r2](interface/chapter-view/review-chapter-78-khi-sut-r2.md) |
-| 79 | Phế Địa Mới | `approved draft` | [chapter-79-phe-dia-moi.md](interface/chapters/chapter-79-phe-dia-moi.md) · [review r2](interface/chapter-view/review-chapter-79-phe-dia-moi-r2.md) |
-| 80 | Nhân Quả Vùng | `approved draft` · Beat 7 đóng | [chapter-80-nhan-qua-vung.md](interface/chapters/chapter-80-nhan-qua-vung.md) · [review r2](interface/chapter-view/review-chapter-80-nhan-qua-vung-r2.md) |
-| 81 | Huyết Sa | `approved draft` · Beat 8 mở | [chapter-81-huyet-sa.md](interface/chapters/chapter-81-huyet-sa.md) · [review r2](interface/chapter-view/review-chapter-81-huyet-sa-r2.md) |
-| 82 | Hút Linh | `approved draft` | [chapter-82-hut-linh.md](interface/chapters/chapter-82-hut-linh.md) · [review r2](interface/chapter-view/review-chapter-82-hut-linh-r2.md) |
-| 83 | Đường Tắt Ma | `approved draft` | [chapter-83-shortcut-ma.md](interface/chapters/chapter-83-shortcut-ma.md) · [review r2](interface/chapter-view/review-chapter-83-shortcut-ma-r2.md) |
-| 84 | Cứu Vùng | `approved draft` · Beat 8 đóng | [chapter-84-cuu-vung.md](interface/chapters/chapter-84-cuu-vung.md) · [review r2](interface/chapter-view/review-chapter-84-cuu-vung-r2.md) |
-| 85 | Linh Dịch Lệch | `approved draft` · Beat 9 mở | [chapter-85-linh-dich-lech.md](interface/chapters/chapter-85-linh-dich-lech.md) · [review](interface/chapter-view/review-chapter-85-linh-dich-lech.md) |
-| 86 | Tâm Ma Nhẹ | `approved draft` | [chapter-86-tam-ma-nhe.md](interface/chapters/chapter-86-tam-ma-nhe.md) · [review](interface/chapter-view/review-chapter-86-tam-ma-nhe.md) |
-| 87 | Hao Thần | `approved draft` · Beat 9 đóng | [chapter-87-hao-than.md](interface/chapters/chapter-87-hao-than.md) · [review](interface/chapter-view/review-chapter-87-hao-than.md) |
-| 88 | Cần Đan Sư | `approved draft` · Beat 10 / Arc 2 prose khép | [chapter-88-can-dan-su.md](interface/chapters/chapter-88-can-dan-su.md) · [review](interface/chapter-view/review-chapter-88-can-dan-su.md) |
+| 66 | Hai Cuộc | `rewrite approved` (REWRITE-66-112 · r2 pass) | [chapter-66-hai-cuoc.md](interface/chapters/chapter-66-hai-cuoc.md) |
+| 67 | Sát Thủ Phí | `rewrite approved` (REWRITE-66-112 · r2 pass) | [chapter-67-sat-thu-phi.md](interface/chapters/chapter-67-sat-thu-phi.md) |
+| 68 | Khách Thuê | `rewrite approved` (REWRITE-66-112 · r2 pass) | [chapter-68-khach-thue.md](interface/chapters/chapter-68-khach-thue.md) |
+| 69 | Hợp Đồng Cắn | `rewrite approved` (REWRITE-66-112 · r2 pass) | [chapter-69-hop-dong-can.md](interface/chapters/chapter-69-hop-dong-can.md) |
+| 70 | Giữ Suất | `rewrite approved` (REWRITE-66-112 · r2 pass) | [chapter-70-giu-slot.md](interface/chapters/chapter-70-giu-slot.md) |
+| 71 | Vì Đại Cục | `rewrite approved` (REWRITE-66-112 · r2 pass) | [chapter-71-vi-dai-cuc.md](interface/chapters/chapter-71-vi-dai-cuc.md) |
+| 72 | Bia Không Tên | `rewrite approved` (REWRITE-66-112 · r2 pass) | [chapter-72-bia-khong-ten.md](interface/chapters/chapter-72-bia-khong-ten.md) |
+| 73 | Hỗn Loạn | `rewrite approved` (REWRITE-66-112 · r2 pass) | [chapter-73-hon-loan.md](interface/chapters/chapter-73-hon-loan.md) |
+| 74 | Ổn Trung | `rewrite approved` (REWRITE-66-112 · r2 pass) | [chapter-74-on-trung.md](interface/chapters/chapter-74-on-trung.md) |
+| 75 | Tạ Hàm Nguyệt | `rewrite approved` (REWRITE-66-112 · r2 pass) | [chapter-75-ta-ham-nguyet.md](interface/chapters/chapter-75-ta-ham-nguyet.md) |
+| 76 | Phương Tin | `rewrite approved` (REWRITE-66-112 · r2 pass) | [chapter-76-phuong-tin.md](interface/chapters/chapter-76-phuong-tin.md) |
+| 77 | Mạch Đoạn | `rewrite approved` | [chapter-77-mach-doan.md](interface/chapters/chapter-77-mach-doan.md) · [review r2](interface/chapter-view/review-chapter-77-mach-doan-r2.md) · REWRITE-66-112 |
+| 78 | Khí Sụt | `rewrite approved` (REWRITE-66-112 · r2 pass) | [chapter-78-khi-sut.md](interface/chapters/chapter-78-khi-sut.md) · [review r2](interface/chapter-view/review-chapter-78-khi-sut-r2.md) |
+| 79 | Phế Địa Mới | `rewrite approved` (REWRITE-66-112 · r2 pass) | [chapter-79-phe-dia-moi.md](interface/chapters/chapter-79-phe-dia-moi.md) |
+| 80 | Nhân Quả Vùng | **rewrite approved** · Beat 7 đóng | [chapter-80-nhan-qua-vung.md](interface/chapters/chapter-80-nhan-qua-vung.md) · [review r2](interface/chapter-view/review-chapter-80-nhan-qua-vung-r2.md) |
+| 81 | Huyết Sa | `rewrite approved` (REWRITE-66-112 · r2 pass · Beat 8 mở) | [chapter-81-huyet-sa.md](interface/chapters/chapter-81-huyet-sa.md) |
+| 82 | Hút Linh | `rewrite approved` (REWRITE-66-112 · r2 pass) | [chapter-82-hut-linh.md](interface/chapters/chapter-82-hut-linh.md) · [review r2](interface/chapter-view/review-chapter-82-hut-linh-r2.md) |
+| 83 | Đường Tắt Ma | `rewrite approved` (REWRITE-66-112 · r2 pass) | [chapter-83-shortcut-ma.md](interface/chapters/chapter-83-shortcut-ma.md) |
+| 84 | Cứu Vùng | `rewrite approved` (REWRITE-66-112 · r2 pass · Beat 8 đóng · ~1.9k từ) | [chapter-84-cuu-vung.md](interface/chapters/chapter-84-cuu-vung.md) |
+| 85 | Linh Dịch Lệch | `rewrite approved` (REWRITE-66-112 · r2 pass · Beat 9 mở · ~2.47k từ) | [chapter-85-linh-dich-lech.md](interface/chapters/chapter-85-linh-dich-lech.md) |
+| 86 | Tâm Ma Nhẹ | `rewrite approved` (REWRITE-66-112 · r2 pass) | [chapter-86-tam-ma-nhe.md](interface/chapters/chapter-86-tam-ma-nhe.md) |
+| 87 | Hao Thần | **rewrite approved** · Beat 9 khép · REWRITE-66-112 | [chapter-87-hao-than.md](interface/chapters/chapter-87-hao-than.md) · [review r2](interface/chapter-view/review-chapter-87-hao-than-r2.md) |
+| 88 | Cần Đan Sư | **REWRITE approved** · Beat 10 / Arc 2 prose khép | [chapter-88-can-dan-su.md](interface/chapters/chapter-88-can-dan-su.md) · [review r2](interface/chapter-view/review-chapter-88-can-dan-su-r2.md) |
 
 | Block | Ch | Status | Cốt lõi |
 | --- | --- | --- | --- |
 | 2A | 55–62 | **approved draft** · Beat 2 khép | Thuê tranh mạch phụ · Trúc Cơ Sơ |
-| 2B | 63–72 | **approved draft** · Beat 5 khép | Bí cảnh chung; vé; Sát Thủ; wound đâm — Lục chết |
-| 2C | 73–88 | **approved draft** · Beat 6–10 khép | Trung lệch; Ma lậu; Linh Dịch; Thạch Lam cliff |
+| 2B | 63–72 | ch.66–72 **rewrite approved** · ch.63–65 approved draft · Beat 5 khép | Bí cảnh chung; vé; Sát Thủ; wound đâm — Lục chết |
+| 2C | 73–88 | ch.73–88 **rewrite approved** (REWRITE-66-112) · Beat 6–10 khép | Trung lệch; Ma lậu; Linh Dịch; Thạch Lam cliff |
 
 ---
 
@@ -182,13 +182,13 @@
 | --- | --- |
 | Beat sheet | ✅ [`logic/arcs/03-arc3-beats.md`](logic/arcs/03-arc3-beats.md) (10 beat) |
 | Spine | ✅ 24/24 dòng outline (ch.89–112) — [`00-chapter-spine-phase1.md`](logic/chapters/00-chapter-spine-phase1.md) |
-| Prose | **24/24** approved draft (ch.89–112) · review auto-gate |
+| Prose | **24/24** rewrite approved (ch.89–112) · ch.112 full rewrite r2 pass |
 
 | Block | Ch | Status | Cốt lõi |
 | --- | --- | --- | --- |
-| 3A | 89–98 | **approved draft** · Beat 1–4 | Cửa hội đan · gian lận điểm · lậu phương · Trúc Cơ Hậu · một tầng ổn |
-| 3B | 99–106 | **approved draft** · Beat 5–7 | Nội bộ hội · phế địa III · Sa/shortcut echo |
-| 3C | 107–112 | **approved draft** · Beat 8–10 | Viên Mãn hướng · Nhân-Quả tích · **FS-008** đèn · Phase 2 stub |
+| 3A | 89–98 | ch.89–98 **rewrite approved** (Beat 1–4 khép) | Cửa hội đan · gian lận điểm · lậu phương · Trúc Cơ Hậu · một tầng ổn |
+| 3B | 99–106 | ch.99–106 **rewrite approved** (Beat 7 khép · block 3B khép) | Nội bộ hội · phế địa III · Sa/shortcut echo |
+| 3C | 107–112 | ch.107–**112** **rewrite approved** (Beat 10 khép · **REWRITE-66-112** done) | Trúc Cơ ĐVM · **FS-008** đèn plant · Thiên Sa treo · Phase 1 khép → Phase 2 stub |
 
 ---
 

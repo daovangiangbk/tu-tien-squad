@@ -1,6 +1,6 @@
 # Beat — Ch.81 `huyet-sa` (Arc 2 · Tranh Mạch Phụ · Beat 8 **mở**)
 
-> **Prose:** `interface/chapters/chapter-81-huyet-sa.md` *(chưa viết)*
+> **Prose:** `interface/chapters/chapter-81-huyet-sa.md` *(REWRITE-66-112 approved 2026-09-09)*
 > **POV:** Ngôi thứ ba hạn Tô Diêu
 > **FS:** **FS-002** *(plant góc Ma · Nghịch nhánh phế / *vì đại cục* mirror)* · **FS-004** *(khế · cấm hút · trừ suất · nợ treo đài)* · **FS-010** *(nghiệp mầm · hút trước lệnh = nợ đội)* · **FS-011** *(mầm · cứu vùng ngắn / giá khác Hữu — chưa chọn)* · **FS-015** *(echo · phế **断** · xám kéo)* · **FS-001** *(mảnh · lạnh khi xám veo)* · **FS-014** *(im sau sụt · tro)* · **FS-006** *(echo · phế không tên đủ trên tre)*
 

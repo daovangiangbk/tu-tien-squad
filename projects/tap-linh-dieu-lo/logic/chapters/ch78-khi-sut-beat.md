@@ -1,6 +1,6 @@
 # Beat — Ch.78 `khi-sut` (Arc 2 · Tranh Mạch Phụ · Beat 7)
 
-> **Prose:** `interface/chapters/chapter-78-khi-sut.md` *(chưa viết)*
+> **Prose:** `interface/chapters/chapter-78-khi-sut.md` *(REWRITE-66-112 · rewrite approved · r2 pass)*
 > **POV:** Ngôi thứ ba hạn Tô Diêu
 > **FS:** **FS-015** *(payoff một tầng · khí sụt / nhánh cắt — **không ai phong ấn**)* · **FS-002** *(vì đại cục · lệnh sau trận)* · **FS-004** *(khế · rút ca / báo khí)* · **FS-001** *(mảnh · hướng hoặc lạnh khi sợi đứt)* · **FS-010** *(quả · sổ trừ / hiệu mất slot)* · **FS-014** *(echo · tro / im sau đòn)* · **FS-006** *(echo · bia không tên trên sổ)*
 

@@ -1,6 +1,6 @@
 # Beat — Ch.80 `nhan-qua-vung` (Arc 2 · Tranh Mạch Phụ · Beat 7 **khép**)
 
-> **Prose:** `interface/chapters/chapter-80-nhan-qua-vung.md` *(chưa viết)*
+> **Prose:** `interface/chapters/chapter-80-nhan-qua-vung.md` *(REWRITE-66-112 approved · 2026-09-09)*
 > **POV:** Ngôi thứ ba hạn Tô Diêu
 > **FS:** **FS-010** *(Nhân-Quả vùng mầm · quả chồng quả **khép một vòng**)* · **FS-015** *(nuôi · phế + lớp dưới — câu hỏi phong ấn vẫn mở)* · **FS-002** *(Thuận/Nghịch từ đại cục vùng)* · **FS-011** *(mầm · shortcut vs chậm — chưa Ma)* · **FS-004** *(khế · sau cấm vùng)* · **FS-014** *(echo)* · **FS-001** *(mảnh · một nhịp trước cliff)*
 

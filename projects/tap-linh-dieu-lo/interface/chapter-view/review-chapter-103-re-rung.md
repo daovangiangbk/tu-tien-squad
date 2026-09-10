@@ -7,8 +7,11 @@
 
 ## Mục cần sửa
 
-*(Không critical — auto-gate approved draft.)*
+Không có mục bắt buộc sửa.
 
 ## Human confirm
 
-*(Auto-gate.)*
+| ID | [ ] sửa / [ ] bỏ qua |
+| — | |
+
+*(Không có dòng trong bảng trên: human có thể coi chương pass.)*

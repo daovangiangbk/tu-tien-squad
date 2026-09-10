@@ -1,19 +1,22 @@
 # review-chapter-83-shortcut-ma-r2
 
 **Chương:** `projects/tap-linh-dieu-lo/interface/chapters/chapter-83-shortcut-ma.md`  
-**Ngày:** 2026-09-09 · read-only (re-review r1)
+**Ngày:** 2026-09-09 · read-only · REWRITE-66-112 r2 (prior r1: `review-chapter-83-shortcut-ma.md` · suggest_revise C-01, C-02)
 
 **Gợi ý:** suggest_pass
 
-**R1 closure:** C-01 (*Đường Tắt Ma*) · C-02 (prose bỏ tier/solo/monologue/vs/heal/mirror) · C-03 (*canh Nhân Quả vùng* thay số chương) — đã sửa; r2 không tái phát trong thân chương (L10–129).
+**R1 closure:** C-01 — prose *suất* / *nửa suất* / *trừ suất* (không *slot* trong thân L10–136). C-02 — Dần chỉ báo khí (L40–42); dòng *tro · … · canh Mão* ghi **sau** đợt hút Mão (L112–114), MC liếc từ hành lang phụ tây.
+
+Không có mục bắt buộc sửa.
 
 ## Mục cần sửa
 
-Không có mục bắt buộc sửa.
+| ID | Vị trí (đoạn / trích ngắn) | Cần sửa gì | Lý do (1 câu) |
+| --- | --- | --- | --- |
 
 ## Human confirm
 
 | ID | [ ] sửa / [ ] bỏ qua |
-| *(r2 — không mục mới)* | |
+| --- | --- |
 
-*(Human có thể coi chương pass.)*
+*(Nối ch.82 Hợi/chứng kiến/trừ nửa suất/mầm điểm đổi; Beat 8 giữa · Sa Hồng Phàm xám · đối chiếu Thuận/Nghịch; cliff Mão → ch.84; không heal/NC/hút/join Ma/Kim Đan solo; thân ~2.500 từ; prose không tiếng Anh/meta FS.)*

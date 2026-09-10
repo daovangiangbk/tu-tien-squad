@@ -371,7 +371,7 @@ Lão nhân chìa tay.
 
 Tô Diêu đặt nửa hạt lên bàn.
 
-Lão nhân cắn thử, rồi rút tờ giấy thứ năm khỏi dây. Mặt sau ép một miếng gỗ mỏng, trên khắc hai chữ.
+Lão nhân thu nửa hạt, rồi rút tờ giấy thứ năm khỏi dây. Mặt sau ép một miếng gỗ mỏng, trên khắc hai chữ.
 
 **Hợp Đội.**
 

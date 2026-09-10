@@ -1,6 +1,6 @@
 # Beat — Ch.76 `phuong-tin` (Arc 2 · Tranh Mạch Phụ · Beat 6)
 
-> **Prose:** `interface/chapters/chapter-76-phuong-tin.md` *(chưa viết)*
+> **Prose:** `interface/chapters/chapter-76-phuong-tin.md` *(REWRITE approved · Beat 6 đóng)*
 > **POV:** Ngôi thứ ba hạn Tô Diêu
 > **FS:** **FS-016** *(nurture Arc 2 · **Phương Ngự Hàn** · tin **đúng/sai một nửa** — **không** reconciliation)* · **FS-010** *(nuôi · quả chồng quả — tin làm thiệt thêm)* · **FS-004** *(khế · ca / leo cọc)* · **FS-014** *(echo · tin bóp wound)* · **FS-015** *(mầm · nhánh bảy / khí dưới đá — móc Beat 7)* · **FS-005** *(mầm · vé Thiên Sa trong lời Phương)*
 
