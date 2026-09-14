@@ -76,13 +76,13 @@ Y lấy ra ba thanh gỗ mỏng. Hàng đầu khắc vật tư, hàng giữa kh�
 
 Thanh thứ nhất được đẩy về phía người áo tro.
 
-— Ngươi giữ mảnh tọa độ, hỏi giá, giao dịch. Không tự đưa bản gốc cho ai. Muốn đối chiếu, ba người cùng nhìn.
+— Ngươi giữ giấy tọa độ, hỏi giá, giao dịch. Không đưa bản gốc cho ai lạ. Muốn đối chiếu, ba người cùng nhìn.
 
 Thanh thứ hai tới trước mặt Tô Diêu.
 
 Trên đó buộc sáu lá phù vàng nhỏ bằng hai ngón tay. Mỗi lá chỉ có một nét mực đỏ, nhưng độ cong khác nhau.
 
-— Ngươi nhận dấu trận.
+— Ngươi nhận dấu trận. Từ điểm giao vào uyên, cọc phù có thể giả — đường trên giấy có thể cũ. Mắt ngươi quyết lùi; không khớp thì cả đội lùi.
 
 Tô Diêu không chạm ngay.
 
@@ -486,7 +486,7 @@ Phương Ngự Hàn đưa thẻ xanh, không đưa Hợp Đội Lệnh.
 
 Người kia đối khí trên thẻ, nhìn Tô Diêu và người áo tro.
 
-— Hai người dẫn thêm. Mỗi người tám hạt qua trạm, nộp sau khi tọa độ đủ. Nửa tọa độ còn thiếu mua ở quầy giữa. Muốn đối chiếu mảnh cũ, quầy trái. Mỗi dấu sáu hạt. Sai không hoàn.
+— Hai người dẫn thêm. Mỗi người tám hạt qua trạm, nộp sau khi tọa độ đủ. Nửa tọa độ còn thiếu mua ở quầy giữa. Muốn đối chiếu mảnh cũ, quầy trái. Mỗi dấu sáu hạt.
 
 Người áo tro lấy mảnh giấy dầu ra.
 

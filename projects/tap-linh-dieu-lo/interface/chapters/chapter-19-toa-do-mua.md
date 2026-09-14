@@ -1,4 +1,5 @@
 # Chương 19 — Tọa Độ Mua
+
 > **Đại cục:** 1 · *Phế Địa Tán Tu*  
 > **Góc nhìn:** Ngôi thứ ba hạn MC (Tô Diêu)  
 > **Nhịp:** 4 · *Tin bí cảnh*  
@@ -28,7 +29,7 @@ Phương Ngự Hàn đứng chắn nửa bước trước mảnh giấy.
 
 Người giữ quầy xương đáp thay:
 
-— Mảnh ở trên quầy thì theo quy củ quầy. Không mang ra. Không sao chép. Người mua vào lều nhìn một lượt, tự nhớ lấy. Sai không hoàn.
+— Mảnh ở trên quầy thì theo quy củ quầy. Không mang ra. Người mua vào lều nhìn một lượt, tự nhớ lấy.
 
 — Còn người bán?
 
@@ -78,12 +79,6 @@ Khách lạ giơ thẻ xám lên một chút.
 
 — Thanh Sa đã nhận tiền đối chiếu của ta.
 
-— Thanh Sa nhận tiền, không nhận mạng.
-
-— Ta cũng vậy.
-
-Hai người nhìn nhau dưới ngọn đèn xanh. Sau lưng họ, tiếng trả giá từ những quầy khác nổi lên rồi chìm xuống như cát bị gió lùa. Mỗi câu đều nhắc đến hạt, dấu, giờ mở. Không ai nhắc đến mạng, nhưng thứ được đem cân sau cùng vẫn là mạng.
-
 Phương Ngự Hàn đặt Hợp Đội Lệnh lên quầy.
 
 — Ba người cùng xem. Giấy cũ không rời tay chúng ta. Mảnh mới không rời quầy. Mười hai hạt.
@@ -126,9 +121,9 @@ Lần đầu tiên chiếc mũ trùm hơi chuyển về phía hắn.
 
 Người giữ quầy xương gõ một thanh đồng xuống ván.
 
-— Câu này miễn phí: cửa uyên chưa định. Ai nói đã có đường tới cửa đều đang bán đường của chu kỳ trước.
+— Cửa uyên chưa định. Mảnh tới vòng đá thứ hai là đủ giá hôm nay.
 
-Vài người đứng gần quay lại. Người áo tro lập tức ép mảnh giấy dầu sát hơn vào ngực.
+Người áo tro lập tức ép mảnh giấy dầu sát hơn vào ngực.
 
 Tô Diêu hỏi:
 
@@ -186,7 +181,7 @@ Khách lạ đặt mảnh xương xuống.
 
 — Ta vừa nói cuối giờ Hợi.
 
-— Ngươi nói ngoài quầy. Tin chưa mua không bảo đảm đúng.
+— Ngươi nói ngoài quầy. Chưa vào lều thì chưa tính giá.
 
 Người giữ quầy xương khẽ liếc Tô Diêu. Trong mắt lão không có ý cười, chỉ có vẻ của người vừa thấy một món hàng được đặt thêm dây buộc.
 
@@ -384,10 +379,6 @@ Người giữ quầy nhìn Tô Diêu hồi lâu rồi nhấc mảnh xương lê
 
 — Dấu đặt xuống sẽ đổi.
 
-— Trận?
-
-— Các ngươi mua tọa độ, không mua lời giải.
-
 Tô Diêu không hỏi nữa.
 
 Một nơi không thể đặt dấu có thể là vùng khí loạn, cũng có thể là nơi trận lực xóa khí vị. Dù là thứ nào, sáu lá phù dẫn dấu ngoài đường cũng không còn đáng tin khi tới đó.
@@ -413,12 +404,6 @@ Khách lạ kéo mũ thấp xuống.
 — Phần bù cho một hạt quầy đã lấy.
 
 Y ra khỏi lều trước.
-
-Tô Diêu nhìn tấm vải đen khép lại.
-
-Một câu không lấy tiền có thể là lời tốt.
-
-Cũng có thể là thứ đắt nhất, bởi người nghe không biết mình đang trả bằng gì.
 
 Ra ngoài, trời đã sáng hơn.
 
@@ -501,6 +486,8 @@ Phương Ngự Hàn thêm một vòng tròn nhỏ vào thanh gỗ việc.
 — Tới nơi, ba người cùng nhìn.
 
 Y xóa hình trên cát bằng đế giày.
+
+Ba người bước theo đường vừa khắc: bắc tới vòng đá thứ nhất, qua **đường trắng** không có dấu treo — đoạn Tô Diêu sẽ phải nhận bằng mắt, không bằng giấy. Phía trước, tiếng chuông điểm giao đã kéo hàng xếp về vòng đồng.
 
 — Nộp phí trạm.
 

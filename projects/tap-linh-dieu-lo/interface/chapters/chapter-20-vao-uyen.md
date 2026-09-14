@@ -1,4 +1,5 @@
 # Chương 20 — Vào Uyên
+
 > **Đại cục:** 1 · *Phế Địa Tán Tu*  
 > **Góc nhìn:** Ngôi thứ ba hạn Tô Diêu  
 > **Nhịp:** 4 · *Tin bí cảnh — kết*  
@@ -372,25 +373,9 @@ Người kia nhìn y.
 
 — Qua trạm không phí.
 
-Người áo tro bật cười khô:
-
-— Thanh Sa cũng có thứ không lấy tiền?
-
-— Có. Xác đi ngược lên không lấy.
-
-Nụ cười trên mặt y tắt.
-
 Người Thanh Sa trả lệnh. Trước khi Phương Ngự Hàn rút tay, y gõ một ngón lên đường sáng vừa hiện.
 
-— Từ đây tới vòng đá thứ nhất có ba lối. Lối giữa hiện đông người nhất.
-
-— Câu ấy giá bao nhiêu? Tô Diêu hỏi.
-
-— Không giá.
-
-— Vì cả ba lối đều tới?
-
-— Vì đến lúc các ngươi xuống, có thể không còn lối nào giống lúc ta nói.
+— Từ đây tới vòng đá thứ nhất có ba lối. Lối giữa đông người nhất — lúc các ngươi tới, có thể đã đổi.
 
 Phương Ngự Hàn cất lệnh.
 

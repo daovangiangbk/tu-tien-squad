@@ -60,6 +60,7 @@ Tiểu thuyết tiên hiệp dài, tone **Tru Tiên** (triết lý xám, bi kị
 
 ### Logic — DoD phase 1
 
+- [x] `character-architect` → `logic/characters/` — project roster + arc 1 / T / 2 / 3 (2026-09-11)
 - [x] `arc-planner` → `logic/arcs/00-arc-master-outline.md` — mốc cảnh giới rõ đến Trúc Cơ đỉnh phong; Arc 1 không tam giác sớm
 - [x] *(khuyến nghị)* `logic/arcs/01-arc1-beats.md` — 5–10 beat, hook chương 1
 - [x] `logic/arcs/02-transition-beats.md` — 6 beat, ch 49–54 (2026-09-08)
@@ -86,6 +87,7 @@ Tiểu thuyết tiên hiệp dài, tone **Tru Tiên** (triết lý xám, bi kị
 | Mục lục chương | `projects/tap-linh-dieu-lo/interface/chapters/00-index.md` | project-orchestrator |
 | Trạng thái | `projects/tap-linh-dieu-lo/status.md` | project-orchestrator |
 | Core (shared) | `foundation/core/00–03` | Foundation agents |
+| Character roster | `projects/tap-linh-dieu-lo/logic/characters/` | character-architect |
 | Arc outline | `projects/tap-linh-dieu-lo/logic/arcs/00-arc-master-outline.md` | arc-planner |
 | Foreshadow ledger | `projects/tap-linh-dieu-lo/logic/foreshadowing/00-foreshadow-ledger.md` | foreshadowing-architect |
 | Tên canon | `projects/tap-linh-dieu-lo/interface/naming/registry.md` | xianxia-naming-specialist |

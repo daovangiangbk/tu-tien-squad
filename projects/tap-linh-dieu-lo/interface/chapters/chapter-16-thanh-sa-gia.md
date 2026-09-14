@@ -19,9 +19,15 @@ Những hàng chữ đen hiện ra.
 
 **Suất Thanh Sa: sáu mươi bốn hạt.**
 
-Bên dưới còn ba hàng chữ nhỏ.
+Bên dưới còn ba hàng chữ nhỏ: đối chiếu theo thời điểm; đổi hướng thì mua đối chiếu lại; suất kèm một lượt trạm ngoài và giá vật tư cũ.
 
-Mỗi tọa độ chỉ bảo đảm đúng tại thời điểm đối chiếu. Tọa độ đổi hướng, được đối chiếu lại một lần. Suất gồm đường đến cửa uyên, một lượt qua trạm ngoài và quyền mua vật tư theo giá cũ. Sinh tử trong uyên, thương hội không gánh.
+Một tán tu hỏi to:
+
+— Bốn mươi tám hạt có tới cửa uyên không?
+
+Người áo xanh đáp:
+
+— Tới chỗ cửa có thể mở. Xếp hàng vào uyên là suất.
 
 Phi Vân Tập lặng đi.
 
@@ -51,11 +57,11 @@ Trong túi hắn có ba mươi chín hạt.
 
 Thiếu chín.
 
-Nếu mua dấu ngoài uyên, hắn còn hai mươi mốt. Mua thêm một lần đối chiếu, còn mười lăm. Chừng ấy đủ bánh khô, nước, ít thuốc rẻ và vài lượt qua ngõ. Nhưng dấu ngoài uyên không phải tọa độ cửa. Nó chỉ nói vùng nào không nên đi, hoặc nơi nào có thể đứng chờ kẻ khác chết trước.
+Hắn tự gán từng dòng giá: mười tám là mép sa, tránh và chờ, không có cửa; bốn mươi tám là mảnh đường tới chỗ cửa có thể mở, cát đổi thì trả thêm đối chiếu hoặc mua lần đổi; sáu mươi bốn là thẻ suất, trạm, tên trên giấy Thanh Sa.
 
-Suất sáu mươi bốn hạt thì khỏi tính.
+Suất thì khỏi tính. Tọa độ một mình cũng không đủ — thiếu chín hạt, mà mua xong vẫn chưa qua trạm, chưa có ai nhận dấu trận ngoài cọc phù.
 
-Hắn cần thêm hai mươi lăm hạt. Dù bán đoản côn, vét sạch Tàn Linh Sa lẻ cùng phần thuốc còn lại, cũng chưa chắc đủ. Mà một kẻ đem hết vật giữ mạng đổi lấy đường vào chỗ chết, thường không sống lâu để trách giá đắt.
+Tin uyên đã lan; kẻ không vào vẫn phải sống giữa kẻ sắp vào. Nhặt phế một đời không đủ leo. Hắn cần vào uyên, nhưng không đổi hết ba mươi chín hạt lấy một tấm giấy treo tên. Cách còn lại: tìm đội đã có suất hoặc tọa độ, thiếu đôi mắt biết nhìn trận — hắn trả bằng kỹ năng ấy.
 
 Sau lưng có người cười khan:
 
@@ -64,12 +70,6 @@ Sau lưng có người cười khan:
 Người áo xanh đáp:
 
 — Nhặt được gì thuộc về người giữ suất, theo lệ chia đã ký.
-
-— Nếu không nhặt được?
-
-— Thanh Sa không bán cơ duyên. Chỉ bán đường.
-
-Câu ấy giống lời Hứa Bình, chỉ sạch hơn. Bảng giá ngay ngắn hơn cái bàn gỗ ngõ tây. Cỗ xe xanh cũng kín hơn cánh cổng mục. Thứ được bán vẫn là một đoạn đường. Mạng đi trên đó do người mua tự gánh.
 
 Một người đàn ông vai rộng chen lên, đặt túi vải xuống bàn.
 
@@ -89,7 +89,7 @@ Người Thanh Sa xoay tấm bảng.
 
 — Hàng nhỏ thứ tư, mặt sau.
 
-Đám đông xô tới. Tô Diêu không tiến. Hắn nhìn những người cố đọc hàng chữ nhỏ. Có kẻ biết chữ, có kẻ chỉ nhìn sắc mặt kẻ bên cạnh.
+Đám đông xô tới. Tô Diêu không tiến. Hắn đã quyết không mua lẻ ở đây; việc còn lại là tìm lệnh trước giờ Sửu.
 
 Một lão tán tu nheo mắt hồi lâu, quay đầu nói:
 
@@ -127,7 +127,7 @@ La Nhị nghiến răng, ấn ngón tay xuống thẻ. Mực tro bò quanh vân 
 
 Hai thẻ biến mất trong ngực áo. Một trăm hai mươi tám hạt cũng biến mất sau rèm xe.
 
-Giao dịch đầu tiên vừa xong, đám đông lập tức vỡ thành nhiều dòng.
+Giao dịch đầu tiên vừa xong, đám đông lập tức vỡ thành nhiều dòng. Tô Diêu lội qua, không về phía bàn nữa.
 
 Kẻ có linh thạch chen tới bàn. Kẻ thiếu quay đi tìm người cho vay. Kẻ không mua nổi suất bắt đầu hỏi dấu ngoài uyên. Mỗi người đều hạ giọng, nhưng mấy trăm cái miệng cùng hạ giọng vẫn thành một lớp ồn như cát trượt dưới chân.
 
@@ -167,7 +167,7 @@ Trên bảng, sáu mươi bốn chỉ là một con số.
 
 Đối với nữ tu khăn xám, nó là thanh kiếm phải bán trước khi vào nơi cần kiếm nhất.
 
-Còn đối với hắn, nó là hai mươi lăm hạt không có.
+Còn đối với hắn, bảng giá chỉ xác nhận một điều: mua lẻ ở đây không phải đường của hắn.
 
 — Diêu Tử.
 
@@ -183,149 +183,31 @@ Tô Diêu bước xuống.
 
 — Ngõ tây có người từng đi.
 
-Hứa Bình dẫn hắn tới bóng tối dưới mái bạt bán dây thừng.
+Hứa Bình chặn hắn giữa đường tới bàn **Cầu người**, kéo vào bóng tối dưới mái bạt bán dây thừng.
 
-— Phí nghe? Tô Diêu hỏi.
+Tô Diêu không hỏi phí nghe. Y đã biết hắn không mua suất.
 
-— Một hạt nghe tên. Ba hạt nghe chuyện. Sáu hạt nghe chỗ ở.
+— Ta đi tìm đội, không mua lẻ. Suất ghi tên. Tọa độ có ghi tên như suất không?
 
-— Bằng phí đối chiếu của Thanh Sa.
+Hứa Bình xoay thẻ tre. Mặt sau có ba vết dao, một dài hai ngắn.
 
-— Thanh Sa đối chiếu dấu. Ta đối chiếu người.
-
-— Người từng đi còn sống?
-
-— Sống mới bán được chỗ ở.
-
-Tô Diêu nhìn thẻ tre trong tay y.
-
-— Ngươi đã thu tiền của họ?
-
-— Họ thu tiền của ta.
-
-— Vậy tin ngươi bán là tin mua lại.
-
-— Tin nào chẳng qua tay người.
-
-Hứa Bình xoay thẻ. Mặt sau có ba vết dao, một dài hai ngắn.
-
-— Thanh Sa mua dấu từ khắp tập. Mỗi dấu hai đến năm hạt. Ghép đủ thì bán bốn mươi tám. Nếu mi đem dấu tới, họ cũng mua.
-
-— Dấu gì?
-
-— Sa thử dời tổ. Giếng rút. Mạch cát đổi. Người mất tích. Vết linh điểu. Xác trôi ngược gió. Bất cứ thứ gì họ chưa có.
-
-— Nếu dấu sai?
-
-— Không qua đối chiếu thì một hạt cũng không đáng. Qua đối chiếu rồi, đúng sai do họ viết.
-
-Tô Diêu nhìn về tấm bảng.
-
-Hai chữ “đối chiếu” nhỏ hơn “tọa độ”, càng nhỏ hơn “suất”. Nhưng toàn bộ giá đều dựa vào hai chữ ấy. Người khác có thể bán tin, vẽ đường, khắc dấu lên xương. Chỉ Thanh Sa được nói dấu nào đáng tin.
-
-— Ngươi muốn ta bán gì?
-
-— Mương khô. Nét đổi hướng. Mi bán một đoạn, có thể bù phần thiếu.
+— Không. Nhiều người góp một tọa độ, chia phần, ai giữ bản tranh nhau. Thanh Sa ghép dấu lẻ mua khắp tập rồi bán bốn mươi tám — mi có dấu lạ, họ cũng mua, miễn qua đối chiếu.
 
 Ngón tay Tô Diêu khẽ dừng bên hông.
 
-Mảnh Cửu Huyền Trận nằm trong lớp da kép, lạnh và im.
-
-Đường thứ chín từng chỉ về đông nam. Nét cháy trên địa đồ Thanh Sa cũng kéo về đông nam. Nếu đem chuyện ấy bán, hắn sẽ phải giải thích mình thấy ở đâu, vì sao nhớ rõ. Một lời thật cần một lời dối che. Mỗi lần đối chiếu lại thêm một người nhìn vào chỗ hắn muốn giấu.
-
-Chín hạt còn thiếu tọa độ.
-
-Hai mươi lăm hạt còn thiếu suất.
-
-Hai con số ấy không đáng đổi lấy đường thứ chín.
+Mảnh Cửu Huyền Trận nằm trong lớp da kép, lạnh và im. Nét cháy trên địa đồ Thanh Sa kéo cùng hướng đông nam với đường thứ chín. Bán một đoạn có thể bù chín hạt — cũng có thể kéo cả đám nhìn vào chỗ hắn muốn giấu.
 
 — Không bán.
 
 Hứa Bình không ngạc nhiên.
 
-— Vậy mua dấu ngoài.
+— Vậy mang mắt đi đổi chỗ trong đội. Bàn kia trước giờ Sửu đông người hơn bàn Thanh Sa.
 
-— Mười tám hạt mua thứ gì?
+Tô Diêu gật, rời mái bạt.
 
-— Một vòng ba mươi dặm, ba nơi tránh, hai nơi chờ. Không có giờ mở, không có cửa vào.
+Hắn vòng qua quầy bánh, chỉ dừng một nhịp nghe đám bán dấu lẻ — ai hỏi **đối chiếu** mà không có thẻ, giá liền tụt. Xong hắn tiếp tục về mép đông.
 
-— Ngươi đã xem?
-
-— Ta nghe người xem đọc.
-
-— Phí nghe?
-
-— Với mi, ba hạt.
-
-— Ban nãy ba hạt nghe chuyện người từng đi.
-
-— Cùng một chuyện.
-
-Tô Diêu nhìn y.
-
-— Ngươi bán một chuyện hai tên.
-
-— Tên là tên. Chuyện là chuyện.
-
-Câu cũ trở lại nguyên vẹn. Hứa Bình nhếch miệng. Tô Diêu không cười.
-
-— Mười tám hạt chỉ mua mép ngoài. Bốn mươi tám mua chỗ cửa có thể xuất hiện. Sáu mươi bốn mua thêm quyền theo xe và qua trạm. Phần khác nhau là mười sáu hạt.
-
-— Mi biết trừ rồi.
-
-— Nếu nhiều người cùng giữ một tọa độ, họ có thể chia phần ấy.
-
-Hứa Bình thôi gõ thẻ.
-
-— Suất ghi tên.
-
-— Tọa độ không ghi.
-
-— Trên bảng không nói.
-
-— Nếu tọa độ ghi tên, họ đã viết như suất.
-
-Hứa Bình nhìn hắn lâu hơn một nhịp.
-
-— Mi muốn chung mua tọa độ.
-
-— Ta muốn biết có người nào chung mua mà không bán luôn tên ta hay không.
-
-Tô Diêu rời mái bạt.
-
-Hắn không đi tới bàn Thanh Sa. Trước hết hắn vòng qua quầy bánh, dừng cạnh đám người đang tranh cãi về dấu ngoài uyên.
-
-Một người râu vàng giơ mảnh xương khắc đường.
-
-— Mười hai hạt. Đường thật, đi từ mép bắc.
-
-— Thanh Sa bán mười tám, mi bán mười hai dựa vào đâu?
-
-— Dựa vào sáu hạt ta không lấy phí treo bảng.
-
-— Đã đối chiếu chưa?
-
-Người râu vàng nghẹn lại.
-
-Kẻ khác chen vào:
-
-— Ta có dấu Thanh Sa, mười lăm hạt.
-
-— Thẻ đâu?
-
-— Tin nằm trong đầu, cần thẻ làm gì?
-
-— Trong đầu mi hôm qua còn nói uyên mở phía nam.
-
-Tiếng cười nổi lên. Người kia lập tức hạ xuống mười hạt. Không ai mua.
-
-Tô Diêu nghe một lúc. Ba nhóm đang tìm người góp tọa độ. Nhóm thứ nhất có bảy người, mỗi người góp bảy hạt, nhưng họ tranh ai giữ bản. Nhóm thứ hai chỉ nhận Luyện Khí tầng bốn trở lên. Nhóm thứ ba nhận bất cứ ai có mười hai hạt, song kẻ đứng đầu đeo dây xám của Sa Điêu Đổ.
-
-Hắn không nhập nhóm nào.
-
-Người giữ tọa độ có thể bỏ chạy. Kẻ mạnh hơn có thể đổi luật giữa đường. Người nộp danh dưới Mạc Lão có thể chia không chỉ giá, mà cả tên những kẻ đi cùng.
-
-Ở mép đông giàn đèn, một bàn giấy thấp đã được dựng lên. Trên bàn đặt nghiên mực, xấp giấy vàng cùng ba thanh gỗ khắc chữ.
+Ở mép đông giàn đèn, bàn giấy thấp đã dựng sẵn. Trên bàn đặt nghiên mực, xấp giấy vàng cùng ba thanh gỗ khắc chữ.
 
 **Cầu người.**
 
@@ -351,7 +233,7 @@ Bên dưới không ghi tên, chỉ có một nét mực thẳng như vết đao
 
 Phương.
 
-Trong Phi Vân Tập, lời “không cần nộp danh” đáng giá hơn một câu mời. Nhưng người viết đã có suất, lại thiếu kẻ nhận dấu trận. Hoặc đối phương thật sự cần đôi mắt biết nhìn trận, hoặc cần một người bước trước vào chỗ có trận.
+Đúng loại tờ hắn cần: có suất Thanh Sa, thiếu kẻ nhận dấu trận — khớp với kế từ lúc nhìn bảng giá.
 
 Tô Diêu hỏi:
 

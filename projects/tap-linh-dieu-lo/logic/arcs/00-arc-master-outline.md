@@ -1,148 +1,268 @@
 # Phase 1 — Bản đồ đại cục (Logic v1)
 
-> **Phạm vi:** Phàm nhân / nhập **Luyện Khí** → **Trúc Cơ kỳ đỉnh phong (Đại Viên Mãn)**.  
-> **Quy mô:** ~80–120 chương (~15–20% dung lượng full bộ dự kiến).  
-> **Neo:** `foundation/core/01–03`, `foundation/logic/01-event-scale-system.md`, `projects/tap-linh-dieu-lo/00-master-brief.md` v2.  
-> **Tác phẩm:** **Tạp Linh Diêu Lộ** (杂灵遥路) — `interface/naming/registry.md` § Tác phẩm.
+> **Revamp world-sync** — 2026-09-11  
+> **Phạm vi:** Phàm nhân / **Luyện Khí** → **Trúc Cơ kỳ đỉnh phong (Đại Viên Mãn)**.  
+> **Quy mô:** ~112 chương prose khóa (band spine); brief 80–120 ch vẫn hợp lệ.  
+> **Neo world:** `logic/world/00-world-atlas.md`, `01-region-active.md`, `02-tieu-cuc-index.md`, `03-world-mechanics.md` (**WM-001** Cửu Huyền → Lan Sa cạn khí).  
+> **Tác phẩm:** **Tạp Linh Diêu Lộ** (杂灵遥路) — **Tô Diêu** (苏遥); tên canon `interface/naming/registry.md`.  
+> **Band chương khóa** *(không đổi trừ ticket CP):* Arc 1 **ch.1–48** · Transition **ch.49–54** · Arc 2 **ch.55–88** · Arc 3 **ch.89–112** — chi tiết beat giữ ở `01–03-*-beats.md`.
 
 ---
 
-## 1. Tóm tắt ràng buộc Core
 
-- **Theme:** Nghịch Thiên Nhi Hành; **Vô tình vs Hữu tình**; Chính–Tà theo **ứng xụ**, không theo danh phận; **Cường giả vi tôn** = ai được sống thêm một đại cảnh giới (`01` §1–2).
-- **MC (archetype §3.1):** Vùng linh khí nghèo; tạp căn **Hỏa–Kim–Mộc** bị xếp phế; wound *“Không đủ quan trọng để được cứu — chỉ đủ để được dùng khi tiện.”*; động lực thật: **không lại đứng nhìn** người trân trọng bị luật/kẻ mạnh xử như vạn vật; nhầm quyền lực với an toàn cảm xúc.
-- **Luật then chốt arc:** Nhân-Quả có sổ; bí cảnh **hữu hạn** khí; thành trì = luật thương mại, ngoài thành = rừng (`02` Luật 1, 3–4, 7); đột phá Trúc Cơ = **Linh Dịch + Trúc Cơ Đan / mạch**, tỷ lệ thất bại cao nếu căn yếu (`03` §1.2).
-- **Kinh tế phase 1:** Tán tu phụ thuộc **linh thạch hạ phẩm**, nhiệm vụ hắc thị, phế địa; **Trúc Cơ Đan** và **đan phương** = monopoly tông/thương hội; đa nghề (phù/trận/khí/đan) mỗi buff có **trade-off** (`03` §3, `10-phu-nghe-tu-tien.md`).
-- **Quan hệ tình:** NC / tam giác **trì hoãn** — Arc 1 không romance chính; chỉ ràng buộc lợi ích tạm (đội tán tu, chủ thương đội).
-- **Event scale phase 1:** Arc 1 chủ yếu **Cấp II** (Cơ duyên/Hoang dã); Arc 2 **II→III**; Arc 3 **III** (khu vực/đa tông), chưa leo **IV** (đại chiến giới).
+
+## 1. Tóm tắt ràng buộc Core + world
+
+- **Theme:** Nghịch Thiên Nhi Hành; **Vô tình vs Hữu tình**; Chính–Tà theo **ứng xử**; **Cường giả vi tôn** — ai được thêm một đại cảnh giới.
+- **MC:** Tán tu **Tam hệ tạp linh căn Hỏa–Kim–Mộc**, **Lan Sa Châu** (châu **cạn khí** — WM-001: đại chiến Cửu Huyền → sa hóa + vỏ phế, không phải hoang vốn dĩ); wound *“Không đủ quan trọng để được cứu — chỉ đủ để được dùng khi tiện.”*
+- **Luật vùng:** Nhân–Quả có sổ; bí cảnh **hữu hạn** khí; **Thạch Lam** = khế thương mại; **Lan Sa / phế** = luật rừng; phế trận **đè cảnh giới** — không coi là vùng Trúc Cơ an toàn.
+- **Mật độ sức mạnh (vùng nhân vật):** Lan Sa / Kiến Sa chủ yếu **Luyện Khí** + **Mạc Lão** (Kim Đan **tàn**, gián tiếp); Thạch Lam & Đan Sa **Trúc Cơ** phổ biến; **Kim Đan** hiếm — trưởng lão **một đòn / gián tiếp** (scale III, chưa IV).
+- **Kinh tế phase 1:** **Tàn Linh Sa** (~20 hạt sa ≈ 1 hạt thạch ép giá); tin bí cảnh = hàng (**Thanh Sa**); **Trúc Cơ Đan** monopoly (**Bách Hóa**, tông); đa nghề mỗi buff có **trade-off**.
+- **Trung cục active:** Hub **Thạch Lam Thành** (ngoài ranh giới bắc–đông bắc Lan Sa); phế gốc **Cửu Huyền / Kiến Sa** 2–3 ngày qua sa biên; **Đan Sa Phụ Mạch #7** đông nam 2–3 ngày xe; **Thiên Sa Công Uyên** cổng tây — **vé treo**, MC chưa vào trong band khép Arc 3.
+- **Quan hệ tình:** NC / tam giác **trì hoãn** — Arc 1 không romance chính.
+- **Event scale:** Arc 1 **II**; Transition **II–III** hub; Arc 2 **III** (mạch + tin bí cảnh); Arc 3 **III** đỉnh (hội đan + phế leo), chưa **IV**.
+
+---
+
+
+
+## 2. Bản đồ đại cục (3 arc + transition)
+
+
+| Arc   | Tên (Hán Việt)               | Cảnh giới / stakes                 | Chương *(khóa)* | Mục tiêu MC                                                    | Antagonist / thế lực (canon, xám)                                                                                                             | Cái giá arc                                                             | Câu hỏi mở cuối arc                                                             | **Vùng / tiểu cục**                                                              |
+| ----- | ---------------------------- | ---------------------------------- | --------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
+| **1** | **Phế Địa Tán Tu** (废地散修)    | **LK** 1→12 VM; Luyện Thể nhẹ      | **1–48**        | Sống sót **Lan Sa**; tích hạt + phụ nghề; không làm đệ tử tông | **Mạc Lão** (slot phế); **Thanh Sa** (tin **Linh Sa Uyên**); **Hứa thị** (phí ngõ); mirror xám, không thuần ác                                | Mất đồng minh tạm; nợ tin/ân; một lần cứu → mất cơ duyên (**Hữu tình**) | Phong ấn **Cửu Huyền Cổ Phong**? Vì sao khí **Hỏa–Kim–Mộc** lệch tạp căn?       | **TC-001** Kiến Sa · **TC-002** Phi Vân / Sa Điêu · **TC-003** Linh Sa Uyên      |
+| **T** | **Thành Trì Khế** (城契)       | LK VM → chuẩn bị Trúc Cơ           | **49–54**       | Vào **Thạch Lam**; đổi loot; né **Sát Thủ Các** / truy nã      | **Thanh Sa** + **Bách Hóa** (500 hạt truy nã); **Tống Minh Vi** (ủy thác); khế **thế thân / đoạn mạch**                                       | Ký khế hoặc bán manh cho Bách Hóa                                       | Khế có điều khoản *hy sinh có chủ đích*?                                        | **TC-004** Thạch Lam hub · **TC-005** U Ngõ                                      |
+| **2** | **Tranh Mạch Phụ** (争脉)      | **Trúc Cơ** Sơ → Trung; Tâm ma mầm | **55–88**       | Hóa khí; giữ tự do tán tu dưới **Thanh Vi / Huyền Lôi**        | **Tạ Hàm Nguyệt** (**Thanh Vi Tông**); **Huyền Lôi Phái**; **Tống Minh Vi**; tin **Thiên Sa** treo; **Sa Hồng Phàm** / **Huyết Sa Đạo** (mầm) | Wound **đâm**: **Lục Thanh Phong** chết *đại cục*; MC chọn xám          | **Tam Hệ Lệch Khí Ngọc** / Trúc Cơ Đan có tàn ý? Ai monopolize **Thiên Sa**?    | **TC-006** Đan Sa #7 · **TC-007** Thiên Sa treo · **TC-008** phế nhánh (echo)    |
+| **3** | **Đan Điền Viên Mãn** (丹田圆满) | **Trúc Cơ** Hậu → **Đại Viên Mãn** | **89–112**      | Ổn **Linh Dịch lệch**; đa nghề tạp căn; danh **Ất Vô** hội đan | **Thạch Lam Luyện Đan Hội** (**Hàn Tử Ngư**, **Mộ Dục Thanh**); **Huyết Sa Đạo** shortcut; **Thanh Sa** / nợ Bách Hóa echo                    | Shortcut Ma vs chậm; trừ điểm / thiên oán mầm; không heal wound         | Phase 2: **Kim Đan** nghẽn; **Thiên Sa** mở chu kỳ? Ai mirror wound *sửa luật*? | **TC-009** Đan Hội Phường · **TC-010** quay Cửu Huyền · **TC-007/008** treo/echo |
+
 
 ---
 
-## 2. Bản đồ đại cục (2 arc + transition ngắn → 3 khối cốt)
 
-| Arc | Tên gợi ý (Hán Việt) | Cảnh giới / stakes | ~Chương | Mục tiêu MC | Antagonist / thế lực (xám) | Cái giá arc | Câu hỏi mở cuối arc |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **1** | **Phế Địa Tán Tu** (废地散修) | **Luyện Khí** 1→12 (Viên Mãn); Luyện Thể 1–3 song hành nhẹ | **38–48** (~40%) | Sống sót vùng nghèo khí; tích **linh thạch + kỹ năng phụ nghề**; không gắn môn | **Thương hội / đầu lĩnh tán tu** monopolize tin bí cảnh; **gia tộc nhỏ** thu “bảo hộ phí”; không thuần ác — cần ổn định lợi nhuận | Mất đồng minh tạm; **nợ ân** phe xám; một lần cứu kẻ yếu → mất cơ duyên lớn (theme Hữu tình) | Ai đặt **phong ấn** trên phế địa MC vừa khai? Vì sao khí **Hỏa–Kim–Mộc** trong đó lệch tạp căn? |
-| **T** | *(Transition)* **Thành Trì Khế** (城契) | LK Viên Mãn → chuẩn bị Trúc Cơ | **6–10** | Vào **thành trì tu tiên** vùng; đổi loot lấy tài nguyên đột phá; tránh Sát Thủ Các | Luật thành vs **hắc thị**; khế nợ đan | Phải **ký khế** hoặc bán manh mối cho Bách Hóa | Khế ước có **điều khoản** liên quan “hy sinh có chủ đích” cổ? |
-| **2** | **Tranh Mạch Phụ** (争脉) | **Trúc Cơ** Sơ → Trung; Tâm ma sớm nhẹ | **28–38** (~32%) | Ép khí hóa lỏng; giữ **tự do tán tu** dưới áp lực tông/gia tộc | **Trưởng lão Kim Đan** (một tông vùng) + **đối thủ tán tu** cùng wound “bị dùng”; logic: bảo vệ mạch phụ cho đệ tử thân | Wound §3.1 **bị đâm**: người MC bảo vệ chết vì “đại cục”; MC chọn xám (lấy mạch / trả thù) | Trúc Cơ Đan MC dùng có **tàn ý** hay nguồn phế địa? Ai săn đan sư lậu phương? |
-| **3** | **Đan Điền Viên Mãn** (丹田圆满) | **Trúc Cơ** Hậu → **Đại Viên Mãn** | **24–32** (~28%) | Ổn định Linh Dịch; **đa nghề** tối ưu tạp căn; chuẩn bị nghẽn Kim Đan (ngoài phase 1) | **Hiệp hội Luyện Đan** + **Ma đường lậu** (hút linh phế địa) — Ma không cười ác: coi phế địa là “toán cứu vùng” ngắn hạn | Thiên oán / nghiệp manh nếu dùng shortcut; hoặc mất **phương lậu** đổi lấy danh Chính | Phase 2: **Kim Đan** và ai mirror wound “sửa luật”? |
-
-**Tổng ước:** 96–128 ch — căn giữa brief **80–120** bằng cách co transition vào Arc 2 đầu nếu cần rút.
-
----
 
 ## 3. Chi tiết từng arc
 
-### Arc 1 — Phế Địa Tán Tu
 
-| Hạng mục | Nội dung |
-| --- | --- |
-| **Theme beat** | Cường giả vi tôn ở tầng thấp: MC học **kinh tế sống còn** trước khi học “đạo”; một lần hành nghĩa **có giá** (mất cơ duyên / lộ khí) — không bài giảng, chỉ sợ bất lực (`01` §5). |
-| **Quy mô sự kiện** | Chủ **Cấp II** (bí cảnh tự nhiên hoang dã, phế địa, tán tu nhiệm vụ); xen **Cấp I** (tranh cống hiến ảo nếu MC chạm đội ngoại môn thuê). Taxonomy bí cảnh: **Tự nhiên + Phế địa** (`01-event-scale` §3). |
-| **Xung đột chính** | Săn linh dược / yêu thú hạ giai vs **đầu lĩnh** chia lãi; tranh **slot vào phế địa** khi trận tàn suy yếu; MC dùng **trí + phù/trận hạ** thay thiên phú. |
-| **Kinh tế / tài nguyên** | Linh thạch hạ phẩm; yêu đan hạ; pháp khí sơ; **mảnh đan phương** không đủ luyện Trúc Cơ Đan; thông tin bí cảnh = hàng. |
-| **Antagonist force** | **Đại lão tán tu** (Kim Đan gần cuối đời, cần dược gia trì mạng) monopolize phế địa — không muốn giết hết, muốn **tán tu quy phục** khai thác; mirror nhẹ: cũng từng là “phế”. |
-| **Cliffhanger → Arc T/2** | Phế địa **rung trận**; lộ lớp dưới / tin **mạch phụ** sắp tranh; MC mang theo vật hoặc manh mối khiến **Sát Thủ Các** hoặc thương hội truy — buộc vào thành trì. |
 
-**Cấm arc:** Tam giác tình; vào tông chính thức làm đệ tử; payoff lore Thượng cổ đầy đủ.
+### Arc 1 — Phế Địa Tán Tu *(ch.1–48)*
+
+
+| Hạng mục                       | Nội dung                                                                                                                                                              |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Theme beat**                 | Cường giả vi tôn tầng thấp: học **kinh tế sống còn** trước đạo; một lần chính nghĩa **có giá** — sợ bất lực, không bài giảng.                                         |
+| **Quy mô sự kiện**             | Chủ **Cấp II** — phế trận, chợ tán tu, **Linh Sa Uyên** chu kỳ; rung trận cuối arc → lộ mạch phụ (**scale II→III mầm**).                                              |
+| **Xung đột chính**             | Săn yêu / sa vs **Mạc Lão** chia lãi; tranh slot phế & tin bí cảnh; MC dùng trí + phù/trận hạ.                                                                        |
+| **Inciting → Climax → Hệ quả** | Vào **Kiến Sa** — học luật đám quy phục → midpoint **Linh Sa Uyên** (đội lạnh, không romance) → rung trận + **Tam Hệ Lệch Khí Ngọc** → truy nã / hướng **Thạch Lam**. |
+| **Cliffhanger → T**            | **Thanh Sa** / Bách Hóa truy; mang vật lệch khí; buộc vào thành trì.                                                                                                  |
+
+
+**Cấm arc:** Tam giác tình; đệ tử tông chính thức; payoff phong ấn Cửu Huyền đầy đủ.
+
+#### Đại cục arc
+
+- **Bản đồ:** **Hạ Giới** — **Lan Sa Châu** (nam / tây nam so với hub): **Cửu Huyền Phế Trận · Kiến Sa Địa** (TC-001); **Phi Vân Tập** (tây, khu phàm) + **Sa Điêu Đổ** (TC-002); **Linh Sa Uyên** cạnh phế (TC-003). Hướng **bắc** xa: ngàn dặm cát rồi **Thạch Lam** (chưa ở là trung tâm arc). WM-001: khí **cực thấp**, **loạn đa hệ** trong phế — kinh tế **hạt sa**, không Động Thiên.
+- **Chính trị:** Không tông làm chủ châu; **Mạc Lão** monopolize **slot Kiến Sa** (muốn tán tu quy phục, không diệt sạch); **Hứa thị** ngoại vi Phi Vân; **Thanh Sa** monopolize **tin** (tọa độ Linh Sa, phế). Âm mưu: giữ tin, ép giá sa, rung trận khi lợi ích đủ lớn.
+- **Kinh tế (định lượng arc):** ~**20 hạt** Tàn Linh Sa ≈ **1 hạt** thạch (quầy ép); ngõ Phi Vân **1 hạt**/lượt, gói **3 hạt** (Hứa Bình / Hứa thị); yêu đan nhiệm vụ **2–10 hạt** (Mạc Lão chia); tin bí cảnh = hàng (Thanh Sa). **Trúc Cơ Đan** chưa trong tầm mua thẳng.
+- **Roadmap MC:** **Thành công** = LK 12 VM + vật/manh mạch + đủ hạt sống; **thất bại** = quy phục Mạc Lão / chết phế / lộ khí sớm không đổi được — phẩm chất: **chọn cứu yếu** dù mất slot (Hữu tình có giá). Không gắn bang hội chính thức.
+- **Neo tiểu cục:** **TC-001** (kinh tế hạt, Mạc Lão, rung → mạch phụ) · **TC-002** (bảo hộ phí, yêu đan) · **TC-003** (chu kỳ, tranh slot đội).
+
+
+
+#### Logic keeper — cục điển hình (Arc 1)
+
+
+| Cục             | Không gian     | Phe & âm mưu                            | Kinh tế cục          | MC cục                | Thành công / thất bại                                   |
+| --------------- | -------------- | --------------------------------------- | -------------------- | --------------------- | ------------------------------------------------------- |
+| Phế · luật rừng | TC-001 Kiến Sa | Mạc Lão giữ slot; Thanh Sa mua tin rung | Hạt sa, yêu đan 2–10 | Sống + không quy phục | **OK** = tích kỹ năng; **Fail** = mất tự do / chết trận |
+| Chợ · phí       | TC-002 Phi Vân | Hứa thị ổn định thu phí                 | 1–3 hạt ngõ          | Đổi phù, nhiệm vụ     | **OK** = mạng lưới tạm; **Fail** = nợ đám / lộ          |
+| Bí cảnh II      | TC-003 Linh Sa | Thanh Sa bán tọa độ                     | Vé/slot đội          | Loot + không romance  | **OK** = cơ duyên; **Fail** = hy sinh đồng minh vô ích  |
+
+
+---
+
+
+
+### Transition — Thành Trì Khế *(ch.49–54)*
+
+
+| Hạng mục                       | Nội dung                                                                                                                                         |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Theme beat**                 | Luật thành = Cường giả vi tôn đóng gói; MC thử **tiêu diêu trong khung khế** — không mùa màn Chính danh.                                         |
+| **Quy mô**                     | **II–III** hub Thạch Lam: đấu giá, truy nã, hắc thị.                                                                                             |
+| **Inciting → Climax → Hệ quả** | Cửa thành / phân tầng Hạ–Trung → **U Ngõ** & tin mạch → **Bách Hóa** (nợ hoãn / truy **500 hạt**) → buộc chọn ủy thác **Đan Sa** hoặc trục xuất. |
+| **Cliffhanger → Arc 2**        | Khế tranh mạch / thế thân mầm; **Tống Minh Vi** lộ một tầng.                                                                                     |
+
+
+
+
+#### Đại cục arc
+
+- **Bản đồ:** **Thạch Lam Thành** (ngoài Lan Sa): **Hạ Thành** (tán tu nghèo) / **Trung–Thượng** (Trúc Cơ, Bách Hóa); **Tây** — **U Ngõ**, **Sát Thủ Các**, cống Hạ Thành; **Đông** — quảng trường đấu giá; **Đông nam** — tin **Đan Sa #7** (2–3 ngày xe). **TC-004**, **TC-005**.
+- **Chính trị:** Danh nghĩa thành chủ che; thực quyền **Bách Hóa + Thanh Sa + Sát Thủ Các + khế**; truy nã Tô Diêu **500 hạt** + lệnh định cư. **Tống Minh Vi** — công cụ phe, không hòa giải.
+- **Kinh tế:** **Trúc Cơ Đan** hàng trăm hạt+ (đấu giá); **Định Linh Tán** bán hết trước đột phá (plant); thuê Sát Thủ = khế + Trúc Cơ Đan gói. MC: hạt lẻ sau phế, nợ **hoãn** Bách Hóa.
+- **Roadmap MC:** **Thành công** = vào thành, đổi loot đột phá, sống sót truy nã; **thất bại** = đoạn mạch / thế thân / bị đuổi — phẩm chất: **ký khế biết giá** vs chạy vô ích.
+- **Neo tiểu cục:** **TC-004** (luật thành, monopoly đan) · **TC-005** (tin Đan Sa / Thiên Sa, khế đoạn mạch).
 
 ---
 
-### Transition — Thành Trì Khế *(tùy chọn gộp vào đầu Arc 2)*
 
-| Hạng mục | Nội dung |
-| --- | --- |
-| **Theme beat** | Luật thành = **Cường giả vi tôn** đóng gói thành quy tắc; MC thử **tiêu diêu trong khung luật** — không mùa màn chính đạo. |
-| **Quy mô** | **II–III** hub: đấu giá, Bách Hóa, hắc thị (`01-event-scale` §2 hàng “Thành trì / Đấu giá”). |
-| **Cliffhanger** | MC buộc chọn phe **ủy thác bảo vệ mạch phụ** hoặc bị trục xuất — vào Arc 2. |
+
+### Arc 2 — Tranh Mạch Phụ *(ch.55–88)*
+
+
+| Hạng mục                       | Nội dung                                                                                                                                                                |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Theme beat**                 | **Hữu tình vs Vô tình** tại nghẽn Trúc Cơ: cứu một người = mất slot; wound **bắt buộc đau** — hy sinh có chủ đích, bia không tên (**Lục Thanh Phong**, FS-006).         |
+| **Quy mô sự kiện**             | **Cấp III** — **Đan Sa Phụ Mạch #7**; **Thiên Sa Công Uyên** tin + vé treo (**>> 3 hạt** + điểm); Kim Đan **gián tiếp** (Tạ Hàm Nguyệt).                                |
+| **Realm range**                | Trúc Cơ **Sơ** giữa arc; **Trung** sau midpoint.                                                                                                                        |
+| **Xung đột chính**             | **Thanh Vi Tông** vs **Huyền Lôi Phái** chia slot; MC **mảnh thuê**; **Tạ Minh Huy** ưu tiên nội bộ.                                                                    |
+| **Inciting → Climax → Hệ quả** | Thuê đội / vào đồn mạch → midpoint vé **Thiên Sa** (monopoly tin) → bi kịch slot → **cắt nhánh mạch** (Nhân–Quả vùng) → **Huyết Sa** / **Sa Hồng Phàm** trên phế nhánh. |
+| **Cliffhanger → Arc 3**        | **Linh Dịch lệch**; cần hội đan / phương; Ma shortcut mirror tông.                                                                                                      |
+
+
+
+
+#### Đại cục arc
+
+- **Bản đồ:** **Đan Sa Phụ Mạch** (đông nam Thạch Lam, đường vận sa đỏ) — **TC-006**; cổng **tây** **Thiên Sa Công Uyên** (cột treo, **TC-007**); **Bắc** xa **Lạc Nhạn · Thanh Vi** (Kim Đan gián tiếp). Phế nhánh sau cắt: **TC-008** (Lan Sa + Đan Sa).
+- **Chính trị:** **Thanh Vi** (Tạ Hàm Nguyệt) monopolize retoric Chính danh + mạch bắc; **Huyền Lôi** tranh slot song song; tán tu thuê, chết = tịch thu. **Tống Minh Vi** ủy thác Sát Thủ. Cắt mạch = quyết định *đại cục* — ai không lên bia.
+- **Kinh tế:** Thuê tranh mạch: khế + **Trúc Cơ Đan** gói; vé Thiên Sa **3 hạt lẻ** MC band cuối **chưa đủ** (cần điểm/danh); đan sa nguồn phụ suy sau cắt nhánh.
+- **Roadmap MC:** **Thành công** = Trúc Cơ Trung + sống + giữ tự do tối đa; **thất bại** = thế thân / quy phục Thanh Vi — phẩm chất: **chọn xám có nhận giá** sau cái chết Lục huynh.
+- **Neo tiểu cục:** **TC-006** (Thanh Vi / Huyền Lôi, thuê, bia không tên) · **TC-007** (treo vé, FS-005) · **TC-008** (Huyết Sa, Sa Hồng Phàm).
+
+
+
+#### Logic keeper — cục điển hình (Arc 2)
+
+
+| Cục            | Không gian     | Phe                        | Kinh tế                | MC                   | Thành công / thất bại                                   |
+| -------------- | -------------- | -------------------------- | ---------------------- | -------------------- | ------------------------------------------------------- |
+| Tranh mạch III | TC-006         | Tạ Hàm Nguyệt vs Huyền Lôi | Trúc Cơ Đan + khế thuê | Giữ slot / đồng minh | **OK** = đột phá; **Fail** = mất Lục / bị dùng          |
+| Tin bí cảnh    | TC-007 cột tây | Monopoly tin Thiên Sa      | >>3 hạt + điểm         | Thu thập vé mầm      | **OK** = lựa chọn sau; **Fail** = nợ đa tầng sớm        |
+| Phế nhánh      | TC-008         | Huyết Sa hút linh          | Shortcut Ma            | Từ chối recruit      | **OK** = manh phương; **Fail** = nghiệp / mất nhân tính |
+
 
 ---
 
-### Arc 2 — Tranh Mạch Phụ
 
-| Hạng mục | Nội dung |
-| --- | --- |
-| **Theme beat** | **Hữu tình vs Vô tình** tại điểm nghẽn Trúc Cơ: cứu một người = mất slot mạch; Arc **bắt buộc làm đau wound** §3.1 (hy sinh có chủ đích, không ai đặt tên). |
-| **Quy mô sự kiện** | **Cấp III** mở: tranh **linh mạch phụ** + **bí cảnh chung** vé hạn (`01-event-scale` §1–2). Trần: Trúc Cơ → Kim Đan hộ vệ; Nguyên Anh gián tiếp. |
-| **Realm range** | Đột phá **Trúc Cơ Sơ** giữa arc; **Trung kỳ** ổn định sau midpoint. |
-| **Xung đột chính** | Hai tông vùng + tán tu + gia tộc nhỏ; MC là **mảnh ghép thuê** — bị coi là đá đi. |
-| **Kinh tế** | **Trúc Cơ Đan** (monopoly); linh thạch trung phẩm; trận đĩa bảo mạch; phí Sát Thủ Các. |
-| **Antagonist force** | **Trưởng lão Kim Đan** tông “Chính danh”: từng **bỏ phế địa** để giữ mạch cho thánh tử — logic đại cục, không cười ác. |
-| **Cliffhanger → Arc 3** | Mạch phụ **đoạn một nhánh** (Nhân-Quả vùng); lộ **Ma đường lậu** hút huyết phế địa; MC có Linh Dịch không đồng điệu — cần **Đan sư** hoặc phương lậu. |
+
+### Arc 3 — Đan Điền Viên Mãn *(ch.89–112)*
+
+
+| Hạng mục                       | Nội dung                                                                                                                                                    |
+| ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Theme beat**                 | **Shortcut Ma** vs chậm; quản lý chấp niệm trước **Tâm ma** — không heal wound.                                                                             |
+| **Quy mô sự kiện**             | **III** đỉnh: **Thạch Lam Luyện Đan Hội**, **Định Linh Tán** / thi phù; **TC-010** quay **Cửu Huyền** (manh phương, mảnh trận — không payoff phong ấn đầy). |
+| **Realm range**                | Trúc Cơ Hậu → **Đại Viên Mãn**; **Linh Dịch lệch** (không heal đan thường); mầm Kim Đan / đèn phàm (**FS-008**).                                            |
+| **Xung đột chính**             | Gian lận **Hàn Tử Ngư** vs **Mộ Dục Thanh** *vì đại cục*; **Huyết Sa** mirror tông trên phế; nợ Bách Hóa echo.                                              |
+| **Inciting → Climax → Hệ quả** | Vào **Đan Hội Phường** danh **Ất Vô** → thi / trừ điểm → quyết định Ma shortcut vs phương hội → **Đại Viên Mãn** + tâm ma mầm.                              |
+| **Cliffhanger (kết phase 1)**  | Trúc Cơ VM; tin **Thiên Sa** chu kỳ; phase 2 **Kim Đan** — không spoil payoff Thượng cổ.                                                                    |
+
+
+
+
+#### Đại cục arc
+
+- **Bản đồ:** **Thạch Lam · Đan Hội Phường** (đông, cạnh Bách Hóa) — **TC-009**; quay phế **Cửu Huyền** leo III — **TC-010**; **TC-007** vẫn treo (3 hạt lẻ); **TC-008** echo Ma trên nhánh phế.
+- **Chính trị:** Hội đan **không** tông nhưng mirror *đại cục* — **Mộ Dục Thanh** kiểm điểm; **Hàn Tử Ngư** phương lậu. Ma: **Sa Hồng Phàm** — *cứu vùng ngắn* bằng hút phế. Thanh Vi / Thanh Sa **ngoài cục** nhưng nợ & truy còn sót.
+- **Kinh tế:** Điểm hội **~29** band cuối (**Ất Vô**); lao canh đổi phế thảo / quyền lò; **Định Linh Tán** đấu giá; phương lậu = chiến lợi phẩm; phù cao = tiêu thần thức (trade-off đa nghề).
+- **Roadmap MC:** **Thành công** = Trúc Cơ VM + giữ nhân tính tương đối + manh Kim Đan; **thất bại** = shortcut Ma / mất phương / bị trừ điểm đoạn lộ trình — phẩm chất: **không đổi quyền lực lấy an toàn cảm xúc** (vẫn sai một nửa — theme xám).
+- **Neo tiểu cục:** **TC-009** (điểm, Hàn Tử Ngư, Mộ Dục Thanh) · **TC-010** (mảnh trận + cổ phong plant) · **TC-007/008** treo & echo.
+
+**Thời điểm active region doc:** Trúc Cơ **Đại Viên Mãn**; **3 hạt lẻ**; khế **断** / đoạn mạch — khớp cuối Arc 3 prose band.
 
 ---
 
-### Arc 3 — Đan Điền Viên Mãn
 
-| Hạng mục | Nội dung |
-| --- | --- |
-| **Theme beat** | MC đứng trước **shortcut Ma** vs **chậm mà giữ nhân tính**; không heal wound — chỉ **quản lý** chấp niệm trước Tâm ma Trúc Cơ (`01` §4). |
-| **Quy mô sự kiện** | **III** đỉnh: hội thi đan/phù vùng + **phế địa** leo thang II→III; chưa **IV** (không đại chiến Chính–Ma full). |
-| **Realm range** | Trúc Cơ Hậu → **Đại Viên Mãn**; đặt nền kiếp Kim Đan (Tâm ma / Lôi nhẹ — ngoài scope prose phase 1). |
-| **Xung đột chính** | Tranh **đan phương lậu** / cứu vùng khí vs Ma shortcut; nội bộ hiệp hội đan (gian lận cống hiến — hook scale I). |
-| **Kinh tế** | Đan phương = chiến lợi phẩm; hủy lò = mất cả đời tán tu; **phù cao cấp** tiêu hao thần thức (trade-off đa nghề). |
-| **Antagonist force** | **Ma đường lậu** (hút linh) — leader tin “cứu nhiều bằng cách hy sinh phế địa”; mirror phản diện §3.4 ở tầng thấp. |
-| **Cliffhanger (kết phase 1)** | Trúc Cơ Viên Mãn + **dấu hiệu Tâm ma** / Thiên cơ lạ trên đan điền; tin **bí cảnh chung** lớn sắp mở — mở Phase 2 (Kim Đan) **không spoil**. |
-
----
 
 ## 4. Dòng thời gian Logic (mốc liên arc)
 
-| Mốc | Quan hệ / vật / bí mật | Arc |
-| --- | --- | --- |
-| Wound gốc (quá khứ) | Ân nhân / người thân chết vùng nghèo khí — **chưa kể hết** | 1 (flash nhẹ) |
-| **Vật phế địa** | Mảnh trận / ngọc lệch khí — gắn tạp căn MC | 1 → 3 |
-| **Đồng minh tán tu A** | Có thể phản bội vì lợi ích — không thuần ác | 1 → 2 |
-| **Nợ thương hội** | Khế thành trì | T → 2 |
-| **Mạch phụ #7** (placeholder tên) | Điểm tranh III | 2 → 3 |
-| **Manh “hy sinh có chủ đích”** | Câu/trận cổ trên phế địa | 1 plant → 4+ payoff |
-| **Phương lậu Trúc Cơ** | Nguồn: phế địa vs Ma | 2 → 3 |
+
+| Mốc                                 | Quan hệ / vật / bí mật              | Arc          |
+| ----------------------------------- | ----------------------------------- | ------------ |
+| Wound gốc                           | Ân nhân vùng nghèo khí — flash nhẹ  | 1            |
+| **WM-001** / Lan Sa cạn khí         | Sa hóa + vỏ Cửu Huyền — bối cảnh MC | 1 (nền)      |
+| **Tam Hệ Lệch Khí Ngọc**            | Tạp căn + mạch phụ                  | 1 → 3        |
+| **Mạc Lão** rời / suy quyền phế     | Mirror Tạ Hàm Nguyệt                | 1 → 2        |
+| **Truy nã 500 hạt**                 | Thanh Sa / Bách Hóa                 | T → 3        |
+| **Đan Sa Phụ Mạch #7**              | Tranh III                           | T → 2 → 3    |
+| **Thiên Sa Công Uyên** treo vé      | FS-005; phase 2                     | 2 → 3+       |
+| **Lục Thanh Phong** / bia không tên | FS-006                              | 2            |
+| **Cắt nhánh → TC-008**              | Huyết Sa / Sa Hồng Phàm             | 2 → 3        |
+| **Ất Vô** / ~29 điểm hội            | Thạch Lam Luyện Đan Hội             | 3            |
+| Manh *hy sinh có chủ đích*          | Cửu Huyền / khế                     | 1 plant → 4+ |
+
 
 ---
+
+
 
 ## 5. Conflict matrix
 
-| | Arc 1 | Arc 2 | Arc 3 |
-| --- | --- | --- | --- |
-| **Nội tâm** (tình–sứ mệnh / wound) | Sợ bất lực; có cứu người? | Wound đâm; Hữu vs Vô tình | Shortcut Ma vs chậm; chấp niệm quyền lực |
-| **Phe** | Tán tu vs thương hội; gia tộc nhỏ | Tông vs tông vs tán tu | Hiệp hội đan vs Ma lậu; Chính danh xám |
-| **Môi trường tu** | Linh khí nghèo; phế địa | Mạch phụ; Trúc Cơ Đan khan | Khí loạn; đan độc / tâm ma |
+
+|                | Arc 1                         | Transition                        | Arc 2                              | Arc 3                       |
+| -------------- | ----------------------------- | --------------------------------- | ---------------------------------- | --------------------------- |
+| **Nội tâm**    | Sợ bất lực; cứu người?        | Khế vs tự do                      | Wound đâm; Hữu vs Vô               | Ma shortcut vs chậm; Tâm ma |
+| **Phe**        | Mạc Lão · Thanh Sa · Hứa thị  | Bách Hóa · Sát Thủ · Tống Minh Vi | Thanh Vi · Huyền Lôi · tán tu thuê | Luyện Đan Hội · Huyết Sa    |
+| **Môi trường** | Lan Sa nghèo khí; phế đè cảnh | Thạch Lam khế                     | Mạch #7; vé Thiên Sa               | Linh Dịch lệch; phế leo III |
+
 
 ---
+
+
 
 ## 6. Foreshadow slots (chi tiết → `foreshadowing-architect`)
 
-| ID | Giai đoạn gài | Loại | Payoff arc mục tiêu | Ghi chú |
-| --- | --- | --- | --- | --- |
-| **FS-001** | Arc 1, phế địa | Vật / trận | Arc 3–4 | **Mảnh Cửu Huyền Trận** phản ứng Hỏa–Kim–Mộc |
-| **FS-002** | Arc 1, câu thoại đầu lĩnh | Lore | Arc 3+ | *“Thuận thiên…”* hiểu khác MC |
-| **FS-003** | Arc 1 cuối | Nhân vật | Arc 2 | Thanh niên **thuê Sát Thủ** — chưa rõ phe |
-| **FS-004** | Transition | Khế ước | Arc 2–4 | Điều khoản **thế thân / hy sinh** |
-| **FS-005** | Arc 2 midpoint | Lore | Arc 4+ | Phong ấn bí cảnh chung — ai monopolize tin |
-| **FS-006** | Arc 2 bi kịch | Nhân vật | Arc 3 | Người chết **không được đặt tên** trên bia tông |
-| **FS-007** | Arc 3 | Vật / đan | Kim Đan arc | Trúc Cơ Đan / Linh Dịch dị thường |
-| **FS-008** | Arc 3 cuối | Cảnh (lôi/đèn) | Phase 2 | Hình **đèn sắp tắt** trên phàm thành — thọ mệnh & khoảng cách |
+
+| ID         | Giai đoạn gài  | Loại       | Payoff arc mục tiêu | Ghi chú                             |
+| ---------- | -------------- | ---------- | ------------------- | ----------------------------------- |
+| **FS-001** | Arc 1, phế     | Vật / trận | Arc 3–4             | **Mảnh Cửu Huyền Trận** + tạp căn   |
+| **FS-002** | Arc 1, Mạc Lão | Lore       | Arc 3+              | *Thuận thiên…* / *Nghịch thiên?*    |
+| **FS-003** | Arc 1 → T      | Nhân vật   | Arc 2               | **Tống Minh Vi** — thuê sát         |
+| **FS-004** | Transition     | Khế        | Arc 2–4             | **Thế thân / hy sinh / đoạn mạch**  |
+| **FS-005** | Arc 2          | Lore       | Arc 4+              | **Thiên Sa** — ai monopolize tin    |
+| **FS-006** | Arc 2 bi kịch  | Nhân vật   | Arc 3               | **Lục Thanh Phong** — bia không tên |
+| **FS-007** | Arc 3          | Vật / đan  | Kim Đan             | Linh Dịch / Trúc Cơ Đan dị thường   |
+| **FS-008** | Arc 3 cuối     | Cảnh       | Phase 2             | **Đèn phàm sắp tắt** — thọ mệnh     |
+
 
 ---
 
-## 7. Arc sau Trúc Cơ (Kết Đan+) — stub, không spoil
 
-- **Kim Đan:** Tâm ma kiếp sơ cấp hoặc Tam Lôi — theme **heal sai cách** (Vô tình cắt tình vs Ma shortcut).
-- **Nguyên Anh / Hóa Thần:** Leo **Cấp IV** event scale; Nhân–Yêu hoặc Chính–Ma **có lý do tài nguyên**, không banner đen-trắng.
-- **Thượng giới / phi thăng:** Deferred; `(bí mật)` ai viết lại Thiên mệnh Hạ Giới.
-- **NC / tam giác:** Ra mắt sau phase 1; ép **Vô vs Hữu** khi MC đã có quyền lực, không khi còn đói linh thạch.
-- **Phản diện §3.4:** Mirror đầy đủ khi stakes đủ **sửa luật**, không chỉ tranh mạch vùng.
 
----
+## 7. Arc sau Trúc Cơ (stub)
 
-## 8. Handoff
-
-| Agent / việc | Nội dung |
-| --- | --- |
-| **foreshadowing-architect** | Ledger hóa FS-TBD-001–008; gắn chương vùng sau khi có beat Arc 1; **không** payoff twist Thượng cổ sớm. |
-| **xianxia-naming-specialist** | MC, phế địa, thành trì vùng, tông/gia tộc Arc 2–3, đại lão tán tu. |
-| **Core (chỉ nếu lệch)** | Không block phase 1; nếu chốt **variant tạp căn** chi tiết → tham chiếu `11-thien-phu-ky-nang-an.md` ở Logic, không sửa Core im lặng. |
+- **Kim Đan:** nghẽn + **Thiên Sa** mở chu kỳ; nợ Bách Hóa; Tâm ma / lôi nhẹ.
+- **Trung cục:** vẫn **Thạch Lam · Lan Sa · Đan Sa hậu cắt** trên atlas — leo cảnh không đổi hub ngay.
+- **NC / tam giác:** sau phase 1; ép Vô vs Hữu khi đủ quyền lực.
 
 ---
 
-*Logic v1 — arc-planner — 2026-09-07.*
+
+
+## 8. Handoff & ghi chú đồng bộ
+
+
+| Agent / việc                | Nội dung                                                                                                                                                |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **foreshadowing-architect** | Ledger hóa FS; gắn TC-xxx nếu cần; không payoff Cửu Huyền sớm.                                                                                          |
+| **world-builder**           | Trung cục active đã khớp cuối Arc 3; đổi vùng phase 2 → cập nhật `01-region-active.md`.                                                                 |
+| **Beat files**              | `01-arc1-beats.md`, `02-transition-beats.md`, `02-arc2-beats.md`, `03-arc3-beats.md` — **chưa** sửa trong pass này; rà soát tiểu cục TC nếu lệch prose. |
+
+
+
+
+### Cờ cần rà (không retcon master ở đây)
+
+
+| Chủ đề                | Ghi chú                                                                                                                                                  |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Band chương           | Master cũ ghi ~38–48 Arc 1; **spine khóa 1–48** — beat/prose giữ 1–48; không đổi band trừ CP.                                                            |
+| **Thiên Sa**          | MC **chưa vào** trong region active — prose Arc 2–3 chỉ tin/vé treo; vào bí cảnh = phase 2.                                                              |
+| Generic antagonist cũ | Đã thay bằng canon (**Thanh Vi**, **Huyền Lôi**, **Thạch Lam Luyện Đan Hội**, v.v.) — beat vẫn có thể dùng mô tả vai trò; nên retrofit tên khi sửa beat. |
+
+
+---
+
+*Logic v1 — arc-planner — world-sync 2026-09-11.*

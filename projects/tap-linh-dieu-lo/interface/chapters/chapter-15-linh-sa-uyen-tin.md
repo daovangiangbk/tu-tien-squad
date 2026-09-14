@@ -397,7 +397,7 @@ Hứa Bình cũng đã tới. Bà lão ba chén đứng dưới mái đối di�
 
 Người cầm địa đồ giơ tay. Chợ dần lặng.
 
-— Linh Sa Uyên sắp đến kỳ khai mở. Từ giờ Tý đêm nay, Thanh Sa Thương Hội nhận bán dấu, mua đường, định tọa độ. Mọi tọa độ chưa qua đối chiếu đều là giả. Kẻ tự dùng, tự chịu sinh tử.
+— Linh Sa Uyên sắp đến kỳ khai mở. Từ giờ Tý đêm nay, Thanh Sa Thương Hội nhận bán dấu, mua đường, định tọa độ. Tọa độ chưa qua đối chiếu không treo bảng.
 
 Có người gọi lớn:
 

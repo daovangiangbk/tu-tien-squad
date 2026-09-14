@@ -74,10 +74,11 @@ Chi tiết arc: [`arcs/00-arc-master-outline.md`](./arcs/00-arc-master-outline.m
 ## 5. Thứ tự công việc (orchestrator)
 
 1. **Chốt / sửa** story spine + arc master (nếu đổi phạm vi).
-2. **Mở rộng** chapter spine (Arc 2 từng chương khi sắp viết Arc 1 xong).
-3. Beat + FS ledger **khớp** số chương spine.
-4. Naming registry bổ sung theo arc block.
-5. **Prose** theo `interface/chapters/00-index.md` — một chương một file `chapter-NN-slug.md`.
+2. **Roster nhân vật** — `characters/` (`character-architect`): project → arc → (tùy chọn) chapter cast.
+3. **Mở rộng** chapter spine (Arc 2 từng chương khi sắp viết Arc 1 xong).
+4. Beat + FS ledger **khớp** số chương spine.
+5. Naming registry bổ sung theo arc block.
+6. **Prose** theo `interface/chapters/00-index.md` — một chương một file `chapter-NN-slug.md`.
 
 ---
 

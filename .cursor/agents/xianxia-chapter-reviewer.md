@@ -26,7 +26,7 @@ Continuity · ngữ pháp · ngữ nghĩa · fact-check (Core, chương trước
 ## Khi được gọi
 
 1. Resolve `work_slug` + brief §0.
-2. Đọc chương target, chương trước (nếu có), spine/ledger/glossary/registry khi cần fact-check.
+2. Đọc chương target, chương trước (nếu có), spine/ledger/glossary/registry, `{logic_root}/characters/` (project + arc roster) khi cần fact-check nhân vật.
 3. Ghi file review **ngắn** theo template.
 4. Nếu **không có** mục bắt buộc sửa: ghi một dòng `Không có mục bắt buộc sửa.` + `suggest_pass` — **không** thêm bảng rỗng dài.
 

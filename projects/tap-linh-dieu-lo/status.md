@@ -1,4 +1,4 @@
-# Project status — Tạp Linh Diêu Lộ — cập nhật 2026-09-10
+# Project status — Tạp Linh Diêu Lộ — cập nhật 2026-09-11
 
 **Tên truyện:** **Tạp Linh Diêu Lộ** (杂灵遥路)  
 **Work slug:** `tap-linh-dieu-lo`  
@@ -11,8 +11,149 @@
 - **Phase:** Phase 1 **complete** (112/112) · Arc 3 **prose_complete** · **REWRITE-66-112** **complete** (ch.66–112 rewrite approved)
 - **Campaign:** `REWRITE-66-112` · **done** · ch.66–**112** rewrite **approved** (finale ch.112 ~3.120 từ · composer-2.5-fast)
 - **Cursor:** **Phase 2 stub** (Kim Đan+) · không mở prose ch.113 trong campaign này
-- **Blockers:** Không
+- **Logic — world:** `T-world-build-1` **done** (2026-09-11) · [`logic/world/`](logic/world/) — human review trước arc Phase 2 / foreshadow bổ sung
+- **Logic — characters:** `T-char-roster-p1` **done** (2026-09-11) · [`logic/characters/`](logic/characters/) — project + arc 1 / T / 2 / 3 · `canon` Logic (retrofit 1–112)
+- **Campaign:** `ARC-REVAMP-WORLD-SYNC` · **5/5 done** (2026-09-11) — master + arc1 + transition + arc2 + arc3 world-sync · prose ch.1–112 khóa
+- **Blockers:** Không · **CP Foundation:** không (Core 01–03 đủ cho world-build retrofit)
 - **Human gate (campaign):** User yêu cầu **auto-revise** sau review (áp dụng mọi ID trong *Mục cần sửa*); sang ch N+1 khi revise xong + review không còn **critical**
+
+## Adaptation (workflow B)
+
+**Pipeline:** **2026-09-14** · brief v2.1 · **EP-01–EP-12 approved** · **Beat 8 khép ch.40–44** · **Beat 9** mở hook *ép tầng mười / trận thở lần 2* · map [`ch40-44-to-episodes.md`](adaptation/logic/source-map/ch40-44-to-episodes.md) · cursor **map ch.45+** / **T-adapt-outline-13** (Beat 9) hoặc video assets.
+
+**Auto-gate:** **on** (human 2026-09-14) — notes đủ consultant→editor→director→producer · auto-revise must/should · waive manual confirm · approve sau editor r2 · revise/approve **EP-01 trước EP-02**.
+
+**Should-audit (2026-09-14):** **EP-01–EP-12: đã xử lý** must/should trên script; optional polish sau. **`T-adapt-should-audit`** → **done** (EP-12).
+
+| Task ID | Trạng thái | Ghi chú |
+| --- | --- | --- |
+| **T-adapt-brief** | **done** | v2.1 · auto-gate §5 |
+| **T-adapt-map** | **done** | [`adaptation/logic/source-map/ch01-05-to-episodes.md`](adaptation/logic/source-map/ch01-05-to-episodes.md) |
+| **T-adapt-consult-map** | **waived** | Human 2026-09-14 |
+| **T-adapt-bible** | **done** | [`adaptation/logic/00-series-bible.md`](adaptation/logic/00-series-bible.md) |
+| **T-adapt-outline-1** | **done** | [`adaptation/logic/episodes/EP-01-outline.md`](adaptation/logic/episodes/EP-01-outline.md) |
+| **T-adapt-outline-2** | **done** | [`adaptation/logic/episodes/EP-02-outline.md`](adaptation/logic/episodes/EP-02-outline.md) |
+| **T-adapt-draft-1** | **done** | [`adaptation/interface/scripts/EP-01-kien-sa-thuan-thien-tan.md`](adaptation/interface/scripts/EP-01-kien-sa-thuan-thien-tan.md) |
+| **T-adapt-draft-2** | **done** | [`adaptation/interface/scripts/EP-02-phi-van-sa-dieu-do.md`](adaptation/interface/scripts/EP-02-phi-van-sa-dieu-do.md) |
+| **T-adapt-consult-1** | **done** | pass-with-notes · C-01–C-03 should |
+| **T-adapt-review-1** | **done** | needs_revise · E-01–E-04 should |
+| **T-adapt-director-1** | **done** | D-01–D-02 must |
+| **T-adapt-producer-1** | **done** | P-01…P-17 |
+| **T-adapt-revise-1** | **done** | 27 must/should IDs |
+| **T-adapt-review-1-r2** | **done** | suggest_pass · no critical |
+| **T-adapt-consult-2** | **done** | pass-with-notes · C-01–C-03 should |
+| **T-adapt-review-2** | **done** | needs_revise · E-01–E-03 should |
+| **T-adapt-director-2** | **done** | D-01–D-03 must |
+| **T-adapt-producer-2** | **done** | P-01…P-16 |
+| **T-adapt-revise-2** | **done** | 27 must/should IDs |
+| **T-adapt-review-2-r2** | **done** | suggest_pass · no critical |
+| **T-adapt-map-06-08** | **done** | [`adaptation/logic/source-map/ch06-08-to-episodes.md`](adaptation/logic/source-map/ch06-08-to-episodes.md) |
+| **T-adapt-outline-3** | **done** | [`adaptation/logic/episodes/EP-03-outline.md`](adaptation/logic/episodes/EP-03-outline.md) |
+| **T-adapt-draft-3** | **done** | [`adaptation/interface/scripts/EP-03-bao-ho-san-yeu-so.md`](adaptation/interface/scripts/EP-03-bao-ho-san-yeu-so.md) |
+| **T-adapt-consult-3** | **done** | pass-with-notes · C-01–C-04 must · C-05–C-10 should |
+| **T-adapt-review-3** | **done** | needs_revise · E-01–E-05 should |
+| **T-adapt-director-3** | **done** | D-01–D-04 must · D-05–D-10 should |
+| **T-adapt-producer-3** | **done** | P-01–P-04 must · P-05–P-07 should |
+| **T-adapt-revise-3** | **done** | 32 must/should IDs |
+| **T-adapt-review-3-r2** | **done** | suggest_pass · no critical |
+| **T-adapt-map-09-11** | **done** | [`adaptation/logic/source-map/ch09-11-to-episodes.md`](adaptation/logic/source-map/ch09-11-to-episodes.md) |
+| **T-adapt-outline-4** | **done** | [`adaptation/logic/episodes/EP-04-outline.md`](adaptation/logic/episodes/EP-04-outline.md) |
+| **T-adapt-draft-4** | **done** | [`adaptation/interface/scripts/EP-04-an-phap-yeu-dan-doi.md`](adaptation/interface/scripts/EP-04-an-phap-yeu-dan-doi.md) |
+| **T-adapt-consult-4** | **done** | pass-with-notes · C-01–C-06 must · C-07–C-10 should |
+| **T-adapt-review-4** | **done** | needs_revise · E-01–E-05 should |
+| **T-adapt-director-4** | **done** | D-01–D-04 must · D-05–D-10 should |
+| **T-adapt-producer-4** | **done** | P-01–P-04 must · P-05–P-07 should |
+| **T-adapt-revise-4** | **done** | 32 must/should IDs |
+| **T-adapt-review-4-r2** | **done** | suggest_pass · no critical |
+| **T-adapt-map-11-14** | **done** | [`adaptation/logic/source-map/ch11-14-to-episodes.md`](adaptation/logic/source-map/ch11-14-to-episodes.md) |
+| **T-adapt-outline-5** | **done** | [`adaptation/logic/episodes/EP-05-outline.md`](adaptation/logic/episodes/EP-05-outline.md) |
+| **T-adapt-draft-5** | **done** | [`adaptation/interface/scripts/EP-05-ho-than-da-hanh-lech.md`](adaptation/interface/scripts/EP-05-ho-than-da-hanh-lech.md) |
+| **T-adapt-consult-5** | **done** | pass-with-notes · C-01–C-06 must · C-07–C-10 should |
+| **T-adapt-review-5** | **done** | needs_revise · E-01–E-05 should |
+| **T-adapt-director-5** | **done** | D-01–D-04 must · D-05–D-10 should |
+| **T-adapt-producer-5** | **done** | P-01–P-04 must · P-05–P-06 should |
+| **T-adapt-revise-5** | **done** | 31 must/should IDs |
+| **T-adapt-review-5-r2** | **done** | suggest_pass · no critical |
+| **T-adapt-map-15-20** | **done** | [`adaptation/logic/source-map/ch15-20-to-episodes.md`](adaptation/logic/source-map/ch15-20-to-episodes.md) · EP-06 ch.15–17 · EP-07 ch.18–20 |
+| **T-adapt-outline-6** | **done** | [`adaptation/logic/episodes/EP-06-outline.md`](adaptation/logic/episodes/EP-06-outline.md) |
+| **T-adapt-draft-6** | **done** | [`adaptation/interface/scripts/EP-06-linh-sa-uyen-tin.md`](adaptation/interface/scripts/EP-06-linh-sa-uyen-tin.md) · ~42p · C1–C22 |
+| **T-adapt-consult-6** | **done** | pass-with-notes · C-01–C-05 must · C-06–C-10 should |
+| **T-adapt-review-6** | **done** | needs_revise · E-01–E-05 should |
+| **T-adapt-director-6** | **done** | D-01–D-04 must · D-05–D-08 should |
+| **T-adapt-producer-6** | **done** | P-01–P-04 must · P-05–P-06 should |
+| **T-adapt-revise-6** | **done** | 29 must/should IDs |
+| **T-adapt-review-6-r2** | **done** | suggest_pass · no critical |
+| **T-adapt-outline-7** | **done** | [`adaptation/logic/episodes/EP-07-outline.md`](adaptation/logic/episodes/EP-07-outline.md) |
+| **T-adapt-draft-7** | **done** | [`adaptation/interface/scripts/EP-07-vao-uyen.md`](adaptation/interface/scripts/EP-07-vao-uyen.md) · ~43p · C1–C22 |
+| **T-adapt-consult-7** | **done** | pass-with-notes · C-01–C-05 must · C-06–C-10 should |
+| **T-adapt-review-7** | **done** | needs_revise · E-01–E-05 should |
+| **T-adapt-director-7** | **done** | D-01–D-04 must · D-05–D-08 should |
+| **T-adapt-producer-7** | **done** | P-01–P-04 must · P-05–P-06 should |
+| **T-adapt-revise-7** | **done** | 29 must/should IDs |
+| **T-adapt-review-7-r2** | **done** | suggest_pass · no critical |
+| **T-adapt-map-21-28** | **done** | [`adaptation/logic/source-map/ch21-28-to-episodes.md`](adaptation/logic/source-map/ch21-28-to-episodes.md) · EP-08 ch.21–24 · EP-09 stub ch.25–28 |
+| **T-adapt-outline-8** | **done** | [`adaptation/logic/episodes/EP-08-outline.md`](adaptation/logic/episodes/EP-08-outline.md) |
+| **T-adapt-draft-8** | **done** | [`adaptation/interface/scripts/EP-08-tranh-khe-vong-vay.md`](adaptation/interface/scripts/EP-08-tranh-khe-vong-vay.md) · ~42p · C1–C28 |
+| **T-adapt-consult-8** | **done** | pass-with-notes · C-01–C-05 must · C-06–C-10 should |
+| **T-adapt-review-8** | **done** | needs_revise · E-01–E-05 should |
+| **T-adapt-director-8** | **done** | D-01–D-04 must · D-05–D-08 should |
+| **T-adapt-producer-8** | **done** | P-01–P-04 must · P-05–P-06 should |
+| **T-adapt-revise-8** | **done** | 29 must/should IDs |
+| **T-adapt-review-8-r2** | **done** | suggest_pass · no critical |
+| **T-adapt-outline-9** | **done** | [`adaptation/logic/episodes/EP-09-outline.md`](adaptation/logic/episodes/EP-09-outline.md) |
+| **T-adapt-draft-9** | **done** | [`adaptation/interface/scripts/EP-09-dao-keo-ra-uyen.md`](adaptation/interface/scripts/EP-09-dao-keo-ra-uyen.md) · ~43p · C1–C26 |
+| **T-adapt-consult-9** | **done** | pass-with-notes · C-01–C-05 must · C-06–C-10 should |
+| **T-adapt-review-9** | **done** | needs_revise · E-01–E-05 should |
+| **T-adapt-director-9** | **done** | D-01–D-04 must · D-05–D-08 should |
+| **T-adapt-producer-9** | **done** | P-01–P-04 must · P-05–P-06 should |
+| **T-adapt-revise-9** | **done** | 29 must/should IDs |
+| **T-adapt-review-9-r2** | **done** | suggest_pass · no critical |
+| **T-adapt-map-29-33** | **done** | [`adaptation/logic/source-map/ch29-33-to-episodes.md`](adaptation/logic/source-map/ch29-33-to-episodes.md) |
+| **T-adapt-outline-10** | **done** | [`adaptation/logic/episodes/EP-10-outline.md`](adaptation/logic/episodes/EP-10-outline.md) |
+| **T-adapt-draft-10** | **done** | [`adaptation/interface/scripts/EP-10-moi-yeu-kiem-sa.md`](adaptation/interface/scripts/EP-10-moi-yeu-kiem-sa.md) · ~43p · C1–C24 |
+| **T-adapt-consult-10** | **done** | pass-with-notes · C-01–C-05 must · C-06–C-10 should |
+| **T-adapt-review-10** | **done** | needs_revise · E-01–E-05 should |
+| **T-adapt-director-10** | **done** | D-01–D-04 must · D-05–D-08 should |
+| **T-adapt-producer-10** | **done** | P-01–P-04 must · P-05–P-06 should |
+| **T-adapt-revise-10** | **done** | 29 must/should IDs |
+| **T-adapt-review-10-r2** | **done** | suggest_pass · no critical |
+| **T-adapt-map-34-39** | **done** | [`ch34-39-to-episodes.md`](adaptation/logic/source-map/ch34-39-to-episodes.md) · analyze **2 tập** · **gate 1 tập** ch.34–39 |
+| **T-adapt-outline-11** | **done** | [`adaptation/logic/episodes/EP-11-outline.md`](adaptation/logic/episodes/EP-11-outline.md) |
+| **T-adapt-draft-11** | **done** | [`adaptation/interface/scripts/EP-11-tu-linh-mac-lao.md`](adaptation/interface/scripts/EP-11-tu-linh-mac-lao.md) · ~43p · C1–C23 |
+| **T-adapt-consult-11** | **done** | pass-with-notes · C-01–C-06 must · C-07–C-10 should |
+| **T-adapt-review-11** | **done** | needs_revise · E-01–E-05 should |
+| **T-adapt-director-11** | **done** | D-01–D-04 must · D-05–D-08 should |
+| **T-adapt-producer-11** | **done** | P-01–P-04 must · P-05–P-06 should |
+| **T-adapt-revise-11** | **done** | 29 must/should IDs |
+| **T-adapt-review-11-r2** | **done** | suggest_pass · no critical |
+| **T-adapt-map-40-44** | **done** | [`ch40-44-to-episodes.md`](adaptation/logic/source-map/ch40-44-to-episodes.md) · analyze **2 tập** · **gate 1 tập** ch.40–44 |
+| **T-adapt-outline-12** | **done** | [`adaptation/logic/episodes/EP-12-outline.md`](adaptation/logic/episodes/EP-12-outline.md) |
+| **T-adapt-draft-12** | **done** | [`adaptation/interface/scripts/EP-12-tran-rung-ban-tin.md`](adaptation/interface/scripts/EP-12-tran-rung-ban-tin.md) · ~44p · C1–C23 |
+| **T-adapt-consult-12** | **done** | pass-with-notes · C-01–C-06 must · C-07–C-10 should |
+| **T-adapt-review-12** | **done** | needs_revise · E-01–E-05 should |
+| **T-adapt-director-12** | **done** | D-01–D-04 must · D-05–D-08 should |
+| **T-adapt-producer-12** | **done** | P-01–P-04 must · P-05–P-06 should |
+| **T-adapt-revise-12** | **done** | 28 must/should IDs |
+| **T-adapt-review-12-r2** | **done** | suggest_pass · no critical |
+
+| Tập | Trạng thái | Artifact |
+| --- | --- | --- |
+| **EP-01** | **approved** | script + notes · auto-gate 2026-09-14 |
+| **EP-02** | **approved** | script + notes · auto-gate 2026-09-14 |
+| **EP-03** | **approved** | script + notes · auto-gate 2026-09-14 |
+| **EP-04** | **approved** | script + notes · auto-gate 2026-09-14 |
+| **EP-05** | **approved** | script + notes · auto-gate 2026-09-14 · ch.11–14 |
+| **EP-06** | **approved** | script + notes · auto-gate 2026-09-14 · ch.15–17 · hook **Phương Ngự Hàn** |
+| **EP-07** | **approved** | script + notes · auto-gate 2026-09-14 · ch.18–20 · **Beat 4 khép** · hook **đại hán chặn dây** · Beat 5 mở |
+| **EP-08** | **approved** | script + notes · auto-gate 2026-09-14 · ch.21–24 · hook **«Giao Tô Diêu, đổi lối ra»** · **không** đảo kèo |
+| **EP-09** | **approved** | script + notes · ch.25–28 · **Beat 5 khép** · hook *Thả mồi!* **dừng** |
+| **EP-10** | **approved** | script + notes · ch.29–33 · **Beat 6 khép** · hook *«Vậy lần sau, ngươi còn quay lại được không?»* · **Kiến Sa** |
+| **EP-11** | **approved** | script + notes · ch.34–39 · **C1–C23** · **Beat 7 khép** · hook *Trận rung!* · **6→0 hạt** · **3 hạt nợ** |
+| **EP-12** | **approved** | script + notes · ch.40–44 · **C1–C23** · **Beat 8 khép** · hook *ép tầng mười / thở lần 2* · **LK9** · **ngọc ngực** · **FS-004 không ký** |
+
+- **Novel gate:** Không đụng prose/review chương tiểu thuyết khi chạy adaptation.
+- **Pilot DoD:** EP-01–EP-12 **approved** · revise **28** ID EP-12 (must/should).
+- **Cursor kế:** **map ch.45+** (Beat 9 **Thoát & LK VM**) · **T-adapt-outline-13** sau gate EP-12.
 
 ## Chương 8 — `linh-thach-dem`
 
@@ -1231,3 +1372,21 @@
 | T-review-82 | Review ch.82 r1 (rewrite) | **done** · suggest_revise C-01, C-02, M-01 · [Reviewer](883d3735-d508-486b-83a1-e0ae5cf4d3a6) |
 | T-revise-82 | Auto-revise C-01, C-02, M-01 + r2 meta C-01 | **done** · ~2.507 từ thân · [Writer](8fd0d512-1210-49de-a87d-494677283735) · [Writer r2 polish](825bbd5c-33ea-4b81-a90d-41db26f7f0ee) |
 | T-review-82-r2 | Review ch.82 r2 (rewrite) | **done** · **suggest_pass** · [Reviewer](9c06c6a8-4072-49ab-b78a-b22b913fca8e) |
+
+### Logic — World (retrofit phase 1 + stub phase 2)
+
+| ID | Task | Status |
+| --- | --- | --- |
+| T-world-build-1 | `world-builder` → atlas + region active + tiểu cục index | **done** (2026-09-11) · [`logic/world/00-world-atlas.md`](logic/world/00-world-atlas.md), [`01-region-active.md`](logic/world/01-region-active.md), [`02-tieu-cuc-index.md`](logic/world/02-tieu-cuc-index.md) · [World Builder](3263e3f5-7462-496c-b1b7-5020e36c8996) |
+
+### Logic — Arc revamp (world-sync)
+
+| ID | Task | Owner | Output | Status |
+| --- | --- | --- | --- | --- |
+| T-arc-revamp-master | Revamp `00-arc-master-outline.md` · Đại cục arc + bảng tổng canon | `arc-planner` | [`logic/arcs/00-arc-master-outline.md`](logic/arcs/00-arc-master-outline.md) | **done** (2026-09-11) · [Arc Planner master](dfb7fd90-06ac-4ecd-a315-dcee0b8296c2) |
+| T-arc-revamp-arc1 | Revamp `01-arc1-beats.md` (ch.1–48) | `arc-planner` | same path | **done** (2026-09-11) · [Arc Planner arc1](2c2233dc-f825-405d-99f8-0cc6932b571b) |
+| T-arc-revamp-transition | Revamp `02-transition-beats.md` (ch.49–54) | `arc-planner` | same path | **done** (2026-09-11) · arc-planner |
+| T-arc-revamp-arc2 | Revamp `02-arc2-beats.md` (ch.55–88) | `arc-planner` | same path | **done** (2026-09-11) · arc-planner |
+| T-arc-revamp-arc3 | Revamp `03-arc3-beats.md` (ch.89–112) | `arc-planner` | same path | **done** (2026-09-11) · [Arc Planner arc3](3559adb5-d107-4421-b601-a52ec569f403) |
+
+**Ràng buộc:** Không đổi band chương/spine đã khóa trừ mâu thuẫn nghiêm trọng; beat files **không** sửa trong bước master.

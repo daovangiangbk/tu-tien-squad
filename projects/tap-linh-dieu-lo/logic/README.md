@@ -6,9 +6,11 @@
 | Thứ tự | File | Vai trò |
 | --- | --- | --- |
 | 1 | [`00-story-spine.md`](./00-story-spine.md) | Cốt truyện phase 1: mục tiêu, cung cảnh giới, dòng arc, nguyên tắc trước chi tiết |
+| 1b | [`characters/00-characters-index.md`](./characters/00-characters-index.md) | Roster MC + cast arc/chapter — agent `character-architect` |
 | 2 | [`arcs/00-arc-master-outline.md`](./arcs/00-arc-master-outline.md) | Đại cục 1–3 + transition; theme, xung đột, cliffhanger |
 | 3 | [`chapters/00-chapter-spine-phase1.md`](./chapters/00-chapter-spine-phase1.md) | **Xương sống chương:** số ch, slug, tiêu đề làm việc, beat, trạng thái |
 | 4 | [`arcs/01-arc1-beats.md`](./arcs/01-arc1-beats.md) | Beat Arc 1 (chi tiết điều phối trong arc) |
+| 4b | [`arcs/01-arc1-phu-luc.md`](./arcs/01-arc1-phu-luc.md) | Phụ lục Arc 1 — địa lý Phi Vân · TC-001/002/003 |
 | 5 | [`foreshadowing/00-foreshadow-ledger.md`](./foreshadowing/00-foreshadow-ledger.md) | FS-ID plant/payoff |
 
 **Interface:** [`../interface/chapters/00-index.md`](../interface/chapters/00-index.md) — mục lục đọc; chỉ cập nhật khi có file prose hoặc đổi tiêu đề canon.

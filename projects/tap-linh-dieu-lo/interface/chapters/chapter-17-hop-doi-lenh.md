@@ -5,7 +5,9 @@
 > **Mầm phục bút:** FS-009 *(góp giá · chia phần)*  
 > **Tham chiếu:** `logic/chapters/ch17-hop-doi-lenh-beat.md`
 
-Tô Diêu rời giàn đèn bằng lối hẹp giữa hai quầy dược.
+Tô Diêu rời giàn đèn bằng lối hẹp giữa hai quầy dược, miếng **Hợp Đội** trong tay áo cấn vào cổ tay.
+
+Giếng cạn ngõ bắc trước giờ Sửu. Người có suất sẽ hỏi ba câu — hắn đã chuẩn bị từ lúc đọc tờ **Phương**. Việc trước mắt: giữ lệnh, tới đúng giờ, không để kẻ áo tro hoặc đồng bọn cướp mất vé vào đội.
 
 Hắn không đi nhanh.
 
@@ -123,11 +125,9 @@ Giờ Sửu còn hơn nửa canh.
 
 Tô Diêu đi qua hai con ngõ sáng, mua thêm một bầu nước nhỏ với giá một hạt. Bánh khô đã có từ trước. Thuốc còn đủ cho một lần đổi băng. Đoản côn giấu dưới vạt áo. Sau hai món vừa mua, trong túi hắn còn ba mươi sáu hạt rưỡi.
 
-Ba mươi sáu hạt rưỡi.
+Ba mươi sáu hạt rưỡi — đủ để tới giếng, chưa đủ mua suất. Lệnh trong tay mới là phần đường hắn đã chọn.
 
-Một đoạn đường chưa biết thật giả.
-
-Và ba kẻ chờ hắn bước vào chỗ tối.
+Phía sau, ba kẻ chờ hắn bước vào chỗ tối.
 
 Ngõ bắc nằm sau dãy lò cũ của Phi Vân Tập. Ban ngày nơi ấy còn có người phơi da yêu thú. Đêm xuống, mùi tanh trên vách trộn với mùi đất ẩm, gió thổi qua cũng không tan.
 
