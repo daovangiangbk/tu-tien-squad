@@ -1,4 +1,4 @@
-# Project status — Tạp Linh Diêu Lộ — cập nhật 2026-09-11
+# Project status — Tạp Linh Diêu Lộ — cập nhật 2026-09-15
 
 **Tên truyện:** **Tạp Linh Diêu Lộ** (杂灵遥路)  
 **Work slug:** `tap-linh-dieu-lo`  
@@ -19,11 +19,11 @@
 
 ## Adaptation (workflow B)
 
-**Pipeline:** **2026-09-14** · brief v2.1 · **EP-01–EP-12 approved** · **Beat 8 khép ch.40–44** · **Beat 9** mở hook *ép tầng mười / trận thở lần 2* · map [`ch40-44-to-episodes.md`](adaptation/logic/source-map/ch40-44-to-episodes.md) · cursor **map ch.45+** / **T-adapt-outline-13** (Beat 9) hoặc video assets.
+**Pipeline:** **2026-09-15** · brief v2.1 · **EP-01–EP-15 approved** · Arc 2 Beat 1 khép ch.55–58 · map [`ch55-58-to-episodes.md`](adaptation/logic/source-map/ch55-58-to-episodes.md) · script [`EP-15-dan-sa-ho-mach.md`](adaptation/interface/scripts/EP-15-dan-sa-ho-mach.md) · cursor **EP-16 stub** ch.59+ — **không** mở workflow C.
 
 **Auto-gate:** **on** (human 2026-09-14) — notes đủ consultant→editor→director→producer · auto-revise must/should · waive manual confirm · approve sau editor r2 · revise/approve **EP-01 trước EP-02**.
 
-**Should-audit (2026-09-14):** **EP-01–EP-12: đã xử lý** must/should trên script; optional polish sau. **`T-adapt-should-audit`** → **done** (EP-12).
+**Should-audit (2026-09-14):** **EP-01–EP-13: đã xử lý** must/should trên script; optional polish sau. **`T-adapt-should-audit`** → **done** (EP-13).
 
 | Task ID | Trạng thái | Ghi chú |
 | --- | --- | --- |
@@ -135,6 +135,33 @@
 | **T-adapt-producer-12** | **done** | P-01–P-04 must · P-05–P-06 should |
 | **T-adapt-revise-12** | **done** | 28 must/should IDs |
 | **T-adapt-review-12-r2** | **done** | suggest_pass · no critical |
+| **T-adapt-map-45-48** | **done** | [`ch45-48-to-episodes.md`](adaptation/logic/source-map/ch45-48-to-episodes.md) · **1 tập** ch.45–48 · Beat 9+10 · EP-14 waived |
+| **T-adapt-outline-13** | **done** | [`EP-13-outline.md`](adaptation/logic/episodes/EP-13-outline.md) · C1–C32 · ~40–45p |
+| **T-adapt-draft-13** | **done** | [`EP-13-ep-cong-thach-lam.md`](adaptation/interface/scripts/EP-13-ep-cong-thach-lam.md) · ~44p · C1–C32 |
+| **T-adapt-consult-13** | **done** | pass-with-notes · C-01–C-11 must · C-12–C-16 should · C-17 optional · **không block** |
+| **T-adapt-review-13** | **done** | needs_revise · E-01–E-05 should |
+| **T-adapt-director-13** | **done** | D-01–D-05 must · D-06–D-12 should · D-13–D-15 optional |
+| **T-adapt-producer-13** | **done** | P-01–P-05 must · P-06–P-14 should · P-15–P-19 optional |
+| **T-adapt-revise-13** | **done** | 47 must/should IDs · skip optional |
+| **T-adapt-review-13-r2** | **done** | suggest_pass · no critical |
+| **T-adapt-map-49-54** | **done** | [`ch49-54-to-episodes.md`](adaptation/logic/source-map/ch49-54-to-episodes.md) · **gate 1 tập** ch.49–54 · slug `EP-14-thach-lam-khe-mach.md` |
+| **T-adapt-outline-14** | **done** | [`EP-14-outline.md`](adaptation/logic/episodes/EP-14-outline.md) · C1–C32 · ~40–45p |
+| **T-adapt-draft-14** | **done** | [`EP-14-thach-lam-khe-mach.md`](adaptation/interface/scripts/EP-14-thach-lam-khe-mach.md) · ~42p · C1–C32 |
+| **T-adapt-consult-14** | **done** | pass-with-notes · C-01–C-08 must · **không block** |
+| **T-adapt-review-14** | **done** | needs_revise · E-01 must · E-02–E-06 should |
+| **T-adapt-director-14** | **done** | D-01–D-05 must · D-06–D-12 should |
+| **T-adapt-producer-14** | **done** | P-01–P-05 must · P-06–P-14 should |
+| **T-adapt-revise-14** | **done** | 42 must/should IDs · C-01/E-01 fixed |
+| **T-adapt-review-14-r2** | **done** | suggest_pass · no critical · auto-approve 2026-09-15 |
+| **T-adapt-map-55-58** | **done** | [`ch55-58-to-episodes.md`](adaptation/logic/source-map/ch55-58-to-episodes.md) · **gate 1 tập** ch.55–58 · slug `EP-15-dan-sa-ho-mach.md` · ~81k thân |
+| **T-adapt-outline-15** | **done** | [`EP-15-outline.md`](adaptation/logic/episodes/EP-15-outline.md) · C1–C32 · 3 hồi · slug `EP-15-dan-sa-ho-mach.md` |
+| **T-adapt-draft-15** | **done** | [`EP-15-dan-sa-ho-mach.md`](adaptation/interface/scripts/EP-15-dan-sa-ho-mach.md) · ~43p · C1–C32 |
+| **T-adapt-consult-15** | **done** | pass-with-notes · C-10 should · **không block** |
+| **T-adapt-review-15** | **done** | needs_revise · E-01–E-04 should |
+| **T-adapt-director-15** | **done** | D-01–D-09 must · 8 should · 3 optional |
+| **T-adapt-producer-15** | **done** | P-01–P-08 must · P-09–P-18 should · pass-with-notes |
+| **T-adapt-revise-15** | **done** | must+should applied · revise r1 |
+| **T-adapt-review-15-r2** | **done** | suggest_pass · no critical · auto-approve 2026-09-15 |
 
 | Tập | Trạng thái | Artifact |
 | --- | --- | --- |
@@ -150,10 +177,13 @@
 | **EP-10** | **approved** | script + notes · ch.29–33 · **Beat 6 khép** · hook *«Vậy lần sau, ngươi còn quay lại được không?»* · **Kiến Sa** |
 | **EP-11** | **approved** | script + notes · ch.34–39 · **C1–C23** · **Beat 7 khép** · hook *Trận rung!* · **6→0 hạt** · **3 hạt nợ** |
 | **EP-12** | **approved** | script + notes · ch.40–44 · **C1–C23** · **Beat 8 khép** · hook *ép tầng mười / thở lần 2* · **LK9** · **ngọc ngực** · **FS-004 không ký** |
+| **EP-13** | **approved** | script + notes · ch.45–48 · **C1–C32** · **Beat 9+10 khép** · hook *cửa hắc thị / Trúc Cơ Đan* · **LK12 VM** · **0 hạt** · **FS-004 không ký** |
+| **EP-14** | **approved** | script + notes · ch.49–54 · **C1–C32** · **Transition khép** · hook *cửa đông / nhánh mạch #7* · **FS-004 ký** · **LK12 VM** · **0→nợ có tên** · auto-gate 2026-09-15 |
+| **EP-15** | **approved** | script + notes · ch.55–58 · **C1–C32** · **Beat 1 khép** · hook *SỐ MƯỜI BẢY GIỮ THÊM MỘT KHẮC* · auto-gate 2026-09-15 |
 
 - **Novel gate:** Không đụng prose/review chương tiểu thuyết khi chạy adaptation.
-- **Pilot DoD:** EP-01–EP-12 **approved** · revise **28** ID EP-12 (must/should).
-- **Cursor kế:** **map ch.45+** (Beat 9 **Thoát & LK VM**) · **T-adapt-outline-13** sau gate EP-12.
+- **Pilot DoD:** EP-01–EP-15 **approved** · revise r1 must+should EP-15.
+- **Cursor:** **EP-15 approved** · Arc 2 Beat 1 khép (ch.55–58) · kế **EP-16 stub** ch.59+ (Beat 2) khi user mở · **không** video (workflow C).
 
 ## Chương 8 — `linh-thach-dem`
 
