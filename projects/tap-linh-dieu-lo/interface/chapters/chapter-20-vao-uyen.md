@@ -313,13 +313,15 @@ Phương Ngự Hàn đi đầu chậm hơn lúc ở ngoài. Y không đặt châ
 
 Tô Diêu lấy lá phù đầu tiên.
 
+Dốc đầu chỉ còn một đoạn nhìn lại được vành vòng qua khe vách — lúc khắc lệnh Phương Ngự Hàn đã nói: đứt dấu thì lùi về chỗ cả ba cùng thấy. Dấu đầu phải cắm trước khi ngoặt che mất cửa, không phải treo bừa trên đường.
+
 Hắn không kích toàn bộ ấn. Chỉ dùng móng tay rạch một nét nhỏ ở mép, truyền vào đó một sợi linh lực Mộc hành. Mực trên phù ấm lên rồi co lại thành một chấm xanh nhạt.
 
-Hắn ép lá phù vào khe đá bên phải.
+Hắn men theo mép vách bên phải — cùng phía Phương Ngự Hàn chọn bước. Ở bậc thứ ba, một nẻ đá hẹp có vân xám vừa sáng rồi tắt; khí quanh đó không xoay liên tục như giữa bậc. Hắn đặt mặt sau phù, lớp vụn sa đen, vào khe ấy, cho chấm xanh hướng về phía cửa. Giấy bám đá ẩm; lớp dao động mỏng trong phù phản một nhịp ngược từ vách — cùng cách phù treo ngoài cọc Thanh Sa, chỉ là không còn ai đóng cọc giúp.
 
 — Dấu một.
 
-Phương Ngự Hàn quay đầu nhìn.
+Phương Ngự Hàn quay đầu nhìn chấm xanh và vành vòng còn ló qua khe.
 
 Người áo tro nói:
 
@@ -485,7 +487,7 @@ Ba vạch chồng lên nhau, cùng chỉ trái.
 
 Họ bước vào lối thấp.
 
-Nước ngập quá mắt cá, lạnh buốt. Vách đá ép sát hai vai, nhiều chỗ Phương Ngự Hàn phải nghiêng người mới qua được. Tô Diêu đặt lá phù thứ hai ở một kẽ cao, lần này dùng Kim hành. Nét mực vừa sáng đã bị khí ẩm ép tối đi quá nửa.
+Nước ngập quá mắt cá, lạnh buốt. Vách đá ép sát hai vai, nhiều chỗ Phương Ngự Hàn phải nghiêng người mới qua được. Tô Diêu đặt lá phù thứ hai ở một kẽ cao phía sau vai trái — chỗ đá khô hơn mặt nước, chấm hướng ngược ra dốc — lần này dùng Kim hành. Nét mực vừa sáng đã bị khí ẩm ép tối đi quá nửa.
 
 — Được bao lâu? Phương Ngự Hàn hỏi.
 

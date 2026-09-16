@@ -57,11 +57,15 @@ Trong túi hắn có ba mươi chín hạt.
 
 Thiếu chín.
 
+Hắn bám mắt vào dòng thứ hai, không lùi khỏi bảng. Từ lúc đèn thứ chín bật, hắn đã quyết xuống uyên kỳ này — nhặt phế thêm cũng chỉ kéo dài cái chết chậm; thiếu linh dược, thiếu pháp khí, thiếu một lần nhảy trong chu kỳ Cấp II thì kẻ đứng ngoài sẽ bị kẻ có thẻ xanh nuốt mất chỗ đứng ngay giữa Phi Vân.
+
+Tiền thì không đủ. Cửa Thanh Sa một mình khép trước mặt hắn: chín hạt thiếu là chín hạt không mua thuốc, không mua nước, không chạy trốn thêm một lần; đổi trọn túi lấy một tấm giấy treo tên là tự cắt đường lui còn lại.
+
 Hắn tự gán từng dòng giá: mười tám là mép sa, tránh và chờ, không có cửa; bốn mươi tám là mảnh đường tới chỗ cửa có thể mở, cát đổi thì trả thêm đối chiếu hoặc mua lần đổi; sáu mươi bốn là thẻ suất, trạm, tên trên giấy Thanh Sa.
 
-Suất thì khỏi tính. Tọa độ một mình cũng không đủ — thiếu chín hạt, mà mua xong vẫn chưa qua trạm, chưa có ai nhận dấu trận ngoài cọc phù.
+Suất thì khỏi tính. Tọa độ một mình cũng không mua được — thiếu chín hạt, mà mua xong vẫn chưa qua trạm, chưa có ai nhận dấu trận ngoài cọc phù.
 
-Tin uyên đã lan; kẻ không vào vẫn phải sống giữa kẻ sắp vào. Nhặt phế một đời không đủ leo. Hắn cần vào uyên, nhưng không đổi hết ba mươi chín hạt lấy một tấm giấy treo tên. Cách còn lại: tìm đội đã có suất hoặc tọa độ, thiếu đôi mắt biết nhìn trận — hắn trả bằng kỹ năng ấy.
+Vào uyên vẫn phải vào. Cách khác: tìm đội đã có suất hoặc tọa độ, thiếu đôi mắt biết nhìn trận — hắn trả bằng kỹ năng ấy, không trả bằng hạt Thanh Sa ghim tên.
 
 Sau lưng có người cười khan:
 
@@ -167,7 +171,7 @@ Trên bảng, sáu mươi bốn chỉ là một con số.
 
 Đối với nữ tu khăn xám, nó là thanh kiếm phải bán trước khi vào nơi cần kiếm nhất.
 
-Còn đối với hắn, bảng giá chỉ xác nhận một điều: mua lẻ ở đây không phải đường của hắn.
+Còn đối với hắn, bảng giá chặn ví, không chặn chân. Muốn vào vẫn phải vào — chỉ đổi chỗ mua đường, không mua lẻ ở đây.
 
 — Diêu Tử.
 

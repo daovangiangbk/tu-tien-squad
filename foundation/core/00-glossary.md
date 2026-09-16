@@ -94,11 +94,8 @@
 | **Trúc Cơ Kỳ** (筑基) | Khí → lỏng; 200–300 năm; **Trúc Cơ Đan** / linh mạch. | **Power** + **Logic** — **nghẽn kinh tế then chốt**. |
 | **Kim Đan Kỳ** (金丹) | Ngưng đan; phẩm Hạ→Thiên Đan; Tâm ma hoặc 3 lôi nhẹ. | **Power** — “Lão Tổ một phương”. |
 | **Nguyên Anh Kỳ** (元婴) | Linh thai; Thuấn Di; **Lục Cửu Thiên Kiếp**. | **Power** — đoạt xá; phá đại thành. |
-| **Hóa Thần / Thần Du** (化神) | Đỉnh Phàm Giới; điều động Linh Khí Thiên Địa; bế quan ngộ đạo. | **Power** — trần arc Hạ Giới cao. |
-| **Luyện Hư / Động Hư** (炼虚) | Trọng vực, thao túng không gian. | **Power** — 8k–10k năm. |
-| **Hợp Thể / Đại Thừa** (合体/大乘) | Dung hợp thần–thể–quy luật; chưởng vỡ đại lục. | **Power** — chuẩn bị Độ Kiếp. |
-| **Độ Kiếp Kỳ** (渡劫) | **Cửu Cửu 81 lôi**; phi thăng hoặc Tản Tiên. | **Power** — đỉnh Hạ Giới arc. |
-| **Chân Tiên → Thánh Nhân** | Tiên Giới: Kim Tiên quy tắc, Đại La ngoài luân hồi, Thánh Nhân tái tạo vạn giới. | **Power** — trần dài hạn; tránh inflation bằng quy tắc & tài nguyên. |
+| **Hóa Thần → Thánh Nhân** | Chuỗi đầy đủ: Hóa Thần, Luyện Hư, **Hợp Thể**, **Đại Thừa**, Độ Kiếp, Chân Tiên, Kim Tiên, Thái Ất, Đại La, **Tiên Vương**, **Tiên Đế**, Thánh Nhân — **bảng agent:** `03-power-system-economy-core.md` **§1.3**. | **Power** — không tóm tắt lại số liệu ở đây. |
+| **Tản Tiên** (散仙) | Trạng thái sau **Cửu Cửu** thất bại còn sống; lôi kiếp định kỳ — **không** phải đại cảnh giới. | **Power** — §1.3. |
 | **Tiểu cảnh giới** | Sơ / Trung / Hậu / Đại Viên Mãn (Viên Mãn). | **Power** — pacing trong arc. |
 | **Đột phá** | Nhảy đại cảnh giới; luôn có điều kiện + rủi ro (đan, mạch, kiếp). | **Canon** — không thưởng “miễn phí”. |
 | **Phi Thăng** (飞升) | Vượt giới bích lên Tiên Giới sau Độ Kiếp. | **World** + **Logic** — mục tiêu chính trị Hạ Giới. |
