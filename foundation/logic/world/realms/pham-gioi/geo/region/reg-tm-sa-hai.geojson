@@ -1,0 +1,380 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-TM-SA-HAI-TAM",
+  "world:region_id": "REG-TM-SA-HAI",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-TM-SA-HAI",
+  "world:parent_file": "chau-luc/chl-tan-mo.geojson",
+  "world:parent_coordinates": [
+    565.0,
+    327.0
+  ],
+  "world:coordinateNote": "Vùng Sa Hải · gốc LOC-TM-SA-HAI-TAM [0,0]; neo parent (565,327) centroid REG; shared LOC-TM-SA-HAI-CUA [-271,55] = (294,382) lục; cổ khí vụn · cấm đi bộ một mình.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-TM-SA-HAI-AREA",
+        "name_vi": "Phạm vi Sa Hải",
+        "name_hv": "沙海域",
+        "kind": "wilderness",
+        "visibility": "public",
+        "linh_khi_tier": "cực_mỏng",
+        "notes": "Đại sa mạc; SUB-PATCH-MA-TAN-MO rìa tây khi khe dao động."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -280,
+              195
+            ],
+            [
+              250,
+              200
+            ],
+            [
+              255,
+              -195
+            ],
+            [
+              -275,
+              -190
+            ],
+            [
+              -280,
+              195
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-SA-HAI-TAM",
+        "name_vi": "Sa Hải · trung tâm cát",
+        "name_hv": "沙海心",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Hub vùng; không có thành — chỉ mốc cát."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-SA-HAI-CUA",
+        "name_vi": "Cửa Sa Hải · lối đông",
+        "name_hv": "沙海口",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Đông · mép Khe",
+        "notes": "Shared id; parent (294,382) lục."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -271.0,
+          55.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-CO-TU",
+        "name_vi": "Cổ Tu · trung tâm di tích",
+        "name_hv": "古墟",
+        "kind": "hub",
+        "visibility": "public",
+        "direction_label": "Đông bắc",
+        "notes": "Shared id; parent (350,620)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -215.0,
+          293.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-SA-CO-KHI",
+        "name_vi": "Mỏ cổ khí · dune",
+        "name_hv": "古器丘",
+        "kind": "resource",
+        "visibility": "public",
+        "direction_label": "Tây nam",
+        "notes": "Mảnh đồng vụn; Tàn Tu bang tranh."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120,
+          -85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-SA-LUU",
+        "name_vi": "Lữ trại đoàn · nam",
+        "name_hv": "商队营",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Nam",
+        "faction": "Thương đội liên minh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15,
+          -165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-SA-MA-RIM",
+        "name_vi": "Rìa Ma uyên · tây",
+        "name_hv": "魔渊缘",
+        "kind": "wilderness",
+        "visibility": "hidden_logic",
+        "direction_label": "Tây",
+        "notes": "SUB-PATCH-MA-TAN-MO; liên Khe/Tây Ma."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -245,
+          12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-TM-SA-DUNE",
+        "name_vi": "Cồn cát · hố lún",
+        "name_hv": "流沙丘",
+        "kind": "barrier",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80,
+              45
+            ],
+            [
+              40,
+              50
+            ],
+            [
+              35,
+              95
+            ],
+            [
+              -85,
+              90
+            ],
+            [
+              -80,
+              45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-SA-KHE",
+        "name_vi": "Lối Khe Giới",
+        "name_hv": "界隙道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-SA-HAI-TAM",
+        "to_id": "LOC-TM-SA-HAI-CUA",
+        "hazard": "cát lún",
+        "travel_days_walk": "4-6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -85,
+            22
+          ],
+          [
+            -180,
+            42
+          ],
+          [
+            -271,
+            55
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-SA-CO-TU",
+        "name_vi": "Đạo Cổ Tu",
+        "name_hv": "古墟道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-SA-HAI-TAM",
+        "to_id": "LOC-TM-CO-TU",
+        "hazard": "cướp; phế địa",
+        "travel_days_walk": "3-5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -55,
+            95
+          ],
+          [
+            -120,
+            180
+          ],
+          [
+            -215,
+            293
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-SA-NAM",
+        "name_vi": "Lối Nam Quan",
+        "name_hv": "南关道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-SA-LUU",
+        "to_id": "LOC-TM-NAM-QUAN",
+        "hazard": "phí ải",
+        "travel_days_walk": "2-3",
+        "notes": "Neo LOC-TM-NAM-QUAN trên reg-tm-nam-quan [0,0] → chl (512,97); local tại đích ~[-53,-230]."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            15,
+            -165
+          ],
+          [
+            10,
+            -120
+          ],
+          [
+            5,
+            -75
+          ],
+          [
+            0,
+            -230
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-SA-MANH",
+        "name_vi": "Manh mạch cát · ẩn",
+        "name_hv": "沙脉",
+        "kind": "resource",
+        "visibility": "hidden_logic",
+        "linh_khi_tier": "manh_mach_rải"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88,
+          -35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-KHE-GIOI",
+        "name_vi": "Khe Giới · cửa vết nứt",
+        "name_hv": "界隙",
+        "kind": "hub",
+        "visibility": "hidden_logic",
+        "direction_label": "Tây · qua cửa",
+        "notes": "Shared id; parent (76,340)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -489.0,
+          13.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RIVER-TM-SA-CAN",
+        "name_vi": "Rãnh cổ · khô",
+        "name_hv": "古涸",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-SA-CO-KHI",
+        "to_id": "LOC-TM-SA-HAI-TAM",
+        "hazard": "ma phù"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -120,
+            -85
+          ],
+          [
+            -65,
+            -42
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      }
+    }
+  ]
+}

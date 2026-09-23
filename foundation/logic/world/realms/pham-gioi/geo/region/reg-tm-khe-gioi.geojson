@@ -1,0 +1,499 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-TM-KHE-GIOI",
+  "world:region_id": "REG-TM-KHE-GIOI",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-TM-KHE-GIOI",
+  "world:parent_file": "chau-luc/chl-tan-mo.geojson",
+  "world:parent_coordinates": [
+    76.0,
+    340.0
+  ],
+  "world:coordinateNote": "Vùng Khe Giới · gốc LOC-TM-KHE-GIOI [0,0]; neo parent (76,340) trên chl-tan-mo; LOC-TM-CO-TU shared [274,280] = (350,620) lục; crack E-PHAM-CRACK-LINH — manh_mach_rải, không phải Linh Giới tự do (Luật 6).",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-TM-KHE-GIOI-AREA",
+        "name_vi": "Phạm vi Khe Giới",
+        "name_hv": "界隙域",
+        "kind": "barrier",
+        "visibility": "hidden_logic",
+        "linh_khi_tier": "manh_mach_rải",
+        "notes": "Subset REG-TM-KHE-GIOI; linh khí rải dọc vết bích — đủ manh, không đủ Trúc Cơ trên Phàm."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -48.0,
+              220.0
+            ],
+            [
+              52.0,
+              222.0
+            ],
+            [
+              58.0,
+              180.0
+            ],
+            [
+              62.0,
+              120.0
+            ],
+            [
+              60.0,
+              60.0
+            ],
+            [
+              55.0,
+              0.0
+            ],
+            [
+              58.0,
+              -60.0
+            ],
+            [
+              62.0,
+              -120.0
+            ],
+            [
+              58.0,
+              -180.0
+            ],
+            [
+              52.0,
+              -220.0
+            ],
+            [
+              -48.0,
+              -218.0
+            ],
+            [
+              -52.0,
+              -160.0
+            ],
+            [
+              -55.0,
+              -100.0
+            ],
+            [
+              -58.0,
+              -40.0
+            ],
+            [
+              -55.0,
+              40.0
+            ],
+            [
+              -52.0,
+              100.0
+            ],
+            [
+              -50.0,
+              160.0
+            ],
+            [
+              -48.0,
+              220.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-KHE-GIOI",
+        "name_vi": "Khe Giới · cửa vết nứt",
+        "name_hv": "界隙",
+        "kind": "hub",
+        "visibility": "hidden_logic",
+        "notes": "Hub vùng; E-PHAM-CRACK-LINH; Minh rò âm gián tiếp khi khe dao động (06-subsidiary-realms)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-TM-BICH-VACH",
+        "name_vi": "Bích vạch · thân khe",
+        "name_hv": "壁缝",
+        "kind": "barrier",
+        "visibility": "hidden_logic",
+        "linh_khi_tier": "manh_mach_rải",
+        "notes": "Đá nứt dọc; linh khí lọt qua khe — vẫn host Phàm."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -8,
+              200
+            ],
+            [
+              8,
+              200
+            ],
+            [
+              10,
+              0
+            ],
+            [
+              8,
+              -200
+            ],
+            [
+              -8,
+              -200
+            ],
+            [
+              -10,
+              0
+            ],
+            [
+              -8,
+              200
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-KHE-QUAN",
+        "name_vi": "Giới quan · trạm kiểm",
+        "name_hv": "界关",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Đông nam khe",
+        "faction": "Quan ải Tàn Mộ",
+        "notes": "Thu phí lối vào **10–15%** giá trị hàng; cấm tu sĩ mang khí Linh rõ rệt (sổ điểm danh)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28,
+          -35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-KHE-THAP",
+        "name_vi": "Tháp giám · phía bắc khe",
+        "name_hv": "界塔",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Bắc",
+        "notes": "Canh vệ; đốc thúc **SUB-PATCH-MA-TAN-MO** khi ma khí tăng."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12,
+          55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-MANH-RAN",
+        "name_vi": "Manh mạch rải · sát bích",
+        "name_hv": "散脉",
+        "kind": "resource",
+        "visibility": "hidden_logic",
+        "direction_label": "Tây sát vách",
+        "linh_khi_tier": "manh_mach_rải",
+        "notes": "Rò khí manh mạch — tranh tạm; cấm trú ẩn Luyện Khí (Thiên phạt Phàm); Thần Lộ/crack sang Linh."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-MA-VET",
+        "name_vi": "Vệt Ma · cửa tây khe",
+        "name_hv": "魔迹",
+        "kind": "wilderness",
+        "visibility": "hidden_logic",
+        "direction_label": "Tây nam",
+        "notes": "SUB-PATCH-MA-TAN-MO; dao động khe → rò ma khí; không Ma Giới đầy đủ."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35,
+          -120
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-LINH-BAN",
+        "name_vi": "Linh bán · ngưỡng crack",
+        "name_hv": "灵半",
+        "kind": "dungeon",
+        "visibility": "hidden_logic",
+        "direction_label": "Đáy khe",
+        "notes": "E-PHAM-CRACK-LINH — vào Linh **một chiều** hoặc có giá Nhân quả; **không** coi là Linh Giới host."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2,
+          -165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-SA-HAI-CUA",
+        "name_vi": "Cửa Sa Hải · lối đông",
+        "name_hv": "沙海口",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Đông",
+        "notes": "Biên REG-TM-SA-HAI; lữ đội xuất phát; cấm đi bộ một mình."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          218,
+          42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-CO-TU",
+        "name_vi": "Cổ Tu · trung tâm di tích",
+        "name_hv": "古墟",
+        "kind": "hub",
+        "visibility": "public",
+        "direction_label": "Đông bắc · mép region",
+        "notes": "Shared id chl-tan-mo; parent (350,620)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          274,
+          280
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-TM-KHE-CAT",
+        "name_vi": "Cát phong · rìa đông",
+        "name_hv": "界沙",
+        "kind": "barrier",
+        "visibility": "public",
+        "notes": "Cát cuốn; che tầm nhìn Sa Hải."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              140,
+              -30
+            ],
+            [
+              200,
+              -25
+            ],
+            [
+              195,
+              60
+            ],
+            [
+              135,
+              55
+            ],
+            [
+              140,
+              -30
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-KHE-SA-HAI",
+        "name_vi": "Lối Sa Hải",
+        "name_hv": "沙海道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-KHE-GIOI",
+        "to_id": "LOC-TM-SA-HAI-CUA",
+        "hazard": "cát lún; ma phù hiếm",
+        "travel_days_walk": "4-6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            45,
+            8
+          ],
+          [
+            95,
+            18
+          ],
+          [
+            155,
+            32
+          ],
+          [
+            218,
+            42
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-KHE-CO-TU",
+        "name_vi": "Đạo Cổ Tu",
+        "name_hv": "古墟道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-KHE-GIOI",
+        "to_id": "LOC-TM-CO-TU",
+        "hazard": "phế địa; đao khách thu gom",
+        "travel_days_walk": "5-7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            55,
+            45
+          ],
+          [
+            120,
+            95
+          ],
+          [
+            195,
+            165
+          ],
+          [
+            274,
+            280
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-KHE-TAY-MA",
+        "name_vi": "Biên đạo Tây Ma",
+        "name_hv": "西魔界",
+        "kind": "route",
+        "visibility": "hidden_logic",
+        "from_id": "LOC-TM-KHE-GIOI",
+        "to_id": "LOC-TM-MA-VET",
+        "hazard": "ma khí; không lộ trình quan",
+        "travel_days_walk": "2-3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -18,
+            -55
+          ],
+          [
+            -35,
+            -120
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RIVER-TM-KHE-CAN",
+        "name_vi": "Khe cạn · cố đô khô",
+        "name_hv": "涸溪",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-KHE-QUAN",
+        "to_id": "LOC-TM-SA-HAI-CUA",
+        "hazard": "nắng; không linh theo nước",
+        "notes": "Đoạn khô trong vùng khe."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28,
+            -35
+          ],
+          [
+            55,
+            -5
+          ],
+          [
+            88,
+            12
+          ],
+          [
+            130,
+            28
+          ],
+          [
+            175,
+            38
+          ],
+          [
+            218,
+            42
+          ]
+        ]
+      }
+    }
+  ]
+}

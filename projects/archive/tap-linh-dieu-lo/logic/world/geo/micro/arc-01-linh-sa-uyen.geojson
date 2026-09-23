@@ -1,0 +1,321 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "micro",
+  "world:work_slug": "tap-linh-dieu-lo",
+  "world:hub_id": "LOC-LINH-SA-UYEN",
+  "world:parent_scope": "region",
+  "world:parent_feature_id": "LOC-LINH-SA-UYEN",
+  "world:parent_file": "region/reg-lan-sa-chau.geojson",
+  "world:parent_coordinates": [-27, -22],
+  "world:tieu_cuc_id": "TC-003",
+  "world:coordinateNote": "Micro · Linh Sa Uyên Arc 1; gốc cửa trên; parent neo region; y âm = sâu nội bộ uyên.",
+  "world:depth_axis": "region_xy = world:parent_coordinates + local_xy (mặt phẳng); trục sâu uyên không quy full chain lên chau_luc.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LINH-SA-UYEN",
+        "name_vi": "Điểm giao · cửa trên uyên",
+        "name_hv": "灵沙渊",
+        "kind": "hub",
+        "visibility": "public",
+        "parent_id": "LOC-LINH-SA-UYEN",
+        "event_scale": "II",
+        "faction": "Thanh Sa Thương Hội",
+        "linh_khi_tier": "II",
+        "notes": "Trạm đối khí; vòng đồng; chuông mở uyên (ch.19–20)"
+      },
+      "geometry": { "type": "Point", "coordinates": [0, 0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LSU-TRAM-NGOAI",
+        "name_vi": "Trạm ngoài · cọc phù dẫn",
+        "name_hv": "",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Bắc · trước dốc",
+        "parent_id": "LOC-LINH-SA-UYEN",
+        "notes": "Sáu cọc phù dẫn dấu trước điểm giao (ch.18)"
+      },
+      "geometry": { "type": "Point", "coordinates": [0, 18] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LSU-VONG-DA-1",
+        "name_vi": "Vòng đá thứ nhất",
+        "name_hv": "",
+        "kind": "barrier",
+        "visibility": "public",
+        "direction_label": "Nam · đầu dốc",
+        "parent_id": "LOC-LINH-SA-UYEN",
+        "notes": "Vòng đồng xanh; chặn mép bắc lần đổi thứ tư (ch.19–21)"
+      },
+      "geometry": { "type": "Point", "coordinates": [0, -14] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LSU-MEP-BAC",
+        "name_vi": "Mép bắc · khe tranh slot",
+        "name_hv": "",
+        "kind": "wilderness",
+        "visibility": "public",
+        "direction_label": "Tây bắc",
+        "parent_id": "LOC-LINH-SA-UYEN",
+        "faction": "Thanh Sa Thương Hội",
+        "notes": "Phí khe 3 hạt; dây mép bắc; đèn soi khí (ch.21)"
+      },
+      "geometry": { "type": "Point", "coordinates": [-22, -28] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LSU-KHE-XUONG-KHO",
+        "name_vi": "Khe xương khô",
+        "name_hv": "",
+        "kind": "wilderness",
+        "visibility": "public",
+        "direction_label": "Tây bắc · sâu",
+        "parent_id": "LOC-LINH-SA-UYEN",
+        "hazard": "phong bộc; khí đối lưu",
+        "notes": "Dấu chuyển lần 4; không đi sau người mang chuông (ch.19–21)"
+      },
+      "geometry": { "type": "Point", "coordinates": [-28, -42] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LSU-PHONG-BO-COT",
+        "name_vi": "Phong Bộ Thiểm Bộ · cột gãy",
+        "name_hv": "风薄险步",
+        "kind": "dungeon",
+        "visibility": "mc_phase1",
+        "direction_label": "Tây",
+        "parent_id": "LOC-LINH-SA-UYEN",
+        "hazard": "phong bộc ngược; hao thần",
+        "notes": "Men vách; ấn xích; thoát vòng II (ch.21–22)"
+      },
+      "geometry": { "type": "Point", "coordinates": [-35, -38] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LSU-VONG-DA-2",
+        "name_vi": "Vòng đá thứ hai",
+        "name_hv": "",
+        "kind": "barrier",
+        "visibility": "public",
+        "direction_label": "Nam · sâu",
+        "parent_id": "LOC-LINH-SA-UYEN",
+        "notes": "Dời ba trượng về nam lần đổi; nạn nhân đội sáu (ch.19–22)"
+      },
+      "geometry": { "type": "Point", "coordinates": [-12, -52] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LSU-BAI-DUOC",
+        "name_vi": "Bãi đá trũng · cột đuốc",
+        "name_hv": "",
+        "kind": "wilderness",
+        "visibility": "public",
+        "direction_label": "Nam tây",
+        "parent_id": "LOC-LINH-SA-UYEN",
+        "notes": "Vòng vây Thanh Sa · sa thú; tranh slot (ch.23–24)"
+      },
+      "geometry": { "type": "Point", "coordinates": [-8, -48] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LSU-HANG-PHI-LIEN",
+        "name_vi": "Hang · Thanh Phong Phi Liên",
+        "name_hv": "",
+        "kind": "dungeon",
+        "visibility": "public",
+        "direction_label": "Nam · sâu",
+        "parent_id": "LOC-LINH-SA-UYEN",
+        "notes": "Loot pháp khí sơ; ba phe + yêu thú (ch.23)"
+      },
+      "geometry": { "type": "Point", "coordinates": [-6, -68] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LSU-TRAM-CHIEN-LOI",
+        "name_vi": "Trạm · Chiến lợi phải ghi",
+        "name_hv": "",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Đông · sâu",
+        "parent_id": "LOC-LINH-SA-UYEN",
+        "faction": "Thanh Sa Thương Hội",
+        "notes": "Chia loot · Hợp Đội Lệnh rách (ch.26–27)"
+      },
+      "geometry": { "type": "Point", "coordinates": [18, -55] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LSU-LO-MOI",
+        "name_vi": "Lồng mồi · mép uyên",
+        "name_hv": "",
+        "kind": "wilderness",
+        "visibility": "public",
+        "direction_label": "Đông · ra",
+        "parent_id": "LOC-LINH-SA-UYEN",
+        "hazard": "Sinh tử tự mang",
+        "notes": "Rãnh mồi vs cọc trắng; Thả mồi! (ch.27–28)"
+      },
+      "geometry": { "type": "Point", "coordinates": [26, -12] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LSU-VONG-DONG-RA",
+        "name_vi": "Vòng đồng · lối ra",
+        "name_hv": "",
+        "kind": "barrier",
+        "visibility": "public",
+        "direction_label": "Đông bắc · mép",
+        "parent_id": "LOC-LINH-SA-UYEN",
+        "notes": "Sinh tử tự mang; hai lối cọc trắng / rãnh mồi (ch.28)"
+      },
+      "geometry": { "type": "Point", "coordinates": [14, -6] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LSU-COC-TRANG",
+        "name_vi": "Cọc trắng · tuyến về Phi Vân",
+        "name_hv": "",
+        "kind": "route",
+        "visibility": "public",
+        "direction_label": "Đông · ra uyên",
+        "parent_id": "LOC-LINH-SA-UYEN",
+        "travel_days_walk": "~3 dặm rẽ đông",
+        "notes": "Ra uyên ch.28–29; giếng cạn tuyến về"
+      },
+      "geometry": { "type": "Point", "coordinates": [38, 4] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-LINH-SA-UYEN-BOWL",
+        "name_vi": "Lòng uyên (Cấp II)",
+        "name_hv": "",
+        "kind": "dungeon",
+        "visibility": "public",
+        "parent_id": "LOC-LINH-SA-UYEN",
+        "event_scale": "II",
+        "linh_khi_tier": "II",
+        "notes": "Khí dòng đối lưu; Kim Đan hộ vệ ngoài bí cảnh"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-40, -8],
+            [32, -8],
+            [36, -72],
+            [-40, -72],
+            [-40, -8]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-LSU-DIEM-GIAO-VONG-1",
+        "name_vi": "Dốc điểm giao → vòng đá I",
+        "name_hv": "",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-LINH-SA-UYEN",
+        "to_id": "LOC-LSU-VONG-DA-1",
+        "hazard": "cọc xương; khí lạnh",
+        "parent_id": "LOC-LINH-SA-UYEN"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [0, 0],
+          [0, -14]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-LSU-MEP-BAC-KHE",
+        "name_vi": "Mép bắc → khe xương khô",
+        "name_hv": "",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-LSU-MEP-BAC",
+        "to_id": "LOC-LSU-KHE-XUONG-KHO",
+        "hazard": "phong bộc; phí slot",
+        "parent_id": "LOC-LINH-SA-UYEN",
+        "notes": "Beat tranh slot ch.21–22"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-22, -28],
+          [-28, -42],
+          [-35, -38]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-LSU-THOAT-HANG",
+        "name_vi": "Sườn dốc → hang phi liên",
+        "name_hv": "",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-LSU-VONG-DA-2",
+        "to_id": "LOC-LSU-HANG-PHI-LIEN",
+        "hazard": "tran chấp đội",
+        "parent_id": "LOC-LINH-SA-UYEN"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-12, -52],
+          [-8, -60],
+          [-6, -68]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-LSU-RA-PHI-VAN",
+        "name_vi": "Mép uyên → cọc trắng → Phi Vân",
+        "name_hv": "",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-LSU-VONG-DONG-RA",
+        "to_id": "LOC-LSU-COC-TRANG",
+        "hazard": "lồng mồi",
+        "parent_id": "LOC-LINH-SA-UYEN",
+        "notes": "Thoát ch.28; ~3 dặm cọc rẽ đông về tập"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [14, -6],
+          [26, -12],
+          [38, 4]
+        ]
+      }
+    }
+  ]
+}

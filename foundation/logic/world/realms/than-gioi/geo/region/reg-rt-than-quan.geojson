@@ -1,0 +1,675 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-RT-THAN-QUAN",
+  "world:region_id": "REG-RT-THAN-QUAN",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-RT-THAN-QUAN",
+  "world:parent_file": "chau-luc/chl-trung-than.geojson",
+  "world:parent_coordinates": [
+    430.0,
+    400.0
+  ],
+  "world:coordinateNote": "Vùng Thần Quan thành · gốc LOC-RT-THAN-QUAN [0,0]; neo parent (430,400) trên chl-trung-than; thần khí mạch chủ · thần phủ T2–T3 generic · thần triều Trung Thần.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-RT-THAN-QUAN-AREA",
+        "name_vi": "Phạm vi Thần Quan thành",
+        "name_hv": "神关域",
+        "kind": "polity",
+        "visibility": "public",
+        "notes": "Trung ương thần triều; thuế Thần nguyên 12–25%; tranh thần phủ T2–T3.",
+        "than_khi_tier": "mach_chủ"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -135.0,
+              -14.4
+            ],
+            [
+              -120.0,
+              -7.3
+            ],
+            [
+              -105.0,
+              -6.6
+            ],
+            [
+              -90.0,
+              -9.1
+            ],
+            [
+              -75.0,
+              -16.1
+            ],
+            [
+              -60.0,
+              -20.5
+            ],
+            [
+              -45.0,
+              -25.6
+            ],
+            [
+              -30.0,
+              -26.2
+            ],
+            [
+              -15.0,
+              -20.2
+            ],
+            [
+              0.0,
+              -14.7
+            ],
+            [
+              15.0,
+              -10.1
+            ],
+            [
+              30.0,
+              -8.4
+            ],
+            [
+              45.0,
+              -11.5
+            ],
+            [
+              60.0,
+              -14.9
+            ],
+            [
+              75.0,
+              -19.1
+            ],
+            [
+              90.0,
+              -22.4
+            ],
+            [
+              105.0,
+              -22.6
+            ],
+            [
+              120.0,
+              -19.5
+            ],
+            [
+              135.0,
+              -15.2
+            ],
+            [
+              150.0,
+              -12.8
+            ],
+            [
+              165.0,
+              -12.4
+            ],
+            [
+              180.0,
+              -16.0
+            ],
+            [
+              181.1,
+              -22.7
+            ],
+            [
+              183.1,
+              -29.3
+            ],
+            [
+              182.6,
+              -36.0
+            ],
+            [
+              183.7,
+              -42.7
+            ],
+            [
+              184.0,
+              -49.3
+            ],
+            [
+              183.6,
+              -56.0
+            ],
+            [
+              182.8,
+              -62.7
+            ],
+            [
+              180.5,
+              -69.3
+            ],
+            [
+              180.6,
+              -76.0
+            ],
+            [
+              180.2,
+              -82.7
+            ],
+            [
+              177.2,
+              -89.3
+            ],
+            [
+              174.7,
+              -96.0
+            ],
+            [
+              175.6,
+              -102.7
+            ],
+            [
+              174.6,
+              -109.3
+            ],
+            [
+              176.5,
+              -116.0
+            ],
+            [
+              181.4,
+              -122.7
+            ],
+            [
+              185.9,
+              -129.3
+            ],
+            [
+              185.7,
+              -136.0
+            ],
+            [
+              186.5,
+              -142.7
+            ],
+            [
+              185.0,
+              -149.3
+            ],
+            [
+              180.3,
+              -156.0
+            ],
+            [
+              177.0,
+              -162.7
+            ],
+            [
+              172.4,
+              -169.3
+            ],
+            [
+              180.0,
+              -176.0
+            ],
+            [
+              165.0,
+              -167.8
+            ],
+            [
+              150.0,
+              -171.6
+            ],
+            [
+              135.0,
+              -175.5
+            ],
+            [
+              120.0,
+              -180.7
+            ],
+            [
+              105.0,
+              -184.1
+            ],
+            [
+              90.0,
+              -186.6
+            ],
+            [
+              75.0,
+              -186.1
+            ],
+            [
+              60.0,
+              -185.3
+            ],
+            [
+              45.0,
+              -180.7
+            ],
+            [
+              30.0,
+              -176.6
+            ],
+            [
+              15.0,
+              -175.3
+            ],
+            [
+              0.0,
+              -171.2
+            ],
+            [
+              -15.0,
+              -170.4
+            ],
+            [
+              -30.0,
+              -169.4
+            ],
+            [
+              -45.0,
+              -169.5
+            ],
+            [
+              -60.0,
+              -172.6
+            ],
+            [
+              -75.0,
+              -172.6
+            ],
+            [
+              -90.0,
+              -175.5
+            ],
+            [
+              -105.0,
+              -178.6
+            ],
+            [
+              -120.0,
+              -177.4
+            ],
+            [
+              -135.0,
+              -177.9
+            ],
+            [
+              -150.5,
+              -180.0
+            ],
+            [
+              -147.4,
+              -140.0
+            ],
+            [
+              -144.1,
+              -100.0
+            ],
+            [
+              -147.3,
+              -60.0
+            ],
+            [
+              -152.0,
+              -20.0
+            ],
+            [
+              -135.0,
+              -14.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-RT-THAN-QUAN",
+        "name_vi": "Thần Quan · trung ương",
+        "name_hv": "神关",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Shared id chl-trung-than; parent (430,400).",
+        "than_khi_tier": "mach_chủ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-RT-TAM-DE-DAI",
+        "name_vi": "Tam Đế đài",
+        "name_hv": "三神台",
+        "kind": "polity",
+        "visibility": "public",
+        "notes": "Chia mạch Trung Thần; tranh thần phủ gốc.",
+        "direction_label": "Bắc",
+        "faction": "Tam thần triều liên minh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25,
+          85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-RT-THAN-TONG",
+        "name_vi": "Thần Quốc Tông · sơn môn",
+        "name_hv": "神国宗",
+        "kind": "settlement",
+        "visibility": "public",
+        "notes": "Tông lớn nhất cụm; mạch gốc nội thành thần triều.",
+        "direction_label": "Tây bắc",
+        "than_phu_tier": "T1",
+        "faction": "Thần Quốc Tông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45,
+          35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-RT-TRUNG-NGUYEN-KE",
+        "name_vi": "Trung Nguyên các · chợ Thần nguyên",
+        "name_hv": "中元阁",
+        "kind": "settlement",
+        "visibility": "public",
+        "notes": "Neo REG-RT-TRUNG-NGUYEN; thuế hội 18–22%.",
+        "direction_label": "Nam",
+        "than_phu_tier": "T2",
+        "faction": "Hội thương thần"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8,
+          -95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-RT-GIA-THAN-PHU",
+        "name_vi": "Phủ đệ · gia tộc thần",
+        "name_hv": "神府",
+        "kind": "settlement",
+        "visibility": "public",
+        "notes": "Generic gia tộc thần; thần phủ T1 ven thành.",
+        "direction_label": "Đông",
+        "than_phu_tier": "T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72,
+          -18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-RT-THAN-MACH-NO",
+        "name_vi": "Thần mạch nội thành",
+        "name_hv": "内城神脉",
+        "kind": "resource",
+        "visibility": "public",
+        "notes": "Mạch chủ nuôi thành; monopoly thần triều.",
+        "direction_label": "Trung tâm",
+        "than_khi_tier": "mach_chủ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-RT-THAN-PHU-MEN",
+        "name_vi": "Thần phủ · cửa cốc",
+        "name_hv": "神府口",
+        "kind": "dungeon",
+        "visibility": "mc_phase1",
+        "notes": "Neo REG-RT-PHUC-DIA; tranh T2–T3.",
+        "direction_label": "Nam tây",
+        "than_phu_tier": "T2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82,
+          -108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-RT-EXIT-DONG-HAI",
+        "name_vi": "Ải đông · Đông Hải",
+        "name_hv": "东海关",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Ra REG-RT-DONG-HAI · thần thuyền thuế.",
+        "direction_label": "Đông · mép region"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175,
+          -12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-RT-THIEN-LAM-FOOT",
+        "name_vi": "Chân Thiên Lam · biên tây",
+        "name_hv": "天岚脚",
+        "kind": "barrier",
+        "visibility": "public",
+        "notes": "BRR-RT-THIEN-LAM trên chau_luc; thần khí rải cao."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -152,
+              -40
+            ],
+            [
+              -152,
+              60
+            ],
+            [
+              -135,
+              58
+            ],
+            [
+              -135,
+              -38
+            ],
+            [
+              -152,
+              -40
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RIVER-RT-THAN-HA-URBAN",
+        "name_vi": "Thần Hà · đoạn thành",
+        "name_hv": "神河",
+        "kind": "route",
+        "visibility": "public",
+        "notes": "Nối RIVER-RT-THAN-HA chau_luc.",
+        "from_id": "LOC-RT-THAN-QUAN",
+        "to_id": "LOC-RT-TRUNG-NGUYEN-KE",
+        "hazard": "thuế_thần_nguyên"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5,
+            -15
+          ],
+          [
+            -8,
+            -35
+          ],
+          [
+            -4,
+            -55
+          ],
+          [
+            2,
+            -72
+          ],
+          [
+            8,
+            -95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-RT-THAN-TAM",
+        "name_vi": "Đạo Thần–Tam",
+        "name_hv": "神三大道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-RT-THAN-QUAN",
+        "to_id": "LOC-RT-TAM-DE-DAI",
+        "hazard": "binh trạm thần quốc",
+        "travel_days_walk": "2-3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            8,
+            28
+          ],
+          [
+            18,
+            58
+          ],
+          [
+            25,
+            85
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-RT-THAN-DONG",
+        "name_vi": "Đạo Đông Hải",
+        "name_hv": "东海道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-RT-THAN-QUAN",
+        "to_id": "LOC-RT-EXIT-DONG-HAI",
+        "hazard": "long mạch vệt",
+        "travel_days_walk": "4-6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            45,
+            -8
+          ],
+          [
+            95,
+            -10
+          ],
+          [
+            140,
+            -11
+          ],
+          [
+            175,
+            -12
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-RT-THAN-PHU",
+        "name_vi": "Đường xuống Thần phủ",
+        "name_hv": "神府道",
+        "kind": "route",
+        "visibility": "mc_phase1",
+        "from_id": "LOC-RT-THAN-QUAN",
+        "to_id": "LOC-RT-THAN-PHU-MEN",
+        "hazard": "tranh đoạt thần tông",
+        "travel_days_walk": "3-4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -25,
+            -35
+          ],
+          [
+            -55,
+            -70
+          ],
+          [
+            -82,
+            -108
+          ]
+        ]
+      }
+    }
+  ]
+}

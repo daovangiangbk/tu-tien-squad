@@ -1,0 +1,86 @@
+---
+description: Văn phong chương tiên hiệp — Việt tự nhiên, rõ nghĩa, không gian & tu luyện qua ẩn dụ, nhịp văn học huyền huyễn (Interface)
+globs:
+  - projects/**/interface/chapters/**
+  - projects/**/interface/chapter-view/**
+alwaysApply: false
+---
+
+# Văn phong prose tiên hiệp
+
+Áp dụng khi **viết hoặc sửa** chương và khi **review** Interface. Bổ sung:
+
+- `.cursor/rules/xianxia-vietnamese-language.mdc` — không tiếng Anh; **tên canon / thuật ngữ glossary** (Hán Việt).
+- `.cursor/rules/three-layer-xianxia-novel.mdc` — tình cảnh tương sinh, theme, chiến có giá.
+
+**Mục tiêu:** đoạn văn **văn học cao**, màu **huyền huyễn tu tiên** (Tru Tiên xám), nhưng **tiếng Việt xuôi tai** — không convert/dịch thuật Trung Quốc.
+
+---
+
+## 1. Rõ nghĩa · không telegraphic
+
+1. **Câu trọn ý:** ai — làm gì — ở đâu — hệ quả; không đọc như outline cụt.
+2. **Không telegraphic / meta:** hạn chế chuỗi câu một từ, nhãn «X — Y» thay cảnh, công thức «A + B + C» thay hành động.
+3. **Không viết tắt** trong prose (metadata repo ngoại lệ).
+4. **POV & tầng hiểu biết:** phàm không «kiểm tra linh khí / mạch vận»; không khung tu trong đầu MC trước khi story cho phép. Cơ duyên **bất ngờ** — cảm giác thân, không bài giảng nhập thể.
+5. **Ẩn dụ (vd. «cắn»):** neo vào **cơ chế cảm giác** (mép sắc như răng), tránh chủ ngữ–vị ngữ đảo gây hiểu nhầm (móng **cào đá** để kéo, không «đá cào móng»).
+
+---
+
+## 2. Lexicon & ngữ pháp
+
+| Lớp | Quy tắc |
+| --- | --- |
+| **Canon** | Tên riêng, cảnh giới, pháp bảo, môn phái theo `00-glossary.md` + registry — **Hán Việt** khi đã chốt; tiêu đề chương cổ kính. |
+| **Thân văn** | **Tiếng Việt tự nhiên**, câu **chuẩn ngữ pháp Việt**; tránh **翻译腔** (cấu trúc convert Trung: «hắn hướng … thân hình …», lạm dụng «hư không», «đối với», «liền», «chỉ thấy», « không khỏi » kiểu web dịch). |
+| **Hán Việt trong câu** | Chỉ khi **thuật ngữ canon** hoặc thoại phe tu; **không** thay từ thuần Việt đã đủ (vd. *mỏ* thay vì xếp chữ Hán không cần). **Ưu tiên hình ảnh thuần Việt:** gió, đá, mùi, da, hơi thở, bóng tối. |
+| **Xưng hô** | Nhất quán (huynh, sư huynh, quản mỏ…); không lóng hiện đại. |
+
+---
+
+## 3. Không gian & quy mô
+
+- **Neo trước khi chi tiết:** hướng (lên/xuống/sâu), mốc (miệng hầm, ngách, sân) — khớp geo/logic nếu có.
+- **Tỷ lệ logic:** xa–gần, cao–thấp, rộng–hẹp **cùng một mạch** (vd. khe «hai nắm tay» → trần sát đầu → sải bò); tránh nhảy scale không lý do.
+- **Giác quan theo không gian:** tối Hạ hầm — ánh đèn yếu, khói ngột, nước đọng; mở ra — gió, sáng lờ, tiếng vọng. **Show** bằng vật thể (thang, vạch đỏ, giỏ), không liệt kê tọa độ cho độc giả.
+
+---
+
+## 4. Tu luyện · sức mạnh (so sánh & ẩn dụ)
+
+- **Không stat sheet** trong prose trừ brief/Interface đặc biệt; sức mạnh qua **hậu quả quan sát được** (vách nứt, tai chảy máu, roi vs phù).
+- **So sánh theo tầng POV:** phu mỏ — cuốc, giỏ, Hàn Phong **một chiêu**; đệ tử — linh lực **cạn / còn** như nước trong bình; cao hơn — ẩn dụ **thiên địa / quy luật** khi nhân vật đã có vốn hiểu.
+- **Cảnh giới:** gọi đúng glossary; **một lần** có thể giải bằng **ẩn dụ** (Luyện Khí ≈ hơi trong thân có nhịp), không lặp bài giảng mỗi chương.
+- **Chiến:** nhịp câu dồn; **cái giá** (linh lực, địa hình, thương); không one-shot trái Power Core.
+
+---
+
+## 5. Tone · nhịp · văn học huyền huyễn
+
+- **Nhịp linh hoạt:** xen **câu dài** (khí vận, nội tâm) và **câu ngắn** (chiến, sập, cliffhanger); tránh cả đoạn toàn cụt hoặc toàn câu dài một kiểu.
+- **Vần điệu / tính nhạc:** lặp âm có chủ đích (gió rít, đá lăn), không vè sáo; **tình cảnh tương sinh** — thời tiết, ánh, mùi **phản** tâm trạng, không dán nhãn «buồn».
+- **Huyền huyễn:** manh mối **linh khí / thiên cơ** qua **cảm giác** (ấm lạ, sáng lờ trong đá, gió từ vách), không exposition hệ thống.
+- **Cảm xúc:** show qua hành vi, im lặng, ký ức vắn; hạn chế «cảm thấy» lặp.
+- **Theme xám:** Chính–Tà theo **việc làm**, không nhãn phe.
+
+---
+
+## Ví dụ (cùng repo)
+
+```markdown
+❌ Trong ngực vẫn không có linh khí; không mơ tới tu tiên. (POV phàm + khung tu sẵn)
+✅ Ngực chật vì hơi dầu; hơi kế dễ hơn một chút — sợ hơn đau, vì không có lý do quen trong mỏ.
+
+❌ Hắn liền hướng thân hình về phía ánh sáng phía trước. (翻译腔)
+✅ Hắn quờ tay về phía tia sáng — mảnh, lạnh, rồi ấm một nhịp.
+
+❌ Im. Im là vách. (telegraphic cả đoạn)
+✅ Đám phu im. Im quen rồi — im cũng là bức vách: ai chen tiếng, dễ bị nhớ mặt.
+```
+
+---
+
+## Agent
+
+- **`xianxia-prose-writer`:** draft/revise theo rule này.
+- **`xianxia-chapter-reviewer`:** `major` nếu mơ hồ hành động, sai POV tu, **翻译腔** nặng làm lệch tone, hoặc scale không gian sai continuity; `minor` chỉ khi làm sai nghĩa — không nit «hay hơn» thuần gu.

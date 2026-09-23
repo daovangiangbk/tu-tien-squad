@@ -1,0 +1,675 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-VP-PHAP-DIEN",
+  "world:region_id": "REG-VP-PHAP-DIEN",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-VP-PHAP-DIEN",
+  "world:parent_file": "chau-luc/chl-van-phap.geojson",
+  "world:parent_coordinates": [
+    430.0,
+    370.0
+  ],
+  "world:coordinateNote": "Vùng Pháp Điện thành · gốc LOC-VP-PHAP-DIEN [0,0]; neo parent (430,370) trên chl-van-phap; thần khí Luật–Pháp · khế Vạn Tự treo · thần công pháp.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-VP-PHAP-DIEN-AREA",
+        "name_vi": "Phạm vi Pháp Điện thành",
+        "name_hv": "法殿域",
+        "kind": "polity",
+        "visibility": "public",
+        "notes": "Luật thần trung ương; thuế khế 15–28%; tranh thần công pháp T2–T3.",
+        "than_khi_tier": "luật_pháp"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -135.0,
+              -14.4
+            ],
+            [
+              -120.0,
+              -7.3
+            ],
+            [
+              -105.0,
+              -6.6
+            ],
+            [
+              -90.0,
+              -9.1
+            ],
+            [
+              -75.0,
+              -16.1
+            ],
+            [
+              -60.0,
+              -20.5
+            ],
+            [
+              -45.0,
+              -25.6
+            ],
+            [
+              -30.0,
+              -26.2
+            ],
+            [
+              -15.0,
+              -20.2
+            ],
+            [
+              0.0,
+              -14.7
+            ],
+            [
+              15.0,
+              -10.1
+            ],
+            [
+              30.0,
+              -8.4
+            ],
+            [
+              45.0,
+              -11.5
+            ],
+            [
+              60.0,
+              -14.9
+            ],
+            [
+              75.0,
+              -19.1
+            ],
+            [
+              90.0,
+              -22.4
+            ],
+            [
+              105.0,
+              -22.6
+            ],
+            [
+              120.0,
+              -19.5
+            ],
+            [
+              135.0,
+              -15.2
+            ],
+            [
+              150.0,
+              -12.8
+            ],
+            [
+              165.0,
+              -12.4
+            ],
+            [
+              180.0,
+              -16.0
+            ],
+            [
+              181.1,
+              -22.7
+            ],
+            [
+              183.1,
+              -29.3
+            ],
+            [
+              182.6,
+              -36.0
+            ],
+            [
+              183.7,
+              -42.7
+            ],
+            [
+              184.0,
+              -49.3
+            ],
+            [
+              183.6,
+              -56.0
+            ],
+            [
+              182.8,
+              -62.7
+            ],
+            [
+              180.5,
+              -69.3
+            ],
+            [
+              180.6,
+              -76.0
+            ],
+            [
+              180.2,
+              -82.7
+            ],
+            [
+              177.2,
+              -89.3
+            ],
+            [
+              174.7,
+              -96.0
+            ],
+            [
+              175.6,
+              -102.7
+            ],
+            [
+              174.6,
+              -109.3
+            ],
+            [
+              176.5,
+              -116.0
+            ],
+            [
+              181.4,
+              -122.7
+            ],
+            [
+              185.9,
+              -129.3
+            ],
+            [
+              185.7,
+              -136.0
+            ],
+            [
+              186.5,
+              -142.7
+            ],
+            [
+              185.0,
+              -149.3
+            ],
+            [
+              180.3,
+              -156.0
+            ],
+            [
+              177.0,
+              -162.7
+            ],
+            [
+              172.4,
+              -169.3
+            ],
+            [
+              180.0,
+              -176.0
+            ],
+            [
+              165.0,
+              -167.8
+            ],
+            [
+              150.0,
+              -171.6
+            ],
+            [
+              135.0,
+              -175.5
+            ],
+            [
+              120.0,
+              -180.7
+            ],
+            [
+              105.0,
+              -184.1
+            ],
+            [
+              90.0,
+              -186.6
+            ],
+            [
+              75.0,
+              -186.1
+            ],
+            [
+              60.0,
+              -185.3
+            ],
+            [
+              45.0,
+              -180.7
+            ],
+            [
+              30.0,
+              -176.6
+            ],
+            [
+              15.0,
+              -175.3
+            ],
+            [
+              0.0,
+              -171.2
+            ],
+            [
+              -15.0,
+              -170.4
+            ],
+            [
+              -30.0,
+              -169.4
+            ],
+            [
+              -45.0,
+              -169.5
+            ],
+            [
+              -60.0,
+              -172.6
+            ],
+            [
+              -75.0,
+              -172.6
+            ],
+            [
+              -90.0,
+              -175.5
+            ],
+            [
+              -105.0,
+              -178.6
+            ],
+            [
+              -120.0,
+              -177.4
+            ],
+            [
+              -135.0,
+              -177.9
+            ],
+            [
+              -150.5,
+              -180.0
+            ],
+            [
+              -147.4,
+              -140.0
+            ],
+            [
+              -144.1,
+              -100.0
+            ],
+            [
+              -147.3,
+              -60.0
+            ],
+            [
+              -152.0,
+              -20.0
+            ],
+            [
+              -135.0,
+              -14.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-VP-PHAP-DIEN",
+        "name_vi": "Pháp Điện · luật thần",
+        "name_hv": "法殿",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Shared id chl-van-phap; parent (430,370).",
+        "than_khi_tier": "mach_chủ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-VP-VAN-KY-CAC",
+        "name_vi": "Vạn Ký các · khế treo",
+        "name_hv": "万纪阁",
+        "kind": "polity",
+        "visibility": "public",
+        "notes": "Neo REG-VP-VAN-KY; khế Vạn Tự.",
+        "direction_label": "Bắc",
+        "faction": "Vạn Ký các"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25,
+          85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-VP-PHAP-TONG",
+        "name_vi": "Pháp Điện Tông · sơn môn",
+        "name_hv": "法殿宗",
+        "kind": "settlement",
+        "visibility": "public",
+        "notes": "Thần tông luật; mạch pháp nội sơn.",
+        "direction_label": "Tây bắc",
+        "than_phu_tier": "T1",
+        "faction": "Pháp Điện Tông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45,
+          35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-VP-TRUNG-LUAT-KE",
+        "name_vi": "Trung Luật các · hội thương",
+        "name_hv": "中律阁",
+        "kind": "settlement",
+        "visibility": "public",
+        "notes": "Neo REG-VP-TRUNG-LUAT; thần nguyên luật pháp.",
+        "direction_label": "Nam",
+        "than_phu_tier": "T2",
+        "faction": "Hội thương pháp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8,
+          -95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-VP-THAN-DAN-PHU",
+        "name_vi": "Thần đan phủ · luyện đan",
+        "name_hv": "神丹府",
+        "kind": "settlement",
+        "visibility": "public",
+        "notes": "Generic luyện đan thần; nhập Cửu Phong qua thương đội.",
+        "direction_label": "Đông",
+        "than_phu_tier": "T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72,
+          -18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-VP-PHAP-MACH-NO",
+        "name_vi": "Pháp mạch nội thành",
+        "name_hv": "内城法脉",
+        "kind": "resource",
+        "visibility": "public",
+        "notes": "Mạch luật nuôi thành; monopoly Pháp Điện + Vạn Ký.",
+        "direction_label": "Trung tâm",
+        "than_khi_tier": "luật_pháp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-VP-THAN-NGUYEN-MO",
+        "name_vi": "Mỏ Thần nguyên · cửa pháp",
+        "name_hv": "神源口",
+        "kind": "dungeon",
+        "visibility": "mc_phase1",
+        "notes": "Neo REG-VP-NAM-PHAP; tranh tinh luật pháp.",
+        "direction_label": "Nam tây",
+        "than_phu_tier": "T2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82,
+          -108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-VP-EXIT-DONG-HAI",
+        "name_vi": "Ải đông · Đông Hải",
+        "name_hv": "东海关",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Ra REG-VP-DONG-HAI · liên Kiếm Lôi.",
+        "direction_label": "Đông · mép region"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175,
+          -12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-VP-PHAP-SON-FOOT",
+        "name_vi": "Chân Pháp Sơn · biên tây",
+        "name_hv": "法山脚",
+        "kind": "barrier",
+        "visibility": "public",
+        "notes": "BRR-VP-PHAP-SON trên chau_luc; trận pháp thần nặng hơn."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -152,
+              -40
+            ],
+            [
+              -152,
+              60
+            ],
+            [
+              -135,
+              58
+            ],
+            [
+              -135,
+              -38
+            ],
+            [
+              -152,
+              -40
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RIVER-VP-VAN-HE-URBAN",
+        "name_vi": "Vạn Hà · đoạn thành",
+        "name_hv": "万河",
+        "kind": "route",
+        "visibility": "public",
+        "notes": "Nối RIVER-VP-VAN-HE chau_luc.",
+        "from_id": "LOC-VP-PHAP-DIEN",
+        "to_id": "LOC-VP-TRUNG-LUAT-KE",
+        "hazard": "thuế_khế"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5,
+            -15
+          ],
+          [
+            -8,
+            -35
+          ],
+          [
+            -4,
+            -55
+          ],
+          [
+            2,
+            -72
+          ],
+          [
+            8,
+            -95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-VP-PHAP-VAN-KY",
+        "name_vi": "Đạo Pháp–Vạn Ký",
+        "name_hv": "法纪大道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-VP-PHAP-DIEN",
+        "to_id": "LOC-VP-VAN-KY-CAC",
+        "hazard": "trận khế",
+        "travel_days_walk": "2-3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            8,
+            28
+          ],
+          [
+            18,
+            58
+          ],
+          [
+            25,
+            85
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-VP-PHAP-DONG",
+        "name_vi": "Đạo Đông Hải",
+        "name_hv": "东海道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-VP-PHAP-DIEN",
+        "to_id": "LOC-VP-EXIT-DONG-HAI",
+        "hazard": "mạch giao tranh",
+        "travel_days_walk": "4-6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            45,
+            -8
+          ],
+          [
+            95,
+            -10
+          ],
+          [
+            140,
+            -11
+          ],
+          [
+            175,
+            -12
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-VP-NGUYEN-MO",
+        "name_vi": "Đường xuống mỏ Thần nguyên",
+        "name_hv": "神源道",
+        "kind": "route",
+        "visibility": "mc_phase1",
+        "from_id": "LOC-VP-PHAP-DIEN",
+        "to_id": "LOC-VP-THAN-NGUYEN-MO",
+        "hazard": "tranh đoạt pháp tông",
+        "travel_days_walk": "3-4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -25,
+            -35
+          ],
+          [
+            -55,
+            -70
+          ],
+          [
+            -82,
+            -108
+          ]
+        ]
+      }
+    }
+  ]
+}

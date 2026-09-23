@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-TM-NAM-QUAN",
+  "world:region_id": "REG-TM-NAM-QUAN",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-TM-NAM-QUAN",
+  "world:parent_file": "chau-luc/chl-tan-mo.geojson",
+  "world:parent_coordinates": [
+    512.0,
+    97.0
+  ],
+  "world:coordinateNote": "Vùng Nam Quan · gốc LOC-TM-NAM-QUAN [0,0]; neo parent (512,97) trên chl-tan-mo — centroid REG; ải nam thu phí lữ khách vào Tàn Mộ.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-TM-NAM-QUAN-AREA",
+        "name_vi": "Phạm vi Nam Quan",
+        "name_hv": "南关域",
+        "kind": "polity",
+        "visibility": "public",
+        "linh_khi_tier": "cực_mỏng"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -95,
+              35
+            ],
+            [
+              95,
+              38
+            ],
+            [
+              98,
+              0
+            ],
+            [
+              92,
+              -42
+            ],
+            [
+              -92,
+              -40
+            ],
+            [
+              -95,
+              35
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-NAM-QUAN",
+        "name_vi": "Nam Quan · ải chính",
+        "name_hv": "南关",
+        "kind": "hub",
+        "visibility": "public",
+        "faction": "Quan ải Tàn Mộ",
+        "notes": "Hub vùng; thu **12–18%** hàng vào sa mạc."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-NAM-TRAM",
+        "name_vi": "Trạm lữ · phía nam",
+        "name_hv": "旅站",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12,
+          -55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-NAM-THAP",
+        "name_vi": "Tháp canh · đông bắc",
+        "name_hv": "南关塔",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Đông bắc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48,
+          22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-NAM-GIENG",
+        "name_vi": "Giếng mặn · hiếm",
+        "name_hv": "咸井",
+        "kind": "resource",
+        "visibility": "public",
+        "direction_label": "Tây",
+        "linh_khi_tier": "vô_lin",
+        "notes": "Nước đắt; tranh giành trước khi vào Sa Hải."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-TM-NAM-LO",
+        "name_vi": "Ải lộ · đèo nam",
+        "name_hv": "南隘",
+        "kind": "barrier",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75,
+              30
+            ],
+            [
+              -40,
+              32
+            ],
+            [
+              -38,
+              48
+            ],
+            [
+              -72,
+              45
+            ],
+            [
+              -75,
+              30
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-SA-HAI-RIM-S",
+        "name_vi": "Rìa Sa Hải · phía bắc ải",
+        "name_hv": "沙海南缘",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Bắc",
+        "notes": "Biên REG-TM-SA-HAI; nối ROUTE-TM-NAM-SA-HAI."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8,
+          185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-NAM-SA-HAI",
+        "name_vi": "Đạo vào Sa Hải",
+        "name_hv": "入沙海道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-NAM-QUAN",
+        "to_id": "LOC-TM-SA-HAI-RIM-S",
+        "hazard": "nắng; phí ải",
+        "travel_days_walk": "2-3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            2,
+            45
+          ],
+          [
+            5,
+            95
+          ],
+          [
+            8,
+            185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-NAM-NGOAI",
+        "name_vi": "Lộ phía nam · ra khỏi lục",
+        "name_hv": "南外道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-NAM-TRAM",
+        "to_id": "LOC-TM-NAM-QUAN",
+        "hazard": "cướp lữ",
+        "travel_days_walk": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -12,
+            -55
+          ],
+          [
+            -8,
+            -28
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-NAM-PHU",
+        "name_vi": "Phụ ải · tây",
+        "name_hv": "西关",
+        "kind": "settlement",
+        "visibility": "mc_phase1",
+        "direction_label": "Tây",
+        "notes": "Lối lách; thu phí riêng — không chính thức."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72,
+          -5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-NAM-MANH",
+        "name_vi": "Manh mạch · dưới ải",
+        "name_hv": "关下脉",
+        "kind": "resource",
+        "visibility": "hidden_logic",
+        "linh_khi_tier": "manh_mach_rải",
+        "notes": "Gia tộc võ giữ cục bộ; manh mạch rò khí — không chân tu cư trú."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18,
+          -22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RIVER-TM-NAM-CAN",
+        "name_vi": "Khe khô · cố đô nam",
+        "name_hv": "涸溪",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-NAM-GIENG",
+        "to_id": "LOC-TM-SA-HAI-RIM-S",
+        "hazard": "không nước"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -58,
+            8
+          ],
+          [
+            -25,
+            55
+          ],
+          [
+            8,
+            120
+          ],
+          [
+            8,
+            185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-NAM-SO",
+        "name_vi": "Sổ ải · kho quan",
+        "name_hv": "关册",
+        "kind": "dungeon",
+        "visibility": "hidden_logic",
+        "notes": "Danh sách tu sĩ qua ải — đồng bộ Khe Giới."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32,
+          -18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-NAM-DONG-OA",
+        "name_vi": "Biên đạo đông · tới Oa",
+        "name_hv": "东洼道",
+        "kind": "route",
+        "visibility": "mc_phase1",
+        "from_id": "LOC-TM-NAM-THAP",
+        "to_id": "LOC-TM-OA-TUYEN",
+        "hazard": "cát; thu gom phe",
+        "travel_days_walk": "6-8",
+        "notes": "Shared LOC-TM-OA-TUYEN trên REG-TM-DONG-OA."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            48,
+            22
+          ],
+          [
+            120,
+            85
+          ],
+          [
+            200,
+            180
+          ],
+          [
+            358,
+            463
+          ]
+        ]
+      }
+    }
+  ]
+}

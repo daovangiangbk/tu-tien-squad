@@ -1,0 +1,206 @@
+{
+  "continent": "Đại lục Phù Tảo",
+  "canvas": {
+    "unit": "story_grid",
+    "grid_snap": 1,
+    "y_axis": "north",
+    "border_roughness": "high",
+    "border_segments": 24,
+    "border_amp_internal": 12,
+    "border_seed": 2026091804
+  },
+  "regions": [
+    {
+      "id": "REG-DA-LUC-NEN",
+      "name": "Phù Tảo · nền đại lục",
+      "dimensions": { "width": 1000, "length": 1000 },
+      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "properties": {
+        "kind": "wilderness",
+        "visibility": "hidden_logic",
+        "border_style": "straight",
+        "fill_remainder": true,
+        "linh_khi_tier": "cực_mỏng"
+      }
+    },
+    {
+      "id": "REG-PT-NAM-HA",
+      "name": "Nam Hải · ven đầm",
+      "dimensions": { "width": 680, "length": 76 },
+      "anchor": { "type": "absolute", "x": 160, "y": 28 },
+      "properties": {
+        "name_hv": "南海",
+        "kind": "wilderness",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "REG-PT-DAO-LAM",
+      "name": "Đảo Lam · quần đảo nổi",
+      "dimensions": { "width": 520, "length": 160 },
+      "anchor": { "type": "relative", "ref_id": "REG-PT-NAM-HA", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "浮岛",
+        "kind": "wilderness",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "public",
+        "notes": "Đảo nổi · thu thập linh thảo sơ"
+      }
+    },
+    {
+      "id": "REG-PT-TRUNG-DAM",
+      "name": "Trung Đầm · đại trũng",
+      "dimensions": { "width": 400, "length": 220 },
+      "anchor": { "type": "relative", "ref_id": "REG-PT-DAO-LAM", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "中沼",
+        "kind": "wilderness",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "REG-PT-PHU-TRAN",
+      "name": "Phù Trấn · thị đan thảo",
+      "dimensions": { "width": 280, "length": 140 },
+      "anchor": { "type": "relative", "ref_id": "REG-PT-TRUNG-DAM", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "浮镇",
+        "kind": "polity",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "public",
+        "notes": "Chợ dược phàm · hộ thương"
+      }
+    },
+    {
+      "id": "REG-PT-BAC-MANG",
+      "name": "Bắc Mang · biển sậy",
+      "dimensions": { "width": 960, "length": 100 },
+      "anchor": { "type": "absolute", "x": 20, "y": 800 },
+      "properties": {
+        "name_hv": "北莽",
+        "kind": "wilderness",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "REG-PT-TAY-LAM",
+      "name": "Tây Lâm · rừng đầm",
+      "dimensions": { "width": 200, "length": 480 },
+      "anchor": { "type": "absolute", "x": 20, "y": 96 },
+      "properties": {
+        "name_hv": "西林",
+        "kind": "wilderness",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "BRR-PT-LOI-DI",
+      "name": "Dãy Lôi Đê",
+      "dimensions": { "width": 48, "length": 420 },
+      "anchor": { "type": "absolute", "x": 220, "y": 104 },
+      "properties": {
+        "name_hv": "雷堤",
+        "kind": "barrier",
+        "linh_khi_tier": "manh_mach_rải",
+        "notes": "Đê đất khô duy nhất xuyên đầm"
+      }
+    },
+    {
+      "id": "REG-PT-KHE-U",
+      "name": "Khe U · sương độc",
+      "dimensions": { "width": 120, "length": 120 },
+      "anchor": { "type": "relative", "ref_id": "BRR-PT-LOI-DI", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "幽谷",
+        "kind": "dungeon",
+        "linh_khi_tier": "manh_mach_rải",
+        "visibility": "hidden_logic",
+        "notes": "Sương độc · dược quý hiếm"
+      }
+    },
+    {
+      "id": "REG-PT-DONG-U",
+      "name": "Đông U · sương đông",
+      "dimensions": { "width": 260, "length": 460 },
+      "anchor": { "type": "relative", "ref_id": "BRR-PT-LOI-DI", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "东雾",
+        "kind": "wilderness",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "mc_phase1"
+      }
+    },
+    {
+      "id": "REG-PT-NGOAI-DAO",
+      "name": "Ngoại Đảo · đảo ngoài",
+      "dimensions": { "width": 200, "length": 200 },
+      "anchor": { "type": "relative", "ref_id": "REG-PT-TRUNG-DAM", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "外岛",
+        "kind": "wilderness",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "REG-PT-NAM-BINH",
+      "name": "Nam Bình · đê ven",
+      "dimensions": { "width": 200, "length": 160 },
+      "anchor": { "type": "relative", "ref_id": "REG-PT-DAO-LAM", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "南坪",
+        "kind": "wilderness",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "public"
+      }
+    }
+  ],
+  "entities": [
+    {
+      "id": "LOC-PT-PHU-TRAN",
+      "name": "Phù Trấn · chợ chính",
+      "type": "point",
+      "coordinates": { "x": 300, "y": 720 },
+      "properties": { "name_hv": "浮镇", "kind": "hub", "visibility": "public" }
+    },
+    {
+      "id": "LOC-PT-KHE-U",
+      "name": "Khe U · cửa sương",
+      "type": "point",
+      "coordinates": { "x": 280, "y": 560 },
+      "properties": { "name_hv": "幽谷", "kind": "settlement", "visibility": "hidden_logic" }
+    },
+    {
+      "id": "RIVER-PT-DAM-LUU",
+      "name": "Đầm Lưu",
+      "type": "river",
+      "properties": { "name_hv": "沼流", "kind": "route", "from_id": "REG-PT-BAC-MANG", "to_id": "REG-PT-NAM-HA" },
+      "control_points": [
+        { "x": 480, "y": 860 },
+        { "x": 460, "y": 720 },
+        { "x": 490, "y": 580 },
+        { "x": 470, "y": 440 },
+        { "x": 480, "y": 300 },
+        { "x": 460, "y": 160 }
+      ],
+      "roughness": "medium"
+    },
+    {
+      "id": "RIVER-PT-KHE-U",
+      "name": "U Thủy",
+      "type": "river",
+      "properties": { "name_hv": "幽水", "kind": "route" },
+      "control_points": [
+        { "x": 280, "y": 640 },
+        { "x": 300, "y": 520 },
+        { "x": 270, "y": 400 },
+        { "x": 290, "y": 280 }
+      ],
+      "roughness": "high"
+    }
+  ]
+}

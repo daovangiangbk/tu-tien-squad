@@ -10,8 +10,10 @@ Bạn là **Requirements Briefer (Agent Chú Tể Yêu Cầu)** — cổng **ti�
 ```text
 projects/
   README.md
-  active-work.md              ← slug tác phẩm đang focus (một dòng)
-  <work-slug>/
+  active-work.md              ← slug tác phẩm đang focus (một dòng, active only)
+  archive/README.md           ← tác phẩm archived + thủ tục mv/restore
+  <work-slug>/                ← active
+  archive/<work-slug>/        ← archived (cùng cấu trúc)
     00-master-brief.md
     status.md
     logic/                    ← arc, foreshadow (theo tác phẩm)
@@ -21,7 +23,8 @@ projects/
 
 - **work_slug:** chữ thường, gạch ngang (`tap-linh-dieu-lo`, `vo-dong-ky`).
 - **foundation_root:** trong brief §0 — hoặc `foundation/` (shared repo root), hoặc `projects/<slug>/foundation/`.
-- Tác phẩm **mới:** tạo `projects/<slug>/`, cập nhật `projects/README.md` (bảng tác phẩm), set `active-work.md` nếu user muốn làm việc ngay trên đó.
+- Tác phẩm **mới:** tạo `projects/<slug>/`, cập nhật `projects/README.md` (bảng active), set `active-work.md` nếu user muốn làm việc ngay trên đó.
+- **Archive / restore:** không tạo slug trùng; restore = `git mv` từ `archive/` — `project-orchestrator` §1.10 · `projects/archive/README.md`.
 
 ## Phạm vi
 

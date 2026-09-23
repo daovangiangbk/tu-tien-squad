@@ -1,0 +1,185 @@
+{
+  "continent": "Đại lục Xích Hạ",
+  "canvas": {
+    "unit": "story_grid",
+    "grid_snap": 1,
+    "y_axis": "north",
+    "border_roughness": "high",
+    "border_segments": 24,
+    "border_amp_internal": 12,
+    "border_seed": 2026091801
+  },
+  "regions": [
+    {
+      "id": "REG-DA-LUC-NEN",
+      "name": "Xích Hạ · nền đại lục",
+      "dimensions": { "width": 1000, "length": 1000 },
+      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "properties": {
+        "kind": "wilderness",
+        "visibility": "hidden_logic",
+        "border_style": "straight",
+        "fill_remainder": true,
+        "linh_khi_tier": "cực_mỏng"
+      }
+    },
+    {
+      "id": "REG-XH-NAM-HAI",
+      "name": "Nam Hải Quan",
+      "dimensions": { "width": 560, "length": 72 },
+      "anchor": { "type": "absolute", "x": 240, "y": 20 },
+      "properties": {
+        "name_hv": "南海关",
+        "kind": "polity",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "public",
+        "notes": "Kiểm soát nhập linh thạch"
+      }
+    },
+    {
+      "id": "REG-XH-NAM-CAN",
+      "name": "Nam Cạn · nội địa khô",
+      "dimensions": { "width": 380, "length": 148 },
+      "anchor": { "type": "relative", "ref_id": "REG-XH-NAM-HAI", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "南旱",
+        "kind": "wilderness",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "REG-XH-XICH-NGUYEN",
+      "name": "Xích Nguyên Bình",
+      "dimensions": { "width": 380, "length": 200 },
+      "anchor": { "type": "relative", "ref_id": "REG-XH-NAM-CAN", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "赤原平",
+        "kind": "wilderness",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "public",
+        "notes": "Nông · võ lâm phàm"
+      }
+    },
+    {
+      "id": "REG-XH-DE-DO",
+      "name": "Đế Đô Lạc Dương",
+      "dimensions": { "width": 340, "length": 168 },
+      "anchor": { "type": "relative", "ref_id": "REG-XH-XICH-NGUYEN", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "洛阳帝都",
+        "kind": "polity",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "public",
+        "notes": "Triều Xích Hạ"
+      }
+    },
+    {
+      "id": "REG-XH-BAC-HAN",
+      "name": "Bắc Hạn · đại sa bắc",
+      "dimensions": { "width": 960, "length": 108 },
+      "anchor": { "type": "absolute", "x": 20, "y": 608 },
+      "properties": {
+        "name_hv": "北旱",
+        "kind": "wilderness",
+        "linh_khi_tier": "vô_lin",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "REG-XH-HOANG-TAY",
+      "name": "Hoang Tây · biên quan",
+      "dimensions": { "width": 220, "length": 520 },
+      "anchor": { "type": "absolute", "x": 20, "y": 92 },
+      "properties": {
+        "name_hv": "西荒",
+        "kind": "wilderness",
+        "linh_khi_tier": "vô_lin",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "BRR-XH-HONG-LIEN",
+      "name": "Dãy Hồng Liên",
+      "dimensions": { "width": 44, "length": 500 },
+      "anchor": { "type": "absolute", "x": 240, "y": 100 },
+      "properties": {
+        "name_hv": "红莲岭",
+        "kind": "barrier",
+        "linh_khi_tier": "manh_mach_rải"
+      }
+    },
+    {
+      "id": "REG-XH-TAY-SON",
+      "name": "Tây Sơn Tự · sơn môn",
+      "dimensions": { "width": 200, "length": 280 },
+      "anchor": { "type": "relative", "ref_id": "BRR-XH-HONG-LIEN", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "西山寺",
+        "kind": "polity",
+        "linh_khi_tier": "manh_mach_rải",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "REG-XH-DONG-NOI",
+      "name": "Đông Nội · đồi phù sa",
+      "dimensions": { "width": 200, "length": 420 },
+      "anchor": { "type": "relative", "ref_id": "REG-XH-XICH-NGUYEN", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "东内",
+        "kind": "wilderness",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "mc_phase1"
+      }
+    },
+    {
+      "id": "REG-XH-DONG-HAI",
+      "name": "Đông Hải An",
+      "dimensions": { "width": 116, "length": 420 },
+      "anchor": { "type": "relative", "ref_id": "REG-XH-DONG-NOI", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "东海岸",
+        "kind": "wilderness",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "public"
+      }
+    }
+  ],
+  "entities": [
+    {
+      "id": "LOC-XH-LAC-DUONG",
+      "name": "Lạc Dương · đế đô",
+      "type": "point",
+      "coordinates": { "x": 420, "y": 580 },
+      "properties": { "name_hv": "洛阳", "kind": "hub", "visibility": "public" }
+    },
+    {
+      "id": "RIVER-XH-LAC-HA",
+      "name": "Lạc Hà",
+      "type": "river",
+      "properties": { "name_hv": "洛河", "kind": "route", "from_id": "REG-XH-DE-DO", "to_id": "REG-XH-NAM-HAI" },
+      "control_points": [
+        { "x": 410, "y": 560 },
+        { "x": 430, "y": 460 },
+        { "x": 400, "y": 360 },
+        { "x": 420, "y": 260 },
+        { "x": 410, "y": 120 }
+      ],
+      "roughness": "medium"
+    },
+    {
+      "id": "RIVER-XH-DONG-THUY",
+      "name": "Đông Thủy",
+      "type": "river",
+      "properties": { "name_hv": "东水", "kind": "route" },
+      "control_points": [
+        { "x": 820, "y": 680 },
+        { "x": 850, "y": 560 },
+        { "x": 830, "y": 420 },
+        { "x": 860, "y": 280 }
+      ],
+      "roughness": "high"
+    }
+  ]
+}

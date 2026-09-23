@@ -1,0 +1,425 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-TM-CO-TU",
+  "world:region_id": "REG-TM-CO-TU",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-TM-CO-TU",
+  "world:parent_file": "chau-luc/chl-tan-mo.geojson",
+  "world:parent_coordinates": [
+    350.0,
+    620.0
+  ],
+  "world:coordinateNote": "Vùng Cổ Tu · gốc LOC-TM-CO-TU [0,0]; neo parent (350,620) trên chl-tan-mo; LOC-TM-KHE-GIOI shared [-274,-280] = (76,340) lục; phi thăng thất bại · manh mạch kiệt.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-TM-CO-TU-AREA",
+        "name_vi": "Phạm vi Cổ Tu",
+        "name_hv": "古墟域",
+        "kind": "dungeon",
+        "visibility": "public",
+        "linh_khi_tier": "manh_mach_rải",
+        "notes": "Di tích phi thăng; mạch kiệt sau thất bại thượng cổ."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -70.0,
+              65.0
+            ],
+            [
+              70.0,
+              68.0
+            ],
+            [
+              72.0,
+              35.0
+            ],
+            [
+              75.0,
+              0.0
+            ],
+            [
+              72.0,
+              -35.0
+            ],
+            [
+              68.0,
+              -68.0
+            ],
+            [
+              -68.0,
+              -65.0
+            ],
+            [
+              -72.0,
+              -30.0
+            ],
+            [
+              -75.0,
+              0.0
+            ],
+            [
+              -72.0,
+              32.0
+            ],
+            [
+              -70.0,
+              65.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-CO-TU",
+        "name_vi": "Cổ Tu · trung tâm di tích",
+        "name_hv": "古墟",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Hub vùng; điển tích phi thăng thất bại; nối Khe Giới qua crack lore."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-PHI-THANG-TAI",
+        "name_vi": "Phi thăng đài · vỡ nửa",
+        "name_hv": "飞升台",
+        "kind": "dungeon",
+        "visibility": "public",
+        "direction_label": "Trung tâm",
+        "notes": "Khế vỡ; chứng cớ **không** leo giới bằng tu vi Phàm thuần."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-VONG-TRU",
+        "name_vi": "Vòng trụ · đổ sập",
+        "name_hv": "柱环",
+        "kind": "wilderness",
+        "visibility": "public",
+        "direction_label": "Bắc",
+        "notes": "Trụ đá xếp vòng; linh khí rải không ổn định."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-TAN-TU-TAP",
+        "name_vi": "Trại Tàn Tu · thu gom",
+        "name_hv": "残墟营",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Nam đông",
+        "faction": "Tàn Tu bang",
+        "notes": "Phe đao khách + tông tàn; thu **15–25%** hoa hồng đổi cổ khí."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35,
+          -42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-CO-KHAI",
+        "name_vi": "Hố khai quật · tầng một",
+        "name_hv": "开墟坑",
+        "kind": "resource",
+        "visibility": "public",
+        "direction_label": "Tây",
+        "notes": "Mảnh công pháp vụn; tranh đẫm máu định kỳ."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38,
+          -12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-MANH-KIET",
+        "name_vi": "Mạch kiệt · dưới đài",
+        "name_hv": "竭脉",
+        "kind": "resource",
+        "visibility": "hidden_logic",
+        "direction_label": "Dưới phi thăng đài",
+        "linh_khi_tier": "manh_mach_rải",
+        "notes": "Manh cuối cùng sau thất bại; Tàn Tu bang giữ cục bộ."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          -18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-TONG-TAN",
+        "name_vi": "Am tích tông tàn",
+        "name_hv": "残宗庵",
+        "kind": "settlement",
+        "visibility": "mc_phase1",
+        "direction_label": "Đông bắc",
+        "faction": "Một nhánh tông di tản",
+        "notes": "Giữ sổ crack — **không** bán công khai; liên Khe Giới."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42,
+          22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-KHE-GIOI",
+        "name_vi": "Khe Giới · cửa vết nứt",
+        "name_hv": "界隙",
+        "kind": "hub",
+        "visibility": "hidden_logic",
+        "direction_label": "Tây nam · mép region",
+        "notes": "Shared id chl-tan-mo; parent (76,340); E-PHAM-CRACK-LINH."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -274,
+          -280
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-SA-HAI-RIM",
+        "name_vi": "Rìa Sa Hải · phía nam",
+        "name_hv": "沙海缘",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Nam",
+        "notes": "Biên REG-TM-SA-HAI; lữ đội lên Cổ Tu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95,
+          -185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-TM-CO-TU-VO",
+        "name_vi": "Tường vỡ ngoại vi",
+        "name_hv": "墟墙",
+        "kind": "barrier",
+        "visibility": "public",
+        "notes": "Rào đá đổ; che gió cát từ Sa Hải."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55,
+              45
+            ],
+            [
+              55,
+              48
+            ],
+            [
+              52,
+              58
+            ],
+            [
+              -52,
+              55
+            ],
+            [
+              -55,
+              45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-CO-KHE",
+        "name_vi": "Đạo xuống Khe Giới",
+        "name_hv": "界隙道",
+        "kind": "route",
+        "visibility": "hidden_logic",
+        "from_id": "LOC-TM-CO-TU",
+        "to_id": "LOC-TM-KHE-GIOI",
+        "hazard": "giám sát quan; manh mạch tranh chấp",
+        "travel_days_walk": "5-7",
+        "notes": "Neo shared LOC-TM-KHE-GIOI [-274,-280]."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -65,
+            -55
+          ],
+          [
+            -140,
+            -120
+          ],
+          [
+            -210,
+            -200
+          ],
+          [
+            -274,
+            -280
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-CO-SA-HAI",
+        "name_vi": "Lối từ Sa Hải",
+        "name_hv": "沙海入墟",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-SA-HAI-RIM",
+        "to_id": "LOC-TM-CO-TU",
+        "hazard": "cát; cướp",
+        "travel_days_walk": "3-4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            95,
+            -185
+          ],
+          [
+            72,
+            -120
+          ],
+          [
+            48,
+            -65
+          ],
+          [
+            22,
+            -28
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RIVER-TM-CO-CAN",
+        "name_vi": "Rãnh khô · cố đô",
+        "name_hv": "涸沟",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-VONG-TRU",
+        "to_id": "LOC-TM-TAN-TU-TAP",
+        "hazard": "không nước",
+        "notes": "Liên hệ RIVER-TM-CUU-HA trên lục (ngoài region)."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8,
+            28
+          ],
+          [
+            5,
+            8
+          ],
+          [
+            18,
+            -12
+          ],
+          [
+            35,
+            -42
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-NHAT-KY-AN",
+        "name_vi": "Bia ẩn · ghi thất bại",
+        "name_hv": "隐碑",
+        "kind": "dungeon",
+        "visibility": "hidden_logic",
+        "direction_label": "Tây nam hố khai",
+        "notes": "Manh mối crack Khe Giới — payoff phải khớp E-PHAM-CRACK-LINH."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45,
+          -38
+        ]
+      }
+    }
+  ]
+}

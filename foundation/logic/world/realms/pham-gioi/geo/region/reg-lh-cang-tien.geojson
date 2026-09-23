@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-LH-CANG-TIEN",
+  "world:region_id": "REG-LH-CANG-TIEN",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-LH-CANG-TIEN",
+  "world:parent_file": "chau-luc/chl-lo-hang.geojson",
+  "world:parent_coordinates": [
+    290.0,
+    220.0
+  ],
+  "world:coordinateNote": "Vùng Cảng Tiên · hub lục · thuế quan · gốc LOC-LH-CANG-TIEN [0,0]; neo parent (290,220) trên chl-lo-hang.geojson.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-LH-CANG-TIEN-AREA",
+        "name_vi": "Phạm vi CANG TIEN",
+        "kind": "wilderness",
+        "visibility": "public",
+        "linh_khi_tier": "cực_mỏng"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90,
+              70
+            ],
+            [
+              90,
+              70
+            ],
+            [
+              90,
+              -70
+            ],
+            [
+              -90,
+              -70
+            ],
+            [
+              -90,
+              70
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LH-CANG-TIEN",
+        "name_vi": "Cảng Tiên Sa",
+        "name_hv": "仙沙港",
+        "kind": "hub",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LH-CANG-TIEN-TRAM",
+        "name_vi": "Trạm biên · nam",
+        "name_hv": "驿站",
+        "kind": "settlement",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15,
+          -55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LH-CANG-TIEN-CANH",
+        "name_vi": "Tháp canh · đông",
+        "name_hv": "望塔",
+        "kind": "settlement",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42,
+          22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-LH-CANG-TIEN-RIM",
+        "name_vi": "Vành địa · rìa",
+        "name_hv": "缘障",
+        "kind": "barrier",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75,
+              58
+            ],
+            [
+              75,
+              60
+            ],
+            [
+              72,
+              68
+            ],
+            [
+              -72,
+              65
+            ],
+            [
+              -75,
+              58
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LH-THUONG-HOI",
+        "name_vi": "Thương hội · trạm",
+        "name_hv": "商会",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Shared id; parent chl (520.0, 380.0)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          230.0,
+          160.0
+        ]
+      }
+    }
+  ]
+}

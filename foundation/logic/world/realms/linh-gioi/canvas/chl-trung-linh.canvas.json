@@ -1,0 +1,223 @@
+{
+  "continent": "Trung Linh đại lục",
+  "canvas": {
+    "unit": "story_grid",
+    "grid_snap": 1,
+    "y_axis": "north",
+    "border_roughness": "high",
+    "border_segments": 24,
+    "border_amp_internal": 12,
+    "border_seed": 2026091810
+  },
+  "regions": [
+    {
+      "id": "REG-DA-LUC-NEN",
+      "name": "Trung Linh · nền đại lục",
+      "dimensions": { "width": 1000, "length": 1000 },
+      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "properties": {
+        "kind": "wilderness",
+        "visibility": "hidden_logic",
+        "border_style": "straight",
+        "fill_remainder": true,
+        "linh_khi_tier": "dày"
+      }
+    },
+    {
+      "id": "REG-TL-NAM-VAN",
+      "name": "Nam Vân · cửa mây nam",
+      "dimensions": { "width": 520, "length": 80 },
+      "anchor": { "type": "absolute", "x": 240, "y": 24 },
+      "properties": {
+        "name_hv": "南云",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "public",
+        "notes": "Thương lộ Vân Hải — linh khí ổn định ven biển mây"
+      }
+    },
+    {
+      "id": "REG-TL-LINH-HA",
+      "name": "Linh Hà bình",
+      "dimensions": { "width": 480, "length": 140 },
+      "anchor": { "type": "relative", "ref_id": "REG-TL-NAM-VAN", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "灵河平",
+        "kind": "wilderness",
+        "linh_khi_tier": "rất_dày",
+        "visibility": "public",
+        "notes": "Linh mạch công cộng — nhánh nuôi thành; thuế mạch 25–30%"
+      }
+    },
+    {
+      "id": "REG-TL-THIEN-QUAN",
+      "name": "Thiên Quan thành",
+      "dimensions": { "width": 360, "length": 160 },
+      "anchor": { "type": "relative", "ref_id": "REG-TL-LINH-HA", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "天关城",
+        "kind": "polity",
+        "linh_khi_tier": "mach_chủ",
+        "visibility": "public",
+        "notes": "Trung ương tông — động phủ T1–T2 gia tộc; hub LOC-TL-THIEN-QUAN"
+      }
+    },
+    {
+      "id": "REG-TL-TAM-TONG",
+      "name": "Tam Tông đài",
+      "dimensions": { "width": 360, "length": 120 },
+      "anchor": { "type": "relative", "ref_id": "REG-TL-THIEN-QUAN", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "三宗台",
+        "kind": "polity",
+        "linh_khi_tier": "rất_dày",
+        "visibility": "public",
+        "notes": "Tam tông chia mạch — chính trị tu giới; tranh Động Thiên Phúc Địa"
+      }
+    },
+    {
+      "id": "REG-TL-BAC-LINH",
+      "name": "Bắc Linh · đại vực bắc",
+      "dimensions": { "width": 340, "length": 144 },
+      "anchor": { "type": "relative", "ref_id": "REG-TL-TAM-TONG", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "北灵",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "public",
+        "notes": "Biên Băng Phong — kiếp nạn ngoài trời nặng hơn khi vượt núi"
+      }
+    },
+    {
+      "id": "REG-TL-TAY-MACH",
+      "name": "Tây Mạch · biên quan",
+      "dimensions": { "width": 200, "length": 520 },
+      "anchor": { "type": "absolute", "x": 20, "y": 100 },
+      "properties": {
+        "name_hv": "西脉",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "public",
+        "notes": "Ma khí vệt từ Hỏa Diễm — yêu thú hóa hình dày"
+      }
+    },
+    {
+      "id": "BRR-TL-THIEN-LAM",
+      "name": "Dãy Thiên Lam",
+      "dimensions": { "width": 52, "length": 480 },
+      "anchor": { "type": "absolute", "x": 220, "y": 120 },
+      "properties": {
+        "name_hv": "天岚岭",
+        "kind": "barrier",
+        "linh_khi_tier": "mach_rải_cao",
+        "visibility": "public",
+        "notes": "Barrier polygon — mạch rải; không lộn núi lên vùng khác"
+      }
+    },
+    {
+      "id": "REG-TL-PHUC-DIA",
+      "name": "Phúc Địa cốc",
+      "dimensions": { "width": 200, "length": 320 },
+      "anchor": { "type": "relative", "ref_id": "BRR-TL-THIEN-LAM", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "福地谷",
+        "kind": "dungeon",
+        "linh_khi_tier": "dong_phu_T2",
+        "visibility": "mc_phase1",
+        "notes": "Động phủ tranh chấp — T2–T3; tông chiếm mạch gốc"
+      }
+    },
+    {
+      "id": "REG-TL-DONG-LAM",
+      "name": "Đông Lam · rừng linh đông",
+      "dimensions": { "width": 248, "length": 420 },
+      "anchor": { "type": "relative", "ref_id": "REG-TL-THIEN-QUAN", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "东林",
+        "kind": "wilderness",
+        "linh_khi_tier": "rất_dày",
+        "visibility": "public",
+        "notes": "Long mạch vệt (mach_gốc_vệt) — đụng = Nhân quả phe"
+      }
+    },
+    {
+      "id": "REG-TL-BAC-DONG",
+      "name": "Bắc Đông uyên",
+      "dimensions": { "width": 400, "length": 144 },
+      "anchor": { "type": "relative", "ref_id": "REG-TL-BAC-LINH", "edge": "right", "align": "start" },
+      "properties": {
+        "name_hv": "北东苑",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "REG-TL-DONG-HAI",
+      "name": "Đông Hải linh cảng",
+      "dimensions": { "width": 92, "length": 420 },
+      "anchor": { "type": "relative", "ref_id": "REG-TL-DONG-LAM", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "东海灵港",
+        "kind": "polity",
+        "linh_khi_tier": "rất_dày",
+        "visibility": "public",
+        "notes": "Phi thuyền Ngọc Lâm · Vân Hải — thuế linh thạch hạng thượng"
+      }
+    }
+  ],
+  "entities": [
+    {
+      "id": "LOC-TL-THIEN-QUAN",
+      "name": "Thiên Quan · trung ương",
+      "type": "point",
+      "coordinates": { "x": 420, "y": 420 },
+      "properties": {
+        "name_hv": "天关",
+        "kind": "hub",
+        "visibility": "public",
+        "linh_khi_tier": "mach_chủ"
+      }
+    },
+    {
+      "id": "RIVER-TL-LINH-HA",
+      "name": "Linh Hà",
+      "type": "river",
+      "properties": {
+        "name_hv": "灵河",
+        "kind": "route",
+        "from_id": "REG-TL-TAM-TONG",
+        "to_id": "REG-TL-NAM-VAN",
+        "hazard": "thuế_mạch"
+      },
+      "control_points": [
+        { "x": 400, "y": 520 },
+        { "x": 430, "y": 440 },
+        { "x": 410, "y": 360 },
+        { "x": 440, "y": 280 },
+        { "x": 420, "y": 180 },
+        { "x": 400, "y": 100 }
+      ],
+      "roughness": "medium"
+    },
+    {
+      "id": "RIVER-TL-DONG-LUU",
+      "name": "Đông Lưu linh thủy",
+      "type": "river",
+      "properties": {
+        "name_hv": "东流",
+        "kind": "route",
+        "from_id": "REG-TL-PHUC-DIA",
+        "to_id": "REG-TL-DONG-HAI"
+      },
+      "control_points": [
+        { "x": 380, "y": 640 },
+        { "x": 520, "y": 580 },
+        { "x": 600, "y": 480 },
+        { "x": 680, "y": 360 },
+        { "x": 720, "y": 240 }
+      ],
+      "roughness": "high"
+    }
+  ]
+}

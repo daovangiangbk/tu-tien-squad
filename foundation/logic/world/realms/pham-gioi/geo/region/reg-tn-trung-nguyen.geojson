@@ -1,0 +1,655 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-TN-HONG-LO",
+  "world:region_id": "REG-TN-TRUNG-NGUYEN",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-TN-TRUNG-NGUYEN",
+  "world:parent_file": "chau-luc/chl-tam-nguyen.geojson",
+  "world:parent_coordinates": [
+    490.0,
+    380.0
+  ],
+  "world:coordinateNote": "Vùng Trung Nguyên Tam Quốc · gốc LOC-TN-HONG-LO [0,0]; neo parent (490,380) trên chl-tam-nguyen; LOC-TN-DONG-HAI shared id tại [410,0] = (900,380) lục; linh khí phàm cực mỏng.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-TN-TRUNG-NGUYEN-AREA",
+        "name_vi": "Phạm vi Trung Nguyên",
+        "name_hv": "中原域",
+        "kind": "polity",
+        "visibility": "public",
+        "linh_khi_tier": "cực_mỏng",
+        "notes": "Tam quốc phàm; tông nhỏ; linh khí cực mỏng ổn định hơn biên."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              170.0,
+              124.5
+            ],
+            [
+              188.0,
+              124.5
+            ],
+            [
+              184.0,
+              117.19999999999999
+            ],
+            [
+              186.60000000000002,
+              106.30000000000001
+            ],
+            [
+              189.79999999999995,
+              95.5
+            ],
+            [
+              192.70000000000005,
+              84.69999999999999
+            ],
+            [
+              193.60000000000002,
+              73.80000000000001
+            ],
+            [
+              196.10000000000002,
+              63.0
+            ],
+            [
+              193.79999999999995,
+              52.19999999999999
+            ],
+            [
+              192.60000000000002,
+              41.30000000000001
+            ],
+            [
+              189.70000000000005,
+              30.5
+            ],
+            [
+              190.39999999999998,
+              19.69999999999999
+            ],
+            [
+              188.0,
+              8.800000000000011
+            ],
+            [
+              187.29999999999995,
+              -2.0
+            ],
+            [
+              188.20000000000005,
+              -12.800000000000011
+            ],
+            [
+              187.0,
+              -23.69999999999999
+            ],
+            [
+              186.79999999999995,
+              -34.5
+            ],
+            [
+              186.39999999999998,
+              -45.30000000000001
+            ],
+            [
+              187.60000000000002,
+              -56.19999999999999
+            ],
+            [
+              191.29999999999995,
+              -67.0
+            ],
+            [
+              193.0,
+              -77.80000000000001
+            ],
+            [
+              196.10000000000002,
+              -88.69999999999999
+            ],
+            [
+              195.29999999999995,
+              -99.5
+            ],
+            [
+              194.29999999999995,
+              -110.30000000000001
+            ],
+            [
+              193.0,
+              -121.19999999999999
+            ],
+            [
+              190.0,
+              -132.0
+            ],
+            [
+              173.29999999999995,
+              -126.69999999999999
+            ],
+            [
+              156.70000000000005,
+              -127.19999999999999
+            ],
+            [
+              140.0,
+              -126.19999999999999
+            ],
+            [
+              123.29999999999995,
+              -128.8
+            ],
+            [
+              106.70000000000005,
+              -130.8
+            ],
+            [
+              90.0,
+              -133.7
+            ],
+            [
+              73.29999999999995,
+              -134.8
+            ],
+            [
+              56.700000000000045,
+              -133.4
+            ],
+            [
+              40.0,
+              -133.5
+            ],
+            [
+              23.299999999999955,
+              -134.9
+            ],
+            [
+              6.699999999999989,
+              -134.0
+            ],
+            [
+              -10.0,
+              -134.9
+            ],
+            [
+              -26.69999999999999,
+              -132.3
+            ],
+            [
+              -43.30000000000001,
+              -130.5
+            ],
+            [
+              -60.0,
+              -130.9
+            ],
+            [
+              -76.69999999999999,
+              -127.5
+            ],
+            [
+              -93.30000000000001,
+              -124.80000000000001
+            ],
+            [
+              -110.0,
+              -127.9
+            ],
+            [
+              -126.69999999999999,
+              -128.8
+            ],
+            [
+              -143.3,
+              -132.8
+            ],
+            [
+              -160.0,
+              -137.4
+            ],
+            [
+              -176.7,
+              -139.8
+            ],
+            [
+              -193.3,
+              -140.8
+            ],
+            [
+              -201.0,
+              -137.3
+            ],
+            [
+              -201.2,
+              -100.69999999999999
+            ],
+            [
+              -201.3,
+              -64.0
+            ],
+            [
+              -201.5,
+              -27.30000000000001
+            ],
+            [
+              -201.7,
+              9.300000000000011
+            ],
+            [
+              -202.10000000000002,
+              46.0
+            ],
+            [
+              -203.0,
+              82.69999999999999
+            ],
+            [
+              -204.5,
+              119.30000000000001
+            ],
+            [
+              -203.8,
+              129.10000000000002
+            ],
+            [
+              -165.2,
+              129.60000000000002
+            ],
+            [
+              -150.0,
+              129.8
+            ],
+            [
+              -70.0,
+              131.5
+            ],
+            [
+              10.0,
+              128.89999999999998
+            ],
+            [
+              90.0,
+              126.5
+            ],
+            [
+              170.0,
+              124.5
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TN-HONG-LO",
+        "name_vi": "Hồng Lạc · trung đình",
+        "name_hv": "弘洛",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Hub vùng; hội thương tam quốc; không thuộc một quốc duy nhất."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TN-QUOC-TAY",
+        "name_vi": "Đô thành Tây Lương",
+        "name_hv": "西凉都",
+        "kind": "polity",
+        "visibility": "public",
+        "direction_label": "Tây",
+        "faction": "Tây Lương",
+        "notes": "Kỵ binh phàm; mạch yếu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55,
+          12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TN-QUOC-DONG",
+        "name_vi": "Đô thành Đông Ngô",
+        "name_hv": "东吴都",
+        "kind": "polity",
+        "visibility": "public",
+        "direction_label": "Đông",
+        "faction": "Đông Ngô",
+        "notes": "Thủy quân; nối Nguyên Thủy."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48,
+          -8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TN-QUOC-BAC",
+        "name_vi": "Đô thành Bắc Yên",
+        "name_hv": "北燕都",
+        "kind": "polity",
+        "visibility": "public",
+        "direction_label": "Bắc",
+        "faction": "Bắc Yên",
+        "notes": "Bộ binh; biên Ngưu Sơn."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TN-TONG-THANH-VAN",
+        "name_vi": "Thanh Vân Tông · sơn môn",
+        "name_hv": "青云宗",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Nam tây",
+        "faction": "Thanh Vân Tông",
+        "notes": "Tông võ / tàn dư; pocket nuôi đệ (E-PHAM-POCKET) — không chân tu cư trú Phàm."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22,
+          -28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TN-TONG-HUYEN-MON",
+        "name_vi": "Huyền Môn Quán",
+        "name_hv": "玄门观",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Đông bắc",
+        "faction": "Huyền Môn",
+        "notes": "Tu sĩ Phàm cá biệt; trung lập chiến tranh."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35,
+          18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TN-CHIEN-TRUONG-CO",
+        "name_vi": "Cổ chiến trường · Sa Di",
+        "name_hv": "沙地战场",
+        "kind": "wilderness",
+        "visibility": "public",
+        "direction_label": "Nam",
+        "notes": "Sát khí mỏng; không linh mạch."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10,
+          -45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TN-POCKET-GIAO",
+        "name_vi": "Ẩn khẩu Tam Giáo Sơn",
+        "name_hv": "三教山",
+        "kind": "dungeon",
+        "visibility": "hidden_logic",
+        "direction_label": "Tây nam",
+        "notes": "Expansion slot E-PHAM-POCKET; không trên chau_luc chi tiết."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -40,
+          -55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-TN-NGUU-SON-FOOT",
+        "name_vi": "Chân Ngưu Sơn · biên bắc",
+        "name_hv": "牛山",
+        "kind": "barrier",
+        "visibility": "public",
+        "notes": "Rào núi; BRR-TN-NGUU-SON trên chau_luc."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -30,
+              55
+            ],
+            [
+              40,
+              58
+            ],
+            [
+              38,
+              68
+            ],
+            [
+              -32,
+              65
+            ],
+            [
+              -30,
+              55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RIVER-TN-NGUYEN-THUY",
+        "name_vi": "Nguyên Thủy",
+        "name_hv": "元水",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TN-HONG-LO",
+        "to_id": "LOC-TN-QUOC-DONG",
+        "hazard": "phí bến; binh trạm",
+        "notes": "Đoạn trong Trung Nguyên; linh khí cực mỏng."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8,
+            6
+          ],
+          [
+            -2,
+            4
+          ],
+          [
+            4,
+            2
+          ],
+          [
+            12,
+            0
+          ],
+          [
+            22,
+            -2
+          ],
+          [
+            32,
+            -4
+          ],
+          [
+            40,
+            -6
+          ],
+          [
+            48,
+            -8
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TN-TAM-QUOC-LU",
+        "name_vi": "Tam quốc đạo chính",
+        "name_hv": "三国大路",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TN-QUOC-TAY",
+        "to_id": "LOC-TN-QUOC-DONG",
+        "hazard": "binh trạm; lệ phí",
+        "travel_days_walk": "5-7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -55,
+            12
+          ],
+          [
+            -20,
+            5
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            25,
+            -4
+          ],
+          [
+            48,
+            -8
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TN-DONG-HAI",
+        "name_vi": "Đường xuống Đông Hải",
+        "name_hv": "东海道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TN-HONG-LO",
+        "to_id": "LOC-TN-DONG-HAI",
+        "hazard": "thuế; cướp đường",
+        "travel_days_walk": "6-8",
+        "notes": "Neo LOC-TN-DONG-HAI [410,0] = (900,380) trên chl-tam-nguyen."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            95,
+            -2
+          ],
+          [
+            210,
+            -1
+          ],
+          [
+            320,
+            1
+          ],
+          [
+            410,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TN-DONG-HAI",
+        "name_vi": "Đông Hải · cửa đông vùng",
+        "name_hv": "东海",
+        "kind": "hub",
+        "visibility": "public",
+        "direction_label": "Đông · mép region",
+        "notes": "Shared id với hub chl-tam-nguyen; parent (900,380)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          410,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TN-GIAO-DIEM-TAM",
+        "name_vi": "Giao điểm Tam quốc đạo",
+        "name_hv": "三国交",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Tây nam Hồng Lạc",
+        "notes": "Thu phí lệ; binh trạm luân phiên."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20,
+          5
+        ]
+      }
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 # Logic Layer — Hệ thống quy mô sự kiện (Event Scale System)
 
 > **Lớp:** Logic (Điều phối) — outline arc/chapter, **không** viết prose chương.  
-> **Neo Foundation:** `foundation/core/02-world-laws-lore-core.md` (Luật 1–9, bí cảnh, phe), `foundation/core/03-power-system-economy-core.md` (cảnh giới, kinh tế, vượt cấp), `foundation/core/01-theme-tragedy-core.md` (cái giá, xám).  
+> **Neo Foundation:** `foundation/core/02-world-laws-lore-core.md` (Luật 1–9, bí cảnh, phe), `foundation/core/03-power-system-economy-core.md` (cảnh giới, kinh tế, vượt cấp), `foundation/core/01-theme-tragedy-core.md` (cái giá, xám). **Nhân khẩu / thu nạp:** [`03-demographics-pham-linh.md`](03-demographics-pham-linh.md).  
 > **Phụ nghề / trận:** `foundation/resources/10-phu-nghe-tu-tien.md`, `foundation/resources/08-tran-phap.md`.
 
 **Quy ước:** Trần cảnh giới tham gia = **mức cao nhất thường xuyên xuất hiện** (không tính lão ẩn / `(bí mật)` trừ khi plot bật). `(invariant)` = không vượt quy tắc `03` §2.
@@ -15,8 +15,8 @@
 | **I** | **Vi mô / Nội tông** (内门·微观) | Một sơn môn, điện các, linh điền nội bộ, phòng tu | Ngày → vài tháng | 1 tông (nội–ngoại môn) | **Luyện Khí → Trúc Cơ**; trưởng lão **Kim Đan** giám sát, hiếm **Nguyên Anh** can thiệp trực tiếp | Luật 9 (linh căn); cống hiến `10` |
 | **II** | **Cơ duyên / Hoang dã** (机缘·野域) | Hoang sơn, bí cảnh tự nhiên chu kỳ, phế địa nhỏ, thành trì một vùng | Tuần → 1–3 năm (mở bí cảnh) | 1–3 nhóm (tán tu, đội ngoại môn, gia tộc nhỏ) | **Luyện Khí → Kim Đan**; đỉnh điểm **Nguyên Anh** (hộ vệ / tranh loot) | Luật 7; bí cảnh hữu hạn (Luật 1) |
 | **III** | **Khu vực / Đa tông** (区域·争脉) | Một linh mạch phụ, mỏ, linh điền tranh chấp; **bí cảnh chung**; thành trì + hắc thị vùng | Tháng → vài chục năm | **2–5+** tông / gia tộc / thương hội | **Trúc Cơ → Nguyên Anh**; **Hóa Thần** hành động gián tiếp hoặc **một đòn** rồi rút (Luật 8) | Luật 3, 7; ước **Hóa Thần+** đại chiến mở `[02` §4 timeline] |
-| **IV** | **Đại cục / Giới hạn Hạ Giới** (大局·界战) | Đại lục / liên minh vùng; chiến trường Ma–Chính, Nhân–Yêu; Sát Thủ Các hợp đồng cấp cao | Năm → trăm năm | **Phe** (Chính, Ma, Yêu, trung lập) | **Kim Đan → Hóa Thần** mặt trận; **Hóa Thần+** hạn chế công khai `(invariant)` theo ước giới hạn `[02` §4] | Nhân-Quả cả vùng; tài nguyên mạch mẹ |
-| **V** | **Giới / Thiên biến** (界变·天劫) | Hạ Giới–Thượng Giới; giới bích; dị khí vận toàn giới | Thế kỷ+ | Cả giới / Thiên đạo phản hồi | **Hóa Thần → Độ Kiếp**; **Cửu Cửu**, Thiên biến không chọn phe | Luật 5–6, 8; `(bí mật)` xóa sử payoff |
+| **IV** | **Đại cục / Giới hạn thế giới con** (大局·界战) | Một **thế giới con** trên **Linh Giới** ( hoặc stakes **Phàm Giới** khi plot chạm Mạt pháp — Luật 6 ): đại lục / liên minh; Ma–Chính, Nhân–Yêu; Sát Thủ Các hợp đồng cấp cao | Năm → trăm năm | **Phe** (Chính, Ma, Yêu, trung lập) | **Kim Đan → Hóa Thần** mặt trận; **Hóa Thần+** hạn chế công khai `(invariant)` theo ước giới hạn `[02` §4] | Nhân-Quả cả vùng; tài nguyên mạch mẹ |
+| **V** | **Giới / Thiên biến** (界变·天劫) | **Giới bích** giữa **vũ trụ song song** ( Linh→Tiên phi thăng; Phàm–Linh xuyên giới; vỡ bích / Thiên biến ); dị khí vận **Chư Thiên Vạn Giới** | Thế kỷ+ | Cả giới / Thiên đạo phản hồi | **Hóa Thần → Độ Kiếp**; **Cửu Cửu**, Thiên biến không chọn phe | Luật 5–6, 8; `(bí mật)` xóa sử payoff |
 
 **Quy tắc leo thang:** Cấp cao hơn **không bỏ qua** chi phí cấp thấp — tranh mạch (III) vẫn bắt nguồn từ nhiệm vụ / cống hiến (I) và cơ duyên (II). Theme: mọi cấp đều có **cái giá** (`01`).
 
@@ -26,7 +26,7 @@
 
 | Loại sự kiện | Quy mô | Ai khởi phát | Tài nguyên / cơ duyên | Luật World áp dụng | Hậu quả Nhân-Quả | Gợi ý pacing |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Thu nạp đệ tử / Kiểm linh căn** | I | Tông, gia tộc | Thiên tài, huyết mạch | Luật 9 | Gia tộc mất nhân tài → thù; phế căn → tạp dịch | Mở arc; stakes danh phận |
+| **Thu nạp đệ tử / Kiểm linh căn** | I | Tông, gia tộc | Quét phàm **hữu căn** ( hiếm ); thiên tài, huyết mạch | Luật 9 · `03` §4 | Gia tộc mất nhân tài → thù; phế căn → tạp dịch | Mở arc; stakes danh phận |
 | **Tu luyện / Đan phòng nội bộ** | I | Cá nhân, sư phụ, các | Linh mạch yếu tông, Trúc Cơ Đan, công pháp | Luật 1–2, 9 | Tẩy hỏa; đan độc; tâm ma sớm nếu shortcut | Nghỉ nhịp; nghẽn `03` |
 | **Nhiệm vụ ngoại môn / Tạp vụ** | I | Trưởng lão ngoại, các phụ | Linh thạch hạ, linh dược, điểm cống hiến | Luật 3, 7 | Chết ngoài thành = nợ tông; bội nhiệm vụ → trục xuất | Chuỗi chapter ngắn |
 | **Tranh điểm cống hiến** (Đan/Trận/Phù các) | I→II | Nội–ngoại môn, phụ nghề | Công thức, lò, trận đồ | Luật 9; `10` | Phá hoại công cụ → thù nội bộ; gray: từ chối cứu người thiếu đan (`01`) | Mini-arc; leo I→II |
@@ -129,4 +129,4 @@ Neo **điểm cống hiến** & phụ nghề: `10-phu-nghe-tu-tien.md` §1, §3.
 
 ---
 
-*Phiên bản: 1.0 — 2026-09-07; Logic Layer event scale; neo Foundation 01–03.*
+*Phiên bản: 1.2 — 2026-09-18; §1 Tier IV–V sync Luật 6 **bốn giới song parallel**; neo Foundation 01–03.*

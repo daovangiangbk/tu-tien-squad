@@ -1,0 +1,243 @@
+{
+  "continent": "Ngọc Lâm đại lục",
+  "canvas": {
+    "unit": "story_grid",
+    "grid_snap": 1,
+    "y_axis": "north",
+    "border_roughness": "high",
+    "border_segments": 24,
+    "border_amp_internal": 12,
+    "border_seed": 2026091821
+  },
+  "regions": [
+    {
+      "id": "REG-DA-LUC-NEN",
+      "name": "Ngọc Lâm · nền đại lục",
+      "dimensions": { "width": 1000, "length": 1000 },
+      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "properties": {
+        "kind": "wilderness",
+        "visibility": "hidden_logic",
+        "border_style": "straight",
+        "fill_remainder": true,
+        "linh_khi_tier": "rất_dày"
+      }
+    },
+    {
+      "id": "REG-NL-NAM-HAI",
+      "name": "Nam Hải linh cảng",
+      "dimensions": { "width": 480, "length": 72 },
+      "anchor": { "type": "absolute", "x": 260, "y": 24 },
+      "properties": {
+        "name_hv": "南海灵港",
+        "kind": "polity",
+        "linh_khi_tier": "rất_dày",
+        "visibility": "public",
+        "notes": "Phi thuyền Vân Hải · Cửu Lạc — thuế linh thạch hạng thượng"
+      }
+    },
+    {
+      "id": "REG-NL-LAM-TINH",
+      "name": "Lam Tinh trấn",
+      "dimensions": { "width": 320, "length": 160 },
+      "anchor": { "type": "relative", "ref_id": "REG-NL-NAM-HAI", "edge": "top", "align": "center" },
+      "properties": {
+        "name_hv": "林星镇",
+        "kind": "polity",
+        "linh_khi_tier": "mach_chủ",
+        "visibility": "public",
+        "notes": "Dược thương trung tâm · hub LOC-NL-LAM-TINH"
+      }
+    },
+    {
+      "id": "REG-NL-BICH-HO",
+      "name": "Bích Hồ",
+      "dimensions": { "width": 200, "length": 140 },
+      "anchor": { "type": "relative", "ref_id": "REG-NL-LAM-TINH", "edge": "left", "align": "top" },
+      "properties": {
+        "name_hv": "碧湖",
+        "kind": "resource",
+        "linh_khi_tier": "rất_dày",
+        "visibility": "public",
+        "notes": "Linh thảo hạng cao — đan các monopoly"
+      }
+    },
+    {
+      "id": "REG-NL-THAO-COC",
+      "name": "Thảo Cốc",
+      "dimensions": { "width": 200, "length": 140 },
+      "anchor": { "type": "relative", "ref_id": "REG-NL-LAM-TINH", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "药谷",
+        "kind": "resource",
+        "linh_khi_tier": "mach_chủ",
+        "visibility": "public",
+        "notes": "Thung lũng dược — tranh quota hội thương"
+      }
+    },
+    {
+      "id": "REG-NL-TAY-LAM",
+      "name": "Tây Lâm · rìa tây",
+      "dimensions": { "width": 180, "length": 720 },
+      "anchor": { "type": "absolute", "x": 24, "y": 100 },
+      "properties": {
+        "name_hv": "西林",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "BRR-NL-THAN-SON",
+      "name": "Dãy Thần Sơn",
+      "dimensions": { "width": 48, "length": 460 },
+      "anchor": { "type": "absolute", "x": 204, "y": 108 },
+      "properties": {
+        "name_hv": "神山",
+        "kind": "barrier",
+        "linh_khi_tier": "mach_rải_cao",
+        "visibility": "public",
+        "notes": "Mộc mạch rải — yêu tộc biên giới"
+      }
+    },
+    {
+      "id": "REG-NL-THAN-MOC",
+      "name": "Thần Mộc lâm",
+      "dimensions": { "width": 320, "length": 360 },
+      "anchor": { "type": "relative", "ref_id": "BRR-NL-THAN-SON", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "神木林",
+        "kind": "wilderness",
+        "linh_khi_tier": "rất_dày",
+        "visibility": "public",
+        "notes": "Yêu tộc biên — linh khí ổn định"
+      }
+    },
+    {
+      "id": "REG-NL-CUU-VIEN",
+      "name": "Cửu Viên",
+      "dimensions": { "width": 200, "length": 200 },
+      "anchor": { "type": "relative", "ref_id": "REG-NL-THAN-MOC", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "九园",
+        "kind": "dungeon",
+        "linh_khi_tier": "dong_phu_T2",
+        "visibility": "hidden_logic",
+        "notes": "Bí cảnh Mộc — đan dược cổ"
+      }
+    },
+    {
+      "id": "REG-NL-TRUNG-DU",
+      "name": "Trung Du · đồng bằng",
+      "dimensions": { "width": 360, "length": 200 },
+      "anchor": { "type": "relative", "ref_id": "REG-NL-LAM-TINH", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "中域",
+        "kind": "wilderness",
+        "linh_khi_tier": "rất_dày",
+        "visibility": "public",
+        "notes": "Đồng bằng linh mộc — nối Lam Tinh và Thần Mộc"
+      }
+    },
+    {
+      "id": "REG-NL-BAC-PHONG",
+      "name": "Bắc Phong",
+      "dimensions": { "width": 720, "length": 160 },
+      "anchor": { "type": "relative", "ref_id": "REG-NL-CUU-VIEN", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "北风",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "public",
+        "notes": "Hướng Cửu Lạc REG-CL-BAC-PHONG — gió linh"
+      }
+    },
+    {
+      "id": "REG-NL-DONG-LINH",
+      "name": "Đông Linh · biên Trung Linh",
+      "dimensions": { "width": 200, "length": 480 },
+      "anchor": { "type": "relative", "ref_id": "REG-NL-THAN-MOC", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "东灵",
+        "kind": "wilderness",
+        "linh_khi_tier": "rất_dày",
+        "visibility": "public",
+        "notes": "Đối diện REG-TL-DONG-HAI / Đông Lam"
+      }
+    },
+    {
+      "id": "REG-NL-BAC-DONG",
+      "name": "Bắc Đông · uyên đông bắc",
+      "dimensions": { "width": 360, "length": 180 },
+      "anchor": { "type": "relative", "ref_id": "REG-NL-BAC-PHONG", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "北东",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "REG-NL-NGOAI-VI",
+      "name": "Ngoại Vi · đảo phía đông",
+      "dimensions": { "width": 120, "length": 520 },
+      "anchor": { "type": "relative", "ref_id": "REG-NL-DONG-LINH", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "外围",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "mc_phase1"
+      }
+    }
+  ],
+  "entities": [
+    {
+      "id": "LOC-NL-LAM-TINH",
+      "name": "Lam Tinh · trấn chính",
+      "type": "point",
+      "coordinates": { "x": 420, "y": 280 },
+      "properties": {
+        "name_hv": "林星",
+        "kind": "hub",
+        "visibility": "public",
+        "linh_khi_tier": "mach_chủ"
+      }
+    },
+    {
+      "id": "ROUTE-NL-BAC-CUU-LAC",
+      "name": "Thương lộ Bắc Phong",
+      "type": "river",
+      "properties": {
+        "name_hv": "北风路",
+        "kind": "route",
+        "from_id": "REG-NL-BAC-PHONG",
+        "to_id": "REG-CL-BAC-PHONG",
+        "hazard": "gió_linh"
+      },
+      "control_points": [
+        { "x": 280, "y": 620 },
+        { "x": 240, "y": 680 },
+        { "x": 200, "y": 740 }
+      ],
+      "roughness": "medium"
+    },
+    {
+      "id": "RIVER-NL-BICH-HO",
+      "name": "Bích Hồ linh thủy",
+      "type": "river",
+      "properties": {
+        "name_hv": "碧湖水",
+        "kind": "route",
+        "from_id": "REG-NL-BICH-HO",
+        "to_id": "REG-NL-NAM-HAI"
+      },
+      "control_points": [
+        { "x": 280, "y": 320 },
+        { "x": 300, "y": 240 },
+        { "x": 320, "y": 160 },
+        { "x": 340, "y": 80 }
+      ],
+      "roughness": "high"
+    }
+  ]
+}

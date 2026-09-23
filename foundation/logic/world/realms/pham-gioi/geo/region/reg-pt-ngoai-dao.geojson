@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-PT-NGOAI-DAO-BEN",
+  "world:region_id": "REG-PT-NGOAI-DAO",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-PT-NGOAI-DAO",
+  "world:parent_file": "chau-luc/chl-phu-tao.geojson",
+  "world:parent_coordinates": [
+    659.2,
+    384.9
+  ],
+  "world:coordinateNote": "Vùng Ngoại Đảo · gốc LOC-PT-NGOAI-DAO-BEN [0,0]; neo parent (659.2,384.9) trên chl-phu-tao.geojson.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-PT-NGOAI-DAO-AREA",
+        "name_vi": "Phạm vi NGOAI DAO",
+        "kind": "wilderness",
+        "visibility": "public",
+        "linh_khi_tier": "cực_mỏng"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90,
+              70
+            ],
+            [
+              90,
+              70
+            ],
+            [
+              90,
+              -70
+            ],
+            [
+              -90,
+              -70
+            ],
+            [
+              -90,
+              70
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-PT-NGOAI-DAO-BEN",
+        "name_vi": "Ngoại Đảo · bến ngoài",
+        "name_hv": "外岛",
+        "kind": "hub",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-PT-NGOAI-DAO-TRAM",
+        "name_vi": "Trạm biên · nam",
+        "name_hv": "驿站",
+        "kind": "settlement",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15,
+          -55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-PT-NGOAI-DAO-CANH",
+        "name_vi": "Tháp canh · đông",
+        "name_hv": "望塔",
+        "kind": "settlement",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42,
+          22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-PT-NGOAI-DAO-RIM",
+        "name_vi": "Vành địa · rìa",
+        "name_hv": "缘障",
+        "kind": "barrier",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75,
+              58
+            ],
+            [
+              75,
+              60
+            ],
+            [
+              72,
+              68
+            ],
+            [
+              -72,
+              65
+            ],
+            [
+              -75,
+              58
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-PT-PHU-TRAN",
+        "name_vi": "Phù Trấn",
+        "name_hv": "浮镇",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Shared id; parent chl (300.0, 720.0)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -359.20000000000005,
+          335.1
+        ]
+      }
+    }
+  ]
+}

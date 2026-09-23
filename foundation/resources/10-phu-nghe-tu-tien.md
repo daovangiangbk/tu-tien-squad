@@ -100,6 +100,8 @@
 | **Kinh tế** | Phù đúc sẵn = hàng **ngoại môn & tán tu**; phù cao = cống hiến tông (`06`). |
 | **Trade-off** | Phù Ma (**Huyết Sát**, **Đoạt Hồn**) → Nhân-Quả; một lần tiêu hao — áp lực túi tiền. |
 
+**Kinh tế phù tộc nhà vs Phù các** `[bổ sung sáng tác]` (`03` §3.5 · `06` §9.1): **Gia tộc phù** giữ **bí phổ ấn + phù mẫu** — không bán công thức; chỉ **đan/linh thạch đổi lấy bảo hộ** hoặc hôn ước. **Phù các tông** monopolize **Trung–Thiên phù đúc chuẩn** đổi **điểm cống hiến**; ngoại môn mua **Hạ phù** thương thành. **Tán tu / phế tu** phụ thuộc **đúc sẵn + mực tự pha** (`07` linh sa) — mạnh nhịp ngắn, yếu **hậu cần dài**. Lộ bí phổ tộc = **III** tranh chấp (`logic/01-event-scale-system.md`).
+
 → **`06-phu-luc.md`**.
 
 ### 3.5. Linh điền (灵田) — Linh nông

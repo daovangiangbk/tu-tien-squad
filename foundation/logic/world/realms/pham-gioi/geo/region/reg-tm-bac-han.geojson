@@ -1,0 +1,366 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-TM-BAC-HAN-RIM",
+  "world:region_id": "REG-TM-BAC-HAN",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-TM-BAC-HAN",
+  "world:parent_file": "chau-luc/chl-tan-mo.geojson",
+  "world:parent_coordinates": [
+    512.0,
+    614.0
+  ],
+  "world:coordinateNote": "Vùng Bắc Hạn · gốc LOC-TM-BAC-HAN-RIM [0,0]; neo parent (512,614) centroid REG; rìa bắc lạnh · linh khí cực mỏng.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-TM-BAC-HAN-AREA",
+        "name_vi": "Phạm vi Bắc Hạn",
+        "name_hv": "北旱域",
+        "kind": "wilderness",
+        "visibility": "public",
+        "linh_khi_tier": "cực_mỏng"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -235,
+              105
+            ],
+            [
+              260,
+              108
+            ],
+            [
+              258,
+              -102
+            ],
+            [
+              -238,
+              -100
+            ],
+            [
+              -235,
+              105
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-BAC-HAN-RIM",
+        "name_vi": "Rìa Bắc Hạn · cửa nam",
+        "name_hv": "北旱口",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Hub vùng; lối xuống Cổ Tu / Hạn Cốc."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-BAC-TRAM",
+        "name_vi": "Trạm gió · bắc",
+        "name_hv": "风站",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Bắc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12,
+          75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-BAC-CO",
+        "name_vi": "Cổ tháp · đông",
+        "name_hv": "北塔",
+        "kind": "dungeon",
+        "visibility": "public",
+        "direction_label": "Đông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95,
+          35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-CO-TU",
+        "name_vi": "Cổ Tu · trung tâm di tích",
+        "name_hv": "古墟",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Shared id; parent (350,620)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -162.0,
+          6.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-HAN-COC-MOUTH",
+        "name_vi": "Cửa Hạn Cốc · tây",
+        "name_hv": "旱谷口",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Tây",
+        "notes": "Biên REG-TM-HAN-COC."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          -76
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-TM-BAC-GIO",
+        "name_vi": "Vành gió · bắc",
+        "name_hv": "北风环",
+        "kind": "barrier",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -180,
+              85
+            ],
+            [
+              180,
+              88
+            ],
+            [
+              175,
+              102
+            ],
+            [
+              -175,
+              98
+            ],
+            [
+              -180,
+              85
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-BAC-CO-TU",
+        "name_vi": "Đạo Cổ Tu",
+        "name_hv": "北墟道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-BAC-HAN-RIM",
+        "to_id": "LOC-TM-CO-TU",
+        "hazard": "gió; lạnh đêm",
+        "travel_days_walk": "2-3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -45,
+            5
+          ],
+          [
+            -162,
+            6
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-BAC-HAN-COC",
+        "name_vi": "Lối Hạn Cốc",
+        "name_hv": "旱谷道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-BAC-HAN-RIM",
+        "to_id": "LOC-TM-HAN-COC-MOUTH",
+        "hazard": "khô",
+        "travel_days_walk": "1-2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -28,
+            -42
+          ],
+          [
+            0,
+            -76
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-OA-TUYEN",
+        "name_vi": "Oa Tuyền · giếng đông",
+        "name_hv": "洼泉",
+        "kind": "hub",
+        "visibility": "public",
+        "direction_label": "Đông",
+        "notes": "Shared id; parent (870,560)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          358.0,
+          -54.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-BAC-DONG-OA",
+        "name_vi": "Biên đạo Oa Tuyền",
+        "name_hv": "洼泉北道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-BAC-CO",
+        "to_id": "LOC-TM-OA-TUYEN",
+        "hazard": "cát gió",
+        "travel_days_walk": "3-4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            95,
+            35
+          ],
+          [
+            180,
+            15
+          ],
+          [
+            280,
+            -8
+          ],
+          [
+            358,
+            -54
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-BAC-MANH",
+        "name_vi": "Manh mạch · đá lạnh",
+        "name_hv": "寒脉",
+        "kind": "resource",
+        "visibility": "hidden_logic",
+        "linh_khi_tier": "manh_mach_rải"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45,
+          42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-BAC-PHU",
+        "name_vi": "Phế trại · tây bắc",
+        "name_hv": "北废营",
+        "kind": "settlement",
+        "visibility": "mc_phase1",
+        "direction_label": "Tây bắc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -165,
+          55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RIVER-TM-BAC-CAN",
+        "name_vi": "Rãnh băng khô",
+        "name_hv": "涸冰",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-BAC-TRAM",
+        "to_id": "LOC-TM-BAC-PHU",
+        "hazard": "lạnh"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            12,
+            75
+          ],
+          [
+            -45,
+            68
+          ],
+          [
+            -165,
+            55
+          ]
+        ]
+      }
+    }
+  ]
+}

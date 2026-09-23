@@ -1,0 +1,198 @@
+{
+  "continent": "Đại lục Tam Nguyên",
+  "canvas": {
+    "unit": "story_grid",
+    "grid_snap": 1,
+    "y_axis": "north",
+    "border_roughness": "high",
+    "border_segments": 24,
+    "border_amp_internal": 12,
+    "border_seed": 2026091802
+  },
+  "regions": [
+    {
+      "id": "REG-DA-LUC-NEN",
+      "name": "Tam Nguyên · nền đại lục",
+      "dimensions": { "width": 1000, "length": 1000 },
+      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "properties": {
+        "kind": "wilderness",
+        "visibility": "hidden_logic",
+        "border_style": "straight",
+        "fill_remainder": true,
+        "linh_khi_tier": "cực_mỏng"
+      }
+    },
+    {
+      "id": "REG-TN-NAM-HAI",
+      "name": "Nam Hải · cửa biển nam",
+      "dimensions": { "width": 640, "length": 68 },
+      "anchor": { "type": "absolute", "x": 280, "y": 20 },
+      "properties": {
+        "name_hv": "南海",
+        "kind": "wilderness",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "REG-TN-NAM-BINH",
+      "name": "Nam Bình Thôn",
+      "dimensions": { "width": 400, "length": 160 },
+      "anchor": { "type": "relative", "ref_id": "REG-TN-NAM-HAI", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "南平",
+        "kind": "wilderness",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "public",
+        "notes": "Võ tu Luyện Thể phổ biến"
+      }
+    },
+    {
+      "id": "REG-TN-TRUNG-NGUYEN",
+      "name": "Trung Nguyên Tam Quốc",
+      "dimensions": { "width": 400, "length": 260 },
+      "anchor": { "type": "relative", "ref_id": "REG-TN-NAM-BINH", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "中原",
+        "kind": "polity",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "public",
+        "notes": "Tam quốc phàm–tu sơ"
+      }
+    },
+    {
+      "id": "REG-TN-BAC-HA",
+      "name": "Bắc Hạ · đại vực bắc",
+      "dimensions": { "width": 960, "length": 96 },
+      "anchor": { "type": "absolute", "x": 20, "y": 508 },
+      "properties": {
+        "name_hv": "北夏",
+        "kind": "wilderness",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "REG-TN-TAY-CAN",
+      "name": "Tây Cạn · biên tây",
+      "dimensions": { "width": 220, "length": 460 },
+      "anchor": { "type": "absolute", "x": 20, "y": 88 },
+      "properties": {
+        "name_hv": "西旱",
+        "kind": "wilderness",
+        "linh_khi_tier": "vô_lin",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "BRR-TN-NGUU-SON",
+      "name": "Dãy Ngưu Sơn",
+      "dimensions": { "width": 48, "length": 440 },
+      "anchor": { "type": "absolute", "x": 240, "y": 96 },
+      "properties": {
+        "name_hv": "牛山",
+        "kind": "barrier",
+        "linh_khi_tier": "manh_mach_rải"
+      }
+    },
+    {
+      "id": "REG-TN-TAM-GIAO",
+      "name": "Tam Giáo Sơn",
+      "dimensions": { "width": 100, "length": 100 },
+      "anchor": { "type": "relative", "ref_id": "BRR-TN-NGUU-SON", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "三教山",
+        "kind": "dungeon",
+        "linh_khi_tier": "manh_mach_rải",
+        "visibility": "hidden_logic",
+        "notes": "Thánh địa pocket Tiểu Thiên"
+      }
+    },
+    {
+      "id": "REG-TN-TAY-HA",
+      "name": "Tây Hạ · đồi tây nam",
+      "dimensions": { "width": 220, "length": 168 },
+      "anchor": { "type": "relative", "ref_id": "REG-TN-NAM-BINH", "edge": "left", "align": "start" },
+      "properties": {
+        "name_hv": "西夏",
+        "kind": "wilderness",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "mc_phase1"
+      }
+    },
+    {
+      "id": "REG-TN-DONG-LAM",
+      "name": "Đông Lâm · rừng phía đông",
+      "dimensions": { "width": 248, "length": 420 },
+      "anchor": { "type": "relative", "ref_id": "REG-TN-TRUNG-NGUYEN", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "东林",
+        "kind": "wilderness",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "REG-TN-DONG-HAI",
+      "name": "Đông Hải Cảng",
+      "dimensions": { "width": 92, "length": 420 },
+      "anchor": { "type": "relative", "ref_id": "REG-TN-DONG-LAM", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "东海港",
+        "kind": "polity",
+        "linh_khi_tier": "cực_mỏng",
+        "visibility": "public",
+        "notes": "Nhập linh thạch"
+      }
+    }
+  ],
+  "entities": [
+    {
+      "id": "LOC-TN-DONG-HAI",
+      "name": "Đông Hải · cảng chính",
+      "type": "point",
+      "coordinates": { "x": 900, "y": 380 },
+      "properties": { "name_hv": "东海", "kind": "hub", "visibility": "public" }
+    },
+    {
+      "id": "RIVER-TN-NGUYEN-THUY",
+      "name": "Nguyên Thủy",
+      "type": "river",
+      "properties": { "name_hv": "元水", "kind": "route" },
+      "control_points": [
+        { "x": 480, "y": 520 },
+        { "x": 460, "y": 420 },
+        { "x": 490, "y": 320 },
+        { "x": 470, "y": 220 },
+        { "x": 480, "y": 110 }
+      ],
+      "roughness": "medium"
+    },
+    {
+      "id": "RIVER-TN-TAM-NGUON",
+      "name": "Tam Nguồn Hà",
+      "type": "river",
+      "properties": { "name_hv": "三源河", "kind": "route" },
+      "control_points": [
+        { "x": 270, "y": 600 },
+        { "x": 290, "y": 480 },
+        { "x": 280, "y": 360 }
+      ],
+      "roughness": "high"
+    },
+    {
+      "id": "RIVER-TN-DONG-LUU",
+      "name": "Đông Lưu",
+      "type": "river",
+      "properties": { "name_hv": "东流", "kind": "route" },
+      "control_points": [
+        { "x": 780, "y": 580 },
+        { "x": 820, "y": 460 },
+        { "x": 800, "y": 340 },
+        { "x": 840, "y": 220 }
+      ],
+      "roughness": "medium"
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "micro",
+  "world:work_slug": "tap-linh-dieu-lo",
+  "world:hub_id": "LOC-PHI-VAN-TAP",
+  "world:parent_scope": "region",
+  "world:parent_feature_id": "LOC-PHI-VAN-TAP",
+  "world:parent_file": "region/reg-lan-sa-chau.geojson",
+  "world:parent_coordinates": [0, 0],
+  "world:tieu_cuc_id": "TC-002",
+  "world:coordinateNote": "Tiểu cục Phi Vân Tập · Arc 1; gốc trung tập chợ; x=Đông, y=Bắc; la bàn khớp 01-arc1-phu-luc.md.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-PHI-VAN-TAP",
+        "name_vi": "Trung tập · Phi Vân Tập",
+        "name_hv": "飞云集",
+        "kind": "hub",
+        "visibility": "public",
+        "parent_id": "LOC-PHI-VAN-TAP",
+        "event_scale": "II",
+        "faction": "Hứa thị · Thanh Sa · tán tu",
+        "notes": "Lều, quầy, giàn đèn; không tường thành"
+      },
+      "geometry": { "type": "Point", "coordinates": [0, 0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-PHI-VAN-KHU-PHAM-TAY",
+        "name_vi": "Khu phàm (tây)",
+        "name_hv": "",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Tây",
+        "parent_id": "LOC-PHI-VAN-TAP",
+        "notes": "Rau, thuê xe; vào tập tránh dòng tán tu (ch.2)"
+      },
+      "geometry": { "type": "Point", "coordinates": [-42, -4] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-PHI-VAN-NGO-TAY",
+        "name_vi": "Ngõ tây · Hứa thị",
+        "name_hv": "",
+        "kind": "barrier",
+        "visibility": "public",
+        "direction_label": "Tây",
+        "parent_id": "LOC-PHI-VAN-TAP",
+        "faction": "Hứa thị",
+        "notes": "Canh suất; 1 hạt/lượt; gói 3 hạt (ch.4, 13–14)"
+      },
+      "geometry": { "type": "Point", "coordinates": [-28, 0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-PHI-VAN-DUONG-DONG",
+        "name_vi": "Đường suất (phía đông trong tập)",
+        "name_hv": "",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Đông",
+        "parent_id": "LOC-PHI-VAN-TAP",
+        "notes": "Người có suất / ghi danh (ch.4)"
+      },
+      "geometry": { "type": "Point", "coordinates": [18, 2] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-PHI-VAN-GIAN-DEN",
+        "name_vi": "Giàn đèn · mép đông",
+        "name_hv": "",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Đông",
+        "parent_id": "LOC-PHI-VAN-TAP",
+        "faction": "Thanh Sa Thương Hội",
+        "notes": "Bảng tin uyên; đèn thứ 9; xe xanh (ch.15–16)"
+      },
+      "geometry": { "type": "Point", "coordinates": [22, -6] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-PHI-VAN-DAY-LO-CU",
+        "name_vi": "Dãy lò cũ",
+        "name_hv": "",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Bắc (nội bộ)",
+        "parent_id": "LOC-PHI-VAN-TAP",
+        "notes": "Lò, phơi da; tin Thanh Sa mua lò/mương/vực cát (ch.15–17)"
+      },
+      "geometry": { "type": "Point", "coordinates": [6, 22] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-PHI-VAN-NGO-BAC",
+        "name_vi": "Ngõ bắc (sau dãy lò)",
+        "name_hv": "",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Bắc nội bộ",
+        "parent_id": "LOC-PHI-VAN-TAP",
+        "notes": "Ngõ bắc nội tập ≠ hướng Sa Điêu (trại rìa Kiến Sa · ch.17)"
+      },
+      "geometry": { "type": "Point", "coordinates": [10, 28] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-PHI-VAN-GIENG-NGO-BAC",
+        "name_vi": "Giếng cạn · ngõ bắc",
+        "name_hv": "",
+        "kind": "resource",
+        "visibility": "public",
+        "direction_label": "Bắc nội bộ",
+        "parent_id": "LOC-PHI-VAN-TAP",
+        "notes": "Hẹn Hợp Đội Lệnh / đội uyên · giờ Sửu (ch.16–17)"
+      },
+      "geometry": { "type": "Point", "coordinates": [12, 36] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-SA-DIEU-DO",
+        "name_vi": "Sa Điêu Đổ",
+        "name_hv": "沙雕垛",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Đông bắc · rìa Kiến Sa",
+        "parent_id": "LOC-PHI-VAN-TAP",
+        "faction": "Mạc Lão · Sa Điêu",
+        "travel_days_walk": "0.25-0.5",
+        "notes": "Lửa trại hình chim sát bãi Kiến Sa; suất đêm phế (ch.4–8)"
+      },
+      "geometry": { "type": "Point", "coordinates": [-7, -6] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-PHI-VAN-MO-CAT",
+        "name_vi": "Mộ cát",
+        "name_hv": "",
+        "kind": "wilderness",
+        "visibility": "public",
+        "direction_label": "Tây · sau ngõ",
+        "parent_id": "LOC-PHI-VAN-TAP",
+        "travel_days_walk": "+~1 canh vs thẳng",
+        "notes": "Vòng tránh trạm Sa Điêu → Kiến Sa (ch.4)"
+      },
+      "geometry": { "type": "Point", "coordinates": [-55, 12] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-PHI-VAN-GIENG-NAM",
+        "name_vi": "Giếng cạn · tuyến nam (Hứa chỉ)",
+        "name_hv": "",
+        "kind": "resource",
+        "visibility": "public",
+        "direction_label": "Nam · ngoài ngõ tây",
+        "parent_id": "LOC-PHI-VAN-TAP",
+        "faction": "Hứa thị",
+        "notes": "Săn hạ nam; khác giếng ngõ bắc nội bộ (ch.6–7, phụ lục §3)"
+      },
+      "geometry": { "type": "Point", "coordinates": [-5, -68] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-CUU-HUYEN-PHE",
+        "name_vi": "Kiến Sa · Cửu Huyền Phế Trận",
+        "name_hv": "九玄废阵",
+        "kind": "dungeon",
+        "visibility": "public",
+        "direction_label": "Đông bắc · sau ngõ",
+        "parent_id": "LOC-PHI-VAN-TAP",
+        "travel_days_walk": "1-2",
+        "notes": "Đường thẳng từ ngõ; suất đêm phế (ch.4)"
+      },
+      "geometry": { "type": "Point", "coordinates": [-12, -14] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LINH-SA-UYEN",
+        "name_vi": "Linh Sa Uyên (hướng convoy)",
+        "name_hv": "灵沙渊",
+        "kind": "dungeon",
+        "visibility": "public",
+        "direction_label": "Tây nam · xa",
+        "parent_id": "LOC-PHI-VAN-TAP",
+        "travel_days_cart": "0.5-1",
+        "notes": "Tin / xe cát Thanh Sa; neo meso [-35,-70]; chi tiết → arc-01-linh-sa-uyen.geojson"
+      },
+      "geometry": { "type": "Point", "coordinates": [-27, -22] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-PHI-VAN-TAP-FOOT",
+        "name_vi": "Vùng lều · quầy Phi Vân",
+        "name_hv": "",
+        "kind": "wilderness",
+        "visibility": "public",
+        "parent_id": "LOC-PHI-VAN-TAP",
+        "event_scale": "II",
+        "notes": "Phí ngõ ~3 dặm quanh tập (ch.4)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-32, -18],
+            [28, -18],
+            [32, 24],
+            [-8, 32],
+            [-32, 18],
+            [-32, -18]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-NGO-TAY-KIEN-SA",
+        "name_vi": "Tuyến ngõ tây → Kiến Sa",
+        "name_hv": "",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-PHI-VAN-NGO-TAY",
+        "to_id": "LOC-CUU-HUYEN-PHE",
+        "hazard": "sa mạc; suất Mạc Lão",
+        "parent_id": "LOC-PHI-VAN-TAP",
+        "notes": "Hướng đông bắc sau phí ngõ"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-28, 0],
+          [-18, -8],
+          [-12, -14]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-NGO-TAY-SA-DIEU",
+        "name_vi": "Tuyến ngõ tây → Sa Điêu Đổ",
+        "name_hv": "",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-PHI-VAN-NGO-TAY",
+        "to_id": "LOC-SA-DIEU-DO",
+        "hazard": "săn yêu; bảo hộ phí",
+        "parent_id": "LOC-PHI-VAN-TAP"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-28, 0],
+          [-16, -4],
+          [-7, -6]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-PHI-VAN-LINH-SA",
+        "name_vi": "Convoy Phi Vân → điểm giao uyên",
+        "name_hv": "",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-PHI-VAN-GIENG-NGO-BAC",
+        "to_id": "LOC-LINH-SA-UYEN",
+        "hazard": "cọc dấu; đối chiếu Thanh Sa",
+        "parent_id": "LOC-PHI-VAN-TAP",
+        "notes": "Cọc trắng ~11 dặm từ tập (ch.18–19)"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [12, 36],
+          [-8, 8],
+          [-27, -22]
+        ]
+      }
+    }
+  ]
+}

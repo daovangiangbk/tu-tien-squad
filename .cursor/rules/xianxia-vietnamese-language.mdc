@@ -17,6 +17,11 @@ alwaysApply: true
 - Khi canon đã có **chữ Hán** trong registry (vd. 苏遥), có thể ghi **một lần** kèm tên Việt ở lần xuất hiện đầu hoặc trong registry; prose ưu tiên **Tô Diêu**, không lạm dụng chữ Hán trên từng câu.
 - Tránh phiên âm Anh hoá (pinyin không dấu trong truyện).
 
+## Thân văn vs thuật ngữ canon
+
+- **Glossary / registry / tiêu đề chương:** Hán Việt như mục trên.
+- **Câu mô tả, cảm giác, không gian:** ưu tiên **tiếng Việt tự nhiên** — chi tiết `.cursor/rules/xianxia-prose-style.mdc` (không 翻译腔; không lạm dụng Hán-Việt gượng trong thân văn).
+
 ## Văn phong
 
 - **Giữ nguyên** tone đã chốt: cổ phong, trầm, tình cảnh tương sinh; tham chiếu brief (Tru Tiên xám, không bài giảng).

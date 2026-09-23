@@ -1,0 +1,208 @@
+{
+  "continent": "Cửu Phong đại lục",
+  "canvas": {
+    "unit": "story_grid",
+    "grid_snap": 1,
+    "y_axis": "north",
+    "border_roughness": "high",
+    "border_segments": 22,
+    "border_amp_internal": 10,
+    "border_seed": 2026091846
+  },
+  "regions": [
+    {
+      "id": "REG-DA-LUC-NEN",
+      "name": "Cửu Phong · nền đại lục",
+      "dimensions": { "width": 1000, "length": 1000 },
+      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "properties": {
+        "kind": "wilderness",
+        "visibility": "hidden_logic",
+        "border_style": "straight",
+        "fill_remainder": true,
+        "than_khi_tier": "cổ_phong"
+      }
+    },
+    {
+      "id": "REG-CP-NAM-HAI",
+      "name": "Nam Hải cửa",
+      "dimensions": { "width": 420, "length": 68 },
+      "anchor": { "type": "absolute", "x": 290, "y": 26 },
+      "properties": {
+        "name_hv": "南海关",
+        "kind": "wilderness",
+        "than_khi_tier": "rất_nặng",
+        "visibility": "public",
+        "notes": "Thương lộ đan thần — thuế 16–22%"
+      }
+    },
+    {
+      "id": "REG-CP-CUU-MEN",
+      "name": "Cửu Môn",
+      "dimensions": { "width": 320, "length": 156 },
+      "anchor": { "type": "relative", "ref_id": "REG-CP-NAM-HAI", "edge": "top", "align": "center" },
+      "properties": {
+        "name_hv": "九门",
+        "kind": "polity",
+        "than_khi_tier": "mach_chủ",
+        "visibility": "public",
+        "notes": "Cửu phong thần · hub LOC-CP-CUU-MEN"
+      }
+    },
+    {
+      "id": "REG-CP-PHONG-COC",
+      "name": "Phong Cốc",
+      "dimensions": { "width": 280, "length": 220 },
+      "anchor": { "type": "relative", "ref_id": "REG-CP-CUU-MEN", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "封谷",
+        "kind": "dungeon",
+        "than_khi_tier": "mach_T2_T3",
+        "visibility": "mc_phase1",
+        "notes": "Đan thần · phong ấn cổ — di tích Tiên Đế"
+      }
+    },
+    {
+      "id": "REG-CP-TRUNG-DAN",
+      "name": "Trung Đan đài",
+      "dimensions": { "width": 260, "length": 120 },
+      "anchor": { "type": "relative", "ref_id": "REG-CP-CUU-MEN", "edge": "left", "align": "top" },
+      "properties": {
+        "name_hv": "中丹台",
+        "kind": "polity",
+        "than_khi_tier": "rất_nặng",
+        "visibility": "public",
+        "notes": "Thần đan các — monopoly hội thương"
+      }
+    },
+    {
+      "id": "REG-CP-BAC-PHONG",
+      "name": "Bắc Phong uyên",
+      "dimensions": { "width": 500, "length": 104 },
+      "anchor": { "type": "relative", "ref_id": "REG-CP-CUU-MEN", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "北封苑",
+        "kind": "wilderness",
+        "than_khi_tier": "nặng_ổn_định",
+        "visibility": "public",
+        "notes": "Phong ấn cổ rải — biên REG-KL-DONG-HAI"
+      }
+    },
+    {
+      "id": "REG-CP-TAY-CUU",
+      "name": "Tây Cửu quan",
+      "dimensions": { "width": 180, "length": 480 },
+      "anchor": { "type": "absolute", "x": 36, "y": 100 },
+      "properties": {
+        "name_hv": "西九关",
+        "kind": "wilderness",
+        "than_khi_tier": "nặng_ổn_định",
+        "visibility": "public",
+        "notes": "Hướng REG-ST-DONG-PHUC — sinh–phong tranh"
+      }
+    },
+    {
+      "id": "BRR-CP-CUU-SON",
+      "name": "Dãy Cửu Sơn",
+      "dimensions": { "width": 46, "length": 440 },
+      "anchor": { "type": "absolute", "x": 216, "y": 108 },
+      "properties": {
+        "name_hv": "九山",
+        "kind": "barrier",
+        "than_khi_tier": "mach_rải_cao",
+        "visibility": "public",
+        "notes": "Cửu phong barrier — phong ấn còn hoạt"
+      }
+    },
+    {
+      "id": "REG-CP-DONG-LAM",
+      "name": "Đông Lam",
+      "dimensions": { "width": 300, "length": 300 },
+      "anchor": { "type": "relative", "ref_id": "BRR-CP-CUU-SON", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "东林",
+        "kind": "resource",
+        "than_khi_tier": "rất_nặng",
+        "visibility": "public",
+        "notes": "Thần thảo cổ — Thái Sơ vệt (lore)"
+      }
+    },
+    {
+      "id": "REG-CP-DONG-HAI",
+      "name": "Đông Hải bình",
+      "dimensions": { "width": 160, "length": 280 },
+      "anchor": { "type": "absolute", "x": 560, "y": 140 },
+      "properties": {
+        "name_hv": "东海坪",
+        "kind": "wilderness",
+        "than_khi_tier": "rất_nặng",
+        "visibility": "public",
+        "notes": "Liên REG-VP-DONG-HAI · REG-KL-DONG-HAI"
+      }
+    },
+    {
+      "id": "REG-CP-NAM-DAO",
+      "name": "Nam Đảo phụ",
+      "dimensions": { "width": 100, "length": 60 },
+      "anchor": { "type": "relative", "ref_id": "REG-CP-NAM-HAI", "edge": "right", "align": "start" },
+      "properties": {
+        "name_hv": "南岛",
+        "kind": "resource",
+        "than_khi_tier": "mach_rải",
+        "visibility": "public",
+        "notes": "Đảo thần đan hạ phẩm"
+      }
+    }
+  ],
+  "entities": [
+    {
+      "id": "LOC-CP-CUU-MEN",
+      "name": "Cửu Môn · phong đan",
+      "type": "point",
+      "coordinates": { "x": 410, "y": 340 },
+      "properties": {
+        "name_hv": "九门",
+        "kind": "hub",
+        "visibility": "public",
+        "than_khi_tier": "mach_chủ"
+      }
+    },
+    {
+      "id": "ROUTE-CP-BAC-KIEM-LOI",
+      "name": "Phong quan bắc",
+      "type": "river",
+      "properties": {
+        "name_hv": "北封路",
+        "kind": "route",
+        "from_id": "REG-CP-BAC-PHONG",
+        "to_id": "REG-KL-DONG-HAI",
+        "hazard": "phong_ấn"
+      },
+      "control_points": [
+        { "x": 480, "y": 620 },
+        { "x": 580, "y": 640 },
+        { "x": 680, "y": 660 }
+      ],
+      "roughness": "medium"
+    },
+    {
+      "id": "RIVER-CP-CUU-HE",
+      "name": "Cửu Hà",
+      "type": "river",
+      "properties": {
+        "name_hv": "九河",
+        "kind": "route",
+        "from_id": "REG-CP-BAC-PHONG",
+        "to_id": "REG-CP-NAM-HAI"
+      },
+      "control_points": [
+        { "x": 400, "y": 600 },
+        { "x": 420, "y": 460 },
+        { "x": 410, "y": 320 },
+        { "x": 430, "y": 200 },
+        { "x": 400, "y": 100 }
+      ],
+      "roughness": "high"
+    }
+  ]
+}

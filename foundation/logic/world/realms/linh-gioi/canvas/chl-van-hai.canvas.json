@@ -1,0 +1,218 @@
+{
+  "continent": "Vân Hải đại lục",
+  "canvas": {
+    "unit": "story_grid",
+    "grid_snap": 1,
+    "y_axis": "north",
+    "border_roughness": "high",
+    "border_segments": 20,
+    "border_amp_internal": 10,
+    "border_seed": 2026091823
+  },
+  "regions": [
+    {
+      "id": "REG-DA-LUC-NEN",
+      "name": "Vân Hải · nền đại lục",
+      "dimensions": { "width": 1000, "length": 1000 },
+      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "properties": {
+        "kind": "wilderness",
+        "visibility": "hidden_logic",
+        "border_style": "straight",
+        "fill_remainder": true,
+        "linh_khi_tier": "dày"
+      }
+    },
+    {
+      "id": "REG-VH-BAC-VAN",
+      "name": "Bắc Vân · cửa Trung Linh",
+      "dimensions": { "width": 600, "length": 80 },
+      "anchor": { "type": "absolute", "x": 200, "y": 28 },
+      "properties": {
+        "name_hv": "北云",
+        "kind": "wilderness",
+        "linh_khi_tier": "rất_dày",
+        "visibility": "public",
+        "notes": "Đối diện REG-TL-NAM-VAN — thương lộ mây"
+      }
+    },
+    {
+      "id": "REG-VH-VAN-CANG",
+      "name": "Vân Cảng",
+      "dimensions": { "width": 400, "length": 160 },
+      "anchor": { "type": "relative", "ref_id": "REG-VH-BAC-VAN", "edge": "top", "align": "center" },
+      "properties": {
+        "name_hv": "云港",
+        "kind": "polity",
+        "linh_khi_tier": "mach_chủ",
+        "visibility": "public",
+        "notes": "Phi thuyền trung tâm · hub LOC-VH-VAN-CANG"
+      }
+    },
+    {
+      "id": "REG-VH-DAO-MOC",
+      "name": "Đảo Mộc",
+      "dimensions": { "width": 280, "length": 200 },
+      "anchor": { "type": "relative", "ref_id": "REG-VH-VAN-CANG", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "木岛",
+        "kind": "wilderness",
+        "linh_khi_tier": "rất_dày",
+        "visibility": "public",
+        "notes": "Đảo trung tâm — linh mộc"
+      }
+    },
+    {
+      "id": "REG-VH-TAY-DAO",
+      "name": "Tây Đảo",
+      "dimensions": { "width": 180, "length": 360 },
+      "anchor": { "type": "absolute", "x": 24, "y": 120 },
+      "properties": {
+        "name_hv": "西岛",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "BRR-VH-HAI-SON",
+      "name": "Dãy Hải Sơn",
+      "dimensions": { "width": 44, "length": 420 },
+      "anchor": { "type": "absolute", "x": 204, "y": 128 },
+      "properties": {
+        "name_hv": "海山",
+        "kind": "barrier",
+        "linh_khi_tier": "mach_rải",
+        "visibility": "public",
+        "notes": "Đài ngầm / núi chìm — Thủy–Phong mạch"
+      }
+    },
+    {
+      "id": "REG-VH-VAN-HAI",
+      "name": "Vân Hải · hải vực mây",
+      "dimensions": { "width": 280, "length": 360 },
+      "anchor": { "type": "relative", "ref_id": "BRR-VH-HAI-SON", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "云海",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "public",
+        "notes": "Mây dày — phi thuyền bắt buộc"
+      }
+    },
+    {
+      "id": "REG-VH-HAI-MA",
+      "name": "Hải Mạch",
+      "dimensions": { "width": 200, "length": 180 },
+      "anchor": { "type": "relative", "ref_id": "REG-VH-VAN-HAI", "edge": "bottom", "align": "start" },
+      "properties": {
+        "name_hv": "海脉",
+        "kind": "dungeon",
+        "linh_khi_tier": "ma_vệt",
+        "visibility": "hidden_logic",
+        "notes": "Ma patch đáy biển (slot E-LINH-MA-PATCH-VH)"
+      }
+    },
+    {
+      "id": "REG-VH-PHONG-BAO",
+      "name": "Phong Bão hải",
+      "dimensions": { "width": 200, "length": 180 },
+      "anchor": { "type": "relative", "ref_id": "REG-VH-VAN-HAI", "edge": "bottom", "align": "end" },
+      "properties": {
+        "name_hv": "风暴海",
+        "kind": "wilderness",
+        "linh_khi_tier": "mach_rải",
+        "visibility": "public",
+        "notes": "Hải vực nguy hiểm — kiếp Phong khi vượt"
+      }
+    },
+    {
+      "id": "REG-VH-DONG-DAO",
+      "name": "Đông Đảo",
+      "dimensions": { "width": 200, "length": 360 },
+      "anchor": { "type": "relative", "ref_id": "REG-VH-VAN-HAI", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "东岛",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "public",
+        "notes": "Hướng Ngọc Lâm / Cửu Lạc biển"
+      }
+    },
+    {
+      "id": "REG-VH-LINH-DAM",
+      "name": "Linh Đám mây",
+      "dimensions": { "width": 400, "length": 120 },
+      "anchor": { "type": "relative", "ref_id": "REG-VH-DAO-MOC", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "灵云",
+        "kind": "resource",
+        "linh_khi_tier": "mach_chủ",
+        "visibility": "mc_phase1",
+        "notes": "Thu thập linh khí mây — thuế hộ thương"
+      }
+    },
+    {
+      "id": "REG-VH-NAN-DAO",
+      "name": "Nam Đảo · quần đảo",
+      "dimensions": { "width": 640, "length": 100 },
+      "anchor": { "type": "relative", "ref_id": "REG-VH-HAI-MA", "edge": "bottom", "align": "start" },
+      "properties": {
+        "name_hv": "南岛",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "public"
+      }
+    }
+  ],
+  "entities": [
+    {
+      "id": "LOC-VH-VAN-CANG",
+      "name": "Vân Cảng · cảng chính",
+      "type": "point",
+      "coordinates": { "x": 420, "y": 220 },
+      "properties": {
+        "name_hv": "云港",
+        "kind": "hub",
+        "visibility": "public",
+        "linh_khi_tier": "mach_chủ"
+      }
+    },
+    {
+      "id": "ROUTE-VH-BAC-NAM-VAN",
+      "name": "Thương lộ Bắc Vân",
+      "type": "river",
+      "properties": {
+        "name_hv": "北云路",
+        "kind": "route",
+        "from_id": "REG-VH-BAC-VAN",
+        "to_id": "REG-TL-NAM-VAN",
+        "hazard": "phong_bão"
+      },
+      "control_points": [
+        { "x": 480, "y": 60 },
+        { "x": 520, "y": 40 },
+        { "x": 560, "y": 20 }
+      ],
+      "roughness": "medium"
+    },
+    {
+      "id": "RIVER-VH-VAN-LUU",
+      "name": "Vân Lưu thủy",
+      "type": "river",
+      "properties": {
+        "name_hv": "云流",
+        "kind": "route",
+        "from_id": "REG-VH-LINH-DAM",
+        "to_id": "REG-VH-VAN-CANG"
+      },
+      "control_points": [
+        { "x": 360, "y": 480 },
+        { "x": 380, "y": 380 },
+        { "x": 400, "y": 300 },
+        { "x": 420, "y": 240 }
+      ],
+      "roughness": "high"
+    }
+  ]
+}

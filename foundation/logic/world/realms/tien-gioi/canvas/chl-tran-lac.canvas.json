@@ -1,0 +1,221 @@
+{
+  "continent": "Trần Lạc đại lục",
+  "canvas": {
+    "unit": "story_grid",
+    "grid_snap": 1,
+    "y_axis": "north",
+    "border_roughness": "high",
+    "border_segments": 24,
+    "border_amp_internal": 12,
+    "border_seed": 2026091833
+  },
+  "regions": [
+    {
+      "id": "REG-DA-LUC-NEN",
+      "name": "Trần Lạc · nền đại lục",
+      "dimensions": { "width": 1000, "length": 1000 },
+      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "properties": {
+        "kind": "wilderness",
+        "visibility": "hidden_logic",
+        "border_style": "straight",
+        "fill_remainder": true,
+        "tien_khi_tier": "loãng_cục_bộ"
+      }
+    },
+    {
+      "id": "REG-TL-NAM-VI",
+      "name": "Nam Vi · cực nam",
+      "dimensions": { "width": 560, "length": 80 },
+      "anchor": { "type": "absolute", "x": 220, "y": 24 },
+      "properties": {
+        "name_hv": "南微",
+        "kind": "wilderness",
+        "tien_khi_tier": "loãng",
+        "visibility": "public",
+        "notes": "Trần khí dày — tiên khí loãng ven biên"
+      }
+    },
+    {
+      "id": "REG-TL-TRAN-DINH",
+      "name": "Trần Đình",
+      "dimensions": { "width": 320, "length": 160 },
+      "anchor": { "type": "relative", "ref_id": "REG-TL-NAM-VI", "edge": "top", "align": "center" },
+      "properties": {
+        "name_hv": "尘庭",
+        "kind": "polity",
+        "tien_khi_tier": "mach_rải",
+        "visibility": "public",
+        "notes": "Tản Tiên tụ · hub LOC-TL-TRAN-DINH"
+      }
+    },
+    {
+      "id": "REG-TL-LAC-HE",
+      "name": "Lạc Hà hội",
+      "dimensions": { "width": 280, "length": 140 },
+      "anchor": { "type": "relative", "ref_id": "REG-TL-TRAN-DINH", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "落河会",
+        "kind": "polity",
+        "tien_khi_tier": "loãng",
+        "visibility": "public",
+        "notes": "Sông trần khí — hội Tản Tiên thương nghị"
+      }
+    },
+    {
+      "id": "REG-TL-HA-TIEN",
+      "name": "Hạ Tiên đài",
+      "dimensions": { "width": 240, "length": 120 },
+      "anchor": { "type": "relative", "ref_id": "REG-TL-TRAN-DINH", "edge": "left", "align": "top" },
+      "properties": {
+        "name_hv": "下仙台",
+        "kind": "polity",
+        "tien_khi_tier": "mach_rải",
+        "visibility": "public",
+        "notes": "Khu Hạ tiên mới phi thăng — chưa mạch"
+      }
+    },
+    {
+      "id": "REG-TL-TAN-TIEN",
+      "name": "Tản Tiên đài",
+      "dimensions": { "width": 360, "length": 160 },
+      "anchor": { "type": "relative", "ref_id": "REG-TL-TRAN-DINH", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "散仙台",
+        "kind": "wilderness",
+        "tien_khi_tier": "loãng",
+        "visibility": "public",
+        "notes": "Di tích phi thăng đợt đầu — tranh di cổ"
+      }
+    },
+    {
+      "id": "REG-TL-PHAM-VESTIGE",
+      "name": "Linh vestige",
+      "dimensions": { "width": 200, "length": 200 },
+      "anchor": { "type": "relative", "ref_id": "REG-TL-HA-TIEN", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "灵遗迹",
+        "kind": "dungeon",
+        "tien_khi_tier": "linh_vệt",
+        "visibility": "mc_phase1",
+        "expansion_slot": "E-TIEN-LINH-VESTIGE",
+        "notes": "Vệt linh khí Hạ Giới — crack một chiều có giá"
+      }
+    },
+    {
+      "id": "REG-TL-TAY-KHE",
+      "name": "Tây Khe · rìa tây",
+      "dimensions": { "width": 180, "length": 560 },
+      "anchor": { "type": "absolute", "x": 24, "y": 88 },
+      "properties": {
+        "name_hv": "西溪",
+        "kind": "wilderness",
+        "tien_khi_tier": "loãng",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "BRR-TL-TRAN-SON",
+      "name": "Dãy Trần Sơn",
+      "dimensions": { "width": 48, "length": 440 },
+      "anchor": { "type": "absolute", "x": 204, "y": 100 },
+      "properties": {
+        "name_hv": "尘山",
+        "kind": "barrier",
+        "tien_khi_tier": "mach_rải",
+        "visibility": "public",
+        "notes": "Trần khí đọng — Ma patch đáy `(E-TIEN-MA-PATCH-TL)`"
+      }
+    },
+    {
+      "id": "REG-TL-MA-PIT",
+      "name": "Ma khí đáy trần",
+      "dimensions": { "width": 200, "length": 240 },
+      "anchor": { "type": "relative", "ref_id": "BRR-TL-TRAN-SON", "edge": "right", "align": "bottom" },
+      "properties": {
+        "name_hv": "魔渊",
+        "kind": "dungeon",
+        "tien_khi_tier": "ma_vệt",
+        "visibility": "hidden_logic",
+        "expansion_slot": "E-TIEN-MA-PATCH-TL",
+        "notes": "Ma khí mảnh — không Ma Giới đầy đủ"
+      }
+    },
+    {
+      "id": "REG-TL-BAC-VAN",
+      "name": "Bắc Vân · biên Trung Tiên",
+      "dimensions": { "width": 680, "length": 88 },
+      "anchor": { "type": "relative", "ref_id": "REG-TL-TAN-TIEN", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "北云",
+        "kind": "wilderness",
+        "tien_khi_tier": "dồi_vệt",
+        "visibility": "public",
+        "notes": "Liên Trung Tiên nam — REG-TT-NAM-VAN hướng bắc"
+      }
+    },
+    {
+      "id": "REG-TL-DONG-LAC",
+      "name": "Đông Lạc · uyên đông",
+      "dimensions": { "width": 120, "length": 360 },
+      "anchor": { "type": "absolute", "x": 540, "y": 100 },
+      "properties": {
+        "name_hv": "东落",
+        "kind": "wilderness",
+        "tien_khi_tier": "loãng",
+        "visibility": "public"
+      }
+    }
+  ],
+  "entities": [
+    {
+      "id": "LOC-TL-TRAN-DINH",
+      "name": "Trần Đình · trung tâm",
+      "type": "point",
+      "coordinates": { "x": 400, "y": 280 },
+      "properties": {
+        "name_hv": "尘庭",
+        "kind": "hub",
+        "visibility": "public",
+        "tien_khi_tier": "mach_rải"
+      }
+    },
+    {
+      "id": "RIVER-TL-TRAN-LAC",
+      "name": "Trần Lạc hà",
+      "type": "river",
+      "properties": {
+        "name_hv": "尘落河",
+        "kind": "route",
+        "from_id": "REG-TL-BAC-VAN",
+        "to_id": "REG-TL-NAM-VI"
+      },
+      "control_points": [
+        { "x": 380, "y": 560 },
+        { "x": 400, "y": 440 },
+        { "x": 420, "y": 360 },
+        { "x": 440, "y": 200 },
+        { "x": 460, "y": 80 }
+      ],
+      "roughness": "high"
+    },
+    {
+      "id": "ROUTE-TL-BAC-NAM-VAN",
+      "name": "Thương lộ bắc vân",
+      "type": "river",
+      "properties": {
+        "name_hv": "北云路",
+        "kind": "route",
+        "from_id": "REG-TL-BAC-VAN",
+        "to_id": "REG-TT-NAM-VAN",
+        "hazard": "trần_khi"
+      },
+      "control_points": [
+        { "x": 480, "y": 520 },
+        { "x": 500, "y": 580 },
+        { "x": 520, "y": 620 }
+      ],
+      "roughness": "medium"
+    }
+  ]
+}

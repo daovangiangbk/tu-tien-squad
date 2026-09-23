@@ -1,6 +1,6 @@
 # Từ điển thế giới tu tiên — `foundation/core/00-glossary.md`
 
-> **Phiên bản:** 2026-09-07 — đồng bộ `foundation/core/00–03`, `foundation/resources/01–10` và `foundation/sources/`.  
+> **Phiên bản:** 2026-09-21 — §F **bốn giới song song** + **Luật 6a**; Logic Phàm–Linh [`02-pham-linh-interface.md`](../logic/02-pham-linh-interface.md) · nhân khẩu / linh căn [`03-demographics-pham-linh.md`](../logic/03-demographics-pham-linh.md).  
 > **Cách dùng:** Tra cứu khi viết chương, outline Logic Layer, hoặc review vi phạm luật/theme. Thuật ngữ **in đậm** là mục chính; Hán Việt trong ngoặc khi cần chuẩn hóa tên riêng.
 
 **Quy ước mục đích**
@@ -71,26 +71,29 @@
 
 | Khái niệm | Diễn giải | Mục đích |
 | --- | --- | --- |
-| **Thiên Địa Linh Khí** (天地灵气) | Nguồn tu chính thống Hạ Giới. | **World** + **Power** — phân bổ địa lý, tranh mạch. |
-| **Ma Khí / Yêu Khí / Tiên Khí / Thần Khí / Cổ Khí** | Biến thể năng lượng theo vùng, giới, di tích. | **World** — Ma Giới, Yêu tộc, Thượng Giới, cổ tích. |
+| **Thiên Địa Linh Khí** (天地灵气) | Nguồn tu chính thống **Linh Giới**; trên **Phàm Giới** **Mạt pháp** — võ tu **không** tích linh lực ổn định; chân tu **không** cư trú Phàm. | **World** + **Power** — Thiên phạt Phàm nếu tích linh lực. |
+| **Ma Khí / Yêu Khí / Tiên Khí / Thần Khí / Cổ Khí** | Biến thể năng lượng theo vùng, giới, di tích. | **World** — Ma/Yêu giới, **Tiên / Thần** tầng, cổ tích. |
 | **Mệnh Lực** (命力) | Năng lượng gắn số mệnh, khế ước (vd. Quỷ Doanh). | **Logic** — giá ẩn hợp đồng. |
 | **Huyết Mạch Chi Lực** (血脉之力) | Sức mạnh dòng họ, truyền thừa nội bộ. | **World** — gia tộc; **Power** — array / bạo phát. |
 | **Tinh Thần Lực / Thần Thức** (神识) | Ý thức tu luyện; dò xét, tấn công, Nguyên Anh, Hóa Thần. | **Power** — phạm vi cảm tri theo cảnh giới. |
-| **Linh Căn** (灵根) | Đơn (Lôi, Băng, Phong…), đa/tạp, **Thiên linh căn** — cảm nhận & hấp thu khí. | **World** — bất công căn cơ; tông tuyển Thánh tử. |
+| **Linh Căn** (灵根) | Đơn (Lôi, Băng, Phong…), đa/tạp, **Thiên linh căn** — cảm nhận & hấp thu khí; **Luyện Khí+** cần **hữu căn**. | **World** — Luật 9; vô/hữu căn → Logic `03-demographics-pham-linh.md`. |
 | **Thể chất** | Phạm thể, Thánh thể, Ma thể, Tiên thể, Hoang cổ thánh thể… | **Power** — trần tu, chi phí đột phá. |
 | **Linh Dịch** (灵液) | Linh khí dạng lỏng trong Đan Điền (Trúc Cơ). | **Power** — bước trước Kim Đan. |
 | **Đan Điền** (丹田) | Trung tâm tích linh lực. | **Power** — vỡ đan, tu vi. |
-| **Tiên Nguyên Lực / Tiên Nguyên** | Linh lực chuyển hóa sau Đại Thừa / Tiên Giới. | **Power** — phân tách Hạ Giới vs Tiên Giới. |
+| **Tiên Nguyên Lực / Tiên Nguyên** | Linh lực chuyển hóa sau Đại Thừa / Tiên Giới. | **Power** — phân tách **Linh Giới** vs **Tiên Giới**. |
 
 ---
 
-## E. Cảnh giới & tu luyện (Hạ Giới trọng tâm)
+## E. Cảnh giới & tu luyện (arc **Linh Giới** — lộ trình tới Độ Kiếp)
 
 | Khái niệm | Diễn giải | Mục đích |
 | --- | --- | --- |
-| **Phàm Nhân** (凡人) | Chưa cảm linh khí; ~60–80 năm. | **Power** — baseline stakes. |
+| **Phàm Nhân** (凡人) | **Chưa Luyện Khí** — **vô căn** hoặc **hữu căn chưa khai**; đa số chưa cảm linh khí; ~60–80 năm (Phàm). | **Power** — Logic `03-demographics-pham-linh.md` §1. |
+| **Vô linh căn** (无灵根) | Không Luyện Khí+; vẫn phàm nhân; có thể võ tu Phàm. | **Logic** — `03-demographics-pham-linh.md`. |
+| **Hữu linh căn** (有灵根) | Tiềm năng chân tu; chưa khai vẫn là phàm nhân. | **Logic** — Luật 9 · `03-demographics-pham-linh.md`. |
+| **Ẩn căn / Khô căn** | Biến thể **Phàm** (Mạt pháp) — khó đo / yếu. | **Logic** — `03-demographics-pham-linh.md` §2. |
 | **Luyện Thể Kỳ** (炼体) | 9 tầng: bì phu → cốt tủy → huyết mạch; võ tu, chưa linh lực. | **Power** — nhánh song hành Trúc Cơ. |
-| **Luyện Khí Kỳ** (炼气) | 12 tầng: khai mạch → khí hóa lỏng → 108 huyệt; cần **Linh Căn**. | **Power** — nhập môn; Tụ Khí/Tẩy Tủy đan. |
+| **Luyện Khí Kỳ** (炼气) | 12 tầng: khai mạch → khí hóa lỏng → 108 huyệt; cần **Linh Căn** — **ổn định trên Linh Giới** ( không cư trú lâu trên Phàm ). | **Power** — nhập môn chân tu; Tụ Khí/Tẩy Tủy đan. |
 | **Trúc Cơ Kỳ** (筑基) | Khí → lỏng; 200–300 năm; **Trúc Cơ Đan** / linh mạch. | **Power** + **Logic** — **nghẽn kinh tế then chốt**. |
 | **Kim Đan Kỳ** (金丹) | Ngưng đan; phẩm Hạ→Thiên Đan; Tâm ma hoặc 3 lôi nhẹ. | **Power** — “Lão Tổ một phương”. |
 | **Nguyên Anh Kỳ** (元婴) | Linh thai; Thuấn Di; **Lục Cửu Thiên Kiếp**. | **Power** — đoạt xá; phá đại thành. |
@@ -98,28 +101,63 @@
 | **Tản Tiên** (散仙) | Trạng thái sau **Cửu Cửu** thất bại còn sống; lôi kiếp định kỳ — **không** phải đại cảnh giới. | **Power** — §1.3. |
 | **Tiểu cảnh giới** | Sơ / Trung / Hậu / Đại Viên Mãn (Viên Mãn). | **Power** — pacing trong arc. |
 | **Đột phá** | Nhảy đại cảnh giới; luôn có điều kiện + rủi ro (đan, mạch, kiếp). | **Canon** — không thưởng “miễn phí”. |
-| **Phi Thăng** (飞升) | Vượt giới bích lên Tiên Giới sau Độ Kiếp. | **World** + **Logic** — mục tiêu chính trị Hạ Giới. |
+| **Phi Thăng** (飞升) | Vượt giới bích lên Tiên Giới sau Độ Kiếp. | **World** + **Logic** — mục tiêu chính trị **Linh Giới**. |
 
 ---
 
 ## F. Cõi giới & địa lý quyền lực
 
+> **Bốn giới song song (Luật 6):** **Phàm · Linh · Tiên · Thần** — **bốn vũ trụ song song**, cách nhau **giới bích**; **Thánh Nhân** **ngoài** bộ bốn. Chi tiết: `02-world-laws-lore-core.md` Luật 6.
+
+### F.1. Bốn giới song song `(invariant)`
+
 | Khái niệm | Diễn giải | Mục đích |
 | --- | --- | --- |
-| **Phàm Giới / Hạ Giới** | Linh khí mỏng; phàm nhân + tu sĩ thấp. | **World** — tranh tài nguyên. |
-| **Tiên Giới / Linh Giới / Thượng Giới** | Linh khí dào dạt, cao thủ. | **World** + **Power** — Tiên thạch, trần cao. |
-| **Ma Giới / Yêu Giới** | Không gian song song / vùng Ma–Yêu khí. | **World** — phe Ma, yêu đan. |
-| **Phụ bản / Bí cảnh** | Không gian thử thách, Cổ Khí, thường **mở chu kỳ**. | **Logic** — tranh cơ duyên, sát trận. |
-| **Quy mô sự kiện** (Event scale) | 5 cấp Logic: **I** nội tông → **V** giới/Thiên biến; gắn trần cảnh giới & thời gian arc. | **Logic** — outline; chi tiết `foundation/logic/01-event-scale-system.md` §1. |
+| **Phàm Giới** (凡界) | Vũ trụ song song — **Mạt pháp** (末法); linh khí mỏng/vô linh; **phàm nhân · võ tu / Luyện Thể**; **không** chân tu **cư trú** ( Luật 6a ). | **World** — stakes phàm; **Phàm–Linh** qua bích · Logic `02-pham-linh-interface.md`. |
+| **Linh Giới** (灵界) | Vũ trụ song song — **Thiên Địa Linh Khí**; **Luyện Khí → Độ Kiếp** (`03` §1.0). **Phàm nhân** ( vô + hữu căn chưa khai ) = **đa số dân**; **tu sĩ** = **thiểu số** — **chung cư trú** ( thành, mỏ, linh điền ). **Bạc phàm** (凡银) lưu hành tầng sinh hoạt phàm **song song** **linh thạch** tầng tu (`03` §3.1b · Luật 6b). | **World** + **Power** — linh mạch; **Linh–Tiên** phi thăng. |
+| **Tiên Giới** (仙界) | Vũ trụ song song — **Tiên Khí / Tiên Nguyên**; **Chân Tiên → Tiên Đế** (`03` §1.0). | **Power** — Tiên thạch, kiếp Tiên. |
+| **Thần Giới** (神界) | Vũ trụ song song — **Thần Khí**; đỉnh **bộ bốn** trước **Thánh Nhân**. | **World** + **Power** — **Tiên–Thần** giới bích. |
+| **Thánh Nhân** (圣人) | **Ngoài bộ bốn giới** — không đếm là giới thứ năm song song. | **Power** — `03` §1.3; không combat stats arc **Linh Giới** thường. |
+
+### F.2. Nhãn vận hành & thế giới con
+
+| Khái niệm | Diễn giải | Mục đích |
+| --- | --- | --- |
+| **Hạ Giới** (下界) | **Deprecated — không dùng trong canon mới.** Chỉ **alias lỗi thời** = **Phàm Giới** (凡界) khi gặp prose/nguồn cũ. **Không** gồm Linh Giới; **không** thay tên **Phàm / Linh / Tiên / Thần**. | **Interface** — migrate sang đúng tên giới. |
+| **Chư Thiên Vạn Giới** (诸天万界) | **Đa bộ** bốn giới — mỗi **thế giới con** có nhánh Phàm, Linh, Tiên, Thần liên **giới bích**. | **World** — epic scale; xuyên **Hư Không**. |
+| **Giới bích** (界壁) | Màng **giữa hai vũ trụ song song** ( Phàm–Linh, Linh–Tiên, Tiên–Thần ). | **Power** — xuyên giới, Cửu Cửu, Độ Kiếp. |
+| **Mạt pháp** (末法) | Trạng thái **Phàm Giới** — linh khí cạn; **không** môi trường chân tu lâu dài. | **World** — Luật 6a; võ tu vs Linh. |
+| **Thiên phạt Phàm** (天罚凡界) | Phản ứng Thiên đạo khi **linh lực / chân tu** tồn tại lâu trên Phàm: đào thải, lôi, xóa dị vật, ép phế tu / rút lui. | **World** — Linh xuống Phàm; ngoại lệ Luật 6a. |
+| **Chân tu** (真修) | Tu **Luyện Khí+** với linh lực ổn định — **lộ trình chính trên Linh Giới**, không cư trú Phàm. | **World** + **Power** — phân biệt võ tu / Luyện Thể. |
+| **Phá Toái Hư Không** (破碎虚空) | Võ cực / thân thể **nứt bích** Phàm–Linh tại điểm yếu — con đường võ tu sang Linh ( Logic `02-pham-linh-interface.md` ). | **Logic** — arc Phàm đỉnh. |
+| **Thần Lộ cổ** (古神路) | Lối **cố định** / di tích nối Phàm–Linh ( khế, sổ ) — neo crack TM / Cửu Lạc. | **Logic** + **World** — không thay Cửu Cửu. |
+| **Pháp bảo tiếp dẫn** (接引法宝) | Bảo vật **một lần** ( hoặc hữu hạn ) dẫn qua bích / kích linh căn — **gián tiếp**, không cư trú chân tu Phàm. | **Logic** — cơ duyên MC. |
+| **Thần niệm mộng** (神念梦) | Thần thức Linh **gửi** chỉ dẫn / ảnh vào mộng phàm — **không** thay sư trực tiếp trên Linh. | **Logic** — foreshadow; không truyền đủ Trúc Cơ chỉ bằng mộng. |
+| **Thượng Giới** | **Cách nói cũ / mơ hồ** (“lên giới trên”) — **không** dùng thay **Linh / Tiên / Thần Giới** trong canon Foundation. Bộ bốn chính thức: **Phàm · Linh · Tiên · Thần** ( F.1 ). | **Interface** — tránh gộp nhầm. |
+
+### F.3. Không thuộc bộ bốn giới (cõi phụ & hư không)
+
+| Khái niệm | Diễn giải | Mục đích |
+| --- | --- | --- |
+| **Minh Giới** (冥界) | Cõi **phụ** — luân hồi, âm, vong hồn; **không** vũ trụ song song thứ năm trên lộ trình Phàm→Thần. | **World** — Luật 4; hậu quả sát phàm. |
+| **Tiểu Thiên Thế Giới** (小千世界) | **Pocket heaven** — gắn tu sĩ/tông; luật riêng; **không** thay Tiên/Thần. | **Logic** — cơ duyên, bế quan. |
+| **Vực Ngoại** (域外) | **Không gian vũ trụ liên giới** — biên vực, chiến trường, dị thú **giữa** các giới song song. | **World** — du hành, crack. |
+| **Hư Không Giới** (虚空界) | **Hư không liên giới** — truyền tống, đi **qua / giữa** Phàm–Linh–Tiên–Thần; **không** giới tu. | **World** — nối Chư Thiên / Ma nhánh. |
+
+### F.4. Neo bên cạnh bốn giới & địa lý quyền lực
+
+| Khái niệm | Diễn giải | Mục đích |
+| --- | --- | --- |
+| **Ma Giới / Yêu Giới** | Vùng **Ma Khí / Yêu Khí** — nhánh riêng hoặc biên một giới; **không** thay Phàm/Linh/Tiên/Thần. | **World** — phe Ma, yêu đan. |
+| **Phụ bản / Bí cảnh** | Pocket — Cổ Khí, sát trận; mở **từ** Phàm, Linh, hoặc Tiên. | **Logic** — tranh cơ duyên. |
+| **Quy mô sự kiện** (Event scale) | 5 cấp Logic: **I** nội tông → **V** giới bích / Thiên biến; gắn trần cảnh giới & thời gian arc. | **Logic** — `foundation/logic/01-event-scale-system.md` §1. |
 | **Bí cảnh chung** (公共秘境) | Bí cảnh **đa phe**, mở chu kỳ hoặc tranh quyền vào; loot cao, rủi ro backstab & phá phong ấn. | **Logic** + **World** — quy mô **III**; taxonomy §3 Logic. |
-| **Chư Thiên Vạn Giới** | Đa đại lục / tinh cầu. | **World** — scale epic; du hành cao cấp. |
-| **Linh mạch** (灵脉) | Mạch khí tự nhiên; **Động Thiên Phúc Địa** = mạch dồi. | **World** + **Power** — chiến tranh tông/gia tộc. |
+| **Linh mạch** (灵脉) | Mạch khí tự nhiên; **Động Thiên Phúc Địa** = mạch dồi ( chủ yếu **Linh Giới**; Phàm Giới hiếm / nhập khẩu ). | **World** + **Power** — chiến tranh tông/gia tộc. |
 | **Động Thiên Phúc Địa** (洞天福地) | Danh sơn, lãnh địa môn phái/gia tộc. | **World** — monopolize tu luyện. |
 | **Thành trì tu tiên** | Giao thương, đấu giá; **cấm tàn sát công khai** (ổn định thương mại). | **World** — an toàn tương đối; hắc thị ngoài thành. |
 | **Cấm địa / Vùng đất chết** | Yêu thú cao, độc, di tích Thần Ma. | **Logic** — cơ duyên, tàn ma. |
 | **Bí cảnh / Cổ tích** | Truyền thừa, linh dược, phong ấn. | **Logic** — phục bút, mở sớm muộn. |
 | **Phế địa** | Di tích đại chiến; khí cao nhưng loạn. | **World** `[bổ sung sáng tác]` — hook cổ. |
-| **Giới bích / Ranh giới giới** | Rào giữa Hạ Giới–Thượng Giới; phá để phi thăng. | **Power** — điều kiện Độ Kiếp. |
 
 ---
 
@@ -167,6 +205,8 @@
 | **Thuấn Di** (瞬移) | Dịch chuyển ngắn (Nguyên Anh+). | **Power** — không spam ở tầng thấp. |
 | **Vượt cấp** | Pháp bảo cao hơn, đan bạo, trận, huyết mạch, địa lợi — **có giới hạn**. | **Canon** — không one-shot vô lý. |
 | **Phù lục** (符箓) | Bùa tăng sát thương/phòng thủ tức thời. | **Interface** — Luyện Khí sơ kỳ; `06-phu-luc.md`. |
+| **Phế tu** (废修) | Tu vi **Luyện Khí–Trúc Cơ yếu hoặc kẹt** ( phong ấn, tổn căn, linh căn kém ) — **không** mất khả năng phụ nghề nếu thần thức / tay nghề còn. | **Power** — pacing với phù cao phẩm (`03` §3.5); không inflation đại cảnh giới. |
+| **Bí phổ phù gia tộc** (族符谱) | Ấn pháp + phù mẫu **cấm ngoại truyền** gắn huyết mạch / khế tộc. | **Power** — catalog slot `06` §9.1; promotion theo `work_slug`. |
 
 ---
 
@@ -213,6 +253,8 @@
 | 9 luật, Nhân–Quả, phe, timeline, hook | `foundation/core/02-world-laws-lore-core.md` |
 | Bảng cảnh giới, đan, pháp bảo, kinh tế | `foundation/core/03-power-system-economy-core.md` |
 | Quy mô sự kiện, bí cảnh, nhiệm vụ tông (Logic) | `foundation/logic/01-event-scale-system.md` |
+| Phàm ↔ Linh — võ tu, crack, Thiên phạt (Logic) | `foundation/logic/02-pham-linh-interface.md` |
+| Nhân khẩu phàm–tu · linh căn (Logic) | `foundation/logic/03-demographics-pham-linh.md` |
 | Logic Layer vs Core | `foundation/logic/README.md` |
 | Thần thông, công pháp, thuật, tiêu hao §0 | `foundation/resources/09-shentong-va-cong-phap.md` |
 | Catalog trận pháp (17 mẫu) | `foundation/resources/08-tran-phap.md` |

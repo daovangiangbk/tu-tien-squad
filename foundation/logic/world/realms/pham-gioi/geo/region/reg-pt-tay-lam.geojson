@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-PT-TAY-LAM-RUNG",
+  "world:region_id": "REG-PT-TAY-LAM",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-PT-TAY-LAM",
+  "world:parent_file": "chau-luc/chl-phu-tao.geojson",
+  "world:parent_coordinates": [
+    148.3,
+    408.4
+  ],
+  "world:coordinateNote": "Vùng Tây Lâm · gốc LOC-PT-TAY-LAM-RUNG [0,0]; neo parent (148.3,408.4) trên chl-phu-tao.geojson.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-PT-TAY-LAM-AREA",
+        "name_vi": "Phạm vi TAY LAM",
+        "kind": "wilderness",
+        "visibility": "public",
+        "linh_khi_tier": "cực_mỏng"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90,
+              70
+            ],
+            [
+              90,
+              70
+            ],
+            [
+              90,
+              -70
+            ],
+            [
+              -90,
+              -70
+            ],
+            [
+              -90,
+              70
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-PT-TAY-LAM-RUNG",
+        "name_vi": "Tây Lâm · rừng đầm",
+        "name_hv": "西林",
+        "kind": "hub",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-PT-TAY-LAM-TRAM",
+        "name_vi": "Trạm biên · nam",
+        "name_hv": "驿站",
+        "kind": "settlement",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15,
+          -55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-PT-TAY-LAM-CANH",
+        "name_vi": "Tháp canh · đông",
+        "name_hv": "望塔",
+        "kind": "settlement",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42,
+          22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-PT-TAY-LAM-RIM",
+        "name_vi": "Vành địa · rìa",
+        "name_hv": "缘障",
+        "kind": "barrier",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75,
+              58
+            ],
+            [
+              75,
+              60
+            ],
+            [
+              72,
+              68
+            ],
+            [
+              -72,
+              65
+            ],
+            [
+              -75,
+              58
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-PT-KHE-U",
+        "name_vi": "Khe U",
+        "name_hv": "幽谷",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Shared id; parent chl (280.0, 560.0)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.7,
+          151.60000000000002
+        ]
+      }
+    }
+  ]
+}

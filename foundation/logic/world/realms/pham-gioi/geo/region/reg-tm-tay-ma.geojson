@@ -1,0 +1,392 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-TM-MA-UUYEN",
+  "world:region_id": "REG-TM-TAY-MA",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-TM-TAY-MA",
+  "world:parent_file": "chau-luc/chl-tan-mo.geojson",
+  "world:parent_coordinates": [
+    177.0,
+    588.0
+  ],
+  "world:coordinateNote": "Vùng Tây Ma · gốc LOC-TM-MA-UUYEN [0,0]; neo parent (177,588) centroid REG; E-PHAM-MA-PATCH · SUB-PATCH-MA-TAN-MO; shared LOC-TM-KHE-GIOI [-101,-248].",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-TM-TAY-MA-AREA",
+        "name_vi": "Phạm vi Tây Ma",
+        "name_hv": "西魔域",
+        "kind": "wilderness",
+        "visibility": "hidden_logic",
+        "linh_khi_tier": "ma_khi_vệt",
+        "notes": "Vệt Ma khí; không Ma Giới đầy đủ (06-subsidiary-realms)."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -42,
+              28
+            ],
+            [
+              38,
+              30
+            ],
+            [
+              40,
+              -32
+            ],
+            [
+              -40,
+              -30
+            ],
+            [
+              -42,
+              28
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-MA-UUYEN",
+        "name_vi": "Ma Uyên · lõi vệt",
+        "name_hv": "魔渊",
+        "kind": "hub",
+        "visibility": "hidden_logic",
+        "notes": "Hub vùng; SUB-PATCH-MA-TAN-MO."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-MA-PHONG",
+        "name_vi": "Phong ấn · đá nứt",
+        "name_hv": "魔封",
+        "kind": "dungeon",
+        "visibility": "hidden_logic",
+        "direction_label": "Trung tâm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-MA-CANH",
+        "name_vi": "Trạm canh · nam",
+        "name_hv": "魔哨",
+        "kind": "settlement",
+        "visibility": "public",
+        "faction": "Quan ải Tàn Mộ",
+        "notes": "Canh khi ma khí tăng; liên Khe."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8,
+          -22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-KHE-GIOI",
+        "name_vi": "Khe Giới · cửa vết nứt",
+        "name_hv": "界隙",
+        "kind": "hub",
+        "visibility": "hidden_logic",
+        "notes": "Shared id; parent (76,340)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.0,
+          -248.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-MA-VET-LINK",
+        "name_vi": "Vệt Ma · sát khe",
+        "name_hv": "魔迹",
+        "kind": "wilderness",
+        "visibility": "hidden_logic",
+        "notes": "Neo logic LOC-TM-MA-VET trên Khe Giới; cùng patch."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28,
+          -185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-TM-MA-BICH",
+        "name_vi": "Bích đá · tây",
+        "name_hv": "魔壁",
+        "kind": "barrier",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -38,
+              18
+            ],
+            [
+              -32,
+              18
+            ],
+            [
+              -30,
+              -18
+            ],
+            [
+              -36,
+              -18
+            ],
+            [
+              -38,
+              18
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-TAY-KHE",
+        "name_vi": "Biên đạo Khe Giới",
+        "name_hv": "界隙魔道",
+        "kind": "route",
+        "visibility": "hidden_logic",
+        "from_id": "LOC-TM-MA-UUYEN",
+        "to_id": "LOC-TM-KHE-GIOI",
+        "hazard": "ma khí; không lộ trình quan",
+        "travel_days_walk": "2-3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -35,
+            -95
+          ],
+          [
+            -75,
+            -175
+          ],
+          [
+            -101,
+            -248
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-TAY-CO-TU",
+        "name_vi": "Rìa Cổ Tu",
+        "name_hv": "古墟魔缘",
+        "kind": "route",
+        "visibility": "hidden_logic",
+        "from_id": "LOC-TM-MA-UUYEN",
+        "to_id": "LOC-TM-CO-TU",
+        "hazard": "ma + cát",
+        "travel_days_walk": "4-5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            45,
+            18
+          ],
+          [
+            95,
+            28
+          ],
+          [
+            173,
+            32
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-CO-TU",
+        "name_vi": "Cổ Tu · trung tâm di tích",
+        "name_hv": "古墟",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Shared id; parent (350,620)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.0,
+          32.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-MA-DAN",
+        "name_vi": "Mỏ ma sa · lộ",
+        "name_hv": "魔砂",
+        "kind": "resource",
+        "visibility": "hidden_logic",
+        "notes": "Ma tu thu gom — Thiên oán."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22,
+          -8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-MA-TU",
+        "name_vi": "Am tu · tàn dư",
+        "name_hv": "魔庵",
+        "kind": "settlement",
+        "visibility": "hidden_logic",
+        "faction": "Ma tu lẻ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18,
+          12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RIVER-TM-MA-CAN",
+        "name_vi": "Khe khô · rìa ma",
+        "name_hv": "魔涸",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-MA-CANH",
+        "to_id": "LOC-TM-MA-VET-LINK",
+        "hazard": "ma khí"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8,
+            -22
+          ],
+          [
+            -15,
+            -85
+          ],
+          [
+            -28,
+            -185
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-SA-HAI-RIM-W",
+        "name_vi": "Rìa Sa Hải · tây",
+        "name_hv": "沙海西缘",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Đông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          388,
+          -256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-TAY-SA",
+        "name_vi": "Biên Sa Hải",
+        "name_hv": "沙海魔界",
+        "kind": "route",
+        "visibility": "mc_phase1",
+        "from_id": "LOC-TM-MA-UUYEN",
+        "to_id": "LOC-TM-SA-HAI-RIM-W",
+        "hazard": "cát + ma",
+        "travel_days_walk": "3-4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            120,
+            -85
+          ],
+          [
+            250,
+            -180
+          ],
+          [
+            388,
+            -256
+          ]
+        ]
+      }
+    }
+  ]
+}

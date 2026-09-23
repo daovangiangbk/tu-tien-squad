@@ -1,0 +1,168 @@
+{
+  "continent": "Phù Viên đại lục",
+  "canvas": {
+    "unit": "story_grid",
+    "grid_snap": 1,
+    "y_axis": "north",
+    "border_roughness": "high",
+    "border_segments": 22,
+    "border_amp_internal": 10,
+    "border_seed": 20260917
+  },
+  "regions": [
+    {
+      "id": "REG-DA-LUC-NEN",
+      "name": "Phù Viên · nền đại lục",
+      "dimensions": { "width": 1000, "length": 1000 },
+      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "properties": {
+        "kind": "wilderness",
+        "visibility": "hidden_logic",
+        "border_style": "straight",
+        "fill_remainder": true,
+        "notes": "Lớp nền — clip vỏ lục"
+      }
+    },
+    {
+      "id": "REG-GIA-TOC-PHU-GIAU",
+      "name": "Địa phận Thẩm thị · Phù Lĩnh · phù gia phú",
+      "dimensions": { "width": 480, "length": 300 },
+      "anchor": { "type": "absolute", "x": 72, "y": 168 },
+      "properties": {
+        "name_hv": "符富域",
+        "kind": "polity",
+        "linh_khi_tier": "trung_cao",
+        "event_scale": "II-III",
+        "visibility": "public",
+        "notes": "Trước thảm sát cửu địch; Phù các · linh điền · công thức tộc"
+      }
+    },
+    {
+      "id": "REG-TAY-LAM",
+      "name": "Tây Lam · rừng biên phù gia",
+      "dimensions": { "width": 72, "length": 300 },
+      "anchor": { "type": "relative", "ref_id": "REG-GIA-TOC-PHU-GIAU", "edge": "left", "align": "top" },
+      "properties": {
+        "name_hv": "西林",
+        "kind": "wilderness",
+        "visibility": "mc_phase1",
+        "notes": "Tuyến thoát / phế tích sau biến cố"
+      }
+    },
+    {
+      "id": "BRR-PHU-LINH",
+      "name": "Phù Lĩnh · long mạch phù",
+      "dimensions": { "width": 44, "length": 340 },
+      "anchor": { "type": "relative", "ref_id": "REG-GIA-TOC-PHU-GIAU", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "符岭",
+        "kind": "barrier",
+        "notes": "Rào cản; cửu địch từng đè từ phía đông bắc"
+      }
+    },
+    {
+      "id": "CHAU-THANH-PHU-VIEN",
+      "name": "Châu thành phù · Thanh Phù Thành",
+      "dimensions": { "width": 380, "length": 300 },
+      "anchor": { "type": "relative", "ref_id": "BRR-PHU-LINH", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "符城洲",
+        "kind": "polity",
+        "linh_khi_tier": "trung_bình",
+        "event_scale": "III",
+        "visibility": "public",
+        "notes": "Arc 2 — ma tu luyện huyết · bắt cóc; quan phủ · hắc thị"
+      }
+    },
+    {
+      "id": "REG-BIEN-CUU-DICH",
+      "name": "Biên cửu địch · áp lực bắc",
+      "dimensions": { "width": 1000, "length": 76 },
+      "anchor": { "type": "absolute", "x": 0, "y": 552 },
+      "properties": {
+        "name_hv": "仇敌边",
+        "kind": "wilderness",
+        "event_scale": "III-IV",
+        "visibility": "mc_phase1",
+        "notes": "Silhouette cửu địch; không lộ danh trên atlas"
+      }
+    },
+    {
+      "id": "REG-NAM-HOANG-DUONG",
+      "name": "Nam hoang · đường vào giang hồ",
+      "dimensions": { "width": 480, "length": 100 },
+      "anchor": { "type": "relative", "ref_id": "REG-GIA-TOC-PHU-GIAU", "edge": "bottom", "align": "start" },
+      "properties": {
+        "name_hv": "南荒道",
+        "kind": "wilderness",
+        "linh_khi_tier": "thấp",
+        "visibility": "public",
+        "notes": "Tuyến MC sau biến cố — giang hồ rộng hơn"
+      }
+    },
+    {
+      "id": "REG-DONG-HAI-RONG",
+      "name": "Đông Hải dung · cửa biển",
+      "dimensions": { "width": 72, "length": 280 },
+      "anchor": { "type": "relative", "ref_id": "CHAU-THANH-PHU-VIEN", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "东海容",
+        "kind": "wilderness",
+        "visibility": "hidden_logic",
+        "notes": "Thương nhân · linh vật nhập; expansion"
+      }
+    },
+    {
+      "id": "REG-NOI-DONG",
+      "name": "Nội đông · mạch trung bình",
+      "dimensions": { "width": 380, "length": 140 },
+      "anchor": { "type": "relative", "ref_id": "CHAU-THANH-PHU-VIEN", "edge": "bottom", "align": "start" },
+      "properties": {
+        "name_hv": "内东",
+        "kind": "wilderness",
+        "linh_khi_tier": "trung_bình",
+        "visibility": "hidden_logic",
+        "notes": "Gia tộc vừa · slot arc 3 giang hồ"
+      }
+    }
+  ],
+  "entities": [
+    {
+      "id": "RIVER-PHU-JIANG",
+      "name": "Phù Giang",
+      "type": "river",
+      "properties": { "name_hv": "符江", "kind": "route" },
+      "control_points": [
+        { "x": 280, "y": 420 },
+        { "x": 340, "y": 320 },
+        { "x": 520, "y": 280 },
+        { "x": 680, "y": 240 }
+      ],
+      "roughness": "high"
+    },
+    {
+      "id": "LOC-GIA-TOC-HUB",
+      "name": "Thẩm thị · Phù Lĩnh · trung tâm lệnh",
+      "type": "point",
+      "properties": {
+        "name_hv": "族令",
+        "kind": "hub",
+        "event_scale": "III",
+        "notes": "Neo region reg-gia-toc-phu-vuc; trước thảm sát"
+      },
+      "coordinates": { "x": 312, "y": 318 }
+    },
+    {
+      "id": "LOC-THANH-PLACEHOLDER",
+      "name": "Thanh Phù Thành",
+      "type": "point",
+      "properties": {
+        "name_hv": "城",
+        "kind": "hub",
+        "event_scale": "III",
+        "notes": "Arc 2 ma tu đô thị; region chi tiết deferred micro"
+      },
+      "coordinates": { "x": 780, "y": 318 }
+    }
+  ]
+}

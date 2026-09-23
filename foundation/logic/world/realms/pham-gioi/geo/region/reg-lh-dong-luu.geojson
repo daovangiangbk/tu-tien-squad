@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-LH-DONG-LUU-TRAM",
+  "world:region_id": "REG-LH-DONG-LUU",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-LH-DONG-LUU",
+  "world:parent_file": "chau-luc/chl-lo-hang.geojson",
+  "world:parent_coordinates": [
+    688.5,
+    218.4
+  ],
+  "world:coordinateNote": "Vùng Đông Lưu · hành lang thương · gốc LOC-LH-DONG-LUU-TRAM [0,0]; neo parent (688.5,218.4) trên chl-lo-hang.geojson.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-LH-DONG-LUU-AREA",
+        "name_vi": "Phạm vi DONG LUU",
+        "kind": "wilderness",
+        "visibility": "public",
+        "linh_khi_tier": "cực_mỏng"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90,
+              70
+            ],
+            [
+              90,
+              70
+            ],
+            [
+              90,
+              -70
+            ],
+            [
+              -90,
+              -70
+            ],
+            [
+              -90,
+              70
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LH-DONG-LUU-TRAM",
+        "name_vi": "Đông Lưu · trạm neo",
+        "name_hv": "东流",
+        "kind": "hub",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LH-DONG-LUU-TRAM",
+        "name_vi": "Trạm biên · nam",
+        "name_hv": "驿站",
+        "kind": "settlement",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15,
+          -55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LH-DONG-LUU-CANH",
+        "name_vi": "Tháp canh · đông",
+        "name_hv": "望塔",
+        "kind": "settlement",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42,
+          22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-LH-DONG-LUU-RIM",
+        "name_vi": "Vành địa · rìa",
+        "name_hv": "缘障",
+        "kind": "barrier",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75,
+              58
+            ],
+            [
+              75,
+              60
+            ],
+            [
+              72,
+              68
+            ],
+            [
+              -72,
+              65
+            ],
+            [
+              -75,
+              58
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LH-THUONG-HOI",
+        "name_vi": "Thương hội · trạm",
+        "name_hv": "商会",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Shared id; parent chl (520.0, 380.0)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -168.5,
+          161.6
+        ]
+      }
+    }
+  ]
+}

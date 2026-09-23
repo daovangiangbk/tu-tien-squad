@@ -1,0 +1,163 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "micro",
+  "world:work_slug": "than-phu",
+  "world:hub_id": "LOC-THANH-PLACEHOLDER",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "CHL-PHU-VIEN",
+  "world:parent_file": "chau-luc/chl-phu-vien.geojson",
+  "world:parent_coordinates": [780, 318],
+  "world:tieu_cuc_id": "TC-TP-003",
+  "world:coordinateNote": "Micro · Thanh Phù Thành Arc 2; gốc LOC-THANH-PLACEHOLDER trên chl-phu-vien (780,318); region reg-thanh-phu-vien deferred.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-THANH-PLACEHOLDER",
+        "name_vi": "Thanh Phù Thành · trung tâm",
+        "name_hv": "青符城",
+        "kind": "hub",
+        "visibility": "public",
+        "event_scale": "III",
+        "faction": "Thành chủ · quan phủ",
+        "notes": "Arc 2; đăng ký tán tu · khế · thuế · ch.36–75"
+      },
+      "geometry": { "type": "Point", "coordinates": [0, 0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-CO-NAM-DONG",
+        "name_vi": "Cổng chính · nam đông · Phù Giang",
+        "name_hv": "南东门",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Nam · Đông",
+        "notes": "Bến lớn sáng sớm; phí vào · ch.33–35"
+      },
+      "geometry": { "type": "Point", "coordinates": [14, -18] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-BEN-PHU-GIANG-LON",
+        "name_vi": "Bến lớn · Phù Giang",
+        "name_hv": "符江大埠",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Nam",
+        "parent_id": "LOC-CO-NAM-DONG",
+        "notes": "Thương nhân · mực · tin broker · ch.35"
+      },
+      "geometry": { "type": "Point", "coordinates": [18, -22] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-THIEN-PHU-FEN-DIEM",
+        "name_vi": "Thiên Phù Các · Thanh Phù phân điếm",
+        "name_hv": "天符阁青符分堂",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Bắc · trong thành",
+        "faction": "Thiên Phù Các",
+        "notes": "Hộ khám phù · xám quan phủ · ch.36–40"
+      },
+      "geometry": { "type": "Point", "coordinates": [-8, 12] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-QUAN-PHU-THANH",
+        "name_vi": "Quan phủ · nha môn",
+        "name_hv": "府衙",
+        "kind": "polity",
+        "visibility": "public",
+        "direction_label": "Tây · trung thành",
+        "notes": "Cấm đấu danh nghĩa; hối lộ che ma tu · ch.63–68"
+      },
+      "geometry": { "type": "Point", "coordinates": [-16, 4] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-NGOAI-TRAI-THANH",
+        "name_vi": "Ngoại trại · cổng phụ",
+        "name_hv": "外营",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Tây · ngoại thành",
+        "notes": "Tán tu chen chúc · Mộ Thanh Y dừng · ch.31"
+      },
+      "geometry": { "type": "Point", "coordinates": [-22, -6] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-XUONG-MAI-PHU",
+        "name_vi": "Xưởng mài phù · ngoại thành thấp",
+        "name_hv": "磨符坊",
+        "kind": "resource",
+        "visibility": "mc_phase1",
+        "direction_label": "Đông",
+        "notes": "Thu phế tu · phù then chốt · ch.34"
+      },
+      "geometry": { "type": "Point", "coordinates": [10, -8] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-U-NGO-MAU",
+        "name_vi": "U Ngõ · cửa hẹp ngoại thành",
+        "name_hv": "幽巷口",
+        "kind": "barrier",
+        "visibility": "mc_phase1",
+        "direction_label": "Tây Bắc · ngoại thành",
+        "notes": "Chi tiết hắc thị → micro TC-TP-004 · ch.35"
+      },
+      "geometry": { "type": "Point", "coordinates": [-12, -8] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-PHU-GIANG-VAO-THANH",
+        "name_vi": "Tuyến bến · vào trung thành",
+        "name_hv": "入城道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-BEN-PHU-GIANG-LON",
+        "to_id": "LOC-THANH-PLACEHOLDER",
+        "hazard": "truy binh · thu phí danh",
+        "notes": "Ải Phù Lĩnh hướng tây bắc xa · ch.32–35"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[18, -22], [12, -14], [6, -6], [0, 0]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "POLY-THANH-PHU-CORE",
+        "name_vi": "Thành xanh · lõi quan phủ (thô)",
+        "name_hv": "城域",
+        "kind": "polity",
+        "visibility": "public",
+        "notes": "Polygon tham chiếu CHAU-THANH-PHU-VIEN; hắc thị ngoài vòng"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-28, 22],
+            [24, 24],
+            [26, -28],
+            [-30, -26],
+            [-28, 22]
+          ]
+        ]
+      }
+    }
+  ]
+}

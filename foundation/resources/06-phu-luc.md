@@ -173,6 +173,18 @@
 **Phân cấp phù:** Hạ → Trung → Thượng → Cực → **Thiên Phù** (song song công pháp Hoàng→Thiên của phù sư).  
 **Cột «Dùng»:** số lần **kích phát** hiệu lực **tối đa** (ước) trước phế — **mỗi lần vẫn hao thần người dùng**.
 
+### 9.1. Khung bí phổ phù gia tộc (族符谱)
+
+**Invariant:** `../core/03-power-system-economy-core.md` §3.5 · **cấm ngoại truyền**; không thay một **đại cảnh giới**. Vật liệu mực / linh sa: `07-yeu-dan-va-vat-lieu.md` ( không nhân bản bảng vật liệu ở đây ).
+
+| Tên (placeholder) | Cấp (ước) | Nguồn | Công dụng | Dùng | Cảnh giới | Trade-off |
+| --- | --- | --- | --- | --- | --- | --- |
+| **`[bổ sung sáng tác]` work_slug — Ấn môn / truyền thừa** | Hoàng–Huyền ( ấn pháp ) | Gia tộc phù; khế huyết | Dẫn khí theo **nét phù tộc**; điều kiện mở slot (a) | — ( không phải phù tiêu hao ) | LK+ người được truyền | Lộ ấn → truy sát tộc; phế nhánh **không** đủ ấn |
+| **`[bổ sung sáng tác]` work_slug — Phù hộ thân sinh tồn hạ phẩm** | Hạ–Trung phù | Bí phổ nội bộ; tự vẽ / đúc hạn | Màn, giảm sát thương, thoát hiểm ngắn | 1–3 lần kích | LK–Trúc Cơ ( phế tu vẫn dùng được ) | Hao thần; vật liệu `07`; không cứu Kim Đan ổn định |
+| **`[bổ sung sáng tác]` work_slug — Phù truy kích / điều tra hạ phẩm** | Hạ–Trung | Bí phổ nội bộ | Dò khí Ma, ấn theo dấu, truyền tin khẩn | 1–2 lần | LK+ | Ma biến thể → **Nghiệp**; lộ phù → lộ tộc |
+
+*Promotion:* Khi chốt `work_slug`, thay placeholder bằng tên registry; giữ cột & trade-off — **không** đưa tên tác phẩm vào `foundation/core/`.
+
 | Tên | Cấp | Nguồn | Công dụng | Dùng | Cảnh giới |
 | --- | --- | --- | --- | --- | --- |
 | **Hỏa Cầu Phù** (火球符) `[bổ sung sáng tác]` | Hạ | Phù sư / đúc sẵn | Hỏa cầu cơ bản | 1 lần | LK 1–6 |

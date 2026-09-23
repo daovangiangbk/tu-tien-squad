@@ -1,0 +1,208 @@
+{
+  "continent": "Cửu Lạc đại lục",
+  "canvas": {
+    "unit": "story_grid",
+    "grid_snap": 1,
+    "y_axis": "north",
+    "border_roughness": "high",
+    "border_segments": 20,
+    "border_amp_internal": 10,
+    "border_seed": 2026091811
+  },
+  "regions": [
+    {
+      "id": "REG-DA-LUC-NEN",
+      "name": "Cửu Lạc · nền đại lục",
+      "dimensions": { "width": 1000, "length": 1000 },
+      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "properties": {
+        "kind": "wilderness",
+        "visibility": "hidden_logic",
+        "border_style": "straight",
+        "fill_remainder": true,
+        "linh_khi_tier": "dày"
+      }
+    },
+    {
+      "id": "REG-CL-NAM-HAI",
+      "name": "Nam Hải đài",
+      "dimensions": { "width": 480, "length": 72 },
+      "anchor": { "type": "absolute", "x": 260, "y": 28 },
+      "properties": {
+        "name_hv": "南海台",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "public",
+        "notes": "Cửa biển đông nam — phi thuyền từ Vân Hải"
+      }
+    },
+    {
+      "id": "REG-CL-PHAM-KHE",
+      "name": "Phàm Khe",
+      "dimensions": { "width": 180, "length": 160 },
+      "anchor": { "type": "absolute", "x": 40, "y": 40 },
+      "properties": {
+        "name_hv": "凡隙",
+        "kind": "dungeon",
+        "linh_khi_tier": "lệch_mỏng",
+        "visibility": "mc_phase1",
+        "notes": "Crack Phàm–Linh (slot E-LINH-PHAM-CRACK) — linh khí mỏng cục bộ; có thể gap coastline"
+      }
+    },
+    {
+      "id": "REG-CL-LAC-HE",
+      "name": "Lạc Hà hội",
+      "dimensions": { "width": 400, "length": 180 },
+      "anchor": { "type": "relative", "ref_id": "REG-CL-NAM-HAI", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "洛河汇",
+        "kind": "wilderness",
+        "linh_khi_tier": "rất_dày",
+        "visibility": "public",
+        "notes": "Cửu sông hội — mạch công cộng Cửu Lạc"
+      }
+    },
+    {
+      "id": "REG-CL-LAC-TAM",
+      "name": "Lạc Tam trì",
+      "dimensions": { "width": 200, "length": 120 },
+      "anchor": { "type": "relative", "ref_id": "REG-CL-LAC-HE", "edge": "top", "align": "center" },
+      "properties": {
+        "name_hv": "洛三池",
+        "kind": "resource",
+        "linh_khi_tier": "mach_chủ",
+        "visibility": "public",
+        "notes": "Trì linh trung tâm — nuôi đan dược hạng cao"
+      }
+    },
+    {
+      "id": "REG-CL-CUU-KHAU",
+      "name": "Cửu Khẩu đài",
+      "dimensions": { "width": 280, "length": 140 },
+      "anchor": { "type": "relative", "ref_id": "REG-CL-LAC-TAM", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "九口台",
+        "kind": "polity",
+        "linh_khi_tier": "dong_phu_T3",
+        "visibility": "public",
+        "notes": "Phi thăng lore (slot E-LINH-ASCENSION-GATE) — Cửu Cửu chu kỳ; hub LOC-CL-CUU-KHAU"
+      }
+    },
+    {
+      "id": "REG-CL-TAN-TIEN",
+      "name": "Tàn Tiên đài",
+      "dimensions": { "width": 200, "length": 200 },
+      "anchor": { "type": "relative", "ref_id": "REG-CL-LAC-HE", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "残仙台",
+        "kind": "dungeon",
+        "linh_khi_tier": "tiên_khí_vệt",
+        "visibility": "hidden_logic",
+        "notes": "Tản Tiên di tích — vệt Tiên khí, không phải Tiên Giới"
+      }
+    },
+    {
+      "id": "REG-CL-DONG-LAC",
+      "name": "Đông Lạc · đảo phía đông",
+      "dimensions": { "width": 140, "length": 360 },
+      "anchor": { "type": "relative", "ref_id": "REG-CL-TAN-TIEN", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "东洛",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "REG-CL-TAY-DAO",
+      "name": "Tây Đảo · liên đảo",
+      "dimensions": { "width": 160, "length": 320 },
+      "anchor": { "type": "absolute", "x": 40, "y": 220 },
+      "properties": {
+        "name_hv": "西岛",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "public",
+        "notes": "Đảo nhỏ tây — yêu thú biên"
+      }
+    },
+    {
+      "id": "BRR-CL-CUU-SON",
+      "name": "Dãy Cửu Sơn",
+      "dimensions": { "width": 48, "length": 280 },
+      "anchor": { "type": "absolute", "x": 220, "y": 380 },
+      "properties": {
+        "name_hv": "九山",
+        "kind": "barrier",
+        "linh_khi_tier": "mach_rải_cao",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "REG-CL-BAC-PHONG",
+      "name": "Bắc Phong · đài gió",
+      "dimensions": { "width": 280, "length": 72 },
+      "anchor": { "type": "relative", "ref_id": "REG-CL-CUU-KHAU", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "北风",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "public",
+        "notes": "Hướng Ngọc Lâm — gió linh mạnh"
+      }
+    }
+  ],
+  "entities": [
+    {
+      "id": "LOC-CL-CUU-KHAU",
+      "name": "Cửu Khẩu · phi thăng",
+      "type": "point",
+      "coordinates": { "x": 380, "y": 620 },
+      "properties": {
+        "name_hv": "九口",
+        "kind": "hub",
+        "visibility": "public",
+        "linh_khi_tier": "dong_phu_T3"
+      }
+    },
+    {
+      "id": "RIVER-CL-CUU-LAC",
+      "name": "Cửu Lạc hà",
+      "type": "river",
+      "properties": {
+        "name_hv": "九洛河",
+        "kind": "route",
+        "from_id": "REG-CL-CUU-KHAU",
+        "to_id": "REG-CL-NAM-HAI",
+        "hazard": "mạch_hội"
+      },
+      "control_points": [
+        { "x": 400, "y": 600 },
+        { "x": 420, "y": 480 },
+        { "x": 390, "y": 380 },
+        { "x": 410, "y": 280 },
+        { "x": 400, "y": 160 },
+        { "x": 420, "y": 80 }
+      ],
+      "roughness": "medium"
+    },
+    {
+      "id": "RIVER-CL-LAC-CHI",
+      "name": "Lạc Chi nhánh",
+      "type": "river",
+      "properties": {
+        "name_hv": "洛支",
+        "kind": "route",
+        "from_id": "REG-CL-LAC-TAM",
+        "to_id": "REG-CL-TAN-TIEN"
+      },
+      "control_points": [
+        { "x": 460, "y": 380 },
+        { "x": 520, "y": 340 },
+        { "x": 580, "y": 300 },
+        { "x": 620, "y": 260 }
+      ],
+      "roughness": "high"
+    }
+  ]
+}

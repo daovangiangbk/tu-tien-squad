@@ -1,0 +1,675 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-TV-VAN-CUNG",
+  "world:region_id": "REG-TV-VAN-CUNG",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-TV-VAN-CUNG",
+  "world:parent_file": "chau-luc/chl-thanh-van.geojson",
+  "world:parent_coordinates": [
+    430.0,
+    380.0
+  ],
+  "world:coordinateNote": "Vùng Vân Cung thành · gốc LOC-TV-VAN-CUNG [0,0]; neo parent (430,380) trên chl-thanh-van; tiên khí Phong–Mộc · Thanh Vân tiên môn.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-TV-VAN-CUNG-AREA",
+        "name_vi": "Phạm vi Vân Cung thành",
+        "name_hv": "云宫域",
+        "kind": "polity",
+        "visibility": "public",
+        "notes": "Thanh Vân tiên môn; thuế mây 18–28%; tranh Tiên Nguyên Phong–Mộc.",
+        "tien_khi_tier": "phong_moc"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -135.0,
+              -14.4
+            ],
+            [
+              -120.0,
+              -7.3
+            ],
+            [
+              -105.0,
+              -6.6
+            ],
+            [
+              -90.0,
+              -9.1
+            ],
+            [
+              -75.0,
+              -16.1
+            ],
+            [
+              -60.0,
+              -20.5
+            ],
+            [
+              -45.0,
+              -25.6
+            ],
+            [
+              -30.0,
+              -26.2
+            ],
+            [
+              -15.0,
+              -20.2
+            ],
+            [
+              0.0,
+              -14.7
+            ],
+            [
+              15.0,
+              -10.1
+            ],
+            [
+              30.0,
+              -8.4
+            ],
+            [
+              45.0,
+              -11.5
+            ],
+            [
+              60.0,
+              -14.9
+            ],
+            [
+              75.0,
+              -19.1
+            ],
+            [
+              90.0,
+              -22.4
+            ],
+            [
+              105.0,
+              -22.6
+            ],
+            [
+              120.0,
+              -19.5
+            ],
+            [
+              135.0,
+              -15.2
+            ],
+            [
+              150.0,
+              -12.8
+            ],
+            [
+              165.0,
+              -12.4
+            ],
+            [
+              180.0,
+              -16.0
+            ],
+            [
+              181.1,
+              -22.7
+            ],
+            [
+              183.1,
+              -29.3
+            ],
+            [
+              182.6,
+              -36.0
+            ],
+            [
+              183.7,
+              -42.7
+            ],
+            [
+              184.0,
+              -49.3
+            ],
+            [
+              183.6,
+              -56.0
+            ],
+            [
+              182.8,
+              -62.7
+            ],
+            [
+              180.5,
+              -69.3
+            ],
+            [
+              180.6,
+              -76.0
+            ],
+            [
+              180.2,
+              -82.7
+            ],
+            [
+              177.2,
+              -89.3
+            ],
+            [
+              174.7,
+              -96.0
+            ],
+            [
+              175.6,
+              -102.7
+            ],
+            [
+              174.6,
+              -109.3
+            ],
+            [
+              176.5,
+              -116.0
+            ],
+            [
+              181.4,
+              -122.7
+            ],
+            [
+              185.9,
+              -129.3
+            ],
+            [
+              185.7,
+              -136.0
+            ],
+            [
+              186.5,
+              -142.7
+            ],
+            [
+              185.0,
+              -149.3
+            ],
+            [
+              180.3,
+              -156.0
+            ],
+            [
+              177.0,
+              -162.7
+            ],
+            [
+              172.4,
+              -169.3
+            ],
+            [
+              180.0,
+              -176.0
+            ],
+            [
+              165.0,
+              -167.8
+            ],
+            [
+              150.0,
+              -171.6
+            ],
+            [
+              135.0,
+              -175.5
+            ],
+            [
+              120.0,
+              -180.7
+            ],
+            [
+              105.0,
+              -184.1
+            ],
+            [
+              90.0,
+              -186.6
+            ],
+            [
+              75.0,
+              -186.1
+            ],
+            [
+              60.0,
+              -185.3
+            ],
+            [
+              45.0,
+              -180.7
+            ],
+            [
+              30.0,
+              -176.6
+            ],
+            [
+              15.0,
+              -175.3
+            ],
+            [
+              0.0,
+              -171.2
+            ],
+            [
+              -15.0,
+              -170.4
+            ],
+            [
+              -30.0,
+              -169.4
+            ],
+            [
+              -45.0,
+              -169.5
+            ],
+            [
+              -60.0,
+              -172.6
+            ],
+            [
+              -75.0,
+              -172.6
+            ],
+            [
+              -90.0,
+              -175.5
+            ],
+            [
+              -105.0,
+              -178.6
+            ],
+            [
+              -120.0,
+              -177.4
+            ],
+            [
+              -135.0,
+              -177.9
+            ],
+            [
+              -150.5,
+              -180.0
+            ],
+            [
+              -147.4,
+              -140.0
+            ],
+            [
+              -144.1,
+              -100.0
+            ],
+            [
+              -147.3,
+              -60.0
+            ],
+            [
+              -152.0,
+              -20.0
+            ],
+            [
+              -135.0,
+              -14.4
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TV-VAN-CUNG",
+        "name_vi": "Vân Cung · tiên môn",
+        "name_hv": "云宫",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Shared id chl-thanh-van; parent (430,380).",
+        "tien_khi_tier": "phong_moc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TV-THANH-FENG-DINH",
+        "name_vi": "Thanh Phong đài · tu Phong–Mộc",
+        "name_hv": "青风台",
+        "kind": "polity",
+        "visibility": "public",
+        "direction_label": "Bắc",
+        "faction": "Thanh Vân môn phái",
+        "notes": "Neo REG-TV-THANH-FENG; công pháp mây."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25,
+          85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TV-VAN-MEN-TONG",
+        "name_vi": "Vân Cung Tông · sơn môn",
+        "name_hv": "云宫宗",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Tây bắc",
+        "faction": "Vân Cung Tông",
+        "notes": "Tiên môn chủ; mạch mây nội sơn.",
+        "tien_phu_tier": "T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -45,
+          35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TV-VAN-HAI-KE",
+        "name_vi": "Vân Hải các · biển mây",
+        "name_hv": "云海阁",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Nam",
+        "faction": "Hội thương mây",
+        "notes": "Neo REG-TV-VAN-HAI; Tiên thảo Phong–Mộc.",
+        "tien_phu_tier": "T2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8,
+          -95
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TV-TIEN-DAN-PHU",
+        "name_vi": "Tiên đan phủ · luyện đan",
+        "name_hv": "仙丹府",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Đông",
+        "notes": "Generic luyện đan tiên; nhập Kim Hoa qua thương đội.",
+        "tien_phu_tier": "T1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72,
+          -18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TV-VAN-MACH-NO",
+        "name_vi": "Vân mạch nội thành",
+        "name_hv": "内城云脉",
+        "kind": "resource",
+        "visibility": "public",
+        "direction_label": "Trung tâm",
+        "notes": "Mạch mây nuôi tiên môn; monopoly Vân Cung Tông.",
+        "tien_khi_tier": "phong_moc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TV-MO-TIEN-NGUYEN",
+        "name_vi": "Mỏ Tiên Nguyên · cửa mây",
+        "name_hv": "仙源口",
+        "kind": "dungeon",
+        "visibility": "mc_phase1",
+        "direction_label": "Nam tây",
+        "notes": "Neo REG-TV-NAM-HAI ven biển; tranh tinh Phong–Mộc.",
+        "tien_phu_tier": "T2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82,
+          -108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TV-EXIT-DONG-MACH",
+        "name_vi": "Ải đông · Đông Mạch",
+        "name_hv": "东脉关",
+        "kind": "hub",
+        "visibility": "public",
+        "direction_label": "Đông · mép region",
+        "notes": "Ra REG-TV-DONG-MACH · liên lạc Trung Tiên."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175,
+          -12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-TV-VAN-SON-FOOT",
+        "name_vi": "Chân Vân Sơn · biên tây",
+        "name_hv": "云山脚",
+        "kind": "barrier",
+        "visibility": "public",
+        "notes": "BRR-TV-VAN-SON trên chau_luc; Phong kiếp nặng hơn."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -152,
+              -40
+            ],
+            [
+              -152,
+              60
+            ],
+            [
+              -135,
+              58
+            ],
+            [
+              -135,
+              -38
+            ],
+            [
+              -152,
+              -40
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RIVER-TV-VAN-HE-URBAN",
+        "name_vi": "Vân Hà · đoạn thành",
+        "name_hv": "云河",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TV-VAN-CUNG",
+        "to_id": "LOC-TV-VAN-HAI-KE",
+        "hazard": "thuế_mây",
+        "notes": "Nối RIVER-TV-VAN-HE chau_luc."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -5,
+            -15
+          ],
+          [
+            -8,
+            -35
+          ],
+          [
+            -4,
+            -55
+          ],
+          [
+            2,
+            -72
+          ],
+          [
+            8,
+            -95
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TV-VAN-FENG",
+        "name_vi": "Đạo Vân–Phong",
+        "name_hv": "云风大道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TV-VAN-CUNG",
+        "to_id": "LOC-TV-THANH-FENG-DINH",
+        "hazard": "trận mây",
+        "travel_days_walk": "2-3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            8,
+            28
+          ],
+          [
+            18,
+            58
+          ],
+          [
+            25,
+            85
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TV-VAN-DONG",
+        "name_vi": "Đạo Đông Mạch",
+        "name_hv": "东脉道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TV-VAN-CUNG",
+        "to_id": "LOC-TV-EXIT-DONG-MACH",
+        "hazard": "mạch giao tranh",
+        "travel_days_walk": "4-6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            45,
+            -8
+          ],
+          [
+            95,
+            -10
+          ],
+          [
+            140,
+            -11
+          ],
+          [
+            175,
+            -12
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TV-NGUYEN-MO",
+        "name_vi": "Đường xuống mỏ Tiên Nguyên",
+        "name_hv": "仙源道",
+        "kind": "route",
+        "visibility": "mc_phase1",
+        "from_id": "LOC-TV-VAN-CUNG",
+        "to_id": "LOC-TV-MO-TIEN-NGUYEN",
+        "hazard": "tranh đoạt tiên môn",
+        "travel_days_walk": "3-4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -25,
+            -35
+          ],
+          [
+            -55,
+            -70
+          ],
+          [
+            -82,
+            -108
+          ]
+        ]
+      }
+    }
+  ]
+}

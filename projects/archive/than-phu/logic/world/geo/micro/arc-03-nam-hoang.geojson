@@ -1,0 +1,211 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "micro",
+  "world:work_slug": "than-phu",
+  "world:hub_id": "LOC-NAM-HOANG-KHAU",
+  "world:parent_scope": "region",
+  "world:parent_feature_id": "REG-GIA-TOC-PHU-GIAU",
+  "world:parent_file": "region/reg-gia-toc-phu-vuc.geojson",
+  "world:parent_coordinates": [-5, -52],
+  "world:tieu_cuc_id": "TC-TP-005",
+  "world:coordinateNote": "Micro · Nam hoang đạo Arc 3; gốc Khẩu Nam hoang; neo region (-5,-52) = LOC-NAM-HOANG-KHAU; LOC-GIA-TOC-HUB +5,+52 → (0,0) region.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-NAM-HOANG-KHAU",
+        "name_vi": "Khẩu Nam hoang · vào giang hồ",
+        "name_hv": "南荒口",
+        "kind": "hub",
+        "visibility": "public",
+        "event_scale": "II",
+        "faction": "Tán tu · lính thuê",
+        "notes": "Giao tuyến tộc · Phù Giang hạ lưu; ch.75–76"
+      },
+      "geometry": { "type": "Point", "coordinates": [0, 0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-GIA-TOC-HUB",
+        "name_vi": "Phù Lĩnh Lệnh · hướng bắc tộc",
+        "name_hv": "符岭令",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Bắc",
+        "notes": "Shared id region · quy đổi (0,0) reg-gia-toc"
+      },
+      "geometry": { "type": "Point", "coordinates": [5, 52] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-MOC-DA-NAM",
+        "name_vi": "Mốc đá · Nam hoang ai vào tự chịu",
+        "name_hv": "南荒石",
+        "kind": "barrier",
+        "visibility": "public",
+        "direction_label": "Bắc · trước khẩu",
+        "notes": "Nửa chữ vỡ · ch.75"
+      },
+      "geometry": { "type": "Point", "coordinates": [-4, 14] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-DUONG-MON-XE-CU",
+        "name_vi": "Đường mòn · vết xe cũ",
+        "name_hv": "旧辙",
+        "kind": "wilderness",
+        "visibility": "mc_phase1",
+        "direction_label": "Bắc · song song khẩu",
+        "notes": "Bánh lún · mùi huyết phai · ch.75"
+      },
+      "geometry": { "type": "Point", "coordinates": [8, 10] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-BEN-TRE-HA-LUU",
+        "name_vi": "Bến tre · Phù Giang hạ lưu",
+        "name_hv": "符江竹埠",
+        "kind": "settlement",
+        "visibility": "mc_phase1",
+        "direction_label": "Đông · bờ sông",
+        "notes": "Thuyền độc mộc · không Bến lớn thành · ch.75"
+      },
+      "geometry": { "type": "Point", "coordinates": [16, 2] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-HUONG-THANH-PHU",
+        "name_vi": "Hướng Thanh Phù · thượng nguồn sông",
+        "name_hv": "青符向",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Đông Bắc · thượng lưu",
+        "notes": "Thành khuất ~3 ngày đi bộ / thuyền · ch.75–76"
+      },
+      "geometry": { "type": "Point", "coordinates": [32, 18] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-CAU-PHU-GIANG-CANH",
+        "name_vi": "Cầu gỗ · trạm đếm xác",
+        "name_hv": "符江木桥",
+        "kind": "barrier",
+        "visibility": "public",
+        "direction_label": "Nam · hạ lưu",
+        "notes": "Không quay đầu 3 ngày · quan thuê · ch.76"
+      },
+      "geometry": { "type": "Point", "coordinates": [24, -28] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TRAM-CANH-NAM",
+        "name_vi": "Trạm canh · dãy lều Nam đạo",
+        "name_hv": "南荒驿",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Nam · bờ sông",
+        "parent_id": "LOC-CAU-PHU-GIANG-CANH",
+        "notes": "Đốt thẻ tre · đếm người · ch.76"
+      },
+      "geometry": { "type": "Point", "coordinates": [20, -26] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LOI-DAT-NUT",
+        "name_vi": "Lối đất nứt · mở hoang",
+        "name_hv": "裂土道",
+        "kind": "wilderness",
+        "visibility": "mc_phase1",
+        "direction_label": "Nam · sau cầu",
+        "notes": "Gió cát · giấy Nam treo giá · ch.76–77"
+      },
+      "geometry": { "type": "Point", "coordinates": [2, -42] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TU-TOC-KHAU",
+        "name_vi": "Đạo tộc · xuống khẩu",
+        "name_hv": "南荒道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-GIA-TOC-HUB",
+        "to_id": "LOC-NAM-HOANG-KHAU",
+        "hazard": "yêu thú · tán tu đoạt bảo",
+        "notes": "Khớp ROUTE-NAM-HOANG region · 3–5 ngày"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[5, 52], [2, 38], [-2, 22], [-4, 14], [0, 0]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RIVER-PHU-GIANG-HA-LUU",
+        "name_vi": "Phù Giang · hạ lưu đục",
+        "name_hv": "符江",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-HUONG-THANH-PHU",
+        "to_id": "LOC-CAU-PHU-GIANG-CANH",
+        "hazard": "broker nước · sóng lớn · thuyền lật",
+        "notes": "Hắc thị sông · tin trước Thiên Phù · ch.75–76"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[32, 18], [28, 10], [22, 4], [18, -2], [16, 2], [20, -8], [24, -18], [24, -28]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-NAM-HOANG-DAO",
+        "name_vi": "Nam hoang đạo · vào giang hồ",
+        "name_hv": "南荒道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TRAM-CANH-NAM",
+        "to_id": "LOC-LOI-DAT-NUT",
+        "hazard": "săn thưởng · lang thang · cửu địch mầm",
+        "notes": "Arc 3 mở · FS-TP-005 · ch.76+"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[20, -26], [14, -32], [8, -38], [2, -42]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "POLY-NAM-HOANG-MARGIN",
+        "name_vi": "Ven hoang · bùn tre hạ lưu (thô)",
+        "name_hv": "南荒缘",
+        "kind": "wilderness",
+        "visibility": "public",
+        "notes": "Bùn · tre gai · không an toàn — chỉ rẻ hơn ở lại"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-14, 20],
+            [38, 24],
+            [36, -48],
+            [-18, -52],
+            [-14, 20]
+          ]
+        ]
+      }
+    }
+  ]
+}

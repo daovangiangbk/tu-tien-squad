@@ -1,0 +1,161 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-LH-QUAN-DAO-LO",
+  "world:region_id": "REG-LH-QUAN-DAO",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-LH-QUAN-DAO",
+  "world:parent_file": "chau-luc/chl-lo-hang.geojson",
+  "world:parent_coordinates": [
+    528.7,
+    176.6
+  ],
+  "world:coordinateNote": "Vùng Quần Đảo Lô · gốc LOC-LH-QUAN-DAO-LO [0,0]; neo parent (528.7,176.6) trên chl-lo-hang.geojson.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-LH-QUAN-DAO-AREA",
+        "name_vi": "Phạm vi QUAN DAO",
+        "kind": "polity",
+        "visibility": "public",
+        "linh_khi_tier": "cực_mỏng"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90,
+              70
+            ],
+            [
+              90,
+              70
+            ],
+            [
+              90,
+              -70
+            ],
+            [
+              -90,
+              -70
+            ],
+            [
+              -90,
+              70
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LH-QUAN-DAO-LO",
+        "name_vi": "Quần Đảo · hải tặc",
+        "name_hv": "群岛",
+        "kind": "hub",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LH-QUAN-DAO-TRAM",
+        "name_vi": "Trạm biên · nam",
+        "name_hv": "驿站",
+        "kind": "settlement",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15,
+          -55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LH-QUAN-DAO-CANH",
+        "name_vi": "Tháp canh · đông",
+        "name_hv": "望塔",
+        "kind": "settlement",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42,
+          22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-LH-QUAN-DAO-RIM",
+        "name_vi": "Vành địa · rìa",
+        "name_hv": "缘障",
+        "kind": "barrier",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75,
+              58
+            ],
+            [
+              75,
+              60
+            ],
+            [
+              72,
+              68
+            ],
+            [
+              -72,
+              65
+            ],
+            [
+              -75,
+              58
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LH-CANG-TIEN",
+        "name_vi": "Cảng Tiên Sa",
+        "name_hv": "仙沙港",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Shared id; parent chl (290.0, 220.0)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -238.70000000000005,
+          43.400000000000006
+        ]
+      }
+    }
+  ]
+}

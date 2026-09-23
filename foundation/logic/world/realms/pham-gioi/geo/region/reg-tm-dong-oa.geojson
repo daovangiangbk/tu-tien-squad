@@ -1,0 +1,391 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-TM-OA-TUYEN",
+  "world:region_id": "REG-TM-DONG-OA",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-TM-DONG-OA",
+  "world:parent_file": "chau-luc/chl-tan-mo.geojson",
+  "world:parent_coordinates": [
+    870.0,
+    560.0
+  ],
+  "world:coordinateNote": "Vùng Đông Oa · gốc LOC-TM-OA-TUYEN [0,0]; neo parent (870,560) trên chl-tan-mo; ốc đảo · phe thu gom cổ khí.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-TM-DONG-OA-AREA",
+        "name_vi": "Phạm vi Đông Oa",
+        "name_hv": "东洼域",
+        "kind": "polity",
+        "visibility": "public",
+        "linh_khi_tier": "cực_mỏng",
+        "notes": "Ốc đảo quanh giếng; thu gom mạnh."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -112,
+              95
+            ],
+            [
+              105,
+              98
+            ],
+            [
+              108,
+              -92
+            ],
+            [
+              -110,
+              -90
+            ],
+            [
+              -112,
+              95
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-OA-TUYEN",
+        "name_vi": "Oa Tuyền · giếng đông",
+        "name_hv": "洼泉",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Hub vùng; nước hiếm — thu phí."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-OA-CHOD",
+        "name_vi": "Chợ Oa · thu gom",
+        "name_hv": "洼市",
+        "kind": "settlement",
+        "visibility": "public",
+        "faction": "Liên bang thu gom",
+        "notes": "Hoa hồng **20–30%** cổ khí."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28,
+          -18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-OA-KHO",
+        "name_vi": "Kho đông · phe",
+        "name_hv": "洼库",
+        "kind": "resource",
+        "visibility": "mc_phase1",
+        "direction_label": "Đông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72,
+          12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-CO-TA-RIM",
+        "name_vi": "Rìa Cổ Ta · nam",
+        "name_hv": "古塔缘",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Nam",
+        "notes": "Biên REG-TM-CO-TA."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7,
+          -122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-BAC-HAN-RIM",
+        "name_vi": "Rìa Bắc Hạn · cửa nam",
+        "name_hv": "北旱口",
+        "kind": "hub",
+        "visibility": "public",
+        "direction_label": "Tây bắc",
+        "notes": "Shared hub id reg-tm-bac-han; parent (512,614)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -358.0,
+          54.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-TM-OA-CAT",
+        "name_vi": "Vành cát · đông",
+        "name_hv": "东沙环",
+        "kind": "barrier",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85,
+              -45
+            ],
+            [
+              102,
+              -42
+            ],
+            [
+              100,
+              55
+            ],
+            [
+              82,
+              52
+            ],
+            [
+              85,
+              -45
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-OA-CO-TA",
+        "name_vi": "Lối Cổ Ta",
+        "name_hv": "古塔道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-OA-TUYEN",
+        "to_id": "LOC-TM-CO-TA-RIM",
+        "hazard": "cát",
+        "travel_days_walk": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            5,
+            -55
+          ],
+          [
+            7,
+            -122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-OA-BAC",
+        "name_vi": "Đạo Bắc Hạn",
+        "name_hv": "北旱洼道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-OA-TUYEN",
+        "to_id": "LOC-TM-BAC-HAN-RIM",
+        "hazard": "gió",
+        "travel_days_walk": "3-4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -120,
+            22
+          ],
+          [
+            -240,
+            42
+          ],
+          [
+            -358,
+            54
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-OA-MANH",
+        "name_vi": "Manh mạch · dưới giếng",
+        "name_hv": "泉脉",
+        "kind": "resource",
+        "visibility": "hidden_logic",
+        "linh_khi_tier": "manh_mach_rải"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8,
+          -5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-OA-HAI",
+        "name_vi": "Mép đông · biển cát",
+        "name_hv": "东漠",
+        "kind": "wilderness",
+        "visibility": "public",
+        "direction_label": "Đông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RIVER-TM-OA-LUU",
+        "name_vi": "Oa lưu · cố đô khô",
+        "name_hv": "洼流",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-OA-TUYEN",
+        "to_id": "LOC-TM-OA-CHOD",
+        "hazard": "thu phí",
+        "notes": "Neo RIVER-TM-OA-LUU trên chl."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            12,
+            -8
+          ],
+          [
+            28,
+            -18
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-CO-TU",
+        "name_vi": "Cổ Tu · trung tâm di tích",
+        "name_hv": "古墟",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Shared id; parent (350,620)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -520.0,
+          60.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-OA-CO-TU",
+        "name_vi": "Đường vòng Cổ Tu",
+        "name_hv": "古墟洼道",
+        "kind": "route",
+        "visibility": "mc_phase1",
+        "from_id": "LOC-TM-OA-TUYEN",
+        "to_id": "LOC-TM-CO-TU",
+        "hazard": "phế địa",
+        "travel_days_walk": "4-5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -85,
+            35
+          ],
+          [
+            -200,
+            55
+          ],
+          [
+            -520,
+            60
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-OA-AN",
+        "name_vi": "Hầm thu · ẩn",
+        "name_hv": "洼暗仓",
+        "kind": "dungeon",
+        "visibility": "hidden_logic",
+        "notes": "Cổ khí không qua chợ."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35,
+          25
+        ]
+      }
+    }
+  ]
+}

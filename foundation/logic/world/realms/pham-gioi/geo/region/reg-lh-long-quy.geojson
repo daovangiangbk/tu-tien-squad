@@ -1,0 +1,129 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-LH-LONG-QUY-PASS",
+  "world:region_id": "BRR-LH-LONG-QUY",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "BRR-LH-LONG-QUY",
+  "world:parent_file": "chau-luc/chl-lo-hang.geojson",
+  "world:parent_coordinates": [
+    289.5,
+    607.1
+  ],
+  "world:coordinateNote": "Dãy Long Quy · barrier · gốc LOC-LH-LONG-QUY-PASS [0,0]; neo parent (289.5,607.1) trên chl-lo-hang.geojson.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-LH-LONG-QUY-AREA",
+        "name_vi": "Long Quy · đèo hải sơn",
+        "name_hv": "龙龟隘",
+        "kind": "barrier",
+        "visibility": "public",
+        "notes": "Khớp polygon BRR trên chau_luc; một ô phân vùng — không LineString."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -65,
+              42
+            ],
+            [
+              65,
+              45
+            ],
+            [
+              62,
+              -42
+            ],
+            [
+              -62,
+              -40
+            ],
+            [
+              -65,
+              42
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LH-LONG-QUY-PASS",
+        "name_vi": "Long Quy · đèo hải sơn",
+        "name_hv": "龙龟隘",
+        "kind": "settlement",
+        "visibility": "public",
+        "notes": "Hub đèo barrier [0,0]."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-LH-LONG-QUY",
+        "name_vi": "Long Quy · đèo hải sơn",
+        "name_hv": "龙龟隘",
+        "kind": "barrier",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50,
+              28
+            ],
+            [
+              50,
+              30
+            ],
+            [
+              48,
+              -28
+            ],
+            [
+              -48,
+              -26
+            ],
+            [
+              -50,
+              28
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LH-CANG-TIEN",
+        "name_vi": "Cảng Tiên Sa",
+        "name_hv": "仙沙港",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Shared id; parent chl (290.0, 220.0)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.5,
+          -387.1
+        ]
+      }
+    }
+  ]
+}

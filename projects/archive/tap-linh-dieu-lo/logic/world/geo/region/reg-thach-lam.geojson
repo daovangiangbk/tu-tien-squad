@@ -1,0 +1,157 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "tap-linh-dieu-lo",
+  "world:hub_id": "LOC-THACH-LAM",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "CHL-HA-GIOI-NAM",
+  "world:region_id": "REG-THACH-LAM",
+  "world:parent_file": "chau-luc/chl-ha-gioi-nam.geojson",
+  "world:parent_coordinates": [620, 380],
+  "world:coordinateNote": "Region Thạch Lam Thành · vực nội địa đông (REG-NOI-DONG-NAM); gốc local Thạch Lam; neo LOC-THACH-LAM trên châu lục (620,380). Lan Sa Châu → reg-lan-sa-chau.geojson.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-THACH-LAM",
+        "name_vi": "Thạch Lam Thành",
+        "name_hv": "石岚城",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Hạ / Trung / Thượng Thành; Bách Hóa; Đan Hội Phường"
+      },
+      "geometry": { "type": "Point", "coordinates": [0, 0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-BACH-HOA",
+        "name_vi": "Bách Hóa Đường phân điếm",
+        "name_hv": "百化堂",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Trung–Đông",
+        "notes": "Hub đấu giá"
+      },
+      "geometry": { "type": "Point", "coordinates": [18, 2] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-DAN-HOI",
+        "name_vi": "Thạch Lam Luyện Đan Hội",
+        "name_hv": "石岚炼丹会",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Đông",
+        "notes": "Hội đan III; điểm cống hiến"
+      },
+      "geometry": { "type": "Point", "coordinates": [22, 0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-U-NGO",
+        "name_vi": "U Ngõ",
+        "name_hv": "幽巷",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Tây",
+        "notes": "Hắc thị II; Sát Thủ Các"
+      },
+      "geometry": { "type": "Point", "coordinates": [-15, -2] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-THIEN-SA-COT",
+        "name_vi": "Cột Thiên Sa Công Uyên",
+        "name_hv": "天沙公渊柱",
+        "kind": "dungeon",
+        "visibility": "public",
+        "direction_label": "Tây ngoài thành",
+        "notes": "Bí cảnh III treo vé; cổng tây"
+      },
+      "geometry": { "type": "Point", "coordinates": [-28, 0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-DAN-SA-PHU-MACH",
+        "name_vi": "Đan Sa Phụ Mạch",
+        "name_hv": "丹沙副脉",
+        "kind": "resource",
+        "visibility": "public",
+        "direction_label": "Đông Nam",
+        "travel_days_cart": "2-3",
+        "notes": "Nhánh #7; tranh Trúc Cơ"
+      },
+      "geometry": { "type": "Point", "coordinates": [55, -38] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-LAC-NHAN",
+        "name_vi": "Dãy Lạc Nhạn · Thanh Vi",
+        "name_hv": "落雁",
+        "kind": "polity",
+        "visibility": "public",
+        "direction_label": "Bắc",
+        "faction": "Thanh Vi Tông",
+        "notes": "Kim Đan trưởng lão gián tiếp"
+      },
+      "geometry": { "type": "Point", "coordinates": [0, 42] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-GATE-SA-LAN-SA",
+        "name_vi": "Cổng sa · biên Lan Sa",
+        "name_hv": "",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Tây nam",
+        "notes": "Neo liên vùng; cùng chau (520,340) với reg-lan-sa-chau"
+      },
+      "geometry": { "type": "Point", "coordinates": [-100, -40] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-SA-DONG-NAM",
+        "name_vi": "Đường vận sa đông nam",
+        "name_hv": "",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-THACH-LAM",
+        "to_id": "LOC-DAN-SA-PHU-MACH",
+        "hazard": "tranh mạch; thuê binh",
+        "notes": "Xe thương nhân; đất đỏ"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[0, 0], [20, -15], [40, -28], [55, -38]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-PHE-DIA-THACH",
+        "name_vi": "Tuyến sa mạc · đoạn Thạch Lam",
+        "name_hv": "",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-THACH-LAM",
+        "to_id": "LOC-GATE-SA-LAN-SA",
+        "hazard": "sa mạc biên",
+        "travel_days_walk": "2-3",
+        "notes": "Biên vùng Lan Sa; đoạn sa trong châu không model trên reg-lan-sa-chau"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[0, 0], [-50, -25], [-100, -40]]
+      }
+    }
+  ]
+}

@@ -1,0 +1,600 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-CL-CUU-KHAU",
+  "world:region_id": "REG-CL-CUU-KHAU",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-CL-CUU-KHAU",
+  "world:parent_file": "chau-luc/chl-cuu-lac.geojson",
+  "world:parent_coordinates": [
+    380.0,
+    620.0
+  ],
+  "world:coordinateNote": "Vùng Cửu Khẩu đài · gốc LOC-CL-CUU-KHAU [0,0]; neo parent (380,620) trên chl-cuu-lac; slot E-LINH-ASCENSION-GATE · động phủ T3.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-CL-CUU-KHAU-AREA",
+        "name_vi": "Phạm vi Cửu Khẩu đài",
+        "name_hv": "九口域",
+        "kind": "polity",
+        "visibility": "public",
+        "linh_khi_tier": "dong_phu_T3",
+        "notes": "Slot E-LINH-ASCENSION-GATE; Cửu Cửu chu kỳ; không cố định một điểm trên lục."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              83.1,
+              -192.0
+            ],
+            [
+              79.8,
+              -178.0
+            ],
+            [
+              76.2,
+              -164.0
+            ],
+            [
+              76.8,
+              -150.0
+            ],
+            [
+              81.2,
+              -136.0
+            ],
+            [
+              84.1,
+              -122.0
+            ],
+            [
+              83.0,
+              -108.0
+            ],
+            [
+              79.9,
+              -94.0
+            ],
+            [
+              80.0,
+              -80.0
+            ],
+            [
+              94.0,
+              -77.3
+            ],
+            [
+              108.0,
+              -73.5
+            ],
+            [
+              122.0,
+              -71.7
+            ],
+            [
+              136.0,
+              -77.0
+            ],
+            [
+              150.0,
+              -83.0
+            ],
+            [
+              164.0,
+              -87.6
+            ],
+            [
+              178.0,
+              -85.8
+            ],
+            [
+              192.0,
+              -80.4
+            ],
+            [
+              206.0,
+              -76.9
+            ],
+            [
+              220.0,
+              -74.8
+            ],
+            [
+              234.0,
+              -76.2
+            ],
+            [
+              248.0,
+              -80.5
+            ],
+            [
+              262.0,
+              -83.2
+            ],
+            [
+              276.0,
+              -83.1
+            ],
+            [
+              290.0,
+              -81.1
+            ],
+            [
+              304.0,
+              -80.9
+            ],
+            [
+              318.0,
+              -80.7
+            ],
+            [
+              332.0,
+              -78.9
+            ],
+            [
+              346.0,
+              -78.7
+            ],
+            [
+              360.0,
+              -80.0
+            ],
+            [
+              363.7,
+              -94.0
+            ],
+            [
+              364.1,
+              -108.0
+            ],
+            [
+              363.1,
+              -122.0
+            ],
+            [
+              359.6,
+              -136.0
+            ],
+            [
+              356.9,
+              -150.0
+            ],
+            [
+              355.8,
+              -164.0
+            ],
+            [
+              357.6,
+              -178.0
+            ],
+            [
+              359.6,
+              -192.0
+            ],
+            [
+              361.6,
+              -206.0
+            ],
+            [
+              360.0,
+              -220.0
+            ],
+            [
+              332.0,
+              -219.7
+            ],
+            [
+              304.0,
+              -220.9
+            ],
+            [
+              280.0,
+              -220.0
+            ],
+            [
+              270.0,
+              -217.6
+            ],
+            [
+              260.0,
+              -221.5
+            ],
+            [
+              248.0,
+              -221.6
+            ],
+            [
+              230.0,
+              -224.2
+            ],
+            [
+              220.0,
+              -218.7
+            ],
+            [
+              210.0,
+              -215.5
+            ],
+            [
+              200.0,
+              -210.8
+            ],
+            [
+              190.0,
+              -212.2
+            ],
+            [
+              180.0,
+              -217.5
+            ],
+            [
+              173.7,
+              -220.8
+            ],
+            [
+              164.0,
+              -220.1
+            ],
+            [
+              136.0,
+              -218.2
+            ],
+            [
+              120.0,
+              -215.1
+            ],
+            [
+              110.0,
+              -211.5
+            ],
+            [
+              100.0,
+              -211.8
+            ],
+            [
+              90.0,
+              -215.6
+            ],
+            [
+              80.0,
+              -220.0
+            ],
+            [
+              83.5,
+              -206.0
+            ],
+            [
+              83.1,
+              -192.0
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-CL-CUU-KHAU",
+        "name_vi": "Cửu Khẩu · phi thăng",
+        "name_hv": "九口",
+        "kind": "hub",
+        "visibility": "public",
+        "linh_khi_tier": "dong_phu_T3",
+        "notes": "Shared id chl-cuu-lac; parent (380,620)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-CL-CUU-MEN",
+        "name_vi": "Cửu Khẩu · đài môn",
+        "name_hv": "九口门",
+        "kind": "dungeon",
+        "visibility": "hidden_logic",
+        "direction_label": "Trung tâm",
+        "dong_phu_tier": "T3",
+        "notes": "Phi thăng lore; chỉ mở theo chu kỳ Cửu Cửu."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-CL-LAC-TAM-NE",
+        "name_vi": "Lạc Tam trì · cửa bắc",
+        "name_hv": "洛三池",
+        "kind": "resource",
+        "visibility": "public",
+        "direction_label": "Bắc",
+        "linh_khi_tier": "mach_chủ",
+        "notes": "Trì linh; nuôi đan dược hạng cao."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120,
+          155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-CL-HOI-THANH",
+        "name_vi": "Hội thành Cửu Khẩu",
+        "name_hv": "九口会城",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Nam đông",
+        "dong_phu_tier": "T2",
+        "notes": "Tu sĩ chờ chu kỳ; linh thạch thượng đốt."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85,
+          -45
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-CL-TAN-TIEN-MEN",
+        "name_vi": "Tàn Tiên · cửa đông",
+        "name_hv": "残仙口",
+        "kind": "dungeon",
+        "visibility": "hidden_logic",
+        "direction_label": "Đông bắc",
+        "notes": "Neo REG-CL-TAN-TIEN; vệt Tiên khí."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          280,
+          120
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-CL-BAC-PHONG-MEN",
+        "name_vi": "Bắc Phong · ải gió",
+        "name_hv": "北风关",
+        "kind": "hub",
+        "visibility": "public",
+        "direction_label": "Bắc · mép region",
+        "notes": "Ra REG-CL-BAC-PHONG; hướng Ngọc Lâm."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          200,
+          -180
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-CL-NAM-HAI-MEN",
+        "name_vi": "Nam Hải · cửa sông",
+        "name_hv": "南海关",
+        "kind": "hub",
+        "visibility": "public",
+        "direction_label": "Nam · mép region",
+        "notes": "Ra REG-CL-NAM-HAI; RIVER-CL-CUU-LAC."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15,
+          -210
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-CL-CUU-SON-FOOT",
+        "name_vi": "Chân Cửu Sơn · biên tây",
+        "name_hv": "九山脚",
+        "kind": "barrier",
+        "visibility": "public",
+        "direction_label": "Tây",
+        "notes": "BRR-CL-CUU-SON trên chau_luc."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              76,
+              -120
+            ],
+            [
+              76,
+              80
+            ],
+            [
+              95,
+              78
+            ],
+            [
+              95,
+              -118
+            ],
+            [
+              76,
+              -120
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RIVER-CL-CUU-LAC-URBAN",
+        "name_vi": "Cửu Lạc hà · đoạn đài",
+        "name_hv": "九洛河",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-CL-CUU-KHAU",
+        "to_id": "LOC-CL-NAM-HAI-MEN",
+        "hazard": "mạch_hội",
+        "notes": "Nối RIVER-CL-CUU-LAC chau_luc."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -2,
+            -45
+          ],
+          [
+            -5,
+            -95
+          ],
+          [
+            -10,
+            -145
+          ],
+          [
+            -15,
+            -210
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-CL-KHAU-LAC-TAM",
+        "name_vi": "Đạo Khẩu–Tam trì",
+        "name_hv": "口池道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-CL-CUU-KHAU",
+        "to_id": "LOC-CL-LAC-TAM-NE",
+        "hazard": "thuế trì",
+        "travel_days_walk": "3-5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            35,
+            55
+          ],
+          [
+            75,
+            105
+          ],
+          [
+            120,
+            155
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-CL-KHAU-BAC-PHONG",
+        "name_vi": "Đạo Bắc Phong",
+        "name_hv": "北风道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-CL-CUU-KHAU",
+        "to_id": "LOC-CL-BAC-PHONG-MEN",
+        "hazard": "gió linh",
+        "travel_days_walk": "4-5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            55,
+            -55
+          ],
+          [
+            120,
+            -120
+          ],
+          [
+            200,
+            -180
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-CL-KHAU-TAN-TIEN",
+        "name_vi": "Đường Tàn Tiên",
+        "name_hv": "残仙道",
+        "kind": "route",
+        "visibility": "hidden_logic",
+        "from_id": "LOC-CL-CUU-KHAU",
+        "to_id": "LOC-CL-TAN-TIEN-MEN",
+        "hazard": "tiên_khí_vệt",
+        "travel_days_walk": "5-7"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            90,
+            35
+          ],
+          [
+            180,
+            75
+          ],
+          [
+            280,
+            120
+          ]
+        ]
+      }
+    }
+  ]
+}

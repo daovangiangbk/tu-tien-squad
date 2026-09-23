@@ -1,0 +1,209 @@
+{
+  "continent": "Băng Phong đại lục",
+  "canvas": {
+    "unit": "story_grid",
+    "grid_snap": 1,
+    "y_axis": "north",
+    "border_roughness": "high",
+    "border_segments": 24,
+    "border_amp_internal": 12,
+    "border_seed": 2026091820
+  },
+  "regions": [
+    {
+      "id": "REG-DA-LUC-NEN",
+      "name": "Băng Phong · nền đại lục",
+      "dimensions": { "width": 1000, "length": 1000 },
+      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "properties": {
+        "kind": "wilderness",
+        "visibility": "hidden_logic",
+        "border_style": "straight",
+        "fill_remainder": true,
+        "linh_khi_tier": "dày"
+      }
+    },
+    {
+      "id": "REG-BP-NAM-DONG",
+      "name": "Nam Đông · biên Trung Linh",
+      "dimensions": { "width": 560, "length": 88 },
+      "anchor": { "type": "absolute", "x": 220, "y": 28 },
+      "properties": {
+        "name_hv": "南东",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "public",
+        "notes": "Đối diện REG-TL-BAC-LINH — kiếp ngoài trời nhẹ hơn về phía nam"
+      }
+    },
+    {
+      "id": "REG-BP-NAM-PHONG",
+      "name": "Nam Phong · cửa gió",
+      "dimensions": { "width": 360, "length": 120 },
+      "anchor": { "type": "relative", "ref_id": "REG-BP-NAM-DONG", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "南风",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "public",
+        "notes": "Thương lộ gió — đan dược từ Ngọc Lâm hiếm"
+      }
+    },
+    {
+      "id": "REG-BP-TAY-BANG",
+      "name": "Tây Băng · biên tây",
+      "dimensions": { "width": 200, "length": 520 },
+      "anchor": { "type": "absolute", "x": 20, "y": 100 },
+      "properties": {
+        "name_hv": "西冰",
+        "kind": "wilderness",
+        "linh_khi_tier": "mach_rải",
+        "visibility": "public",
+        "notes": "Hướng Huyền Âm neighbor (lore) — âm phong vệt"
+      }
+    },
+    {
+      "id": "BRR-BP-VAN-PHONG",
+      "name": "Dãy Vân Phong",
+      "dimensions": { "width": 52, "length": 480 },
+      "anchor": { "type": "absolute", "x": 220, "y": 120 },
+      "properties": {
+        "name_hv": "云风岭",
+        "kind": "barrier",
+        "linh_khi_tier": "mach_rải_cao",
+        "visibility": "public",
+        "notes": "Băng–Phong barrier — kiếp nạn ngoài trời nặng hơn khi vượt"
+      }
+    },
+    {
+      "id": "REG-BP-PHONG-COC",
+      "name": "Phong Cốc",
+      "dimensions": { "width": 200, "length": 320 },
+      "anchor": { "type": "relative", "ref_id": "BRR-BP-VAN-PHONG", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "风谷",
+        "kind": "polity",
+        "linh_khi_tier": "rất_dày",
+        "visibility": "public",
+        "notes": "Tu Băng–Phong — tông biên; tranh mạch gió với Hỏa Diễm (lore cổ)"
+      }
+    },
+    {
+      "id": "REG-BP-HAN-UYEN",
+      "name": "Hàn Uyên",
+      "dimensions": { "width": 248, "length": 320 },
+      "anchor": { "type": "relative", "ref_id": "REG-BP-PHONG-COC", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "寒苑",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "public",
+        "notes": "Hoang địa băng — yêu thú hóa hình thưa"
+      }
+    },
+    {
+      "id": "REG-BP-LINH-BANG",
+      "name": "Linh Băng hồ",
+      "dimensions": { "width": 200, "length": 160 },
+      "anchor": { "type": "relative", "ref_id": "REG-BP-NAM-PHONG", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "灵冰湖",
+        "kind": "resource",
+        "linh_khi_tier": "mach_chủ",
+        "visibility": "mc_phase1",
+        "notes": "Hồ băng linh — linh thạch hạng trung đóng băng"
+      }
+    },
+    {
+      "id": "REG-BP-DONG-HAN",
+      "name": "Đông Hàn · đại uyên",
+      "dimensions": { "width": 200, "length": 480 },
+      "anchor": { "type": "relative", "ref_id": "REG-BP-HAN-UYEN", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "东寒",
+        "kind": "wilderness",
+        "linh_khi_tier": "dày",
+        "visibility": "public"
+      }
+    },
+    {
+      "id": "REG-BP-BANG-TINH",
+      "name": "Băng Tinh quan",
+      "dimensions": { "width": 400, "length": 140 },
+      "anchor": { "type": "relative", "ref_id": "REG-BP-LINH-BANG", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "冰星关",
+        "kind": "polity",
+        "linh_khi_tier": "mach_chủ",
+        "visibility": "public",
+        "notes": "Thành cực bắc · hub LOC-BP-BANG-TINH"
+      }
+    },
+    {
+      "id": "REG-BP-BAC-HUYEN",
+      "name": "Bắc Huyền · cực bắc",
+      "dimensions": { "width": 960, "length": 100 },
+      "anchor": { "type": "absolute", "x": 20, "y": 780 },
+      "properties": {
+        "name_hv": "北玄",
+        "kind": "wilderness",
+        "linh_khi_tier": "mach_rải",
+        "visibility": "public",
+        "notes": "Kiếp nạn ngoài trời cực đoan — Trúc Cơ trở xuống hiếm sống sót"
+      }
+    }
+  ],
+  "entities": [
+    {
+      "id": "LOC-BP-BANG-TINH",
+      "name": "Băng Tinh · thành chính",
+      "type": "point",
+      "coordinates": { "x": 420, "y": 720 },
+      "properties": {
+        "name_hv": "冰星关",
+        "kind": "hub",
+        "visibility": "public",
+        "linh_khi_tier": "mach_chủ"
+      }
+    },
+    {
+      "id": "ROUTE-BP-DONG-TRUNG-LINH",
+      "name": "Thương lộ Nam Đông",
+      "type": "river",
+      "properties": {
+        "name_hv": "南东路",
+        "kind": "route",
+        "from_id": "REG-BP-NAM-DONG",
+        "to_id": "REG-TL-BAC-LINH",
+        "hazard": "phong_tuyet",
+        "notes": "Cross-link lore → Trung Linh Bắc Linh"
+      },
+      "control_points": [
+        { "x": 480, "y": 80 },
+        { "x": 520, "y": 60 },
+        { "x": 560, "y": 40 }
+      ],
+      "roughness": "low"
+    },
+    {
+      "id": "RIVER-BP-LINH-BANG",
+      "name": "Linh Băng thủy",
+      "type": "river",
+      "properties": {
+        "name_hv": "灵冰水",
+        "kind": "route",
+        "from_id": "REG-BP-BAC-HUYEN",
+        "to_id": "REG-BP-NAM-DONG"
+      },
+      "control_points": [
+        { "x": 320, "y": 820 },
+        { "x": 340, "y": 680 },
+        { "x": 360, "y": 520 },
+        { "x": 380, "y": 360 },
+        { "x": 400, "y": 200 },
+        { "x": 420, "y": 120 }
+      ],
+      "roughness": "medium"
+    }
+  ]
+}

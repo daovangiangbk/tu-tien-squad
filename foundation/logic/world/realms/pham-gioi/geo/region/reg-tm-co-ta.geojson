@@ -1,0 +1,387 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-TM-CO-TA-TAP",
+  "world:region_id": "REG-TM-CO-TA",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-TM-CO-TA",
+  "world:parent_file": "chau-luc/chl-tan-mo.geojson",
+  "world:parent_coordinates": [
+    877.0,
+    438.0
+  ],
+  "world:coordinateNote": "Vùng Cổ Ta · gốc LOC-TM-CO-TA-TAP [0,0]; neo parent (877,438) centroid REG; phế tháp lang thang · shared LOC-TM-OA-TUYEN [-7,122].",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-TM-CO-TA-AREA",
+        "name_vi": "Phạm vi Cổ Ta",
+        "name_hv": "古塔域",
+        "kind": "wilderness",
+        "visibility": "public",
+        "linh_khi_tier": "cực_mỏng"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -85,
+              82
+            ],
+            [
+              92,
+              85
+            ],
+            [
+              95,
+              -78
+            ],
+            [
+              -88,
+              -75
+            ],
+            [
+              -85,
+              82
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-CO-TA-TAP",
+        "name_vi": "Cổ Ta · trại tháp",
+        "name_hv": "古塔营",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Hub vùng; tháp đổ xếp hàng."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-CO-TA-1",
+        "name_vi": "Tháp một · nghiêng",
+        "name_hv": "古塔一",
+        "kind": "dungeon",
+        "visibility": "public",
+        "direction_label": "Bắc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22,
+          38
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-CO-TA-2",
+        "name_vi": "Tháp hai · vỡ nửa",
+        "name_hv": "古塔二",
+        "kind": "dungeon",
+        "visibility": "public",
+        "direction_label": "Đông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35,
+          18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-OA-TUYEN",
+        "name_vi": "Oa Tuyền · giếng đông",
+        "name_hv": "洼泉",
+        "kind": "hub",
+        "visibility": "public",
+        "direction_label": "Bắc",
+        "notes": "Shared id; parent (870,560)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.0,
+          122.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-CO-TU",
+        "name_vi": "Cổ Tu · trung tâm di tích",
+        "name_hv": "古墟",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Shared id; parent (350,620)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -527.0,
+          182.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-CO-TA-KHI",
+        "name_vi": "Đống cổ khí · nam",
+        "name_hv": "塔器堆",
+        "kind": "resource",
+        "visibility": "public",
+        "direction_label": "Nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8,
+          -48
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-TM-CO-TA-VO",
+        "name_vi": "Tường tháp · vòng",
+        "name_hv": "塔墙",
+        "kind": "barrier",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -55,
+              55
+            ],
+            [
+              55,
+              58
+            ],
+            [
+              52,
+              68
+            ],
+            [
+              -52,
+              65
+            ],
+            [
+              -55,
+              55
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-CO-TA-OA",
+        "name_vi": "Lối Oa Tuyền",
+        "name_hv": "洼泉塔道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-CO-TA-TAP",
+        "to_id": "LOC-TM-OA-TUYEN",
+        "hazard": "cát",
+        "travel_days_walk": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -4,
+            55
+          ],
+          [
+            -7,
+            122
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-CO-TA-CO-TU",
+        "name_vi": "Đạo Cổ Tu",
+        "name_hv": "古墟塔道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-CO-TA-TAP",
+        "to_id": "LOC-TM-CO-TU",
+        "hazard": "lang thang đao khách",
+        "travel_days_walk": "3-4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -120,
+            95
+          ],
+          [
+            -280,
+            165
+          ],
+          [
+            -527,
+            182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-CO-TA-LUU",
+        "name_vi": "Lữ khách · tây",
+        "name_hv": "塔旅",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Tây"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58,
+          -12
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-SA-HAI-RIM-E",
+        "name_vi": "Rìa Sa Hải · đông",
+        "name_hv": "沙海东缘",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Tây nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -312,
+          -111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TM-CO-TA-SA",
+        "name_vi": "Biên Sa Hải",
+        "name_hv": "沙海塔道",
+        "kind": "route",
+        "visibility": "mc_phase1",
+        "from_id": "LOC-TM-CO-TA-TAP",
+        "to_id": "LOC-TM-SA-HAI-RIM-E",
+        "hazard": "cát lún",
+        "travel_days_walk": "5-6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -95,
+            -45
+          ],
+          [
+            -210,
+            -85
+          ],
+          [
+            -312,
+            -111
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TM-CO-TA-MANH",
+        "name_vi": "Manh mạch · tháp gãy",
+        "name_hv": "塔脉",
+        "kind": "resource",
+        "visibility": "hidden_logic",
+        "linh_khi_tier": "manh_mach_rải"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15,
+          42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RIVER-TM-CO-TA-CAN",
+        "name_vi": "Rãnh khô · giữa tháp",
+        "name_hv": "塔涸",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TM-CO-TA-1",
+        "to_id": "LOC-TM-CO-TA-2",
+        "hazard": "đá rơi"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -22,
+            38
+          ],
+          [
+            5,
+            28
+          ],
+          [
+            35,
+            18
+          ]
+        ]
+      }
+    }
+  ]
+}

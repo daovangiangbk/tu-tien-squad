@@ -1,10 +1,11 @@
 # Projects — nhiều tác phẩm
 
-Mỗi tiểu thuyết (tác phẩm) là **một thư mục con** `projects/<work-slug>/`.
+Mỗi tiểu thuyết (tác phẩm) **active** là **một thư mục con** `projects/<work-slug>/`. Tác phẩm **archive** nằm tại `projects/archive/<work-slug>/` — xem [`archive/README.md`](archive/README.md).
 
 | File / thư mục | Vai trò |
 | --- | --- |
-| `projects/active-work.md` | Slug tác phẩm đang làm việc (một dòng) |
+| `projects/active-work.md` | Slug tác phẩm đang làm việc (một dòng); **chỉ** slug **active**, không trỏ `archive/` |
+| `projects/archive/` | Work đóng gói — read-only pipeline mặc định; bảng + thủ tục trong `archive/README.md` |
 | `projects/<slug>/00-master-brief.md` | Master Brief — `requirements-briefer` |
 | `projects/<slug>/00-progress-map.md` | **Bản đồ tiến độ Phase → Arc → Chapter** (multi-session) |
 | `projects/<slug>/status.md` | Trạng thái & task queue — `project-orchestrator` |
@@ -21,8 +22,19 @@ Mỗi tiểu thuyết (tác phẩm) là **một thư mục con** `projects/<work
 
 **Quy ước slug:** chữ thường, số, gạch ngang (`tap-linh-dieu-lo`, `vo-dong-ky`).
 
-## Tác phẩm trong repo
+## Tác phẩm active
 
 | Slug | Tên hiển thị | Ghi chú |
 | --- | --- | --- |
-| `tap-linh-dieu-lo` | Tạp Linh Diêu Lộ | Core dùng chung `foundation/` root |
+| [`ham-mo`](ham-mo/00-master-brief.md) | **Hầm mỏ** | Pipeline A — **truyện ngắn** 4 chương; shared `foundation/`; geo stack waived |
+
+**Archived:** [`archive/README.md`](archive/README.md) (bảng + `git mv` / restore).
+
+## Lifecycle (tóm tắt)
+
+| Trạng thái | Path | Orchestrator |
+| --- | --- | --- |
+| **active** | `projects/<slug>/` | Delegate pipeline A/B/C bình thường |
+| **archived** | `projects/archive/<slug>/` | **Không** `T-prose-*` / geo mới / CP mặc định; read-only hoặc **restore** khi user yêu cầu |
+
+`T-archive-project` · `T-restore-project` — **thủ tục repo tùy chọn**, không thuộc pipeline A/B/C; chỉ khi user yêu cầu — `.cursor/agents/project-orchestrator.md` §1.10.

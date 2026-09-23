@@ -1,0 +1,545 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-XH-LAC-DUONG",
+  "world:region_id": "REG-XH-DE-DO",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-XH-DE-DO",
+  "world:parent_file": "chau-luc/chl-xich-ha.geojson",
+  "world:parent_coordinates": [
+    420.0,
+    580.0
+  ],
+  "world:coordinateNote": "Vùng Đế Đô Lạc Dương · gốc LOC-XH-LAC-DUONG [0,0]; neo parent (420,580) trên chl-xich-ha; linh khí phàm cực mỏng.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-XH-DE-DO-AREA",
+        "name_vi": "Phạm vi Đế Đô",
+        "name_hv": "帝都域",
+        "kind": "polity",
+        "visibility": "public",
+        "linh_khi_tier": "cực_mỏng",
+        "notes": "Subset REG-XH-DE-DO trên chl-xich-ha; linh khí phàm cực mỏng."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              46.69999999999999,
+              20.799999999999955
+            ],
+            [
+              60.80000000000001,
+              22.100000000000023
+            ],
+            [
+              75.0,
+              26.5
+            ],
+            [
+              89.19999999999999,
+              27.5
+            ],
+            [
+              103.29999999999995,
+              30.0
+            ],
+            [
+              117.5,
+              31.299999999999955
+            ],
+            [
+              131.70000000000005,
+              33.200000000000045
+            ],
+            [
+              145.79999999999995,
+              33.0
+            ],
+            [
+              160.0,
+              28.0
+            ],
+            [
+              160.10000000000002,
+              14.0
+            ],
+            [
+              161.29999999999995,
+              0.0
+            ],
+            [
+              160.79999999999995,
+              -14.0
+            ],
+            [
+              159.79999999999995,
+              -28.0
+            ],
+            [
+              158.5,
+              -42.0
+            ],
+            [
+              157.39999999999998,
+              -56.0
+            ],
+            [
+              159.60000000000002,
+              -70.0
+            ],
+            [
+              163.29999999999995,
+              -84.0
+            ],
+            [
+              162.5,
+              -98.0
+            ],
+            [
+              158.70000000000005,
+              -112.0
+            ],
+            [
+              155.79999999999995,
+              -126.0
+            ],
+            [
+              160.0,
+              -140.0
+            ],
+            [
+              145.79999999999995,
+              -130.0
+            ],
+            [
+              131.70000000000005,
+              -132.2
+            ],
+            [
+              117.5,
+              -133.8
+            ],
+            [
+              103.29999999999995,
+              -139.3
+            ],
+            [
+              89.19999999999999,
+              -144.8
+            ],
+            [
+              75.0,
+              -146.60000000000002
+            ],
+            [
+              63.80000000000001,
+              -148.60000000000002
+            ],
+            [
+              63.60000000000002,
+              -143.3
+            ],
+            [
+              63.60000000000002,
+              -120.0
+            ],
+            [
+              63.5,
+              -96.69999999999999
+            ],
+            [
+              62.89999999999998,
+              -73.30000000000001
+            ],
+            [
+              62.39999999999998,
+              -50.0
+            ],
+            [
+              63.19999999999999,
+              -26.700000000000045
+            ],
+            [
+              65.69999999999999,
+              -3.2999999999999545
+            ],
+            [
+              64.0,
+              20.0
+            ],
+            [
+              47.30000000000001,
+              18.299999999999955
+            ],
+            [
+              39.5,
+              19.399999999999977
+            ],
+            [
+              46.69999999999999,
+              20.799999999999955
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-XH-LAC-DUONG",
+        "name_vi": "Lạc Dương · đế đô",
+        "name_hv": "洛阳",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Triều đình · thuế linh thạch 30–40%; mạch manh hiếm."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-XH-HOANG-CUNG",
+        "name_vi": "Hoàng cung · Nội thành",
+        "name_hv": "皇宫",
+        "kind": "polity",
+        "visibility": "public",
+        "direction_label": "Bắc trong thành",
+        "notes": "Ấn tín triều; không mạch công khai."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-XH-LINH-THACH-KHO",
+        "name_vi": "Kho linh thạch hạ phẩm",
+        "name_hv": "灵石库",
+        "kind": "resource",
+        "visibility": "public",
+        "direction_label": "Đông",
+        "notes": "Thuế tập trung; tu sĩ Phàm cá biệt tranh cửa."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12,
+          -3
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-XH-TAY-SON-PHONG",
+        "name_vi": "Phân viện Tây Sơn Tự",
+        "name_hv": "西山寺",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Tây",
+        "faction": "Tây Sơn Tự",
+        "notes": "Tông hợp tác triều; võ tu phàm."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18,
+          5
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-XH-NAM-QUAN",
+        "name_vi": "Nam quan · đường Nam Hải",
+        "name_hv": "南关",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Nam",
+        "notes": "Kiểm thuế nhập linh thạch từ Nam Hải."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          -35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-XH-BAC-LO",
+        "name_vi": "Bắc lộ · hướng Bắc Hạn",
+        "name_hv": "北路",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Bắc",
+        "notes": "Biên quan phía bắc; sa mạc vô linh."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5,
+          28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-XH-THANH-HE",
+        "name_vi": "Thành hà đông",
+        "name_hv": "东城河",
+        "kind": "barrier",
+        "visibility": "public",
+        "notes": "Hào nước; không phải mạch linh."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              8,
+              -12
+            ],
+            [
+              22,
+              -10
+            ],
+            [
+              20,
+              -18
+            ],
+            [
+              6,
+              -20
+            ],
+            [
+              8,
+              -12
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-XH-MANH-MACH-AN",
+        "name_vi": "Mạch manh ẩn · phế điện",
+        "name_hv": "隐脉",
+        "kind": "resource",
+        "visibility": "hidden_logic",
+        "direction_label": "Tây nam ngoại thành",
+        "notes": "Điểm linh khí cực mỏng nhưng ổn định; gia tộc phong ấn cục bộ."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -25,
+          -20
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RIVER-XH-LAC-HA",
+        "name_vi": "Lạc Hà · đoạn đế đô",
+        "name_hv": "洛河",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-XH-LAC-DUONG",
+        "to_id": "LOC-XH-NAM-QUAN",
+        "hazard": "phí bến; tuần tra",
+        "notes": "Thủy lộ nội địa; linh khí không theo nước."
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -10.0,
+            -20.0
+          ],
+          [
+            -11.899999999999977,
+            -29.0
+          ],
+          [
+            -7.199999999999989,
+            -36.799999999999955
+          ],
+          [
+            -4.0,
+            -44.799999999999955
+          ],
+          [
+            -3.0,
+            -53.299999999999955
+          ],
+          [
+            0.5,
+            -61.200000000000045
+          ],
+          [
+            1.6999999999999886,
+            -69.69999999999999
+          ],
+          [
+            0.39999999999997726,
+            -78.60000000000002
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-XH-DE-NAM-HAI",
+        "name_vi": "Quan đạo Nam Hải",
+        "name_hv": "南海官道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-XH-LAC-DUONG",
+        "to_id": "LOC-XH-NAM-QUAN",
+        "hazard": "thuế quan",
+        "travel_days_walk": "3-4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            2,
+            -12
+          ],
+          [
+            5,
+            -35
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-XH-DE-BAC-HAN",
+        "name_vi": "Quan đạo Bắc Hạn",
+        "name_hv": "北旱官道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-XH-LAC-DUONG",
+        "to_id": "LOC-XH-BAC-LO",
+        "hazard": "cạn nước; cướp sa",
+        "travel_days_walk": "4-5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -3,
+            14
+          ],
+          [
+            -5,
+            28
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-XH-DE-TAY-SON",
+        "name_vi": "Đường Tây Sơn",
+        "name_hv": "西山道",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-XH-LAC-DUONG",
+        "to_id": "LOC-XH-TAY-SON-PHONG",
+        "hazard": "giám sát tông"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -8,
+            3
+          ],
+          [
+            -18,
+            5
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-XH-CHO-NGOAI",
+        "name_vi": "Chợ ngoại thành · Nam Môn",
+        "name_hv": "南门外市",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Nam ngoại thành",
+        "notes": "Hàng phàm; thuế chợ 5–8%."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3,
+          -18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-XH-DONG-NGOAI",
+        "name_vi": "Đông ngoại · quan trại",
+        "name_hv": "东外营",
+        "kind": "settlement",
+        "visibility": "public",
+        "direction_label": "Đông",
+        "notes": "Hướng REG-XH-DONG-NOI; kiểm lưu binh."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25,
+          2
+        ]
+      }
+    }
+  ]
+}

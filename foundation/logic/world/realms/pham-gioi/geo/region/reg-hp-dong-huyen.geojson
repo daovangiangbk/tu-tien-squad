@@ -1,0 +1,179 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-HP-DONG-HUYEN-HUB",
+  "world:region_id": "REG-HP-DONG-HUYEN",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-HP-DONG-HUYEN",
+  "world:parent_file": "chau-luc/chl-han-phuong.geojson",
+  "world:parent_coordinates": [
+    446.4,
+    445.0
+  ],
+  "world:coordinateNote": "Vùng Đông Huyền · mc_phase1 · gốc LOC-HP-DONG-HUYEN-HUB [0,0]; neo parent (446.4,445) trên chl-han-phuong.geojson.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-HP-DONG-HUYEN-AREA",
+        "name_vi": "Phạm vi DONG HUYEN",
+        "kind": "wilderness",
+        "visibility": "public",
+        "linh_khi_tier": "cực_mỏng"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -90,
+              70
+            ],
+            [
+              90,
+              70
+            ],
+            [
+              90,
+              -70
+            ],
+            [
+              -90,
+              -70
+            ],
+            [
+              -90,
+              70
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-HP-DONG-HUYEN-HUB",
+        "name_vi": "Đông Huyền · trung đông",
+        "name_hv": "东玄",
+        "kind": "hub",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-HP-DONG-HUYEN-TRAM",
+        "name_vi": "Trạm biên · nam",
+        "name_hv": "驿站",
+        "kind": "settlement",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15,
+          -55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-HP-DONG-HUYEN-CANH",
+        "name_vi": "Tháp canh · đông",
+        "name_hv": "望塔",
+        "kind": "settlement",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42,
+          22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-HP-DONG-HUYEN-RIM",
+        "name_vi": "Vành địa · rìa",
+        "name_hv": "缘障",
+        "kind": "barrier",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75,
+              58
+            ],
+            [
+              75,
+              60
+            ],
+            [
+              72,
+              68
+            ],
+            [
+              -72,
+              65
+            ],
+            [
+              -75,
+              58
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-HP-HAN-TINH",
+        "name_vi": "Hàn Tinh Quan",
+        "name_hv": "寒庭关",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Shared id; parent chl (430.0, 720.0)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.399999999999977,
+          275.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-HP-PHONG-MO",
+        "name_vi": "Phong Mộ Cốc",
+        "name_hv": "封墓谷",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Shared id; parent chl (240.0, 620.0)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -206.39999999999998,
+          175.0
+        ]
+      }
+    }
+  ]
+}

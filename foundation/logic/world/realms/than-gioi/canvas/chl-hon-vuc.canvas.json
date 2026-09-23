@@ -1,0 +1,207 @@
+{
+  "continent": "Hồn Vực đại lục",
+  "canvas": {
+    "unit": "story_grid",
+    "grid_snap": 1,
+    "y_axis": "north",
+    "border_roughness": "high",
+    "border_segments": 24,
+    "border_amp_internal": 12,
+    "border_seed": 2026091844
+  },
+  "regions": [
+    {
+      "id": "REG-DA-LUC-NEN",
+      "name": "Hồn Vực · nền đại lục",
+      "dimensions": { "width": 1000, "length": 1000 },
+      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "properties": {
+        "kind": "wilderness",
+        "visibility": "hidden_logic",
+        "border_style": "straight",
+        "fill_remainder": true,
+        "than_khi_tier": "hồn_mệnh"
+      }
+    },
+    {
+      "id": "REG-HV-NAM-HON",
+      "name": "Nam Hồn cửa",
+      "dimensions": { "width": 460, "length": 72 },
+      "anchor": { "type": "absolute", "x": 270, "y": 28 },
+      "properties": {
+        "name_hv": "南魂关",
+        "kind": "wilderness",
+        "than_khi_tier": "nặng_ổn_định",
+        "visibility": "public",
+        "notes": "Thương lộ hồn phế — thuế mệnh lực 14–20%"
+      }
+    },
+    {
+      "id": "REG-HV-HON-DIEN",
+      "name": "Hồn Điện",
+      "dimensions": { "width": 340, "length": 168 },
+      "anchor": { "type": "relative", "ref_id": "REG-HV-NAM-HON", "edge": "top", "align": "center" },
+      "properties": {
+        "name_hv": "魂殿",
+        "kind": "polity",
+        "than_khi_tier": "mach_chủ",
+        "visibility": "public",
+        "notes": "Mệnh lực thần · hub LOC-HV-HON-DIEN"
+      }
+    },
+    {
+      "id": "REG-HV-VONG-HA",
+      "name": "Vong Hà cửa",
+      "dimensions": { "width": 280, "length": 128 },
+      "anchor": { "type": "relative", "ref_id": "REG-HV-HON-DIEN", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "忘河关",
+        "kind": "dungeon",
+        "than_khi_tier": "mach_T2_T3",
+        "visibility": "hidden_logic",
+        "notes": "Luân hồi treo `(Phase 5)` — không Minh hub"
+      }
+    },
+    {
+      "id": "REG-HV-TRUNG-MENH",
+      "name": "Trung Mệnh đài",
+      "dimensions": { "width": 260, "length": 120 },
+      "anchor": { "type": "relative", "ref_id": "REG-HV-HON-DIEN", "edge": "left", "align": "top" },
+      "properties": {
+        "name_hv": "中命台",
+        "kind": "polity",
+        "than_khi_tier": "rất_nặng",
+        "visibility": "public",
+        "notes": "Khế mệnh thần — tranh nội tông"
+      }
+    },
+    {
+      "id": "REG-HV-BAC-U",
+      "name": "Bắc U uyên",
+      "dimensions": { "width": 540, "length": 108 },
+      "anchor": { "type": "relative", "ref_id": "REG-HV-HON-DIEN", "edge": "top", "align": "start" },
+      "properties": {
+        "name_hv": "北幽苑",
+        "kind": "wilderness",
+        "than_khi_tier": "mach_rải",
+        "visibility": "public",
+        "notes": "Âm hồn dày — biên void Hư Vi (lore)"
+      }
+    },
+    {
+      "id": "REG-HV-TAY-U",
+      "name": "Tây U vực",
+      "dimensions": { "width": 200, "length": 500 },
+      "anchor": { "type": "absolute", "x": 28, "y": 96 },
+      "properties": {
+        "name_hv": "西幽域",
+        "kind": "wilderness",
+        "than_khi_tier": "nặng_ổn_định",
+        "visibility": "public",
+        "notes": "Âm–dương hồn — mép Tịch Minh (lore)"
+      }
+    },
+    {
+      "id": "BRR-HV-HON-SON",
+      "name": "Dãy Hồn Sơn",
+      "dimensions": { "width": 50, "length": 460 },
+      "anchor": { "type": "absolute", "x": 228, "y": 112 },
+      "properties": {
+        "name_hv": "魂山",
+        "kind": "barrier",
+        "than_khi_tier": "mach_rải_cao",
+        "visibility": "public",
+        "notes": "Barrier hồn mạch — vượt = mất ký ức vệt"
+      }
+    },
+    {
+      "id": "REG-HV-NAM-VUC",
+      "name": "Nam Vực đài",
+      "dimensions": { "width": 300, "length": 280 },
+      "anchor": { "type": "relative", "ref_id": "BRR-HV-HON-SON", "edge": "right", "align": "top" },
+      "properties": {
+        "name_hv": "南域台",
+        "kind": "wilderness",
+        "than_khi_tier": "rất_nặng",
+        "visibility": "public",
+        "notes": "Hướng REG-ST-BAC-SINH — sinh–hồn tranh mạch"
+      }
+    },
+    {
+      "id": "REG-HV-DONG-QUAN",
+      "name": "Đông Hồn quan",
+      "dimensions": { "width": 140, "length": 360 },
+      "anchor": { "type": "absolute", "x": 560, "y": 120 },
+      "properties": {
+        "name_hv": "东魂关",
+        "kind": "wilderness",
+        "than_khi_tier": "nặng_ổn_định",
+        "visibility": "public",
+        "notes": "Đối diện REG-RT-TAY-QUAN — Kiếm–Hồn biên"
+      }
+    },
+    {
+      "id": "REG-HV-TAY-VI",
+      "name": "Tây Vi mép",
+      "dimensions": { "width": 100, "length": 200 },
+      "anchor": { "type": "relative", "ref_id": "REG-HV-TAY-U", "edge": "left", "align": "top" },
+      "properties": {
+        "name_hv": "西虚",
+        "kind": "wilderness",
+        "than_khi_tier": "loãng_lạnh",
+        "visibility": "hidden_logic",
+        "notes": "E-THAN-VOID-HV — Vực Ngoại treo"
+      }
+    }
+  ],
+  "entities": [
+    {
+      "id": "LOC-HV-HON-DIEN",
+      "name": "Hồn Điện · mệnh lực",
+      "type": "point",
+      "coordinates": { "x": 430, "y": 380 },
+      "properties": {
+        "name_hv": "魂殿",
+        "kind": "hub",
+        "visibility": "public",
+        "than_khi_tier": "mach_chủ"
+      }
+    },
+    {
+      "id": "ROUTE-HV-DONG-TRUNG-THAN",
+      "name": "Hồn quan đông",
+      "type": "river",
+      "properties": {
+        "name_hv": "东魂路",
+        "kind": "route",
+        "from_id": "REG-HV-DONG-QUAN",
+        "to_id": "REG-RT-TAY-QUAN",
+        "hazard": "mệnh_lực"
+      },
+      "control_points": [
+        { "x": 720, "y": 320 },
+        { "x": 820, "y": 300 },
+        { "x": 920, "y": 280 }
+      ],
+      "roughness": "medium"
+    },
+    {
+      "id": "RIVER-HV-VONG-HE",
+      "name": "Vong Hà",
+      "type": "river",
+      "properties": {
+        "name_hv": "忘河",
+        "kind": "route",
+        "from_id": "REG-HV-VONG-HA",
+        "to_id": "REG-HV-NAM-HON"
+      },
+      "control_points": [
+        { "x": 520, "y": 520 },
+        { "x": 480, "y": 400 },
+        { "x": 460, "y": 280 },
+        { "x": 440, "y": 160 }
+      ],
+      "roughness": "high"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+---
+description: (Alias) Prose chương — xem xianxia-prose-style.mdc
+globs:
+  - projects/**/interface/chapters/**
+  - projects/**/interface/chapter-view/**
+alwaysApply: false
+---
+
+# Ngôn ngữ prose — alias
+
+Toàn bộ quy tắc **rõ nghĩa · không viết tắt · lexicon · không gian · tu luyện · nhịp văn học** nằm tại:
+
+**`.cursor/rules/xianxia-prose-style.mdc`**
+
+Giữ file này để link cũ (`prose-language`) vẫn trỏ đúng một nguồn.

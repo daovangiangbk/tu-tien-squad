@@ -1,0 +1,129 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "foundation-canon",
+  "world:hub_id": "LOC-HP-HAN-SON-PASS",
+  "world:region_id": "BRR-HP-HAN-SON",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "BRR-HP-HAN-SON",
+  "world:parent_file": "chau-luc/chl-han-phuong.geojson",
+  "world:parent_coordinates": [
+    244.9,
+    341.7
+  ],
+  "world:coordinateNote": "Dãy Hàn Sơn · barrier polygon · gốc LOC-HP-HAN-SON-PASS [0,0]; neo parent (244.9,341.7) trên chl-han-phuong.geojson.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-HP-HAN-SON-AREA",
+        "name_vi": "Hàn Sơn · đèo chính",
+        "name_hv": "寒山隘",
+        "kind": "barrier",
+        "visibility": "public",
+        "notes": "Khớp polygon BRR trên chau_luc; một ô phân vùng — không LineString."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -65,
+              42
+            ],
+            [
+              65,
+              45
+            ],
+            [
+              62,
+              -42
+            ],
+            [
+              -62,
+              -40
+            ],
+            [
+              -65,
+              42
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-HP-HAN-SON-PASS",
+        "name_vi": "Hàn Sơn · đèo chính",
+        "name_hv": "寒山隘",
+        "kind": "settlement",
+        "visibility": "public",
+        "notes": "Hub đèo barrier [0,0]."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-HP-HAN-SON",
+        "name_vi": "Hàn Sơn · đèo chính",
+        "name_hv": "寒山隘",
+        "kind": "barrier",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -50,
+              28
+            ],
+            [
+              50,
+              30
+            ],
+            [
+              48,
+              -28
+            ],
+            [
+              -48,
+              -26
+            ],
+            [
+              -50,
+              28
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-HP-PHONG-MO",
+        "name_vi": "Phong Mộ Cốc",
+        "name_hv": "封墓谷",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Shared id; parent chl (240.0, 620.0)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.900000000000006,
+          278.3
+        ]
+      }
+    }
+  ]
+}

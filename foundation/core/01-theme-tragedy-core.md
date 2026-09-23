@@ -78,6 +78,18 @@ Tu tiên là **Nghịch Thiên Nhi Hành**: phàm nhân thuận Thiên, tu sĩ d
 
 **Không được:** Ác vì thích quyền lực. Mọi hành động tàn độc phải có **logic mà độc giả hiểu** (dù không đồng tình), bám **Cường giả vi tôn** hoặc **Vô Tình** cực đoan.
 
+### 3.5 Hình mẫu — *Người sống nhờ hi sinh người thân* (tộc nạn / phế điển)
+
+| | |
+| --- | --- |
+| **Sự kiện gốc** | Trong một đêm hoặc một trận **có chủ đích che giấu**, người thân (cha mẹ, huynh đệ, ân nhân) **chết hoặc phong ấn** để nhân vật còn một mạng — kẻ mạnh / phe / gia tộc **không đặt tên** cho mạng đó; nhân vật **biết hoặc đoán** mình là kẻ được chọn sống. |
+| **Vết thương** | *“Mạng ta mua bằng máu họ — ta không xứng yên.”* (tội lỗi sống sót) |
+| **Niềm tin sai lệch** | *Chỉ báo thù đủ lớn mới trả được nợ* — nhầm **phục thù** với **cân bằng tâm lý**; hoặc *chỉ khi ta mạnh, họ không chết vô ích*. |
+| **Động lực bề mặt** | Truy sát thủ phạm, khôi phục danh / tộc, tu lên để không còn bị dùng như cỏ. |
+| **Động lực thật** | **Hữu tình** còn sót: giữ lời hứa với người đã mất, hoặc **không để ai khác** rơi vào cùng hoàn cảnh “sống nhờ người thân hy sinh”. |
+
+**Xám (Luật 4 / Ma):** Báo thù bằng **Ma phù, huyết luyện, shortcut** có thể cứu mạng hôm nay nhưng **Nghiệp** gắn tên người thân đã mất — theme: *trả thù có đang phản bội ý họ hi sinh không?* **Heal sai cách:** Buông Hữu tình → Vô tình “để không đau nữa”; hoặc biến toàn bộ đời thành **máy báo thù** — thắng địch, thua chính mình.
+
 ---
 
 ## 4. Mâu thuẫn nội tâm cố định
