@@ -1,0 +1,204 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "chau_luc",
+  "world:work_slug": "than-khi",
+  "world:hub_id": "LOC-TK-TWN-HOME",
+  "world:continent_id": "CHL-TK-PHU-LAM",
+  "world:parent_scope": "tinh_ha",
+  "world:parent_feature_id": "CHL-TK-PHU-LAM",
+  "world:parent_file": "00-tinh-ha.geojson",
+  "world:parent_coordinates": [-18.0, 5.0],
+  "world:grid_extent": [0, 1000],
+  "world:coordinateNote": "Biên lục Liên Trần — lưới 1000; hub MC thị trấn LOC-TK-TWN-HOME (500,400); naming pending.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CHL-TK-PHU-LAM",
+        "name_vi": "[pending] đại lục biên · Liên Trần",
+        "name_hv": "[pending]",
+        "kind": "continent"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [40, 60], [120, 45], [220, 55], [380, 40], [520, 48], [680, 42], [860, 58], [960, 80],
+          [980, 180], [970, 320], [985, 480], [975, 640], [960, 780], [920, 900], [780, 960],
+          [580, 980], [380, 970], [180, 955], [60, 900], [30, 760], [25, 580], [35, 400],
+          [28, 220], [40, 60]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-TK-LIEN-TRAN",
+        "name_vi": "[pending] vùng Liên Trần",
+        "name_hv": "[pending]",
+        "kind": "polity",
+        "visibility": "public",
+        "notes": "2–3 thành · 4–5 trấn; chi tiết settlement → region geo."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [180, 220], [820, 220], [820, 720], [180, 720], [180, 220]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-TK-TAY-HOANG",
+        "name_vi": "[pending] hoang tây",
+        "name_hv": "[pending]",
+        "kind": "wilderness",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [40, 60], [180, 220], [180, 720], [60, 900], [30, 760], [25, 580], [35, 400], [28, 220], [40, 60]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-TK-DONG-HAI",
+        "name_vi": "[pending] biên đông · hải khẩu",
+        "name_hv": "[pending]",
+        "kind": "wilderness",
+        "visibility": "mc_phase1",
+        "notes": "Thương nhân · tẩu tượng; không mở arc đầu."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [820, 220], [960, 80], [980, 180], [970, 320], [985, 480], [975, 640], [960, 780], [920, 900], [780, 960], [580, 980], [820, 720], [820, 220]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-TK-BAC-LAM",
+        "name_vi": "[pending] lâm bắc",
+        "name_hv": "[pending]",
+        "kind": "wilderness",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [180, 720], [820, 720], [780, 960], [580, 980], [380, 970], [180, 955], [180, 720]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-TK-NAM-DU",
+        "name_vi": "[pending] dã nam · yêu thú",
+        "name_hv": "[pending]",
+        "kind": "wilderness",
+        "visibility": "public",
+        "notes": "Mở đầu nhiệm vụ · bỏ trẻ giữa yêu thú — payoff plot."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [180, 220], [820, 220], [860, 58], [680, 42], [520, 48], [380, 40], [220, 55], [120, 45], [180, 220]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-TK-BAC-SON",
+        "name_vi": "[pending] dãy núi bắc",
+        "name_hv": "[pending]",
+        "kind": "barrier",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [220, 700], [780, 700], [760, 740], [720, 760], [500, 768], [280, 760], [240, 740], [220, 700]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RIVER-TK-LINH-HE",
+        "name_vi": "[pending] linh hà",
+        "name_hv": "[pending]",
+        "kind": "route",
+        "from_id": "LOC-TK-CTY-03",
+        "to_id": "LOC-TK-CTY-02",
+        "hazard": "thu phí bến · do thám tu sĩ lẻ"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [280, 420], [320, 445], [380, 438], [450, 455], [500, 400], [560, 412], [620, 395], [680, 408], [740, 385]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TK-TWN-HOME",
+        "name_vi": "[pending] thị trấn · lò rèn MC",
+        "name_hv": "[pending]",
+        "kind": "hub",
+        "visibility": "public",
+        "guardian_public": "Kim Đan",
+        "backing_hidden": "Nguyên Anh",
+        "notes": "MC ban ngày thợ rèn; D8 — nhà cố định ban đầu."
+      },
+      "geometry": { "type": "Point", "coordinates": [500, 400] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TK-CTY-01",
+        "name_vi": "[pending] thành lớn · bắc",
+        "name_hv": "[pending]",
+        "kind": "settlement",
+        "visibility": "public",
+        "guardian_public": "Kim Đan",
+        "backing_hidden": "Nguyên Anh"
+      },
+      "geometry": { "type": "Point", "coordinates": [500, 580] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TK-CTY-02",
+        "name_vi": "[pending] thành lớn · đông",
+        "name_hv": "[pending]",
+        "kind": "settlement",
+        "visibility": "public",
+        "guardian_public": "Kim Đan",
+        "backing_hidden": "Nguyên Anh"
+      },
+      "geometry": { "type": "Point", "coordinates": [720, 400] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TK-CTY-03",
+        "name_vi": "[pending] thành lớn · tây",
+        "name_hv": "[pending]",
+        "kind": "settlement",
+        "visibility": "public",
+        "guardian_public": "Kim Đan",
+        "backing_hidden": "Nguyên Anh"
+      },
+      "geometry": { "type": "Point", "coordinates": [280, 400] }
+    }
+  ]
+}

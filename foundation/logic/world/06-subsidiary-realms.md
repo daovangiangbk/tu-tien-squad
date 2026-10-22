@@ -1,8 +1,8 @@
-# Giới phụ & không gian liên giới — Foundation Canon
+# Giới phụ & Vực Ngoại nội giới — Foundation Canon
 
-> **work_slug:** `foundation-canon` · **Neo Core:** Luật 6 (`foundation/core/02-world-laws-lore-core.md`) · **Chỉ mục:** [`00-cosmos-index.md`](00-cosmos-index.md)
+> **work_slug:** `foundation-canon` · **Luật nền:** [`laws/00-index.md`](laws/00-index.md) · **Chỉ mục:** [`00-cosmos-index.md`](00-cosmos-index.md)
 
-**Phạm vi:** Logic Layer — **markdown-first**; **không** thêm GeoJSON trừ graph trừu tượng trong tài liệu này. Bốn giới song song **Phàm · Linh · Tiên · Thần** giữ nguyên `(invariant)`; mọi mục dưới đây **treo / mảnh / cắt** bên cạnh bộ bốn, **không** thay lộ trình tu.
+**Phạm vi:** Logic Layer — **markdown-first**; **không** thêm GeoJSON trừ graph trừu tượng trong tài liệu này. Bốn giới diện vật chất song song **Phàm · Linh · Tiên · Thần** cùng thuộc Nhân Giới trong Không gian Bàn Cổ; mọi mục dưới đây **treo / mảnh / cắt** bên cạnh bộ bốn, **không** thay lộ trình tu.
 
 ---
 
@@ -10,11 +10,11 @@
 
 | Quy tắc | Ý |
 | --- | --- |
-| **Minh Giới** | Cõi **phụ** luân hồi — **không** vũ trụ song song thứ năm trên Phàm→Thần |
+| **Minh Giới / Địa Phủ** | Hệ âm giới chung nối cả bốn giới diện vật chất, phụ trách luân hồi — không phải giới diện vật chất thứ năm |
 | **Ma / Yêu** | Vùng khí hoặc **mảnh** biên — **không** thay Phàm/Linh/Tiên/Thần |
-| **Vực Ngoại / Hư Không** | Không gian **giữa** các giới — **không** giới tu; **không** phá giới bích bằng “ở void = lên cấp” |
+| **Vực Ngoại / hư không nội giới** | Vùng cao, xa và rìa nội giới cùng các mạch nối giới diện — vẫn **trong Giới Tường**, không phải giới tu; ngoài Giới Tường mới là **Hỗn Độn** |
 | **Tiểu Thiên Thế Giới** | Pocket gắn host — **không** thay **Cửu Cửu** / phi thăng Linh→Tiên `(invariant)` Luật 5–6 |
-| **Bí cảnh / Chư Thiên** | Không gian **cắt** hoặc **đa bộ** bốn giới — mỗi giới vẫn là vũ trụ riêng |
+| **Bí cảnh / Chư Thiên** | Không gian **cắt** hoặc nhiều cụm giới diện — mỗi cụm vẫn thuộc một Không gian Bàn Cổ hoặc ngoại giới được định nghĩa riêng |
 
 ---
 
@@ -42,11 +42,23 @@ Khi sinh mệnh kết thúc trong một giới host, **Thần thức / hồn ả
 
 ---
 
-## 2. Ma Giới / Yêu Giới — mảnh biên (patches)
+## 2. Ma Giới / Yêu Giới
 
-**Mô hình Foundation:** Không khẳng định một **Ma Giới / Yêu Giới** full-scale đã geo trong Phase 1–4; canon ghi **patches** — vùng **Ma Khí / Yêu Khí** dính **biên giới bích** hoặc **nhánh lệch** nối **Vực Ngoại**. Mở patch **≠** mở giới thứ năm tu luyện.
+### 2.0. Ma Giới gốc (Thái Cổ — tier-00)
 
-### 2.1. Ma patches (named)
+**Ma Giới** (魔界) là **cõi Ma khí** mở ra khi **La Hầu bạo Ma Thân** (Đại chiến Đạo–Ma, Trảm Ma Tây Phương) — **song song** **Không gian Bàn Cổ**, phân tách bởi **giới bích Ma** ( riêng, **không** thay giới bích Phàm–Linh–Tiên–Thần ). Chi tiết prose + Logic: [`history/tier-00/01c-dai-chien-dao-ma.md`](history/tier-00/01c-dai-chien-dao-ma.md) ( Khúc 5 · Phụ lục Logic ).
+
+| Quy tắc | Ý |
+| --- | --- |
+| **Không phải giới thứ năm Nhân Giới** | Bốn giới diện vật chất **Phàm · Linh · Tiên · Thần** giữ nguyên; Ma Giới **treo cạnh** Bàn Cổ như Minh Giới treo luân hồi — neo Core Luật 6. |
+| **Tây Hoang + Ma Giới** | Mạch Tây **cằn trên Bàn Cổ**; oán/sát **đậm** chảy về Ma Giới; **sát khí tàn** vẫn còn trên đất = nguồn **patch** sau này. |
+| **Geo Foundation** | **Không** vẽ `00-tinh-ha` Ma Giới Phase 1–4; full-scale chỉ khi CP. |
+
+### 2.1. Mảnh biên (patches) — tương tác hiện tại
+
+**Mô hình Foundation (atlas):** Canon ghi **patches** — vùng **Ma Khí / Yêu Khí** dính **biên giới bích** ( kể cả **rò** giới bích Ma ) hoặc **nhánh lệch** nối **Vực Ngoại**. Mở patch **≠** mở toàn Ma Giới **≠** mở giới thứ năm tu luyện.
+
+### 2.2. Ma patches (named)
 
 | Patch ID | Tên gợi ý | Biên giới dính | Vị trí logic (foundation-canon) | Crack / Vực Ngoại |
 | --- | --- | --- | --- | --- |
@@ -56,7 +68,7 @@ Khi sinh mệnh kết thúc trong một giới host, **Thần thức / hồn ả
 
 **Hệ quả chung:** Ma đạo **tận dụng patch** để hút khí — **nhanh** nhưng **Thiên oán** + ô nhiễm linh mạch lân cận (Luật 1). Phe chính **phong ấn** hoặc **thuế hóa** (Hải Mạch) thay vì diệt hết — theme xám.
 
-### 2.2. Yêu patches (named)
+### 2.3. Yêu patches (named)
 
 | Patch ID | Tên gợi ý | Biên giới dính | Vị trí logic | Crack / Vực Ngoại |
 | --- | --- | --- | --- | --- |
@@ -68,11 +80,11 @@ Khi sinh mệnh kết thúc trong một giới host, **Thần thức / hồn ả
 
 ---
 
-## 3. Vực Ngoại / Hư Không Giới (域外 · 虚空界)
+## 3. Vực Ngoại nội giới / hư không nội giới (域外 · 虚空)
 
 ### 3.1. Bản chất `(invariant)`
 
-**Hư Không** chia **bốn mặt phẳng void** (mỗi giới một “biển hư không” riêng) + **mạch liên giới** nối các giới song song. Du hành void **tiêu tốn** (thọ nguyên, linh/tiên/thần nguyên, khế bảo) — **không** thay thế **phá giới bích** chính thống (Phàm→Linh, Linh→Tiên Cửu Cửu, Tiên→Thần đại kiếp).
+**Vực Ngoại nội giới** là vùng cao, xa và biên viễn sát Giới Tường nhưng vẫn thuộc Không gian Bàn Cổ. Trong đó có các biển hư không tương ứng từng giới diện và mạch nội giới nối tọa độ pháp tắc. Du hành tiêu tốn thọ nguyên, linh/tiên/thần nguyên hoặc khế bảo; không thay thế việc vượt đúng giới bích. Vượt khỏi Vực Ngoại qua **Giới Tường** mới chạm **Hỗn Độn**.
 
 ### 3.2. Graph liên bốn giới (trừu tượng)
 
@@ -81,7 +93,7 @@ Khi sinh mệnh kết thúc trong một giới host, **Thần thức / hồn ả
                     TH-* trong cùng giới · KHÔNG xuyên Phàm↔Linh↔Tiên↔Thần tự do
 
     ┌─────────────────────────────────────────────────────────────────────────┐
-    │                    HƯ KHÔNG LIÊN GIỚI (meta-void graph)                  │
+    │             VỰC NGOẠI NỘI GIỚI — MẠCH LIÊN GIỚI                        │
     │   Dị thú · chiến trường cổ · truyền tống mất · mảnh vỡ giới bích        │
     └─────────────────────────────────────────────────────────────────────────┘
           │                    │                    │                    │
@@ -100,7 +112,7 @@ Khi sinh mệnh kết thúc trong một giới host, **Thần thức / hồn ả
 
 | Mạch | Nối | Tier / điều kiện gợi ý | Neo atlas |
 | --- | --- | --- | --- |
-| **Mạch Phàm–Linh** | Hai vũ trụ song song I↔II | **Luyện Thể đỉnh** / **Phá Toái Hư Không** / **Thần Lộ cổ** ( Phàm ) · **khe** · **Trúc Cơ+** đại năng ( Linh qua void, hiếm ) — chi tiết [`02-pham-linh-interface.md`](../02-pham-linh-interface.md); truyền tống **có sổ** | Phàm Tàn Mộ ↔ Linh Cửu Lạc |
+| **Mạch Phàm–Linh** | Hai giới diện vật chất Phàm ↔ Linh, ngăn bởi giới bích nội tầng | **Luyện Thể đỉnh** / **Phá Toái Hư Không** / **Thần Lộ cổ** ( Phàm ) · **khe** · **Trúc Cơ+** đại năng ( Linh qua hư không nội giới, hiếm ) — chi tiết [`02-pham-linh-interface.md`](../02-pham-linh-interface.md); truyền tống **có sổ** | Phàm Tàn Mộ ↔ Linh Cửu Lạc |
 | **Mạch Linh–Tiên** | II↔III | **Độ Kiếp + Cửu Cửu** tại slot `E-LINH-ASCENSION-GATE` / `REG-CL-CUU-KHAU` — **không** cố định một điểm | `CHL-CUU-LAC` |
 | **Mạch Tiên–Thần** | III↔IV | **Đại kiếp** — slot `E-TIEN-THAN-GATE`, `E-THAN-TIEN-GATE`, `REG-HC-CUC-BAC` (Huyền Băng) — **chu kỳ** | Tiên + Thần Huyền Băng |
 | **Liên tinh hà (trong một giới)** | `TH-*` ↔ `TH-*` cùng giới | **Tiên Vương+ / Thần Vương+** — phí, khế; **Thánh** = lore, không hub geo | Cosmos §3–§5 |
@@ -154,9 +166,9 @@ Khi sinh mệnh kết thúc trong một giới host, **Thần thức / hồn ả
 | **`SUB-CT-MULTI-FOUR`** | `(công khai)` | Mỗi **thế giới con** = **bộ bốn** Phàm/Linh/Tiên/Thần **riêng**, liên **Hư Không** — **không** gộp thành một đại lục |
 | **`SUB-CT-TAICU-ROUTE`** | `(chưa lộ)` | **Thái Cực+** (power doc) — **xuyên void** giữa các bộ; **phí** thọ / nguyên / Nhân quả giới |
 | **`SUB-CT-BICH-DEBT`** | `(hidden_logic)` | **Rút khí chéo bộ** — Core `(bí mật)` **Nhân quả giới**; phe truy sát xuyên thế giới con |
-| **`SUB-CT-SAINT-OUTSIDE`** | `(chưa lộ)` | **Thánh Nhân** ngoài bộ bốn — **không** atlas hub; manh `TH-THAN-HON-NGUYEN` |
+| **`SUB-CT-SAINT-OUTSIDE`** | `(chưa lộ)` | Người **Siêu Thoát** vượt Giới Tường; khác người **Hòa Thiên** vào Thiên Đạo Hải — **không** atlas hub; manh `TH-THAN-HON-NGUYEN` |
 
-**Invariant:** Xuyên **Chư Thiên** **không** phá “mỗi giới = một vũ trụ song song” trong **một** bộ.
+**Invariant:** Xuyên **Chư Thiên** không phá cấu trúc “bốn giới diện vật chất song song cùng thuộc Nhân Giới” trong Không gian Bàn Cổ.
 
 ---
 

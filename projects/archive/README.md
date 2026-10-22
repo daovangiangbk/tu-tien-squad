@@ -76,6 +76,8 @@ git mv projects/<slug> projects/archive/<slug>
 | --- | --- | --- | --- |
 | `tap-linh-dieu-lo` | Tạp Linh Diêu Lộ | 2026-09-18 | Phase 1 complete · adaptation EP-01–15 · Core shared |
 | `than-phu` | Thần Phù (神符) | 2026-09-18 | Phase 1 prose ch.1–110 approved · Core shared |
+| `linh-dien` | Linh điền | 2026-10-02 | Arc 1 · 8 ch prose draft v2 · human gate v5 thoại defer |
+| `ham-mo` | Hầm mỏ | 2026-10-08 | Truyện ngắn 4 ch · redraft v3 approved_v3 · geo waived |
 
 ---
 

@@ -26,7 +26,7 @@ Mỗi tiểu thuyết (tác phẩm) **active** là **một thư mục con** `pro
 
 | Slug | Tên hiển thị | Ghi chú |
 | --- | --- | --- |
-| [`ham-mo`](ham-mo/00-master-brief.md) | **Hầm mỏ** | Pipeline A — **truyện ngắn** 4 chương; shared `foundation/`; geo stack waived |
+| `than-khi` | Thần Khí (神器) | Epic A1 — restore 2026-10-08 · thay brief restart *Hầm mỏ* |
 
 **Archived:** [`archive/README.md`](archive/README.md) (bảng + `git mv` / restore).
 

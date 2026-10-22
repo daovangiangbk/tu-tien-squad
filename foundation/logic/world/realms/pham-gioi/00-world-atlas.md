@@ -1,24 +1,28 @@
-# Phàm Giới — Tinh hà Bích Lạc (Foundation Canon)
+# Phàm Giới — atlas Bích Lạc Tinh (Foundation Canon)
 
-> **work_slug:** `foundation-canon` · **Giới:** Phàm (凡界) — Luật 6 · **Convention:** [`../../00-geojson-world-map-convention.md`](../../00-geojson-world-map-convention.md)
+> **work_slug:** `foundation-canon` · **Giới:** Phàm (凡界) — Luật 6 · **Convention:** [`../../../00-geojson-world-map-convention.md`](../../../00-geojson-world-map-convention.md)
 
-**GeoJSON:** [`geo/00-tinh-ha.geojson`](geo/00-tinh-ha.geojson) · [`geo/chau-luc/chl-xich-ha.geojson`](geo/chau-luc/chl-xich-ha.geojson) · [`geo/chau-luc/chl-tam-nguyen.geojson`](geo/chau-luc/chl-tam-nguyen.geojson) · [`geo/chau-luc/chl-han-phuong.geojson`](geo/chau-luc/chl-han-phuong.geojson) · [`geo/chau-luc/chl-phu-tao.geojson`](geo/chau-luc/chl-phu-tao.geojson) · [`geo/chau-luc/chl-lo-hang.geojson`](geo/chau-luc/chl-lo-hang.geojson) · [`geo/chau-luc/chl-tan-mo.geojson`](geo/chau-luc/chl-tan-mo.geojson) · [`geo/region/reg-xh-de-do.geojson`](geo/region/reg-xh-de-do.geojson) · [`geo/region/reg-tn-trung-nguyen.geojson`](geo/region/reg-tn-trung-nguyen.geojson) · [`geo/region/reg-tm-khe-gioi.geojson`](geo/region/reg-tm-khe-gioi.geojson) · [`geo/region/reg-tm-co-tu.geojson`](geo/region/reg-tm-co-tu.geojson) · [`geo/region/reg-tm-nam-quan.geojson`](geo/region/reg-tm-nam-quan.geojson) · [`geo/region/reg-tm-sa-hai.geojson`](geo/region/reg-tm-sa-hai.geojson) · [`geo/region/reg-tm-tay-ma.geojson`](geo/region/reg-tm-tay-ma.geojson) · [`geo/region/reg-tm-bac-han.geojson`](geo/region/reg-tm-bac-han.geojson) · [`geo/region/reg-tm-dong-oa.geojson`](geo/region/reg-tm-dong-oa.geojson) · [`geo/region/reg-tm-co-ta.geojson`](geo/region/reg-tm-co-ta.geojson) · [`geo/region/reg-tm-han-coc.geojson`](geo/region/reg-tm-han-coc.geojson)
+**Hồ sơ đối tượng:** [`00-object-index.md`](00-object-index.md) · **Tinh cầu active:** [`planets/bich-lac-tinh/00-overview.md`](planets/bich-lac-tinh/00-overview.md) · **Chỉ mục châu lục:** [`continents/00-continent-index.md`](planets/bich-lac-tinh/continents/00-continent-index.md)
 
-**PNG:** [`geo/out/00-tinh-ha.png`](geo/out/00-tinh-ha.png) · [`geo/out/chl-xich-ha.png`](geo/out/chl-xich-ha.png) · [`geo/out/chl-tam-nguyen.png`](geo/out/chl-tam-nguyen.png) · [`geo/out/chl-han-phuong.png`](geo/out/chl-han-phuong.png) · [`geo/out/chl-phu-tao.png`](geo/out/chl-phu-tao.png) · [`geo/out/chl-lo-hang.png`](geo/out/chl-lo-hang.png) · [`geo/out/chl-tan-mo.png`](geo/out/chl-tan-mo.png) · [`geo/out/reg-xh-de-do.png`](geo/out/reg-xh-de-do.png) · [`geo/out/reg-tn-trung-nguyen.png`](geo/out/reg-tn-trung-nguyen.png) · [`geo/out/reg-tm-khe-gioi.png`](geo/out/reg-tm-khe-gioi.png) · [`geo/out/reg-tm-co-tu.png`](geo/out/reg-tm-co-tu.png) · [`geo/out/reg-tm-nam-quan.png`](geo/out/reg-tm-nam-quan.png) · [`geo/out/reg-tm-sa-hai.png`](geo/out/reg-tm-sa-hai.png) · [`geo/out/reg-tm-tay-ma.png`](geo/out/reg-tm-tay-ma.png) · [`geo/out/reg-tm-bac-han.png`](geo/out/reg-tm-bac-han.png) · [`geo/out/reg-tm-dong-oa.png`](geo/out/reg-tm-dong-oa.png) · [`geo/out/reg-tm-co-ta.png`](geo/out/reg-tm-co-ta.png) · [`geo/out/reg-tm-han-coc.png`](geo/out/reg-tm-han-coc.png)
+> `TH-PHAM-BICH-LAC` là ID parent map/quần vực legacy bọc **Bích Lạc Tinh**. Sáu `CHL-*` trong atlas đều là châu lục trên tinh cầu này; tên file, ID và dữ liệu số được giữ để tương thích.
+
+**GeoJSON:** [`planets/bich-lac-tinh/geo/00-tinh-ha.geojson`](planets/bich-lac-tinh/geo/00-tinh-ha.geojson) · [`planets/bich-lac-tinh/geo/chau-luc/chl-xich-ha.geojson`](planets/bich-lac-tinh/geo/chau-luc/chl-xich-ha.geojson) · [`planets/bich-lac-tinh/geo/chau-luc/chl-tam-nguyen.geojson`](planets/bich-lac-tinh/geo/chau-luc/chl-tam-nguyen.geojson) · [`planets/bich-lac-tinh/geo/chau-luc/chl-han-phuong.geojson`](planets/bich-lac-tinh/geo/chau-luc/chl-han-phuong.geojson) · [`planets/bich-lac-tinh/geo/chau-luc/chl-phu-tao.geojson`](planets/bich-lac-tinh/geo/chau-luc/chl-phu-tao.geojson) · [`planets/bich-lac-tinh/geo/chau-luc/chl-lo-hang.geojson`](planets/bich-lac-tinh/geo/chau-luc/chl-lo-hang.geojson) · [`planets/bich-lac-tinh/geo/chau-luc/chl-tan-mo.geojson`](planets/bich-lac-tinh/geo/chau-luc/chl-tan-mo.geojson) · [`planets/bich-lac-tinh/geo/region/reg-xh-de-do.geojson`](planets/bich-lac-tinh/geo/region/reg-xh-de-do.geojson) · [`planets/bich-lac-tinh/geo/region/reg-tn-trung-nguyen.geojson`](planets/bich-lac-tinh/geo/region/reg-tn-trung-nguyen.geojson) · [`planets/bich-lac-tinh/geo/region/reg-tm-khe-gioi.geojson`](planets/bich-lac-tinh/geo/region/reg-tm-khe-gioi.geojson) · [`planets/bich-lac-tinh/geo/region/reg-tm-co-tu.geojson`](planets/bich-lac-tinh/geo/region/reg-tm-co-tu.geojson) · [`planets/bich-lac-tinh/geo/region/reg-tm-nam-quan.geojson`](planets/bich-lac-tinh/geo/region/reg-tm-nam-quan.geojson) · [`planets/bich-lac-tinh/geo/region/reg-tm-sa-hai.geojson`](planets/bich-lac-tinh/geo/region/reg-tm-sa-hai.geojson) · [`planets/bich-lac-tinh/geo/region/reg-tm-tay-ma.geojson`](planets/bich-lac-tinh/geo/region/reg-tm-tay-ma.geojson) · [`planets/bich-lac-tinh/geo/region/reg-tm-bac-han.geojson`](planets/bich-lac-tinh/geo/region/reg-tm-bac-han.geojson) · [`planets/bich-lac-tinh/geo/region/reg-tm-dong-oa.geojson`](planets/bich-lac-tinh/geo/region/reg-tm-dong-oa.geojson) · [`planets/bich-lac-tinh/geo/region/reg-tm-co-ta.geojson`](planets/bich-lac-tinh/geo/region/reg-tm-co-ta.geojson) · [`planets/bich-lac-tinh/geo/region/reg-tm-han-coc.geojson`](planets/bich-lac-tinh/geo/region/reg-tm-han-coc.geojson)
+
+**PNG:** [`planets/bich-lac-tinh/geo/out/00-tinh-ha.png`](planets/bich-lac-tinh/geo/out/00-tinh-ha.png) · [`planets/bich-lac-tinh/geo/out/chl-xich-ha.png`](planets/bich-lac-tinh/geo/out/chl-xich-ha.png) · [`planets/bich-lac-tinh/geo/out/chl-tam-nguyen.png`](planets/bich-lac-tinh/geo/out/chl-tam-nguyen.png) · [`planets/bich-lac-tinh/geo/out/chl-han-phuong.png`](planets/bich-lac-tinh/geo/out/chl-han-phuong.png) · [`planets/bich-lac-tinh/geo/out/chl-phu-tao.png`](planets/bich-lac-tinh/geo/out/chl-phu-tao.png) · [`planets/bich-lac-tinh/geo/out/chl-lo-hang.png`](planets/bich-lac-tinh/geo/out/chl-lo-hang.png) · [`planets/bich-lac-tinh/geo/out/chl-tan-mo.png`](planets/bich-lac-tinh/geo/out/chl-tan-mo.png) · [`planets/bich-lac-tinh/geo/out/reg-xh-de-do.png`](planets/bich-lac-tinh/geo/out/reg-xh-de-do.png) · [`planets/bich-lac-tinh/geo/out/reg-tn-trung-nguyen.png`](planets/bich-lac-tinh/geo/out/reg-tn-trung-nguyen.png) · [`planets/bich-lac-tinh/geo/out/reg-tm-khe-gioi.png`](planets/bich-lac-tinh/geo/out/reg-tm-khe-gioi.png) · [`planets/bich-lac-tinh/geo/out/reg-tm-co-tu.png`](planets/bich-lac-tinh/geo/out/reg-tm-co-tu.png) · [`planets/bich-lac-tinh/geo/out/reg-tm-nam-quan.png`](planets/bich-lac-tinh/geo/out/reg-tm-nam-quan.png) · [`planets/bich-lac-tinh/geo/out/reg-tm-sa-hai.png`](planets/bich-lac-tinh/geo/out/reg-tm-sa-hai.png) · [`planets/bich-lac-tinh/geo/out/reg-tm-tay-ma.png`](planets/bich-lac-tinh/geo/out/reg-tm-tay-ma.png) · [`planets/bich-lac-tinh/geo/out/reg-tm-bac-han.png`](planets/bich-lac-tinh/geo/out/reg-tm-bac-han.png) · [`planets/bich-lac-tinh/geo/out/reg-tm-dong-oa.png`](planets/bich-lac-tinh/geo/out/reg-tm-dong-oa.png) · [`planets/bich-lac-tinh/geo/out/reg-tm-co-ta.png`](planets/bich-lac-tinh/geo/out/reg-tm-co-ta.png) · [`planets/bich-lac-tinh/geo/out/reg-tm-han-coc.png`](planets/bich-lac-tinh/geo/out/reg-tm-han-coc.png)
 
 **Region catalog:** [`01-region-catalog.md`](01-region-catalog.md) · **Micro slots:** [`02-tieu-cuc-index.md`](02-tieu-cuc-index.md)
 
 ---
 
-## 1. Tinh hà chủ
+## 1. Parent map Bích Lạc
 
 | Trường | Giá trị |
 | --- | --- |
 | **ID** | `TH-PHAM-BICH-LAC` |
-| **Tên** | **Tinh hà Bích Lạc** (碧落星河) |
+| **Tên legacy** | **Tinh hà Bích Lạc** (碧落星河) — quần vực bản đồ của Bích Lạc Tinh |
 | **Vị trí trong Hư Không Phàm** | Mảnh **nam–đông** của vực Phàm Giới đã biết; hub `TINH-HA-REF` ≈ trung tâm **mạch truyền thuyết** (không phải địa lý tuyệt đối). Tinh hà lân cận (Thiên Uyên, Huyền Sa…) nằm **ngoài phạm vi hành trình** — chỉ crack / di cổ ngữ nhắc tới. |
 | **Thang lưới** | Story grid: **x = Đông (+), y = Bắc (+)**; một đơn vị ≈ **một ngày đi lộ thường** (phàm nhân, đường bộ). Bán kính “một tinh hà” trong lore: **~800–900 đơn vị** từ hub tới mép đại lục xa nhất trên bản đồ. |
-| **Quy mô vật lý (tóm)** | **6** đại lục (`CHL-*`) + biển hư không / quần đảo nhỏ (chưa vẽ chi tiết); **không** chồng polygon lục trên tinh_ha. |
+| **Quy mô vật lý (tóm)** | **Một tinh cầu** có **6** đại lục (`CHL-*`) + biển và quần đảo nhỏ (chưa vẽ chi tiết); **không** chồng polygon lục trên scope `tinh_ha` legacy. |
 
 ### 1.1. Linh khí & sinh thái `(neo Luật 6 · Luật 6a)`
 
@@ -46,14 +50,14 @@
 
 | CHL | Geo · PNG | Hub | REG |
 | --- | --- | --- | --- |
-| `CHL-XICH-HA` | [`chl-xich-ha.geojson`](geo/chau-luc/chl-xich-ha.geojson) · [`chl-xich-ha.png`](geo/out/chl-xich-ha.png) | `LOC-XH-LAC-DUONG` | **10** (+ `BRR-XH-HONG-LIEN`, 2 sông) |
-| `CHL-TAM-NGUYEN` | [`chl-tam-nguyen.geojson`](geo/chau-luc/chl-tam-nguyen.geojson) · [`chl-tam-nguyen.png`](geo/out/chl-tam-nguyen.png) | `LOC-TN-DONG-HAI` | **10** (+ `BRR-TN-NGUU-SON`, 3 sông) |
-| `CHL-HAN-PHUONG` | [`chl-han-phuong.geojson`](geo/chau-luc/chl-han-phuong.geojson) · [`chl-han-phuong.png`](geo/out/chl-han-phuong.png) | `LOC-HP-HAN-TINH` | **10** (+ `BRR-HP-HAN-SON`, 2 sông) · parent `[-356, -32]` |
-| `CHL-PHU-TAO` | [`chl-phu-tao.geojson`](geo/chau-luc/chl-phu-tao.geojson) · [`chl-phu-tao.png`](geo/out/chl-phu-tao.png) | `LOC-PT-PHU-TRAN` | **10** (+ `BRR-PT-LOI-DI`, 2 sông) · parent `[-160, 104]` |
-| `CHL-LO-HANG` | [`chl-lo-hang.geojson`](geo/chau-luc/chl-lo-hang.geojson) · [`chl-lo-hang.png`](geo/out/chl-lo-hang.png) | `LOC-LH-CANG-TIEN` | **9** (+ `BRR-LH-LONG-QUY`, 2 hải lưu) · parent `[188, -37]` |
-| `CHL-TAN-MO` | [`chl-tan-mo.geojson`](geo/chau-luc/chl-tan-mo.geojson) · [`chl-tan-mo.png`](geo/out/chl-tan-mo.png) | `LOC-TM-CO-TU` | **9** (+ `BRR-TM-TIET-LO`, 2 cố đô) · parent `[-205, -248]` |
+| [`CHL-XICH-HA`](planets/bich-lac-tinh/continents/xich-ha/00-overview.md) | [`chl-xich-ha.geojson`](planets/bich-lac-tinh/geo/chau-luc/chl-xich-ha.geojson) · [`chl-xich-ha.png`](planets/bich-lac-tinh/geo/out/chl-xich-ha.png) | `LOC-XH-LAC-DUONG` | **10** (+ `BRR-XH-HONG-LIEN`, 2 sông) |
+| [`CHL-TAM-NGUYEN`](planets/bich-lac-tinh/continents/tam-nguyen/00-overview.md) | [`chl-tam-nguyen.geojson`](planets/bich-lac-tinh/geo/chau-luc/chl-tam-nguyen.geojson) · [`chl-tam-nguyen.png`](planets/bich-lac-tinh/geo/out/chl-tam-nguyen.png) | `LOC-TN-DONG-HAI` | **10** (+ `BRR-TN-NGUU-SON`, 3 sông) |
+| [`CHL-HAN-PHUONG`](planets/bich-lac-tinh/continents/han-phuong/00-overview.md) | [`chl-han-phuong.geojson`](planets/bich-lac-tinh/geo/chau-luc/chl-han-phuong.geojson) · [`chl-han-phuong.png`](planets/bich-lac-tinh/geo/out/chl-han-phuong.png) | `LOC-HP-HAN-TINH` | **10** (+ `BRR-HP-HAN-SON`, 2 sông) · parent `[-356, -32]` |
+| [`CHL-PHU-TAO`](planets/bich-lac-tinh/continents/phu-tao/00-overview.md) | [`chl-phu-tao.geojson`](planets/bich-lac-tinh/geo/chau-luc/chl-phu-tao.geojson) · [`chl-phu-tao.png`](planets/bich-lac-tinh/geo/out/chl-phu-tao.png) | `LOC-PT-PHU-TRAN` | **10** (+ `BRR-PT-LOI-DI`, 2 sông) · parent `[-160, 104]` |
+| [`CHL-LO-HANG`](planets/bich-lac-tinh/continents/lo-hang/00-overview.md) | [`chl-lo-hang.geojson`](planets/bich-lac-tinh/geo/chau-luc/chl-lo-hang.geojson) · [`chl-lo-hang.png`](planets/bich-lac-tinh/geo/out/chl-lo-hang.png) | `LOC-LH-CANG-TIEN` | **9** (+ `BRR-LH-LONG-QUY`, 2 hải lưu) · parent `[188, -37]` |
+| [`CHL-TAN-MO`](planets/bich-lac-tinh/continents/tan-mo/00-overview.md) | [`chl-tan-mo.geojson`](planets/bich-lac-tinh/geo/chau-luc/chl-tan-mo.geojson) · [`chl-tan-mo.png`](planets/bich-lac-tinh/geo/out/chl-tan-mo.png) | `LOC-TM-CO-TU` | **9** (+ `BRR-TM-TIET-LO`, 2 cố đô) · parent `[-205, -248]` |
 
-**Canvas:** [`canvas/chl-xich-ha.canvas.json`](canvas/chl-xich-ha.canvas.json) · [`canvas/chl-tam-nguyen.canvas.json`](canvas/chl-tam-nguyen.canvas.json) · [`canvas/chl-han-phuong.canvas.json`](canvas/chl-han-phuong.canvas.json) · [`canvas/chl-phu-tao.canvas.json`](canvas/chl-phu-tao.canvas.json) · [`canvas/chl-lo-hang.canvas.json`](canvas/chl-lo-hang.canvas.json) · [`canvas/chl-tan-mo.canvas.json`](canvas/chl-tan-mo.canvas.json)
+**Canvas:** [`planets/bich-lac-tinh/canvas/chl-xich-ha.canvas.json`](planets/bich-lac-tinh/canvas/chl-xich-ha.canvas.json) · [`chl-tam-nguyen.canvas.json`](planets/bich-lac-tinh/canvas/chl-tam-nguyen.canvas.json) · [`chl-han-phuong.canvas.json`](planets/bich-lac-tinh/canvas/chl-han-phuong.canvas.json) · [`chl-phu-tao.canvas.json`](planets/bich-lac-tinh/canvas/chl-phu-tao.canvas.json) · [`chl-lo-hang.canvas.json`](planets/bich-lac-tinh/canvas/chl-lo-hang.canvas.json) · [`chl-tan-mo.canvas.json`](planets/bich-lac-tinh/canvas/chl-tan-mo.canvas.json)
 
 **Xích Hạ — cụm REG:** Nam (`REG-XH-NAM-HAI`, `REG-XH-NAM-CAN`) · Trung (`REG-XH-XICH-NGUYEN`, `REG-XH-DE-DO`) · Bắc (`REG-XH-BAC-HAN`) · Tây (`REG-XH-HOANG-TAY`, `REG-XH-TAY-SON`) · Đông (`REG-XH-DONG-NOI`, `REG-XH-DONG-HAI`) · `BRR-XH-HONG-LIEN`.
 
@@ -71,17 +75,17 @@
 
 | REG | Geo · PNG | Hub region | Parent neo (chl) |
 | --- | --- | --- | --- |
-| `REG-XH-DE-DO` | [`reg-xh-de-do.geojson`](geo/region/reg-xh-de-do.geojson) · [`reg-xh-de-do.png`](geo/out/reg-xh-de-do.png) | `LOC-XH-LAC-DUONG` `[0,0]` | `chl-xich-ha` · `(420,580)` · shared `LOC-XH-LAC-DUONG` |
-| `REG-TN-TRUNG-NGUYEN` | [`reg-tn-trung-nguyen.geojson`](geo/region/reg-tn-trung-nguyen.geojson) · [`reg-tn-trung-nguyen.png`](geo/out/reg-tn-trung-nguyen.png) | `LOC-TN-HONG-LO` `[0,0]` | `chl-tam-nguyen` · `(490,380)` · shared `LOC-TN-DONG-HAI` tại `[410,0]` → `(900,380)` |
-| `REG-TM-NAM-QUAN` | [`reg-tm-nam-quan.geojson`](geo/region/reg-tm-nam-quan.geojson) · [`reg-tm-nam-quan.png`](geo/out/reg-tm-nam-quan.png) | `LOC-TM-NAM-QUAN` `[0,0]` | `chl-tan-mo` · `(512,97)` · centroid REG |
-| `REG-TM-SA-HAI` | [`reg-tm-sa-hai.geojson`](geo/region/reg-tm-sa-hai.geojson) · [`reg-tm-sa-hai.png`](geo/out/reg-tm-sa-hai.png) | `LOC-TM-SA-HAI-TAM` `[0,0]` | `chl-tan-mo` · `(565,327)` · shared `LOC-TM-SA-HAI-CUA` `[-271,55]` → `(294,382)` |
-| `REG-TM-KHE-GIOI` | [`reg-tm-khe-gioi.geojson`](geo/region/reg-tm-khe-gioi.geojson) · [`reg-tm-khe-gioi.png`](geo/out/reg-tm-khe-gioi.png) | `LOC-TM-KHE-GIOI` `[0,0]` | `chl-tan-mo` · `(76,340)` · shared `LOC-TM-CO-TU` tại `[274,280]` → `(350,620)` |
-| `REG-TM-TAY-MA` | [`reg-tm-tay-ma.geojson`](geo/region/reg-tm-tay-ma.geojson) · [`reg-tm-tay-ma.png`](geo/out/reg-tm-tay-ma.png) | `LOC-TM-MA-UUYEN` `[0,0]` | `chl-tan-mo` · `(177,588)` · `E-PHAM-MA-PATCH` · shared `LOC-TM-KHE-GIOI` `[-101,-248]` |
-| `REG-TM-CO-TU` | [`reg-tm-co-tu.geojson`](geo/region/reg-tm-co-tu.geojson) · [`reg-tm-co-tu.png`](geo/out/reg-tm-co-tu.png) | `LOC-TM-CO-TU` `[0,0]` | `chl-tan-mo` · `(350,620)` · shared `LOC-TM-KHE-GIOI` tại `[-274,-280]` → `(76,340)` |
-| `REG-TM-BAC-HAN` | [`reg-tm-bac-han.geojson`](geo/region/reg-tm-bac-han.geojson) · [`reg-tm-bac-han.png`](geo/out/reg-tm-bac-han.png) | `LOC-TM-BAC-HAN-RIM` `[0,0]` | `chl-tan-mo` · `(512,614)` · shared `LOC-TM-HAN-COC-MOUTH` `[0,-76]` → `(512,538)` |
-| `REG-TM-DONG-OA` | [`reg-tm-dong-oa.geojson`](geo/region/reg-tm-dong-oa.geojson) · [`reg-tm-dong-oa.png`](geo/out/reg-tm-dong-oa.png) | `LOC-TM-OA-TUYEN` `[0,0]` | `chl-tan-mo` · `(870,560)` · hub trùng Point lục |
-| `REG-TM-CO-TA` | [`reg-tm-co-ta.geojson`](geo/region/reg-tm-co-ta.geojson) · [`reg-tm-co-ta.png`](geo/out/reg-tm-co-ta.png) | `LOC-TM-CO-TA-TAP` `[0,0]` | `chl-tan-mo` · `(877,438)` · shared `LOC-TM-OA-TUYEN` `[-7,122]` |
-| `REG-TM-HAN-COC` | [`reg-tm-han-coc.geojson`](geo/region/reg-tm-han-coc.geojson) · [`reg-tm-han-coc.png`](geo/out/reg-tm-han-coc.png) | `LOC-TM-HAN-COC-DHE` `[0,0]` | `chl-tan-mo` · `(411,526)` · `linh_khi_tier`: vô_lin |
+| `REG-XH-DE-DO` | [`reg-xh-de-do.geojson`](planets/bich-lac-tinh/geo/region/reg-xh-de-do.geojson) · [`reg-xh-de-do.png`](planets/bich-lac-tinh/geo/out/reg-xh-de-do.png) | `LOC-XH-LAC-DUONG` `[0,0]` | `chl-xich-ha` · `(420,580)` · shared `LOC-XH-LAC-DUONG` |
+| `REG-TN-TRUNG-NGUYEN` | [`reg-tn-trung-nguyen.geojson`](planets/bich-lac-tinh/geo/region/reg-tn-trung-nguyen.geojson) · [`reg-tn-trung-nguyen.png`](planets/bich-lac-tinh/geo/out/reg-tn-trung-nguyen.png) | `LOC-TN-HONG-LO` `[0,0]` | `chl-tam-nguyen` · `(490,380)` · shared `LOC-TN-DONG-HAI` tại `[410,0]` → `(900,380)` |
+| `REG-TM-NAM-QUAN` | [`reg-tm-nam-quan.geojson`](planets/bich-lac-tinh/geo/region/reg-tm-nam-quan.geojson) · [`reg-tm-nam-quan.png`](planets/bich-lac-tinh/geo/out/reg-tm-nam-quan.png) | `LOC-TM-NAM-QUAN` `[0,0]` | `chl-tan-mo` · `(512,97)` · centroid REG |
+| `REG-TM-SA-HAI` | [`reg-tm-sa-hai.geojson`](planets/bich-lac-tinh/geo/region/reg-tm-sa-hai.geojson) · [`reg-tm-sa-hai.png`](planets/bich-lac-tinh/geo/out/reg-tm-sa-hai.png) | `LOC-TM-SA-HAI-TAM` `[0,0]` | `chl-tan-mo` · `(565,327)` · shared `LOC-TM-SA-HAI-CUA` `[-271,55]` → `(294,382)` |
+| `REG-TM-KHE-GIOI` | [`reg-tm-khe-gioi.geojson`](planets/bich-lac-tinh/geo/region/reg-tm-khe-gioi.geojson) · [`reg-tm-khe-gioi.png`](planets/bich-lac-tinh/geo/out/reg-tm-khe-gioi.png) | `LOC-TM-KHE-GIOI` `[0,0]` | `chl-tan-mo` · `(76,340)` · shared `LOC-TM-CO-TU` tại `[274,280]` → `(350,620)` |
+| `REG-TM-TAY-MA` | [`reg-tm-tay-ma.geojson`](planets/bich-lac-tinh/geo/region/reg-tm-tay-ma.geojson) · [`reg-tm-tay-ma.png`](planets/bich-lac-tinh/geo/out/reg-tm-tay-ma.png) | `LOC-TM-MA-UUYEN` `[0,0]` | `chl-tan-mo` · `(177,588)` · `E-PHAM-MA-PATCH` · shared `LOC-TM-KHE-GIOI` `[-101,-248]` |
+| `REG-TM-CO-TU` | [`reg-tm-co-tu.geojson`](planets/bich-lac-tinh/geo/region/reg-tm-co-tu.geojson) · [`reg-tm-co-tu.png`](planets/bich-lac-tinh/geo/out/reg-tm-co-tu.png) | `LOC-TM-CO-TU` `[0,0]` | `chl-tan-mo` · `(350,620)` · shared `LOC-TM-KHE-GIOI` tại `[-274,-280]` → `(76,340)` |
+| `REG-TM-BAC-HAN` | [`reg-tm-bac-han.geojson`](planets/bich-lac-tinh/geo/region/reg-tm-bac-han.geojson) · [`reg-tm-bac-han.png`](planets/bich-lac-tinh/geo/out/reg-tm-bac-han.png) | `LOC-TM-BAC-HAN-RIM` `[0,0]` | `chl-tan-mo` · `(512,614)` · shared `LOC-TM-HAN-COC-MOUTH` `[0,-76]` → `(512,538)` |
+| `REG-TM-DONG-OA` | [`reg-tm-dong-oa.geojson`](planets/bich-lac-tinh/geo/region/reg-tm-dong-oa.geojson) · [`reg-tm-dong-oa.png`](planets/bich-lac-tinh/geo/out/reg-tm-dong-oa.png) | `LOC-TM-OA-TUYEN` `[0,0]` | `chl-tan-mo` · `(870,560)` · hub trùng Point lục |
+| `REG-TM-CO-TA` | [`reg-tm-co-ta.geojson`](planets/bich-lac-tinh/geo/region/reg-tm-co-ta.geojson) · [`reg-tm-co-ta.png`](planets/bich-lac-tinh/geo/out/reg-tm-co-ta.png) | `LOC-TM-CO-TA-TAP` `[0,0]` | `chl-tan-mo` · `(877,438)` · shared `LOC-TM-OA-TUYEN` `[-7,122]` |
+| `REG-TM-HAN-COC` | [`reg-tm-han-coc.geojson`](planets/bich-lac-tinh/geo/region/reg-tm-han-coc.geojson) · [`reg-tm-han-coc.png`](planets/bich-lac-tinh/geo/out/reg-tm-han-coc.png) | `LOC-TM-HAN-COC-DHE` `[0,0]` | `chl-tan-mo` · `(411,526)` · `linh_khi_tier`: vô_lin |
 
 **Bàn cờ — Đế Đô Lạc Dương:** **Ràng buộc:** thuế linh thạch **30–40%** qua `LOC-XH-LINH-THACH-KHO`; Tây Sơn Tự giám sát võ tu; `LOC-XH-MANH-MACH-AN` = manh mạch **phong ấn** — **không** nuôi chân tu ( Thiên phạt ). **Phần thưởng:** an toàn tương đối trong thành, tiếp cận triều đình và kho thuế. **Giá:** lộ **linh lực** / chân tu = danh sách + phạt; Nam quan / Bắc lộ — thuế quan hoặc sa mạc.
 
@@ -135,7 +139,7 @@
 1. **Một tinh hà chủ** — mọi arc “Phàm” mặc định gói trong `TH-PHAM-BICH-LAC` trừ crack có ledger.
 2. **Mạt pháp** — **không** chân tu cư trú; **Thiên phạt Phàm** nếu linh lực ổn định trên Phàm ( sync Core Luật 6a · `02-pham-linh-interface.md` ).
 3. **Linh khí không đủ** cho Trúc Cơ+ **chỉ trên Phàm** (sync `03-power-system-economy-core.md`).
-4. **Phàm ↔ Linh** = hai vũ trụ song song — **không** “leo tầng” trong cùng không gian.
+4. **Phàm ↔ Linh** là hai giới diện vật chất song song trong Nhân Giới, ngăn bởi màng pháp tắc nội tầng — **không** “leo tầng” bằng phương vị trong cùng không gian.
 5. **Không** đặt tên/địa danh từ tác phẩm archived trong canon Foundation.
 6. **Geo read-only** cho prose; sửa địa lý qua world-builder + convention v2.
 
@@ -157,7 +161,7 @@
 | Manh mối | Câu hỏi | Ràng buộc payoff |
 | --- | --- | --- |
 | Phế địa “Thiên trụ” Tam Nguyên | Ai rút cạn mạch? | Phải khớp timeline **hạ phàm** |
-| Hàng hải Lô Hàng | Ai nắm bản đồ crack? | Thương lộ **có sổ** — không teleport miễn phí |
+| Hàng hải Lô Hàng | Ai nắm bản đồ khe giới? | Thương lộ **có sổ** — không truyền tống miễn phí |
 | Băng mộ Hàn Phương | Vong hồn tu sĩ Linh? | Minh Giới **phụ** — không thay Luật 6 |
 
 ---

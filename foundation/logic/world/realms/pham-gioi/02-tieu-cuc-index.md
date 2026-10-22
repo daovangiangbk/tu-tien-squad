@@ -1,9 +1,9 @@
 # Phàm Giới — Tiểu cục (micro slots)
 
-> **work_slug:** `foundation-canon` · **Convention:** [`../../00-geojson-world-map-convention.md`](../../00-geojson-world-map-convention.md)  
-> **Phase 1c:** Chỉ **stub** slot — `geo/micro/*.geojson` khi arc-planner lock địa điểm.
+> **work_slug:** `foundation-canon` · **Convention:** [`../../../00-geojson-world-map-convention.md`](../../../00-geojson-world-map-convention.md)
+> **Phase 1c:** Chỉ **stub** slot — `planets/bich-lac-tinh/geo/micro/*.geojson` khi arc-planner lock địa điểm.
 
-**Region exemplars:** [`geo/region/reg-xh-de-do.geojson`](geo/region/reg-xh-de-do.geojson) · [`geo/region/reg-tn-trung-nguyen.geojson`](geo/region/reg-tn-trung-nguyen.geojson) · **Tàn Mộ (9 REG):** [`reg-tm-nam-quan`](geo/region/reg-tm-nam-quan.geojson) · … · [`reg-tm-han-coc`](geo/region/reg-tm-han-coc.geojson) · **1f (32 REG/BRR):** [`01-region-catalog.md`](01-region-catalog.md) § Hàn Phương · Phù Tảo · Lô Hàng · script [`scripts/build_pham_regions_1f.py`](scripts/build_pham_regions_1f.py)
+**Region exemplars:** [`planets/bich-lac-tinh/geo/region/reg-xh-de-do.geojson`](planets/bich-lac-tinh/geo/region/reg-xh-de-do.geojson) · [`planets/bich-lac-tinh/geo/region/reg-tn-trung-nguyen.geojson`](planets/bich-lac-tinh/geo/region/reg-tn-trung-nguyen.geojson) · **Tàn Mộ (9 REG):** [`reg-tm-nam-quan`](planets/bich-lac-tinh/geo/region/reg-tm-nam-quan.geojson) · … · [`reg-tm-han-coc`](planets/bich-lac-tinh/geo/region/reg-tm-han-coc.geojson) · **1f (32 REG/BRR):** [`01-region-catalog.md`](01-region-catalog.md) § Hàn Phương · Phù Tảo · Lô Hàng · script [`scripts/build_pham_regions_1f.py`](scripts/build_pham_regions_1f.py)
 
 ---
 

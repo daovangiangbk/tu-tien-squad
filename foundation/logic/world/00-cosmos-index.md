@@ -1,21 +1,25 @@
 # Cosmos Index — Foundation Canon (`foundation-canon`)
 
-> **Mô hình:** Bốn **vũ trụ song song** Phàm · Linh · Tiên · Thần (Luật 6). Giới bích (界壁) tách từng giới; **Hư Không / Vực Ngoại** = không gian liên giới — **không** phải giới tu thứ năm.
+> **Luật nền đọc trước:** [`laws/00-index.md`](laws/00-index.md) · **Cấu trúc không gian:** [`history/tier-00/00a-phu-luc-cau-truc-khong-gian-ban-co.md`](history/tier-00/00a-phu-luc-cau-truc-khong-gian-ban-co.md).
+>
+> **Mô hình:** Bốn **giới diện vật chất song song trong Nhân Giới thuộc Không gian Bàn Cổ**: Phàm · Linh · Tiên · Thần. Giới bích nội tầng tách từng giới diện; **Vực Ngoại** là vùng rìa nội giới, còn ngoài **Giới Tường** mới là Hỗn Độn.
 
-**work_slug GeoJSON:** `foundation-canon` · Convention: [`../00-geojson-world-map-convention.md`](../00-geojson-world-map-convention.md)
+**work_slug GeoJSON:** `foundation-canon` · Convention: [`../00-geojson-world-map-convention.md`](../00-geojson-world-map-convention.md) · **Kiến trúc object:** [`01-world-object-architecture.md`](01-world-object-architecture.md) · **Mẫu:** [`_templates/object/`](_templates/object/README.md)
 
 **Tracker:** [`status.md`](status.md)
 
+**Chính sách hồ sơ:** Phàm Giới chỉ có **Bích Lạc Tinh**, Linh Giới chỉ có **Càn Nguyên Tinh** là planet active được mô tả sâu. Tiên Giới và Thần Giới dùng system-first; planet và châu lục chỉ sinh khi arc kích hoạt. Toàn bộ atlas, GeoJSON, PNG và canvas hiện hữu được giữ nguyên làm lớp tương thích.
+
 ---
 
-## 1. Bốn giới chính
+## 1. Bốn giới diện vật chất chính
 
 | Giới | Hán Việt | Năng lượng đặc trưng | Tinh hà (kế hoạch) | Atlas |
 | --- | --- | --- | --- | --- |
-| **Phàm Giới** | 凡界 | Linh khí cực mỏng / vô linh | **1** tinh hà chủ — **Bích Lạc** (`TH-PHAM-BICH-LAC`) | [`realms/pham-gioi/00-world-atlas.md`](realms/pham-gioi/00-world-atlas.md) |
-| **Linh Giới** | 灵界 | Thiên Địa Linh Khí | **4** (1 main + 3 láng giềng) | [`realms/linh-gioi/00-world-atlas.md`](realms/linh-gioi/00-world-atlas.md) |
-| **Tiên Giới** | 仙界 | Tiên Khí / Tiên Nguyên Lực | **7** (1 main + 6 láng giềng) | [`realms/tien-gioi/00-world-atlas.md`](realms/tien-gioi/00-world-atlas.md) |
-| **Thần Giới** | 神界 | Thần Khí | **10** (1 main + 9 láng giềng); **Thánh** liên tinh hà (lore) | [`realms/than-gioi/00-world-atlas.md`](realms/than-gioi/00-world-atlas.md) |
+| **Phàm Giới** | 凡界 | Linh khí cực mỏng / vô linh | **1 planet active:** [Bích Lạc Tinh](realms/pham-gioi/planets/bich-lac-tinh/00-overview.md); `TH-PHAM-BICH-LAC` là parent map legacy | [`realms/pham-gioi/00-world-atlas.md`](realms/pham-gioi/00-world-atlas.md) |
+| **Linh Giới** | 灵界 | Thiên Địa Linh Khí | **1 planet active:** [Càn Nguyên Tinh](realms/linh-gioi/planets/can-nguyen-tinh/00-overview.md); quần vực láng giềng deferred | [`realms/linh-gioi/00-world-atlas.md`](realms/linh-gioi/00-world-atlas.md) |
+| **Tiên Giới** | 仙界 | Tiên Khí / Tiên Nguyên Lực | **System-first:** [`TH-TIEN-*`](realms/tien-gioi/systems/00-system-index.md); planet theo nhu cầu | [`realms/tien-gioi/00-world-atlas.md`](realms/tien-gioi/00-world-atlas.md) |
+| **Thần Giới** | 神界 | Thần Khí | **System-first:** [`TH-THAN-*`](realms/than-gioi/systems/00-system-index.md); planet theo nhu cầu | [`realms/than-gioi/00-world-atlas.md`](realms/than-gioi/00-world-atlas.md) |
 
 ### 1.1. Giới bích (tóm)
 
@@ -37,7 +41,7 @@
 
 **Atlas · catalog:** [`realms/pham-gioi/00-world-atlas.md`](realms/pham-gioi/00-world-atlas.md) · [`realms/pham-gioi/01-region-catalog.md`](realms/pham-gioi/01-region-catalog.md)
 
-**GeoJSON · PNG:** [`realms/pham-gioi/geo/00-tinh-ha.geojson`](realms/pham-gioi/geo/00-tinh-ha.geojson) · [`realms/pham-gioi/geo/out/00-tinh-ha.png`](realms/pham-gioi/geo/out/00-tinh-ha.png) · **Tàn Mộ:** 9/9 REG `geo/region/reg-tm-*.geojson` (Phase **1e** ✓)
+**GeoJSON · PNG:** [`realms/pham-gioi/planets/bich-lac-tinh/geo/00-tinh-ha.geojson`](realms/pham-gioi/planets/bich-lac-tinh/geo/00-tinh-ha.geojson) · [`realms/pham-gioi/planets/bich-lac-tinh/geo/out/00-tinh-ha.png`](realms/pham-gioi/planets/bich-lac-tinh/geo/out/00-tinh-ha.png) · **Tàn Mộ:** 9/9 REG `planets/bich-lac-tinh/geo/region/reg-tm-*.geojson` (Phase **1e** ✓)
 
 **Châu lục deep (Phase 1b + ext ✓ — 6/6):** atlas §2.1 · `geo/chau-luc/chl-{xich-ha,tam-nguyen,han-phuong,phu-tao,lo-hang,tan-mo}.geojson`
 
@@ -56,13 +60,13 @@
 | `TH-LINH-MOC-DUONG` | Tinh hà Mộc Dương (木阳灵域) | **Nam** main | 5–7 lục (chưa geo) | Mộc–dương — dược, yêu biên |
 | `TH-LINH-KIM-HA` | Tinh hà Kim Hà (金河灵域) | **Đông bắc xa** main | 6+ lục (chưa geo) | Kim–Thủy — linh thạch thượng, liên tinh thương |
 
-**Atlas · catalog:** [`realms/linh-gioi/00-world-atlas.md`](realms/linh-gioi/00-world-atlas.md) · [`realms/linh-gioi/01-region-catalog.md`](realms/linh-gioi/01-region-catalog.md)
+**Atlas · catalog:** [`realms/linh-gioi/00-world-atlas.md`](realms/linh-gioi/00-world-atlas.md) (cụm tinh hà) · [`realms/linh-gioi/planets/can-nguyen-tinh/00-world-atlas.md`](realms/linh-gioi/planets/can-nguyen-tinh/00-world-atlas.md) (Càn Nguyên chi tiết) · [`realms/linh-gioi/01-region-catalog.md`](realms/linh-gioi/01-region-catalog.md)
 
-**GeoJSON · PNG (main):** [`realms/linh-gioi/geo/00-tinh-ha.geojson`](realms/linh-gioi/geo/00-tinh-ha.geojson) · [`realms/linh-gioi/geo/out/00-tinh-ha.png`](realms/linh-gioi/geo/out/00-tinh-ha.png)
+**GeoJSON · PNG (main):** [`realms/linh-gioi/planets/can-nguyen-tinh/geo/00-tinh-ha.geojson`](realms/linh-gioi/planets/can-nguyen-tinh/geo/00-tinh-ha.geojson) · [`realms/linh-gioi/planets/can-nguyen-tinh/geo/out/00-tinh-ha.png`](realms/linh-gioi/planets/can-nguyen-tinh/geo/out/00-tinh-ha.png)
 
 **Châu lục deep (Phase 2b + 2b-ext ✓ — 6/6):** `geo/chau-luc/chl-{trung-linh,cuu-lac,bang-phong,ngoc-lam,hoa-dien,van-hai}.geojson` · PNG stem `chl-<slug>.png` (parity Phàm 1b-ext)
 
-**Region exemplars (Phase 2c ✓):** [`reg-tl-thien-quan.geojson`](realms/linh-gioi/geo/region/reg-tl-thien-quan.geojson) · [`reg-cl-cuu-khau.geojson`](realms/linh-gioi/geo/region/reg-cl-cuu-khau.geojson) · [`02-tieu-cuc-index.md`](realms/linh-gioi/02-tieu-cuc-index.md)
+**Region exemplars (Phase 2c ✓):** [`reg-tl-thien-quan.geojson`](realms/linh-gioi/planets/can-nguyen-tinh/geo/region/reg-tl-thien-quan.geojson) · [`reg-cl-cuu-khau.geojson`](realms/linh-gioi/planets/can-nguyen-tinh/geo/region/reg-cl-cuu-khau.geojson) · [`02-tieu-cuc-index.md`](realms/linh-gioi/02-tieu-cuc-index.md)
 
 ---
 
@@ -123,22 +127,22 @@
 
 ## 6. Giới phụ & pocket (Phase 5 ✓)
 
-**Depth doc:** [`06-subsidiary-realms.md`](06-subsidiary-realms.md) — Minh · Ma/Yêu patches · Vực Ngoại graph · Tiểu Thiên · stub Bí cảnh / Chư Thiên · bảng neo atlas.
+**Depth doc:** [`06-subsidiary-realms.md`](06-subsidiary-realms.md) — Minh · Ma/Yêu patches · Vực Ngoại nội giới · Tiểu Thiên · stub Bí cảnh / Chư Thiên · bảng neo atlas.
 
-Không thay bộ bốn giới song song trên lộ trình Phàm→Thần `(invariant)` Luật 6.
+Không thay bộ bốn giới diện vật chất trên lộ trình Phàm→Thần `(invariant)`.
 
 | Khái niệm | Vai trò | Gắn vào 4 giới (tóm) |
 | --- | --- | --- |
 | **Minh Giới** (冥界) | Luân hồi, vong hồn, âm khí | Mạch **Phàm mỏng** · **Linh Huyền Âm** · **Thần Hồn Vực** = hồn–mệnh, **không** hub Minh |
 | **Ma / Yêu patches** | Ma Khí / Yêu Khí **mảnh biên** | `SUB-PATCH-MA-TAN-MO` (Phàm) · `SUB-PATCH-MA-VH-ABYSS` (Linh) · `SUB-PATCH-MA-TL-PIT` (Tiên) · Yêu: Ngọc Lâm / Cửu Lạc / Mộc Dương rim |
-| **Vực Ngoại / Hư Không** (域外 · 虚空界) | Liên giới — **không** giới tu | Mạch Phàm–Linh (`REG-TM-KHE-GIOI`, `REG-CL-PHAM-KHE`) · Linh–Tiên (Cửu Khẩu) · Tiên–Thần (Huyền Băng) · mép `TH-THAN-HU-VI` |
+| **Vực Ngoại nội giới / hư không nội giới** (域外 · 虚空) | Vùng rìa và các mạch xa trong Giới Tường — **không** giới tu | Mạch Phàm–Linh (`REG-TM-KHE-GIOI`, `REG-CL-PHAM-KHE`) · Linh–Tiên (Cửu Khẩu) · Tiên–Thần (Huyền Băng) · mép `TH-THAN-HU-VI` |
 | **Tiểu Thiên Thế Giới** (小千世界) | Pocket host | **`E-PHAM-POCKET`** — Tam Nguyên; **không** thay Cửu Cửu |
 | **Bí cảnh / Chư Thiên** | Cắt không gian / đa bộ bốn giới | Stub slots trong `06-subsidiary-realms.md` §5–§6 |
 
 ```text
-     [ Hư Không / Vực Ngoại — graph liên giới ]
+     [ Vực Ngoại nội giới — vùng rìa và graph liên giới ]
     /    |      |      \
-[Phàm] [Linh] [Tiên] [Thần]   ← bốn vũ trụ song song
+[Phàm] [Linh] [Tiên] [Thần]   ← bốn giới diện vật chất song song
   |       |
 [Minh]  [Ma/Yêu patches]      ← phụ / mảnh
   ~ pocket Tiểu Thiên treo host ~

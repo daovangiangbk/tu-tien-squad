@@ -27,7 +27,7 @@
       "id": "REG-VH-BAC-VAN",
       "name": "Bắc Vân · cửa Trung Linh",
       "dimensions": { "width": 600, "length": 80 },
-      "anchor": { "type": "absolute", "x": 200, "y": 28 },
+      "anchor": { "type": "absolute", "x": 200, "y": 700 },
       "properties": {
         "name_hv": "北云",
         "kind": "wilderness",
@@ -40,7 +40,7 @@
       "id": "REG-VH-VAN-CANG",
       "name": "Vân Cảng",
       "dimensions": { "width": 400, "length": 160 },
-      "anchor": { "type": "relative", "ref_id": "REG-VH-BAC-VAN", "edge": "top", "align": "center" },
+      "anchor": { "type": "relative", "ref_id": "REG-VH-BAC-VAN", "edge": "bottom", "align": "center" },
       "properties": {
         "name_hv": "云港",
         "kind": "polity",
@@ -53,7 +53,7 @@
       "id": "REG-VH-DAO-MOC",
       "name": "Đảo Mộc",
       "dimensions": { "width": 280, "length": 200 },
-      "anchor": { "type": "relative", "ref_id": "REG-VH-VAN-CANG", "edge": "top", "align": "start" },
+      "anchor": { "type": "relative", "ref_id": "REG-VH-VAN-CANG", "edge": "bottom", "align": "start" },
       "properties": {
         "name_hv": "木岛",
         "kind": "wilderness",
@@ -104,7 +104,7 @@
       "id": "REG-VH-HAI-MA",
       "name": "Hải Mạch",
       "dimensions": { "width": 200, "length": 180 },
-      "anchor": { "type": "relative", "ref_id": "REG-VH-VAN-HAI", "edge": "bottom", "align": "start" },
+      "anchor": { "type": "absolute", "x": 400, "y": 600 },
       "properties": {
         "name_hv": "海脉",
         "kind": "dungeon",
@@ -117,7 +117,7 @@
       "id": "REG-VH-PHONG-BAO",
       "name": "Phong Bão hải",
       "dimensions": { "width": 200, "length": 180 },
-      "anchor": { "type": "relative", "ref_id": "REG-VH-VAN-HAI", "edge": "bottom", "align": "end" },
+      "anchor": { "type": "absolute", "x": 600, "y": 600 },
       "properties": {
         "name_hv": "风暴海",
         "kind": "wilderness",
@@ -156,7 +156,7 @@
       "id": "REG-VH-NAN-DAO",
       "name": "Nam Đảo · quần đảo",
       "dimensions": { "width": 640, "length": 100 },
-      "anchor": { "type": "relative", "ref_id": "REG-VH-HAI-MA", "edge": "bottom", "align": "start" },
+      "anchor": { "type": "absolute", "x": 260, "y": 220 },
       "properties": {
         "name_hv": "南岛",
         "kind": "wilderness",
@@ -170,7 +170,7 @@
       "id": "LOC-VH-VAN-CANG",
       "name": "Vân Cảng · cảng chính",
       "type": "point",
-      "coordinates": { "x": 420, "y": 220 },
+      "coordinates": { "x": 500, "y": 620 },
       "properties": {
         "name_hv": "云港",
         "kind": "hub",
@@ -190,9 +190,9 @@
         "hazard": "phong_bão"
       },
       "control_points": [
-        { "x": 480, "y": 60 },
-        { "x": 520, "y": 40 },
-        { "x": 560, "y": 20 }
+        { "x": 480, "y": 740 },
+        { "x": 520, "y": 760 },
+        { "x": 560, "y": 780 }
       ],
       "roughness": "medium"
     },
@@ -208,9 +208,9 @@
       },
       "control_points": [
         { "x": 360, "y": 480 },
-        { "x": 380, "y": 380 },
-        { "x": 400, "y": 300 },
-        { "x": 420, "y": 240 }
+        { "x": 400, "y": 520 },
+        { "x": 450, "y": 570 },
+        { "x": 500, "y": 620 }
       ],
       "roughness": "high"
     }

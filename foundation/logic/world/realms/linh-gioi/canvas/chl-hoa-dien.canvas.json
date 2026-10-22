@@ -27,7 +27,7 @@
       "id": "REG-HD-NAM-VIEM",
       "name": "Nam Viêm · rìa nam",
       "dimensions": { "width": 640, "length": 72 },
-      "anchor": { "type": "absolute", "x": 180, "y": 28 },
+      "anchor": { "type": "absolute", "x": 180, "y": 150 },
       "properties": {
         "name_hv": "南炎",
         "kind": "wilderness",

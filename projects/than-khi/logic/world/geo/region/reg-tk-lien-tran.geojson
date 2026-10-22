@@ -1,0 +1,276 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "than-khi",
+  "world:hub_id": "LOC-TK-TWN-HOME",
+  "world:region_id": "REG-TK-LIEN-TRAN",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "CHL-TK-PHU-LAM",
+  "world:parent_file": "chau-luc/chl-tk-phu-lam.geojson",
+  "world:parent_coordinates": [500, 400],
+  "world:coordinateNote": "Micro Liên Trần — gốc thị trấn MC; 3 thành · 5 trấn; naming pending.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TK-TWN-HOME",
+        "name_vi": "[pending] thị trấn · lò rèn MC",
+        "name_hv": "[pending]",
+        "kind": "hub",
+        "visibility": "public",
+        "guardian_public": "Kim Đan",
+        "backing_hidden": "Nguyên Anh",
+        "direction_label": "Trung",
+        "notes": "Ban ngày rèn binh khí; đêm mạng sát thủ."
+      },
+      "geometry": { "type": "Point", "coordinates": [0, 0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TK-CTY-01",
+        "name_vi": "[pending] thành lớn · bắc",
+        "name_hv": "[pending]",
+        "kind": "settlement",
+        "visibility": "public",
+        "guardian_public": "Kim Đan",
+        "backing_hidden": "Nguyên Anh",
+        "direction_label": "Bắc",
+        "travel_days_walk": "2-3"
+      },
+      "geometry": { "type": "Point", "coordinates": [0, 180] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TK-CTY-02",
+        "name_vi": "[pending] thành lớn · đông",
+        "name_hv": "[pending]",
+        "kind": "settlement",
+        "visibility": "public",
+        "guardian_public": "Kim Đan",
+        "backing_hidden": "Nguyên Anh",
+        "direction_label": "Đông",
+        "travel_days_walk": "2-4"
+      },
+      "geometry": { "type": "Point", "coordinates": [220, 0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TK-CTY-03",
+        "name_vi": "[pending] thành lớn · tây",
+        "name_hv": "[pending]",
+        "kind": "settlement",
+        "visibility": "public",
+        "guardian_public": "Kim Đan",
+        "backing_hidden": "Nguyên Anh",
+        "direction_label": "Tây",
+        "travel_days_walk": "2-3"
+      },
+      "geometry": { "type": "Point", "coordinates": [-220, 0] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TK-TWN-02",
+        "name_vi": "[pending] thị trấn · bến sông",
+        "name_hv": "[pending]",
+        "kind": "settlement",
+        "visibility": "public",
+        "guardian_public": "Kim Đan",
+        "backing_hidden": "Nguyên Anh",
+        "direction_label": "Đông bắc",
+        "travel_days_walk": "1"
+      },
+      "geometry": { "type": "Point", "coordinates": [85, 95] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TK-TWN-03",
+        "name_vi": "[pending] thị trấn · ải nam",
+        "name_hv": "[pending]",
+        "kind": "settlement",
+        "visibility": "public",
+        "guardian_public": "Kim Đan",
+        "backing_hidden": "Nguyên Anh",
+        "direction_label": "Nam",
+        "travel_days_walk": "1-2",
+        "notes": "Cửa vào REG-TK-NAM-DU · yêu thú."
+      },
+      "geometry": { "type": "Point", "coordinates": [0, -120] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TK-TWN-04",
+        "name_vi": "[pending] thị trấn · mỏ phụ",
+        "name_hv": "[pending]",
+        "kind": "settlement",
+        "visibility": "public",
+        "guardian_public": "Kim Đan",
+        "backing_hidden": "Nguyên Anh",
+        "direction_label": "Tây nam",
+        "travel_days_walk": "1"
+      },
+      "geometry": { "type": "Point", "coordinates": [-95, -75] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TK-TWN-05",
+        "name_vi": "[pending] thị trấn · lâm tiền",
+        "name_hv": "[pending]",
+        "kind": "settlement",
+        "visibility": "public",
+        "guardian_public": "Kim Đan",
+        "backing_hidden": "Nguyên Anh",
+        "direction_label": "Tây bắc",
+        "travel_days_walk": "1-2"
+      },
+      "geometry": { "type": "Point", "coordinates": [-110, 70] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TK-NET-SAFE",
+        "name_vi": "[pending] điểm giao · mạng sát thủ",
+        "name_hv": "[pending]",
+        "kind": "dungeon",
+        "visibility": "mc_phase1",
+        "direction_label": "Hạ",
+        "notes": "Không biển báo; chỉ người trong nghề biết lối."
+      },
+      "geometry": { "type": "Point", "coordinates": [12, -8] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TK-CLAN-SHELL-A",
+        "name_vi": "[pending] gia tu ẩn · vỏ thương hội",
+        "name_hv": "[pending]",
+        "kind": "settlement",
+        "visibility": "hidden_logic",
+        "direction_label": "Tây",
+        "guardian_public": "Kim Đan",
+        "backing_hidden": "Nguyên Anh",
+        "notes": "MC gốc gia tu — flashback / manh thù phụ."
+      },
+      "geometry": { "type": "Point", "coordinates": [-165, 25] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TK-CLAN-SHELL-B",
+        "name_vi": "[pending] gia tu ẩn · trang viện phía bắc",
+        "name_hv": "[pending]",
+        "kind": "settlement",
+        "visibility": "hidden_logic",
+        "direction_label": "Bắc",
+        "guardian_public": "Kim Đan",
+        "backing_hidden": "Nguyên Anh"
+      },
+      "geometry": { "type": "Point", "coordinates": [40, 140] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TK-WLD-BEAST",
+        "name_vi": "[pending] rừng yêu · nhiệm vụ mở",
+        "name_hv": "[pending]",
+        "kind": "wilderness",
+        "visibility": "public",
+        "direction_label": "Nam",
+        "hazard": "yêu thú Trúc Cơ–Kim Đan lẻ",
+        "notes": "Vợ chồng tháo chạy · bỏ trẻ — plot mốc."
+      },
+      "geometry": { "type": "Point", "coordinates": [15, -200] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TK-HOME-CTY01",
+        "name_vi": "[pending] đại lộ bắc",
+        "name_hv": "[pending]",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TK-TWN-HOME",
+        "to_id": "LOC-TK-CTY-01",
+        "hazard": "truy nã nếu lộ diện sát thủ"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[0, 0], [5, 45], [0, 95], [0, 180]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TK-HOME-CTY02",
+        "name_vi": "[pending] đại lộ đông",
+        "name_hv": "[pending]",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TK-TWN-HOME",
+        "to_id": "LOC-TK-CTY-02",
+        "hazard": "thu phí ải · do thám"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[0, 0], [55, 8], [120, -5], [180, 0], [220, 0]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TK-HOME-CTY03",
+        "name_vi": "[pending] đại lộ tây",
+        "name_hv": "[pending]",
+        "kind": "route",
+        "visibility": "public",
+        "from_id": "LOC-TK-TWN-HOME",
+        "to_id": "LOC-TK-CTY-03",
+        "hazard": "gia tu ẩn · ánh mắt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[0, 0], [-45, 12], [-110, 5], [-220, 0]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-TK-NIGHT-LOOP",
+        "name_vi": "[pending] tuyến đêm · mạng ngầm",
+        "name_hv": "[pending]",
+        "kind": "route",
+        "visibility": "hidden_logic",
+        "from_id": "LOC-TK-NET-SAFE",
+        "to_id": "LOC-TK-CTY-02",
+        "hazard": "lộ mặt · săn giết"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [[12, -8], [35, -15], [90, -22], [150, -18], [220, -12]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-TK-LIEN-TRAN-BBOX",
+        "name_vi": "Biên vùng Liên Trần (logic)",
+        "name_hv": "[pending]",
+        "kind": "polity",
+        "visibility": "public"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-280, -240], [280, -240], [280, 220], [-280, 220], [-280, -240]
+        ]]
+      }
+    }
+  ]
+}

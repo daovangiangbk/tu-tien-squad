@@ -3,7 +3,7 @@
 > **work_slug:** `foundation-canon` · **Convention:** [`../../00-geojson-world-map-convention.md`](../../00-geojson-world-map-convention.md)  
 > **Phase 2c:** Chỉ **stub** slot — `geo/micro/*.geojson` khi arc-planner lock địa điểm.
 
-**Region exemplars:** [`geo/region/reg-tl-thien-quan.geojson`](geo/region/reg-tl-thien-quan.geojson) · [`geo/region/reg-cl-cuu-khau.geojson`](geo/region/reg-cl-cuu-khau.geojson)
+**Region exemplars:** [`geo/region/reg-tl-thien-quan.geojson`](planets/can-nguyen-tinh/geo/region/reg-tl-thien-quan.geojson) · [`geo/region/reg-cl-cuu-khau.geojson`](planets/can-nguyen-tinh/geo/region/reg-cl-cuu-khau.geojson)
 
 ---
 

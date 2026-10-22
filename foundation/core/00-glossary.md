@@ -107,7 +107,7 @@
 
 ## F. Cõi giới & địa lý quyền lực
 
-> **Bốn giới song song (Luật 6):** **Phàm · Linh · Tiên · Thần** — **bốn vũ trụ song song**, cách nhau **giới bích**; **Thánh Nhân** **ngoài** bộ bốn. Chi tiết: `02-world-laws-lore-core.md` Luật 6.
+> **Bốn giới diện vật chất (Luật 6):** **Phàm · Linh · Tiên · Thần** — bốn giới diện song song thuộc Nhân Giới, cùng nằm trong Không gian Bàn Cổ và cách nhau bằng **giới bích nội tầng**. **Thánh Nhân** là danh xưng sau Thần giai, phải chốt nhánh **Hòa Thiên** hoặc ứng viên **Siêu Thoát**. Chi tiết: `02-world-laws-lore-core.md` Luật 6.
 
 ### F.1. Bốn giới song song `(invariant)`
 
@@ -125,7 +125,7 @@
 | --- | --- | --- |
 | **Hạ Giới** (下界) | **Deprecated — không dùng trong canon mới.** Chỉ **alias lỗi thời** = **Phàm Giới** (凡界) khi gặp prose/nguồn cũ. **Không** gồm Linh Giới; **không** thay tên **Phàm / Linh / Tiên / Thần**. | **Interface** — migrate sang đúng tên giới. |
 | **Chư Thiên Vạn Giới** (诸天万界) | **Đa bộ** bốn giới — mỗi **thế giới con** có nhánh Phàm, Linh, Tiên, Thần liên **giới bích**. | **World** — epic scale; xuyên **Hư Không**. |
-| **Giới bích** (界壁) | Màng **giữa hai vũ trụ song song** ( Phàm–Linh, Linh–Tiên, Tiên–Thần ). | **Power** — xuyên giới, Cửu Cửu, Độ Kiếp. |
+| **Giới bích** (界壁) | Màng pháp tắc nội tầng giữa hai giới diện vật chất ( Phàm–Linh, Linh–Tiên, Tiên–Thần ). | **Power** — xuyên giới, Cửu Cửu, Độ Kiếp. |
 | **Mạt pháp** (末法) | Trạng thái **Phàm Giới** — linh khí cạn; **không** môi trường chân tu lâu dài. | **World** — Luật 6a; võ tu vs Linh. |
 | **Thiên phạt Phàm** (天罚凡界) | Phản ứng Thiên đạo khi **linh lực / chân tu** tồn tại lâu trên Phàm: đào thải, lôi, xóa dị vật, ép phế tu / rút lui. | **World** — Linh xuống Phàm; ngoại lệ Luật 6a. |
 | **Chân tu** (真修) | Tu **Luyện Khí+** với linh lực ổn định — **lộ trình chính trên Linh Giới**, không cư trú Phàm. | **World** + **Power** — phân biệt võ tu / Luyện Thể. |
@@ -139,9 +139,9 @@
 
 | Khái niệm | Diễn giải | Mục đích |
 | --- | --- | --- |
-| **Minh Giới** (冥界) | Cõi **phụ** — luân hồi, âm, vong hồn; **không** vũ trụ song song thứ năm trên lộ trình Phàm→Thần. | **World** — Luật 4; hậu quả sát phàm. |
+| **Minh Giới / Địa Phủ** (冥界) | Hệ âm giới chung nối cả bốn giới diện vật chất, phụ trách luân hồi, âm khí và vong hồn; không phải giới diện vật chất thứ năm. | **World** — Luật 4; hậu quả sát phàm. |
 | **Tiểu Thiên Thế Giới** (小千世界) | **Pocket heaven** — gắn tu sĩ/tông; luật riêng; **không** thay Tiên/Thần. | **Logic** — cơ duyên, bế quan. |
-| **Vực Ngoại** (域外) | **Không gian vũ trụ liên giới** — biên vực, chiến trường, dị thú **giữa** các giới song song. | **World** — du hành, crack. |
+| **Vực Ngoại nội giới** (域外) | Vùng hư không, cao viễn và rìa bên trong Không gian Bàn Cổ; có thể chứa đường liên giới, chiến trường và dị thú. Ngoài Giới Tường mới là Hỗn Độn. | **World** — du hành, khe giới. |
 | **Hư Không Giới** (虚空界) | **Hư không liên giới** — truyền tống, đi **qua / giữa** Phàm–Linh–Tiên–Thần; **không** giới tu. | **World** — nối Chư Thiên / Ma nhánh. |
 
 ### F.4. Neo bên cạnh bốn giới & địa lý quyền lực

@@ -72,8 +72,13 @@ def lines_from_intersection(geom) -> list[LineString]:
 
 
 def polygon_to_feature_geom(poly: Polygon, prec: int) -> dict:
-    g = mapping(poly)
-    return snap_coords(g, prec)
+    rounded = snap_coords(mapping(poly), prec)
+    valid = largest_polygon(make_valid(shape(rounded)))
+    if valid is None:
+        valid = largest_polygon(make_valid(poly))
+    if valid is None:
+        raise ValueError("polygon became empty during normalization")
+    return mapping(valid)
 
 
 def normalize_fc(
@@ -183,29 +188,38 @@ def normalize_fc(
         processed.append((feat, poly))
         union_acc = unary_union([union_acc, poly]) if not union_acc.is_empty else poly
 
-    gap = continent.difference(union_acc) if not union_acc.is_empty else continent
+    gap = make_valid(continent.difference(union_acc) if not union_acc.is_empty else continent)
     if not gap.is_empty and gap.area > min_area:
-        gap_poly = largest_polygon(gap)
-        if gap_poly and fill_gaps and processed:
-            # Assign gap to partition with longest shared boundary
-            best_i = 0
-            best_len = -1.0
-            for i, (_f, p) in enumerate(processed):
-                shared = p.boundary.intersection(gap_poly.boundary)
-                length = shared.length if not shared.is_empty else 0.0
-                if length > best_len:
-                    best_len = length
-                    best_i = i
-            merged = largest_polygon(unary_union([processed[best_i][1], gap_poly]))
-            if merged:
-                f, _ = processed[best_i]
-                f["geometry"] = polygon_to_feature_geom(merged, snap_prec)
-                processed[best_i] = (f, merged)
-                union_acc = unary_union([p for _, p in processed])
-                warnings.append(
-                    f"GAP fill: {gap.area:.1f} units merged into "
-                    f"{(processed[best_i][0].get('properties') or {}).get('id', '?')}"
-                )
+        if gap.geom_type == "Polygon":
+            gap_parts = [gap]
+        elif gap.geom_type == "MultiPolygon":
+            gap_parts = list(gap.geoms)
+        else:
+            gap_parts = [g for g in getattr(gap, "geoms", []) if g.geom_type == "Polygon"]
+        gap_parts = [g for g in gap_parts if g.area > min_area]
+        if gap_parts and fill_gaps and processed:
+            for gap_poly in sorted(gap_parts, key=lambda g: g.area, reverse=True):
+                # Assign each disconnected gap to the partition with the longest shared boundary.
+                best_i = 0
+                best_len = -1.0
+                for i, (_f, p) in enumerate(processed):
+                    shared = p.boundary.intersection(gap_poly.boundary)
+                    length = shared.length if not shared.is_empty else 0.0
+                    if length > best_len:
+                        best_len = length
+                        best_i = i
+                if best_len <= 0:
+                    continue
+                merged = largest_polygon(make_valid(unary_union([processed[best_i][1], gap_poly])))
+                if merged:
+                    f, _ = processed[best_i]
+                    f["geometry"] = polygon_to_feature_geom(merged, snap_prec)
+                    processed[best_i] = (f, merged)
+                    warnings.append(
+                        f"GAP fill: {gap_poly.area:.1f} units merged into "
+                        f"{(f.get('properties') or {}).get('id', '?')}"
+                    )
+            union_acc = unary_union([p for _, p in processed])
         else:
             warnings.append(f"GAP: {gap.area:.1f} units inside continent not covered by partitions")
 

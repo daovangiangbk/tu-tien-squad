@@ -2,7 +2,7 @@
 
 > **Mục đích:** Liệt kê `REG-*` theo đại lục **tinh hà Càn Nguyên** — đối chiếu `chau_luc` (2b) / `region` (2c).
 
-**Atlas:** [`00-world-atlas.md`](00-world-atlas.md) · **Tinh hà:** [`geo/00-tinh-ha.geojson`](geo/00-tinh-ha.geojson) · **Tiểu cục:** [`02-tieu-cuc-index.md`](02-tieu-cuc-index.md)
+**Atlas (tinh cầu):** [`planets/can-nguyen-tinh/00-world-atlas.md`](planets/can-nguyen-tinh/00-world-atlas.md) · **Giới (cụm TH):** [`00-world-atlas.md`](00-world-atlas.md) · **Tinh hà:** [`planets/can-nguyen-tinh/geo/00-tinh-ha.geojson`](planets/can-nguyen-tinh/geo/00-tinh-ha.geojson) · **Tiểu cục:** [`02-tieu-cuc-index.md`](02-tieu-cuc-index.md)
 
 **Chú thích cột Geo:** `✓` = có polygon trong `chau_luc`; **region** = có `geo/region/*.geojson` (2c); `—` = stub / chưa vẽ.
 
@@ -10,13 +10,13 @@
 
 ## CHL-TRUNG-LINH (Trung Linh) — chau_luc done
 
-Hub: `LOC-TL-THIEN-QUAN` · File: [`geo/chau-luc/chl-trung-linh.geojson`](geo/chau-luc/chl-trung-linh.geojson)
+Hub: `LOC-TL-THIEN-QUAN` · File: [`geo/chau-luc/chl-trung-linh.geojson`](planets/can-nguyen-tinh/geo/chau-luc/chl-trung-linh.geojson)
 
 | REG ID | Tên gợi ý | Vai trò | Geo |
 | --- | --- | --- | --- |
 | `REG-TL-NAM-VAN` | Nam Vân · cửa mây | Thương lộ Vân Hải | ✓ |
 | `REG-TL-LINH-HA` | Linh Hà bình | Mạch công cộng | ✓ |
-| `REG-TL-THIEN-QUAN` | Thiên Quan thành | Trung ương tông · hub | ✓ · **region** → [`reg-tl-thien-quan.geojson`](geo/region/reg-tl-thien-quan.geojson) |
+| `REG-TL-THIEN-QUAN` | Thiên Quan thành | Trung ương tông · hub | ✓ · **region** → [`reg-tl-thien-quan.geojson`](planets/can-nguyen-tinh/geo/region/reg-tl-thien-quan.geojson) |
 | `REG-TL-TAM-TONG` | Tam Tông đài | Chính trị tu giới | ✓ |
 | `REG-TL-BAC-LINH` | Bắc Linh | Biên Băng Phong | ✓ |
 | `REG-TL-BAC-DONG` | Bắc Đông uyên | Hoang đông bắc | ✓ |
@@ -32,7 +32,7 @@ Hub: `LOC-TL-THIEN-QUAN` · File: [`geo/chau-luc/chl-trung-linh.geojson`](geo/ch
 
 ## CHL-CUU-LAC (Cửu Lạc) — chau_luc done
 
-Hub: `LOC-CL-CUU-KHAU` · File: [`geo/chau-luc/chl-cuu-lac.geojson`](geo/chau-luc/chl-cuu-lac.geojson)
+Hub: `LOC-CL-CUU-KHAU` · File: [`geo/chau-luc/chl-cuu-lac.geojson`](planets/can-nguyen-tinh/geo/chau-luc/chl-cuu-lac.geojson)
 
 | REG ID | Tên gợi ý | Vai trò | Geo |
 | --- | --- | --- | --- |
@@ -40,7 +40,7 @@ Hub: `LOC-CL-CUU-KHAU` · File: [`geo/chau-luc/chl-cuu-lac.geojson`](geo/chau-lu
 | `REG-CL-PHAM-KHE` | Phàm Khe | Crack Phàm–Linh `(slot E-LINH-PHAM-CRACK)` | ✓ |
 | `REG-CL-LAC-HE` | Lạc Hà hội | Cửu sông hội | ✓ |
 | `REG-CL-LAC-TAM` | Lạc Tam trì | Trì linh trung tâm | ✓ |
-| `REG-CL-CUU-KHAU` | Cửu Khẩu đài | Phi thăng `(slot E-LINH-ASCENSION-GATE)` · hub | ✓ · **region** → [`reg-cl-cuu-khau.geojson`](geo/region/reg-cl-cuu-khau.geojson) |
+| `REG-CL-CUU-KHAU` | Cửu Khẩu đài | Phi thăng `(slot E-LINH-ASCENSION-GATE)` · hub | ✓ · **region** → [`reg-cl-cuu-khau.geojson`](planets/can-nguyen-tinh/geo/region/reg-cl-cuu-khau.geojson) |
 | `REG-CL-TAN-TIEN` | Tàn Tiên đài | Tản Tiên di tích | ✓ |
 | `REG-CL-DONG-LAC` | Đông Lạc | Đảo phía đông | ✓ |
 | `REG-CL-TAY-DAO` | Tây Đảo | Liên đảo tây | ✓ |
@@ -53,8 +53,8 @@ Hub: `LOC-CL-CUU-KHAU` · File: [`geo/chau-luc/chl-cuu-lac.geojson`](geo/chau-lu
 
 ## Exemplar region (Phase 2c ✓)
 
-**Geo:** [`geo/region/reg-tl-thien-quan.geojson`](geo/region/reg-tl-thien-quan.geojson) · [`geo/region/reg-cl-cuu-khau.geojson`](geo/region/reg-cl-cuu-khau.geojson)  
-**PNG:** [`geo/out/region-reg-tl-thien-quan.png`](geo/out/region-reg-tl-thien-quan.png) · [`geo/out/region-reg-cl-cuu-khau.png`](geo/out/region-reg-cl-cuu-khau.png)
+**Geo:** [`geo/region/reg-tl-thien-quan.geojson`](planets/can-nguyen-tinh/geo/region/reg-tl-thien-quan.geojson) · [`geo/region/reg-cl-cuu-khau.geojson`](planets/can-nguyen-tinh/geo/region/reg-cl-cuu-khau.geojson)
+**PNG:** [`geo/out/region-reg-tl-thien-quan.png`](planets/can-nguyen-tinh/geo/out/region-reg-tl-thien-quan.png) · [`geo/out/region-reg-cl-cuu-khau.png`](planets/can-nguyen-tinh/geo/out/region-reg-cl-cuu-khau.png)
 
 ### Bàn cờ — Thiên Quan thành (`REG-TL-THIEN-QUAN`)
 
@@ -76,20 +76,20 @@ Hub: `LOC-CL-CUU-KHAU` · File: [`geo/chau-luc/chl-cuu-lac.geojson`](geo/chau-lu
 
 ## CHL-BANG-PHONG (Băng Phong) — chau_luc done
 
-Hub: `LOC-BP-BANG-TINH` · File: [`geo/chau-luc/chl-bang-phong.geojson`](geo/chau-luc/chl-bang-phong.geojson) · PNG: [`chl-bang-phong.png`](geo/out/chl-bang-phong.png)
+Hub: `LOC-BP-BANG-TINH` · File: [`geo/chau-luc/chl-bang-phong.geojson`](planets/can-nguyen-tinh/geo/chau-luc/chl-bang-phong.geojson) · PNG: [`chl-bang-phong.png`](planets/can-nguyen-tinh/geo/out/chl-bang-phong.png)
 
 | REG ID | Tên gợi ý | Vai trò | Geo |
 | --- | --- | --- | --- |
-| `REG-BP-NAM-DONG` | Nam Đông | Biên Trung Linh (`REG-TL-BAC-LINH`) | ✓ |
-| `REG-BP-NAM-PHONG` | Nam Phong | Cửa gió · thương lộ | ✓ |
-| `REG-BP-TAY-BANG` | Tây Băng | Biên tây · Huyền Âm (lore) | ✓ |
+| [`REG-BP-NAM-DONG`](planets/can-nguyen-tinh/continents/bang-phong/regions/reg-bp-nam-dong/00-overview.md) | Nam Đông | Biên Trung Linh (`REG-TL-BAC-LINH`) | ✓ |
+| [`REG-BP-NAM-PHONG`](planets/can-nguyen-tinh/continents/bang-phong/regions/reg-bp-nam-phong/00-overview.md) | Nam Phong | Cửa gió · thương lộ | ✓ |
+| [`REG-BP-TAY-BANG`](planets/can-nguyen-tinh/continents/bang-phong/regions/reg-bp-tay-bang/00-overview.md) | Tây Băng | Biên tây · Huyền Âm (lore) | ✓ |
 | `BRR-BP-VAN-PHONG` | Dãy Vân Phong | Barrier Băng–Phong | ✓ |
-| `REG-BP-PHONG-COC` | Phong Cốc | Tu Băng–Phong | ✓ |
-| `REG-BP-HAN-UYEN` | Hàn Uyên | Hoang địa | ✓ |
-| `REG-BP-LINH-BANG` | Linh Băng hồ | Linh thạch đóng băng | ✓ |
-| `REG-BP-DONG-HAN` | Đông Hàn | Uyên đông | ✓ |
-| `REG-BP-BANG-TINH` | Băng Tinh quan | Thành cực bắc · hub | ✓ |
-| `REG-BP-BAC-HUYEN` | Bắc Huyền | Cực bắc · kiếp nặng | ✓ |
+| [`REG-BP-PHONG-COC`](planets/can-nguyen-tinh/continents/bang-phong/regions/reg-bp-phong-coc/00-overview.md) | Phong Cốc | Tu Băng–Phong | ✓ |
+| [`REG-BP-HAN-UYEN`](planets/can-nguyen-tinh/continents/bang-phong/regions/reg-bp-han-uyen/00-overview.md) | Hàn Uyên | Hoang địa | ✓ |
+| [`REG-BP-LINH-BANG`](planets/can-nguyen-tinh/continents/bang-phong/regions/reg-bp-linh-bang/00-overview.md) | Linh Băng hồ | Linh thạch đóng băng | ✓ |
+| [`REG-BP-DONG-HAN`](planets/can-nguyen-tinh/continents/bang-phong/regions/reg-bp-dong-han/00-overview.md) | Đông Hàn | Uyên đông | ✓ |
+| [`REG-BP-BANG-TINH`](planets/can-nguyen-tinh/continents/bang-phong/regions/reg-bp-bang-tinh/00-overview.md) | Băng Tinh quan | Thành cực bắc · hub | ✓ |
+| [`REG-BP-BAC-HUYEN`](planets/can-nguyen-tinh/continents/bang-phong/regions/reg-bp-bac-huyen/00-overview.md) | Bắc Huyền | Cực bắc · kiếp nặng | ✓ |
 
 **Sông / tuyến (chau_luc):** `RIVER-BP-LINH-BANG`, `ROUTE-BP-DONG-TRUNG-LINH`
 
@@ -97,7 +97,7 @@ Hub: `LOC-BP-BANG-TINH` · File: [`geo/chau-luc/chl-bang-phong.geojson`](geo/cha
 
 ## CHL-NGOC-LAM (Ngọc Lâm) — chau_luc done
 
-Hub: `LOC-NL-LAM-TINH` · File: [`geo/chau-luc/chl-ngoc-lam.geojson`](geo/chau-luc/chl-ngoc-lam.geojson) · PNG: [`chl-ngoc-lam.png`](geo/out/chl-ngoc-lam.png)
+Hub: `LOC-NL-LAM-TINH` · File: [`geo/chau-luc/chl-ngoc-lam.geojson`](planets/can-nguyen-tinh/geo/chau-luc/chl-ngoc-lam.geojson) · PNG: [`chl-ngoc-lam.png`](planets/can-nguyen-tinh/geo/out/chl-ngoc-lam.png)
 
 | REG ID | Tên gợi ý | Vai trò | Geo |
 | --- | --- | --- | --- |
@@ -120,7 +120,7 @@ Hub: `LOC-NL-LAM-TINH` · File: [`geo/chau-luc/chl-ngoc-lam.geojson`](geo/chau-l
 
 ## CHL-HOA-DIEN (Hỏa Diễm) — chau_luc done
 
-Hub: `LOC-HD-HOA-QUAN` · File: [`geo/chau-luc/chl-hoa-dien.geojson`](geo/chau-luc/chl-hoa-dien.geojson) · PNG: [`chl-hoa-dien.png`](geo/out/chl-hoa-dien.png)
+Hub: `LOC-HD-HOA-QUAN` · File: [`geo/chau-luc/chl-hoa-dien.geojson`](planets/can-nguyen-tinh/geo/chau-luc/chl-hoa-dien.geojson) · PNG: [`chl-hoa-dien.png`](planets/can-nguyen-tinh/geo/out/chl-hoa-dien.png)
 
 | REG ID | Tên gợi ý | Vai trò | Geo |
 | --- | --- | --- | --- |
@@ -142,7 +142,7 @@ Hub: `LOC-HD-HOA-QUAN` · File: [`geo/chau-luc/chl-hoa-dien.geojson`](geo/chau-l
 
 ## CHL-VAN-HAI (Vân Hải) — chau_luc done
 
-Hub: `LOC-VH-VAN-CANG` · File: [`geo/chau-luc/chl-van-hai.geojson`](geo/chau-luc/chl-van-hai.geojson) · PNG: [`chl-van-hai.png`](geo/out/chl-van-hai.png)
+Hub: `LOC-VH-VAN-CANG` · File: [`geo/chau-luc/chl-van-hai.geojson`](planets/can-nguyen-tinh/geo/chau-luc/chl-van-hai.geojson) · PNG: [`chl-van-hai.png`](planets/can-nguyen-tinh/geo/out/chl-van-hai.png)
 
 | REG ID | Tên gợi ý | Vai trò | Geo |
 | --- | --- | --- | --- |
@@ -156,8 +156,9 @@ Hub: `LOC-VH-VAN-CANG` · File: [`geo/chau-luc/chl-van-hai.geojson`](geo/chau-lu
 | `REG-VH-PHONG-BAO` | Phong Bão hải | Hải vực nguy hiểm | ✓ |
 | `REG-VH-DONG-DAO` | Đông Đảo | Hướng Ngọc Lâm / Cửu Lạc | ✓ |
 | `REG-VH-LINH-DAM` | Linh Đám mây | Thu linh khí mây | ✓ |
+| `REG-VH-NAN-DAO` | Nam Đảo | Quần đảo nam · hậu cần hải lộ | ✓ |
 
-**Sông / tuyến (chau_luc):** `RIVER-VH-VAN-LUU`, `ROUTE-VH-BAC-NAM-VAN` · *(canvas `REG-VH-NAN-DAO` clip ngoài vỏ — backlog region/micro nam đảo)*
+**Sông / tuyến (chau_luc):** `RIVER-VH-VAN-LUU`, `ROUTE-VH-BAC-NAM-VAN`
 
 ---
 

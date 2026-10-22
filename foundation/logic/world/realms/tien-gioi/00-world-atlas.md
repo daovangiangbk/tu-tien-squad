@@ -12,7 +12,7 @@
 
 ## 1. Cụm tinh hà trong Hư Không Tiên
 
-Tiên Giới = vũ trụ song song **III** — **Tiên Khí / Tiên Nguyên Lực**; lộ trình tu **Chân Tiên** → … → **Tiên Đế**; giới bích **Linh–Tiên** mở bằng **Phi thăng** sau **Cửu Cửu** (Hạ Giới); giới bích **Tiên–Thần** hiếm hơn, đòi **đại kiếp / tài nguyên Thần giai** (Luật 6 — không thêm invariant mới).
+**Tiên Giới** là một trong bốn giới diện vật chất song song thuộc Nhân Giới trong Không gian Bàn Cổ. Năng lượng đặc trưng là **Tiên Khí / Tiên Nguyên Lực**; lộ trình tu **Chân Tiên** → … → **Tiên Đế**. Giới bích nội tầng **Linh–Tiên** mở bằng **Phi thăng** sau **Cửu Cửu**; giới bích nội tầng **Tiên–Thần** hiếm hơn, đòi **đại kiếp / tài nguyên Thần giai**.
 
 | ID | Tên (Việt · Hán) | Vai trò | Vị trí so với main | Quy mô (story) | Profile tiên khí |
 | --- | --- | --- | --- | --- | --- |
@@ -26,7 +26,7 @@ Tiên Giới = vũ trụ song song **III** — **Tiên Khí / Tiên Nguyên Lự
 
 **Tinh hà count:** **7** (1 main + **6** neighbor). Láng giềng **không** có file `00-tinh-ha` riêng trong Phase 3a — chỉ atlas.
 
-**Du hành liên tinh hà (lore, không invariant):** Tu sĩ **Tiên Vương trở lên** có thể mở **mạch hư không tiên** ngắn giữa các `TH-TIEN-*` trong cùng void — **có sổ thuế / khế**, không teleport tùy ý; dưới Tiên Vương: chỉ **truyền tống mạch** đã đăng ký hoặc **phi thuyền** hội Dương Hành. Không thay **giới bích Linh–Tiên** (vẫn một lần phi thăng = đổi vũ trụ).
+**Du hành liên tinh hà (lore, không invariant):** Tu sĩ **Tiên Vương trở lên** có thể mở **mạch hư không tiên** ngắn giữa các `TH-TIEN-*` trong cùng hư không nội giới—**có sổ thuế / khế**, không truyền tống tùy ý; dưới Tiên Vương chỉ có thể dùng **truyền tống mạch** đã đăng ký hoặc **phi thuyền** của hội Dương Hành. Điều này không thay **giới bích Linh–Tiên**: phi thăng vẫn là chuyển sang một giới diện vật chất khác trong Nhân Giới.
 
 ### 1.1. Tinh hà chủ — Hương Nguyên
 
@@ -101,7 +101,7 @@ Bàn cờ generic: [`01-region-catalog.md`](01-region-catalog.md) § Exemplar re
 | **Thượng cổ** | **Phi thăng đợt đầu** từ Hạ Giới vào Hương Nguyên — tranh **tiên mạch gốc** | Di tích **Trần Lạc**; phong ấn **Hạ tiên** chưa có mạch |
 | **Trung cổ** | **Tam tiên quốc** chia Trung Tiên; chiến **Kim–Long** (Kim Hoa vs Ngự Long) | Ranh giới `REG-*` mang thù; crack Ma **Trần Lạc** |
 | **Cận cổ** | Giới bích **Tiên–Thần** cứng; lên Thần **hiếm** | Monopoly **Tiên Nguyên tinh** + **Tiên đan** hạng thượng |
-| **Hiện tại** | Dương Hành mở **thương mạch liên tinh** (tới Hương Nguyên có mùa) | Kinh tế **Tiên Nguyên + công pháp tiên**; Hạ tiên = **đổi vũ trụ**, không “lên tầng” trong một lục |
+| **Hiện tại** | Dương Hành mở **thương mạch liên tinh** (tới Hương Nguyên có mùa) | Kinh tế **Tiên Nguyên + công pháp tiên**; Hạ tiên chuyển giới diện, không chỉ “lên tầng” trong một lục |
 
 ---
 

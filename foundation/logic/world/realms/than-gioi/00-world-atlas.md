@@ -12,7 +12,7 @@
 
 ## 1. Cụm tinh hà trong Hư Không Thần
 
-Thần Giới = vũ trụ song song **IV** — **Thần Khí**; lộ trình tu **Thần giai** (trước **Thánh Nhân**, ngoài bộ bốn); giới bích **Tiên–Thần** hiếm — **đại kiếp / tài nguyên Thần giai** (Luật 6). **Thánh Nhân** (混元圣人) **không** thuộc bốn giới — có thể **liên tinh hà** trong void Thần `(lore, không hub geo Thánh)`.
+**Thần Giới** là giới diện vật chất cao nhất trong bốn giới diện song song thuộc Nhân Giới, cùng nằm trong Không gian Bàn Cổ. Năng lượng đặc trưng là **Thần Khí**; lộ trình tu đạt **Thần giai**. **Thánh Nhân** (混元圣人) là danh xưng sau Thần giai, phải chốt thuộc nhánh **Hòa Thiên** vào Thiên Đạo Hải hoặc ứng viên **Siêu Thoát** qua Giới Tường; không đặt một cõi Thánh riêng trên atlas.
 
 | ID | Tên (Việt · Hán) | Vai trò | Vị trí so với main | Quy mô (story) | Profile thần khí |
 | --- | --- | --- | --- | --- | --- |
@@ -29,7 +29,7 @@ Thần Giới = vũ trụ song song **IV** — **Thần Khí**; lộ trình tu *
 
 **Tinh hà count:** **10** (1 main + **9** neighbor). Láng giềng **không** có file `00-tinh-ha` riêng trong Phase 4a — chỉ atlas.
 
-**Du hành liên tinh hà (lore, không invariant):** Tu sĩ **Thần Vương trở lên** (Logic mở bậc tên) có thể mở **mạch hư không thần** ngắn giữa các `TH-THAN-*` — **có sổ thuế / khế / Nhân quả**; dưới ngưỡng đó: **truyền tống mạch** đăng ký hoặc **thần thuyền** hội Độ Du. **Thánh-tier** có thể **liên tinh hà** không phụ thuộc một `TH-THAN-*` — **không** đặt Thánh làm hub geo; không thay **giới bích Tiên–Thần** (vẫn đổi vũ trụ song song).
+**Du hành liên tinh hà (lore, không invariant):** Tu sĩ **Thần Vương trở lên** (Logic mở bậc tên) có thể mở **mạch hư không thần** ngắn giữa các `TH-THAN-*` — **có sổ thuế / khế / Nhân quả**; dưới ngưỡng đó: **truyền tống mạch** đăng ký hoặc **thần thuyền** hội Độ Du. Cường giả mang danh Thánh có thể liên tinh hà không phụ thuộc một `TH-THAN-*`, nhưng không đặt họ làm hub địa lý và không làm mất **giới bích nội tầng Tiên–Thần**.
 
 ### 1.1. Tinh hà chủ — Huyền Cự
 
@@ -114,7 +114,7 @@ Bàn cờ generic: [`01-region-catalog.md`](01-region-catalog.md) § Exemplar re
 | **Thượng cổ** | **Tiên Đế đại kiếp** đầu vào Huyền Cự — tranh **thần mạch gốc** | Di tích **Cửu Phong**; **Tiên mới Thần** chưa mạch |
 | **Trung cổ** | **Tam thần triều** chia Trung Thần; chiến **Kiếm–Hồn** (Kiếm Lôi vs Hồn Vực) | Ranh giới `REG-*` (stub) mang thù; crack Vực Ngoại **Hư Vi** |
 | **Cận cổ** | Giới bích **Tiên–Thần** cứng; lên Thần **hiếm** | Monopoly **Thần nguyên tinh** + **Thần đan** hạng thượng |
-| **Hiện tại** | Độ Du mở **mạch liên tinh** (tới Huyền Cự có mùa) | Kinh tế **Thần nguyên + thần công**; Tiên lên Thần = **đổi vũ trụ**, không “lên tầng” trong một lục |
+| **Hiện tại** | Độ Du mở **mạch liên tinh** (tới Huyền Cự có mùa) | Kinh tế **Thần nguyên + thần công**; Tiên lên Thần là chuyển giới diện, không chỉ “lên tầng” trong một lục |
 
 ---
 
@@ -136,7 +136,7 @@ Bàn cờ generic: [`01-region-catalog.md`](01-region-catalog.md) § Exemplar re
 ## 5. Invariant (phase Foundation Thần 4a)
 
 1. **Main tinh hà** mọi geo Foundation Thần Phase 4a = **`TH-THAN-HUYEN-CUC`** — khác tên / void / bbox so **Phàm** (`TH-PHAM-BICH-LAC`), **Linh** (`TH-LINH-CAN-NGUYEN`), **Tiên** (`TH-TIEN-HUONG-NGUYEN`).
-2. **Thần khí** đủ cho đại tu đường **Thần giai** **trong cùng giới**; **Thánh** = ngoài bộ bốn — **không** hub geo Thánh.
+2. **Thần khí** đủ cho đại tu đường **Thần giai** trong Thần Giới; danh xưng **Thánh** phải ghi rõ nhánh Hòa Thiên hoặc ứng viên Siêu Thoát — **không** hub địa lý Thánh.
 3. **Tiên ↔ Thần** = giới bích song song — đại kiếp **không** = du hành trong Huyền Cự.
 4. **Không** dùng tên Phàm/Linh/Tiên canon (Bích Lạc, Càn Nguyên, Hương Nguyên, Trung Tiên…) cho lục Thần.
 5. **Liên tinh hà** trong void Thần = lore **Thần Vương+** và **Thánh-tier** — **không** thêm invariant Core; vẫn **phí / khế / Nhân quả**.
@@ -165,7 +165,7 @@ Bàn cờ generic: [`01-region-catalog.md`](01-region-catalog.md) § Exemplar re
 | Kiếm–Hồn chiến cổ | Hòa giải hay diệt? | Theme xám — **không** phe thuần ác |
 | Mạch hội Độ Du | Thuế hay cấm? | Liên tinh = **có sổ** — sync neighbor lore |
 | Thái Sơ truyền thuyết | Còn **ý thức thần cổ**? | Vẫn **Thần Giới** trừ ledger khác |
-| Thánh liên tinh hà | Ai chứng kiến? | **Không** retcon Luật 6 / §1.0 Thánh ngoài bộ bốn |
+| Thánh liên tinh hà | Ai chứng kiến? | **Không** gộp Hòa Thiên vào Thiên Đạo Hải với Siêu Thoát qua Giới Tường |
 
 ---
 

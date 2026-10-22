@@ -6,11 +6,15 @@
 | **logic_root** | `foundation/logic/world/` |
 | **Pipeline** | Foundation Logic (geo + atlas) — **không** thuộc `projects/` |
 | **lifecycle** | `active` |
-| **Cập nhật** | 2026-09-18 |
+| **Cập nhật** | 2026-10-14 |
 
 ## Mục tiêu
 
-Instantiate **bốn giới song song** (Luật 6 — `foundation/core/02-world-laws-lore-core.md`) + giới phụ (markdown). Mỗi giới chính: cây `realms/<slug>/` theo convention GeoJSON v2 (`foundation/logic/00-geojson-world-map-convention.md`).
+Instantiate **bốn giới diện vật chất song song trong Nhân Giới** (Luật 6 — `foundation/core/02-world-laws-lore-core.md`) + giới phụ (markdown). Mỗi giới chính: cây `realms/<slug>/` theo convention GeoJSON v2 (`foundation/logic/00-geojson-world-map-convention.md`).
+
+**2026-10-14:** Đã tạo bộ canon [`laws/00-index.md`](laws/00-index.md) về Đại Đạo Nguyên Thủy, Thiên Đạo Bàn Cổ, nghịch lý tu luyện và cơ chế phản hồi; đã đồng bộ các nguồn Core và thiên sử liên quan.
+
+**2026-10-14:** Đã áp dụng [kiến trúc object sáu miền](01-world-object-architecture.md): Phàm/Linh một planet active, Tiên/Thần system-first, giữ nguyên lớp atlas và GeoJSON legacy.
 
 **Cấm:** Sao chép tên/địa danh từ `projects/archive/`; vi phạm `(invariant)` Core 02/03.
 

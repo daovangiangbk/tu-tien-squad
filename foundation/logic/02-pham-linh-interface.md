@@ -13,15 +13,17 @@
 | --- | --- | --- |
 | **Trạng thái** | **Mạt pháp** — linh khí cực mỏng / vô linh | Linh khí dày; **Luyện Khí → Độ Kiếp** |
 | **Ai sống lâu ở đây** | Phàm nhân · **võ tu / Luyện Thể** | **Chân tu** · tông · gia tộc tu tiên |
-| **Chân tu trên Phàm** | **Cấm cư trú** — Thiên phạt Phàm | — |
-| **Linh xuống Phàm** | Thiên phạt: đào thải linh lực, lôi / xóa dị vật, phế tu hoặc rút | Tu sĩ **ngắn hạn** + ngoại lệ Core ( Luật 6a bảng ) |
+| **Chân tu trên Phàm** | **Không** tông / mạch mẹ / tu **đại quy mô**; **Luyện Khí+** có thể **ẩn thân** ( thu liễm khí tức ) — mục tiêu **tiếp dẫn** phàm nhân xuất sắc lên Linh | — |
+| **Linh xuống Phàm** | Thiên đạo Phàm **cảm ứng yếu hơn** Linh; **lộ tức** → đào thải, lôi / xóa dị vật | Tu sĩ **thu liễm** có thể **hành sự lâu**; chuyến ngắn không thu liễm = phạt nhanh hơn ( Luật 6a ) |
 | **Tỉ lệ phàm–tu · linh căn** | → [`03-demographics-pham-linh.md`](03-demographics-pham-linh.md) §2 | → cùng file §2–§3 |
 
 ---
 
 ## 2. Thiên phạt Phàm — nhịp plot
 
-**Kích hoạt:** Linh lực / linh căn **ổn định** tích lũy trên Phàm ( tu, đan, mạch, bảo vật **rò** ) vượt ngưỡng **Mạt pháp** của một vùng.
+**Cảm ứng trên Phàm (Logic):** Thiên đạo Phàm **nhạt hơn** Thiên đạo Linh — phản ứng phải **xuyên** giới bích và nền **Mạt pháp** ( linh khí nghèo ). **Thu liễm khí tức** có thể **né cảm ứng** để tu sĩ **Luyện Khí+** **tồn tại** ẩn thân; **không** miễn phạt khi **lộ tức**, dùng công lực công khai, hoặc tụ khí vượt ngưỡng vùng.
+
+**Kích hoạt:** Linh lực / linh căn **ổn định** **bị phát hiện** trên Phàm ( tu công khai, đan, mạch, bảo vật **rò**, **hết thu liễm** ) vượt ngưỡng **Mạt pháp** của một vùng.
 
 **Diễn tiến gợi ý (Interface, không bài giảng):**
 
@@ -42,6 +44,8 @@
 
 ### 3.1. Võ tu / Luyện Thể (9 tầng)
 
+**Bảng tầng · phương pháp · chiến lực Phàm:** [`world/realms/pham-gioi/planets/bich-lac-tinh/power-system/01-luyen-the-vo-dao.md`](world/realms/pham-gioi/planets/bich-lac-tinh/power-system/01-luyen-the-vo-dao.md).
+
 | Bước | Mô tả logic | Payoff gợi ý |
 | --- | --- | --- |
 | **Đỉnh Luyện Thể** | Huyết khí / thể chất **chạm trần Phàm** — không thành linh lực ổn định trên Phàm | MC arc Phàm: tranh tài nguyên thân, không tranh “mạch tu tiên” |
@@ -54,8 +58,10 @@
 
 ### 3.2. Tu sĩ Linh “xuống Phàm” (ngược chiều)
 
-- **Mục đích plot:** truy nã, cứu người, di vật, **không** “mở chi nhánh tông trên Phàm”.
-- **Ràng buộc:** Thiên phạt + **thời gian tối đa** theo cảnh giới; prose nhấn **phế phong / thu liễm / chạy**.
+- **Mục đích chính (Logic):** **Tìm phàm nhân xuất sắc** — linh căn, tư chất, **vận khí** — để **tiếp dẫn lên Linh Giới** ( khai mạch / nhập môn trên Linh ). Trên **Linh** phàm hữu căn được thu nạp **bình thường**; trên **Phàm** tiêu chí **ngặt hơn** — phải đáng cơ duyên **xuyên bích** hoặc **tiếp dẫn**, không chỉ “đủ căn”.
+- **Mục đích phụ plot:** truy nã, cứu người, di vật — **không** “mở chi nhánh tông trên Phàm”.
+- **Ẩn thân:** **Luyện Khí+** **có thể ở lại** nếu **thu liễm khí tức** ( bảo vật, tự phế phong ấn — sync Luật 6a ); Thiên đạo Phàm **yếu hơn** nhưng **vẫn** phạt khi lộ.
+- **Ràng buộc:** **Không** đột phá / khai mạch **đại quy mô** trên Phàm; manh mạch = **tạm**, không thay Linh. Prose: **thu liễm / lộ tức / chạy**.
 - `(bí mật)` Thượng cổ **hạ phàm** khai mở Bích Lạc → giải thích **mạch kiệt** ( atlas Phàm §3 ) — **không** khôi phục tu tiên đại quy mô trên Phàm.
 
 ---

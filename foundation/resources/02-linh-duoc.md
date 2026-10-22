@@ -22,5 +22,15 @@
 | **Sa Hoàng Quả** (沙黄果) `[bổ sung sáng tác]` | Sa mạc linh khí mỏng | Tụ Khí đan sa mạc; rẻ | 2 năm | Thấp |
 | **Thiên Huyết Đằng** (天血藤) `[bổ sung sáng tác]` | Vực huyết (Ma giới biên) | Huyết đan Ma; **Nhân-Quả** nặng | 100 năm | Cao (cấm) |
 | **Nguyệt Nhũ Linh Trúc** (月乳灵竹) `[bổ sung sáng tác]` | Cốc trăng | Phù Nguyệt; đan Thần thức sơ | 70 năm | Cao |
+| **Bạch Cốc Linh Thảo** (白谷灵草) `[bổ sung sáng tác · work linh-dien]` | Linh điền luống ngoại · ruộng linh cốt | Phụ liệu **Tụ Khí** (độn khối lượng); lương thực tu sĩ hạ | 1–2 năm/vụ | Thấp |
+| **Kim Ngân Hoa** (金银花) `[bổ sung sáng tác · work linh-dien]` | Linh điền · tre giới | Giải nhiệt độc nhẹ; phù **Thanh Nhiệt**; đan thương hàn ngoại | 2–3 năm (hoa) | Thấp |
+| **Ngân Diệp Thảo** (银叶草) `[bổ sung sáng tác · work linh-dien]` | Linh điền bán âm | Phụ **Tẩy Tủy** hạ; phù **Ngân Phong** (sát trùng luống) | 2 năm (lá) | Thấp |
+| **Đậu Linh** (豆灵) `[bổ sung sáng tác · work linh-dien]` | Luống luân canh · điền phàm | Cải đất (ốc bón); **Tụ Khí** phụ · đan bổ khí tạm | 1 vụ/năm | Thấp |
+| **Hồng Hoa Thảo** (红花草) `[bổ sung sáng tác · work linh-dien]` | Luống nắng vừa | Hoạt huyết phụ; đan trị **nội thương** hạ phẩm | 1 năm (hoa) | Thấp |
+| **Thạch Quả** (石果) `[bổ sung sáng tác · work linh-dien]` | Sườn đá · đài đá linh điền | Bổ **kim khí** linh; phụ luyện khí · cốt cầm | 3 năm | Thấp |
+| **Lộ Thủy Tằng** (露水藤) `[bổ sung sáng tác · work linh-dien]` | Rào · tre · Z-2 rìa | **Tụ Khí** trung; đan thanh nhiệt — thu **sương sớm** | 4 năm | Thấp |
+| **Khí Cốt Thảo** (气骨草) `[bổ sung sáng tác · work linh-dien]` | Luống trung · đất sâu | Phụ **Cốt Hồi**; chuẩn bị Trúc Cơ hạ · không thay Cửu Diệp | 6–8 năm (rễ) | TB |
+| **Hắc Âm Thảo** (黑荫草) `[bổ sung sáng tác · work linh-dien]` | Gốc tre · bán âm | Âm bổ nhẹ; cân **dương hàn** trong đan phương | 5 năm | TB |
+| **Vi Dương Linh Thảo** (微阳灵草) `[bổ sung sáng tác · work linh-dien]` | Mái đất · đối diện luống âm | Dương ôn; phối hàn dược · phù **Hàm Dương** | 2–3 năm | Thấp |
 
 **Trade-off chung:** Thu hái sai kỳ → dược tính giảm / đan độc (Luật 2). Tranh **linh điền & bí cảnh chu kỳ** = áp lực kinh tế chính.

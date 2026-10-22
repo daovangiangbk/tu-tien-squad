@@ -11,23 +11,10 @@
   },
   "regions": [
     {
-      "id": "REG-DA-LUC-NEN",
-      "name": "Băng Phong · nền đại lục",
-      "dimensions": { "width": 1000, "length": 1000 },
-      "anchor": { "type": "absolute", "x": 0, "y": 0 },
-      "properties": {
-        "kind": "wilderness",
-        "visibility": "hidden_logic",
-        "border_style": "straight",
-        "fill_remainder": true,
-        "linh_khi_tier": "dày"
-      }
-    },
-    {
       "id": "REG-BP-NAM-DONG",
       "name": "Nam Đông · biên Trung Linh",
-      "dimensions": { "width": 560, "length": 88 },
-      "anchor": { "type": "absolute", "x": 220, "y": 28 },
+      "dimensions": { "width": 480, "length": 180 },
+      "anchor": { "type": "absolute", "x": 500, "y": 100 },
       "properties": {
         "name_hv": "南东",
         "kind": "wilderness",
@@ -39,8 +26,8 @@
     {
       "id": "REG-BP-NAM-PHONG",
       "name": "Nam Phong · cửa gió",
-      "dimensions": { "width": 360, "length": 120 },
-      "anchor": { "type": "relative", "ref_id": "REG-BP-NAM-DONG", "edge": "top", "align": "start" },
+      "dimensions": { "width": 480, "length": 180 },
+      "anchor": { "type": "absolute", "x": 20, "y": 100 },
       "properties": {
         "name_hv": "南风",
         "kind": "wilderness",
@@ -52,8 +39,8 @@
     {
       "id": "REG-BP-TAY-BANG",
       "name": "Tây Băng · biên tây",
-      "dimensions": { "width": 200, "length": 520 },
-      "anchor": { "type": "absolute", "x": 20, "y": 100 },
+      "dimensions": { "width": 220, "length": 400 },
+      "anchor": { "type": "absolute", "x": 20, "y": 280 },
       "properties": {
         "name_hv": "西冰",
         "kind": "wilderness",
@@ -65,8 +52,8 @@
     {
       "id": "BRR-BP-VAN-PHONG",
       "name": "Dãy Vân Phong",
-      "dimensions": { "width": 52, "length": 480 },
-      "anchor": { "type": "absolute", "x": 220, "y": 120 },
+      "dimensions": { "width": 70, "length": 400 },
+      "anchor": { "type": "absolute", "x": 240, "y": 280 },
       "properties": {
         "name_hv": "云风岭",
         "kind": "barrier",
@@ -78,8 +65,8 @@
     {
       "id": "REG-BP-PHONG-COC",
       "name": "Phong Cốc",
-      "dimensions": { "width": 200, "length": 320 },
-      "anchor": { "type": "relative", "ref_id": "BRR-BP-VAN-PHONG", "edge": "right", "align": "top" },
+      "dimensions": { "width": 230, "length": 200 },
+      "anchor": { "type": "absolute", "x": 310, "y": 480 },
       "properties": {
         "name_hv": "风谷",
         "kind": "polity",
@@ -91,8 +78,8 @@
     {
       "id": "REG-BP-HAN-UYEN",
       "name": "Hàn Uyên",
-      "dimensions": { "width": 248, "length": 320 },
-      "anchor": { "type": "relative", "ref_id": "REG-BP-PHONG-COC", "edge": "right", "align": "top" },
+      "dimensions": { "width": 480, "length": 220 },
+      "anchor": { "type": "absolute", "x": 500, "y": 680 },
       "properties": {
         "name_hv": "寒苑",
         "kind": "wilderness",
@@ -104,8 +91,8 @@
     {
       "id": "REG-BP-LINH-BANG",
       "name": "Linh Băng hồ",
-      "dimensions": { "width": 200, "length": 160 },
-      "anchor": { "type": "relative", "ref_id": "REG-BP-NAM-PHONG", "edge": "top", "align": "start" },
+      "dimensions": { "width": 230, "length": 200 },
+      "anchor": { "type": "absolute", "x": 310, "y": 280 },
       "properties": {
         "name_hv": "灵冰湖",
         "kind": "resource",
@@ -117,8 +104,8 @@
     {
       "id": "REG-BP-DONG-HAN",
       "name": "Đông Hàn · đại uyên",
-      "dimensions": { "width": 200, "length": 480 },
-      "anchor": { "type": "relative", "ref_id": "REG-BP-HAN-UYEN", "edge": "right", "align": "top" },
+      "dimensions": { "width": 220, "length": 400 },
+      "anchor": { "type": "absolute", "x": 760, "y": 280 },
       "properties": {
         "name_hv": "东寒",
         "kind": "wilderness",
@@ -129,8 +116,8 @@
     {
       "id": "REG-BP-BANG-TINH",
       "name": "Băng Tinh quan",
-      "dimensions": { "width": 400, "length": 140 },
-      "anchor": { "type": "relative", "ref_id": "REG-BP-LINH-BANG", "edge": "top", "align": "start" },
+      "dimensions": { "width": 220, "length": 400 },
+      "anchor": { "type": "absolute", "x": 540, "y": 280 },
       "properties": {
         "name_hv": "冰星关",
         "kind": "polity",
@@ -142,8 +129,8 @@
     {
       "id": "REG-BP-BAC-HUYEN",
       "name": "Bắc Huyền · cực bắc",
-      "dimensions": { "width": 960, "length": 100 },
-      "anchor": { "type": "absolute", "x": 20, "y": 780 },
+      "dimensions": { "width": 480, "length": 220 },
+      "anchor": { "type": "absolute", "x": 20, "y": 680 },
       "properties": {
         "name_hv": "北玄",
         "kind": "wilderness",
@@ -179,9 +166,9 @@
         "notes": "Cross-link lore → Trung Linh Bắc Linh"
       },
       "control_points": [
-        { "x": 480, "y": 80 },
-        { "x": 520, "y": 60 },
-        { "x": 560, "y": 40 }
+        { "x": 480, "y": 180 },
+        { "x": 540, "y": 150 },
+        { "x": 600, "y": 120 }
       ],
       "roughness": "low"
     },

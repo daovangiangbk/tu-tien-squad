@@ -17,17 +17,35 @@ Tinh Hà (00)  →  Châu lục (chau-luc/*)  →  Region (region/*)  →  Micro
 
 | # | Scope | File / thư mục | Nội dung | Markdown |
 | --- | --- | --- | --- | --- |
-| **1** | `tinh_ha` | `world/geo/00-tinh-ha.geojson` | **Toàn Tinh Hà:** châu lục nào tồn tại, **vị trí tương đối**; phe/thế lực cấp giới (deferred); **không** phố, không beat | `00-world-atlas.md` (tóm lược + mục lục châu lục) |
-| **2** | `chau_luc` | `world/geo/chau-luc/<slug>.geojson` | **Một châu lục / đại lục** (`CHL-*`): châu (洲), mạch, thành cấp lục; neo trong tinh hà | `00-world-atlas.md` (link từng file) |
-| **3** | `region` | `world/geo/region/<slug>.geojson` | **Một phần** của châu lục — vùng làm việc (vd. Thạch Lam · Lan Sa); tuyến, bàn cờ | `01-region-active.md` (hoặc md theo vùng MC) |
-| **4** | `micro` | `world/geo/micro/*.geojson` | **Một phần** của region — tiểu cục / địa điểm chi tiết | `02-tieu-cuc-index.md` |
+| **1** | `tinh_ha` | `<geo-root>/00-tinh-ha.geojson` | **Toàn Tinh Hà:** châu lục nào tồn tại, **vị trí tương đối**; phe/thế lực cấp giới (deferred); **không** phố, không beat | `00-world-atlas.md` (tóm lược + mục lục châu lục) |
+| **2** | `chau_luc` | `<geo-root>/chau-luc/<slug>.geojson` | **Một châu lục / đại lục** (`CHL-*`): châu (洲), mạch, thành cấp lục; neo trong tinh hà | `00-world-atlas.md` (link từng file) |
+| **3** | `region` | `<geo-root>/region/<slug>.geojson` | **Một phần** của châu lục — vùng làm việc (vd. Thạch Lam · Lan Sa); tuyến, bàn cờ | `01-region-active.md` (hoặc md theo vùng MC) |
+| **4** | `micro` | `<geo-root>/micro/*.geojson` | **Một phần** của region — tiểu cục / địa điểm chi tiết | `02-tieu-cuc-index.md` |
 
-### 1.1. Quy tắc đặt tên file (tầng 2–3)
+### 1.1. Layer logic và scope GeoJSON
+
+Kiến trúc đối tượng chính thức nằm tại [`world/01-world-object-architecture.md`](world/01-world-object-architecture.md):
+
+```text
+realm → planet/system → continent → region → site → micro
+```
+
+Chuỗi trên là layer logic; bốn scope GeoJSON trong bảng là lớp không gian tương thích và **không đổi schema v2**. `tinh_ha` là tên scope legacy cho bản đồ quần vực: với Phàm/Linh, nó bọc không gian quanh một tinh cầu chính; với Tiên/Thần, nó có thể bọc tinh hệ hoặc quần tinh. Scope này không thay tầng `planet/system`, và các `CHL-*` trong atlas Phàm/Linh là châu lục của cùng một tinh cầu, không phải các tinh cầu riêng.
+
+`site` nằm giữa region và micro trong hồ sơ logic nhưng không cần scope GeoJSON mới. Thành, trấn, tông môn, giáo phái có lãnh thổ có thể dùng Point hoặc feature trong region/micro; phe không có lãnh thổ chỉ cần hồ sơ logic.
+
+### 1.2. Quyền sở hữu thư mục `geo`
+
+- Planet active của Phàm/Linh sở hữu bản đồ tại `realms/<realm>/planets/<planet>/geo/...`; realm chỉ giữ atlas, catalog và chỉ mục domain, không chứa geometry thuộc planet.
+- Tiên/Thần giữ bản đồ ở realm/system theo scope hiện hành trong giai đoạn system-first. Khi một planet được instantiate theo nhu cầu arc, geometry riêng của planet mới chuyển vào `planets/<planet>/geo/...`.
+- Trong phần còn lại của quy ước này, `<geo-root>` là thư mục `geo/` của object đang sở hữu bản đồ.
+
+### 1.3. Quy tắc đặt tên file (tầng 2–3)
 
 - **Slug** = `id` canon **chữ thường**, dấu `-` (vd. `CHL-HA-GIOI-NAM` → `chl-ha-gioi-nam.geojson`).
 - **Một châu lục = một file** trong `chau-luc/` — thêm lục mới **không** đổi tên file cũ.
 - **Một vùng region = một file** trong `region/` — slug gợi ý `reg-<tên-vùng>` (vd. `reg-thach-lam.geojson`, `reg-lan-sa-chau.geojson`), kèm `world:region_id` trong collection.
-- **`world:parent_file`:** đường dẫn **tương đối từ `world/geo/`** (vd. `chau-luc/chl-ha-gioi-nam.geojson`, `region/reg-lan-sa-chau.geojson`).
+- **`world:parent_file`:** đường dẫn **tương đối từ `<geo-root>/`** (vd. `chau-luc/chl-ha-gioi-nam.geojson`, `region/reg-lan-sa-chau.geojson`).
 
 **Legacy (deprecated):** `00-world-macro.geojson`, `01-region-active.geojson` (tầng region cũ), `01-chau-luc-active.geojson`, `02-region-active.geojson` — migrate sang cấu trúc thư mục trên.
 
@@ -62,7 +80,7 @@ Tinh Hà (00)  →  Châu lục (chau-luc/*)  →  Region (region/*)  →  Micro
 | `world:parent_scope` | tầng 2–4 | `tinh_ha` \| `chau_luc` \| `region` |
 | `world:parent_feature_id` | tầng 2–4 | `id` vùng cha **trên file cha** (vd. `CHL-HA-GIOI-NAM`) |
 | `world:parent_coordinates` | tầng 2–4 | `[x, y]` — vị trí **gốc local** của file con trên **lưới file cha** |
-| `world:parent_file` | khuyến nghị | Từ `world/geo/`, vd. `chau-luc/chl-ha-gioi-nam.geojson` |
+| `world:parent_file` | khuyến nghị | Từ `<geo-root>/`, vd. `chau-luc/chl-ha-gioi-nam.geojson` |
 | `world:coordinateNote` | có | Một dòng tiếng Việt |
 
 **Quy đổi lên tầng cha (mặt phẳng ngang — mặt đất, bản đồ châu):**
@@ -116,9 +134,9 @@ Route: `from_id`, `to_id`, `hazard`.
 Ví dụ (tap-linh-dieu-lo — bổ sung file khi mở thêm lục/vùng):
 
 ```markdown
-**GeoJSON:** [`geo/00-tinh-ha.geojson`](geo/00-tinh-ha.geojson)
-· [`geo/chau-luc/chl-ha-gioi-nam.geojson`](geo/chau-luc/chl-ha-gioi-nam.geojson)
-· [`geo/region/reg-thach-lam.geojson`](geo/region/reg-thach-lam.geojson) · [`geo/region/reg-lan-sa-chau.geojson`](geo/region/reg-lan-sa-chau.geojson)
+**GeoJSON:** `planets/<planet>/geo/00-tinh-ha.geojson`
+· `planets/<planet>/geo/chau-luc/chl-ha-gioi-nam.geojson`
+· `planets/<planet>/geo/region/reg-thach-lam.geojson`
 ```
 
 Micro: link từ `02-tieu-cuc-index.md`.

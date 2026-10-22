@@ -11,6 +11,7 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Any
 
+from shapely import affinity
 from shapely.geometry import LineString, Polygon, mapping, shape
 from shapely.geometry import box as shapely_box
 
@@ -423,6 +424,66 @@ def load_world_shell(path: Path, continent_id: str) -> dict | None:
     return None
 
 
+def localize_world_shell(
+    world_shell: dict,
+    *,
+    data: dict,
+    world_fc: dict,
+    world_file: Path,
+) -> tuple[dict, dict]:
+    """Project a world-map continent into the canonical 0..1000 continent grid."""
+    geom = shape(world_shell["geometry"])
+    min_x, min_y, max_x, max_y = geom.bounds
+    width, height = max_x - min_x, max_y - min_y
+    if width <= 0 or height <= 0:
+        raise ValueError("continent shell has an empty bounding box")
+
+    margin = 20.0
+    usable = 1000.0 - 2 * margin
+    scale = usable / max(width, height)
+    scaled_width, scaled_height = width * scale, height * scale
+    offset_x = margin + (usable - scaled_width) / 2.0
+    offset_y = margin + (usable - scaled_height) / 2.0
+    local = affinity.translate(
+        affinity.scale(geom, xfact=scale, yfact=scale, origin=(min_x, min_y)),
+        xoff=offset_x - min_x,
+        yoff=offset_y - min_y,
+    )
+
+    shell = {
+        **world_shell,
+        "geometry": mapping(local),
+    }
+    hub = next(
+        (
+            ent["id"]
+            for ent in data.get("entities", [])
+            if ent.get("type") == "point"
+            and (ent.get("properties") or {}).get("kind") == "hub"
+        ),
+        world_shell["properties"]["id"],
+    )
+    continent_id = world_shell["properties"]["id"]
+    metadata = {
+        "world:schema": world_fc.get("world:schema", "tien-hiep-novel/geo/v2"),
+        "world:scope": "chau_luc",
+        "world:work_slug": world_fc.get("world:work_slug", "foundation-canon"),
+        "world:hub_id": hub,
+        "world:continent_id": continent_id,
+        "world:parent_scope": "tinh_ha",
+        "world:parent_feature_id": continent_id,
+        "world:parent_file": world_file.name,
+        "world:parent_coordinates": [float(min_x), float(min_y)],
+        "world:grid_extent": [0, 1000],
+        "world:coordinateNote": (
+            f"Vỏ {continent_id} scale từ bản đồ cha; parent SW "
+            f"[{min_x:.1f}, {min_y:.1f}]; k≈{scale:.2f}; "
+            f"canvas {data.get('continent', continent_id)}."
+        ),
+    }
+    return shell, metadata
+
+
 def json_to_geojson(
     data: dict,
     *,
@@ -460,10 +521,18 @@ def main() -> int:
     data = json.loads(args.input.read_text(encoding="utf-8"))
     shell = None
     if args.world_shell:
-        shell = load_world_shell(args.world_shell, args.continent_id)
-        if shell is None:
+        world_fc = json.loads(args.world_shell.read_text(encoding="utf-8"))
+        raw_shell = load_world_shell(args.world_shell, args.continent_id)
+        if raw_shell is None:
             print(f"continent {args.continent_id} not found", file=sys.stderr)
             return 1
+        shell, metadata = localize_world_shell(
+            raw_shell,
+            data=data,
+            world_fc=world_fc,
+            world_file=args.world_shell,
+        )
+        data = {**data, "world": {**metadata, **(data.get("world") or {})}}
 
     fc = json_to_geojson(data, world_shell=shell, finalize=not args.no_finalize and shell is not None)
     args.output.parent.mkdir(parents=True, exist_ok=True)
