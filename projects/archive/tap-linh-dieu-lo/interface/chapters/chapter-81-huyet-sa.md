@@ -11,13 +11,13 @@ Canh Mão đến trên tre phụ tây — không một ngày khác, chỉ sươn
 
 Tô Diêu đứng lại trên hành lang được phép, cách tam giác một sải. Trúc Cơ Trung lệch; Linh Dịch dính; khí sụt vẫn kéo trong xương — không lành, không vá thêm trong ca này. Túi rỗng; khế cắn nửa tích như chưa thôi đêm qua. Thẻ hai mươi tám gãy cọ đùi; sổ đen im trên hông. Hiệu mười bảy còn trên tre — nợ một hạt treo đài vẫn treo; bổ một hạt lúc ca cập rìa ban ngày đã lấy hết đệm — đêm Bính chỉ trinh sát, không bổ thêm. Không mua vé Thiên Sa; không hỏi Bốn mươi lăm.
 
-Chấp sự **Mai** — áo tro sạch, mực chưa khô trên ngón — treo sơ đồ cập lên cọc phụ tây trước mõ. Một chữ **断** còn đậm bên cạnh đoạn gạch; dưới chữ, dòng *Nhân quả vùng* đã khép; bên lề, *lậu · chưa khai* viết nhanh, không đọc to tên đội.
+Chấp sự **Mai** — áo tro sạch, mực chưa khô trên ngón — treo sơ đồ cập lên cọc phụ tây trước mõ. Một chữ **Đoạn** còn đậm bên cạnh đoạn gạch; dưới chữ, dòng *Nhân quả vùng* đã khép; bên lề, *lậu · chưa khai* viết nhanh, không đọc to tên đội.
 
 — Mười bảy · Mão · **báo khí rìa** — nửa trượng · không xuống · **không hút** — hao thần tự chịu · tro lan quá tam giác mới kêu.
 
 Không thưởng. Mai không nhìn mắt hắn; nhìn sổ treo, giọng phẳng cho cả hàng tán tu rìa:
 
-— **断** · vẫn cấm xuống · vẫn cấm hút — Thanh Vi gom manh · Huyền Lôi cấm lậu — tán tu không khai · khế vẫn ký.
+— **Đoạn** · vẫn cấm xuống · vẫn cấm hút — Thanh Vi gom manh · Huyền Lôi cấm lậu — tán tu không khai · khế vẫn ký.
 
 Rồi thêm — không hỏi ai thấy khói đêm Bính; không hỏi tên trên mõ Thanh Vi:
 
@@ -25,7 +25,7 @@ Rồi thêm — không hỏi ai thấy khói đêm Bính; không hỏi tên trê
 
 Hắn im. Đêm qua một tán tu thuê đã thì thầm tên đó vào tai; Mai nói như sổ đã biết trước khi miệng mở. Gắn tên sớm = nợ thêm trên tre nội bộ thay hạt — cùng kinh tế mạch, khác chỗ trả.
 
-Bốn mươi lăm đứng cách nửa sải — một tích im, không chen lời. Y nhìn chữ **断** rồi nhìn miệng hố dưới đoạn gạch — đủ để hắn biết y cũng nghe cảnh báo, cũng chọn không hỏi *chỗ ký trên mõ Thanh Vi*.
+Bốn mươi lăm đứng cách nửa sải — một tích im, không chen lời. Y nhìn chữ **Đoạn** rồi nhìn miệng hố dưới đoạn gạch — đủ để hắn biết y cũng nghe cảnh báo, cũng chọn không hỏi *chỗ ký trên mõ Thanh Vi*.
 
 ---
 
@@ -33,7 +33,7 @@ Sương Mão tan — tro phụ tây khô, không dính như đêm Bính. Hắn q
 
 Báo khí lần một — **lệch** — không lan quá cọc đen; cỏ chết vàng giữ ranh. Cọc tre nhỏ cạnh tay không nhấp — im phế trong ranh được phép nhìn.
 
-Leo cọc xa trên đài bắc không rung; cọc đỏ vẫn sáng — đối lập không cần lời. Hắn nhớ chuỗi trên phụ tây: cứu, bia, khế, Trung, tin, vá, sụt, phế, *Nhân quả vùng*, rồi khói không cờ. Mỗi bước đúng trên sổ vẫn để lại tro dưới **断**; sáng nay thêm một lớp tin — tên **Huyết Sa** — nghe cũng nặng như nợ hạt nếu há miệng sai chỗ.
+Leo cọc xa trên đài bắc không rung; cọc đỏ vẫn sáng — đối lập không cần lời. Hắn nhớ chuỗi trên phụ tây: cứu, bia, khế, Trung, tin, vá, sụt, phế, *Nhân quả vùng*, rồi khói không cờ. Mỗi bước đúng trên sổ vẫn để lại tro dưới **Đoạn**; sáng nay thêm một lớp tin — tên **Huyết Sa** — nghe cũng nặng như nợ hạt nếu há miệng sai chỗ.
 
 Mai đi ngang, mở sổ treo một nhịp — không dừng mắt hắn. Một dòng viết nhanh bên lề, hắn đọc từ xa — đủ chữ, không đọc to trên mõ:
 
@@ -61,7 +61,7 @@ Thanh Vi gom manh — ba gã cờ trên vai, không xuống đáy; nhặt đá x
 
 Hắn chỉ nhìn từ xa — không trận sáng, không đối thoại dài với kẻ cầm đầu.
 
-Khói mỏng bốc ngoài tam giác, dưới đường chân núi **断** — ba bóng lặp điệu đêm Bính, hoặc đội khác cùng kiểu: sát vách, không leo cọc, không đi hành lang được phép. Một bóng dừng cách miệng hố ngoài tầm mắt thường; hai bóng che gió — không pháp quang chói, không tiếng cười ác. Chỉ hành vi: **nhắm nhánh chết**, không nhắm túi manh trên vai Thanh Vi.
+Khói mỏng bốc ngoài tam giác, dưới đường chân núi **Đoạn** — ba bóng lặp điệu đêm Bính, hoặc đội khác cùng kiểu: sát vách, không leo cọc, không đi hành lang được phép. Một bóng dừng cách miệng hố ngoài tầm mắt thường; hai bóng che gió — không pháp quang chói, không tiếng cười ác. Chỉ hành vi: **nhắm nhánh chết**, không nhắm túi manh trên vai Thanh Vi.
 
 Lớp mồi tan một tích — cướp manh là chuyện mạch; hút xám là chuyện phế. Hắn không xuống. Xuống là lén khai; ca Mão là nhìn từ trên và báo khí nếu tro lan.
 
@@ -71,7 +71,7 @@ Gió tây nam mang khói tan — loãng, chua — không Hỏa lò phụ; như t
 
 Mảnh Cửu Huyền Trận lạnh một nhịp khi xám trong vòng phế **veo** — không sáng, không chỉ hướng, không khai trận đủ. Như sổ phía dưới đá rung mà không mở. Hắn không giơ tay hút; giơ tay là ký khế cho đội không cờ.
 
-Trong đầu hắn lóe một nhịp ngắn — chết *vì đại cục*, không ai nhắc tên trên mõ — rồi tắt, im như tro sau sụt. Không ai vá lành vùng trong ca này; đất dưới **断** chết cục bộ, đài bắc còn đỏ — giữa hai thứ, tên không đủ trên tre, chỉ suất và nợ đủ.
+Trong đầu hắn lóe một nhịp ngắn — chết *vì đại cục*, không ai nhắc tên trên mõ — rồi tắt, im như tro sau sụt. Không ai vá lành vùng trong ca này; đất dưới **Đoạn** chết cục bộ, đài bắc còn đỏ — giữa hai thứ, tên không đủ trên tre, chỉ suất và nợ đủ.
 
 ---
 
@@ -101,13 +101,13 @@ Canh Ngọ — ca Mão gần hết; tro phụ tây dày lại chiều.
 
 Mai thu sơ đồ cập — không cho chụp mắt lâu. Một câu cho ca, giọng phẳng:
 
-— **断** · Mão · khí ổn tam giác · tro không lan — mười bảy · **đủ ca** · nợ một hạt treo đài · phế **chưa khai**.
+— **Đoạn** · Mão · khí ổn tam giác · tro không lan — mười bảy · **đủ ca** · nợ một hạt treo đài · phế **chưa khai**.
 
 Chưa khai — miệng hút vẫn thở. Nhân quả vùng đã khép một vòng trên sổ hôm qua; hôm nay thêm một lớp: tên **Huyết Sa** nghe lén cũng là nợ nếu há miệng sai chỗ — quả chồng quả trên tre đài, không trên da Trung lệch.
 
 Hắn không đọc lại từng chữ sổ — chỉ cảm trong xương: phế im sau sụt không phải an; im là tro và lệnh và miệng thứ hai. Xám vẫn kéo, không ai phong ấn đủ trên tre.
 
-Ca chiều — **chờ rìa** gần **断**, không ca mới có tên: ngồi trong ranh được phép, nhìn phế, không hút. Khế siết khi cấm hút cắn — thần thức không bám miệng hố; chỉ tai và mắt và gió.
+Ca chiều — **chờ rìa** gần **Đoạn**, không ca mới có tên: ngồi trong ranh được phép, nhìn phế, không hút. Khế siết khi cấm hút cắn — thần thức không bám miệng hố; chỉ tai và mắt và gió.
 
 ---
 
@@ -115,7 +115,7 @@ Canh Mùi — gió đổi; mùi chua tro ướt quay lại từ tây nam.
 
 Không phải hắn một mình nhìn. Một tán tu thuê — bình rỗng, không hiệu mười bảy — được đem tới rìa bằng hạt người khác trả, đứng cách tam giác hai sải, **thuê để thấy**. Luật mạch rõ: ai trả hạt được đứng gần hơn một tích; túi rỗng chỉ đứng xa.
 
-Tô Diêu đứng xa hơn thuê một sải — vẫn trong hành lang, không xuống. Khói tây nam dày hơn một tích so với sáng; xám trong tam giác không mỏng thêm — chỉ **kéo** về phía vách **断**, như có cửa đang được thử khóa ngược chiều gió thường.
+Tô Diêu đứng xa hơn thuê một sải — vẫn trong hành lang, không xuống. Khói tây nam dày hơn một tích so với sáng; xám trong tam giác không mỏng thêm — chỉ **kéo** về phía vách **Đoạn**, như có cửa đang được thử khóa ngược chiều gió thường.
 
 Một **màn** tro mỏng căng giữa hai mỏm đá ngoài tam giác — không trận sáng trời, không Kim trên hành lang. Sau màn, bóng áo tro xám đỏ mờ — không lộ mặt, không thoại dài. Chỉ hành vi: đội không cờ **chờ** miệng thứ hai trên cùng sổ nợ, không cướp manh trên vai Thanh Vi.
 
@@ -129,7 +129,7 @@ Vài tán tu thuê lùi nửa sải khi khói chớp đậm — không sợ phá
 
 Hắn không đáp. Chỉ ghi trong đầu: xám **đổi hướng** một tích; **cứu vùng ngắn** chấp sự đã nhắc — **giá khác Hữu** chưa ai đọc trên mõ; chưa chọn, chưa ký, chưa gia nhập Ma. Hút trước lệnh là nợ cả đội; Nghịch dưới rìa, Thuận trên đài — cùng nhánh chết.
 
-Rồi — khói chớp đậm một nhịp; màn tro rung, không sáng trời, không đủ gần để đọc phù hay thấy vòng xanh, sa huyết trên người — chỉ bóng sau màn **co** hướng vách **断**, tay không lộ cử chỉ rõ như đêm Bính; xám trong tam giác **đổi hướng** một tích về phía miệng hố, nhanh hơn sáng Mão, nhưng veo **chưa đầy** — che nửa trong khói, không gom hết xuống tầm mắt thường. Không vào đan điền hắn; không vào đan điền tán tu thuê gần hơn — chỉ chứng cứ rằng có người trả trước bằng cách hắn chưa được phép đọc tên trên mõ.
+Rồi — khói chớp đậm một nhịp; màn tro rung, không sáng trời, không đủ gần để đọc phù hay thấy vòng xanh, sa huyết trên người — chỉ bóng sau màn **co** hướng vách **Đoạn**, tay không lộ cử chỉ rõ như đêm Bính; xám trong tam giác **đổi hướng** một tích về phía miệng hố, nhanh hơn sáng Mão, nhưng veo **chưa đầy** — che nửa trong khói, không gom hết xuống tầm mắt thường. Không vào đan điền hắn; không vào đan điền tán tu thuê gần hơn — chỉ chứng cứ rằng có người trả trước bằng cách hắn chưa được phép đọc tên trên mõ.
 
 Cỏ chết vàng ngoài tam giác **hé** ẩm mỏng một vòng nhỏ — một tích, không xanh hẳn — rồi khô lại khi khói tan. Khí tam giác trên hành lang **bớt cắn cổ** một nhịp thở; hắn nuốt, biết đó là *cứu* cục bộ, không phải vá nhánh bảy, không phải lành Trung.
 
@@ -143,11 +143,11 @@ Bóng sau màn rút; Thanh Vi trên hành lang không đuổi; Huyền Lôi khô
 
 Canh Dậu — tro tối; Mai không đọc *Huyết Sa* to trên mõ — chỉ ghi treo, một câu cho tán tu còn ca:
 
-— **断** · cấm hút · ai hút · khế ghi cả đội — **Huyết Sa** nghe lén · ghi thêm · **không** khai phế.
+— **Đoạn** · cấm hút · ai hút · khế ghi cả đội — **Huyết Sa** nghe lén · ghi thêm · **không** khai phế.
 
 Cấm hút cắn; tên nghe lén là trinh sát thêm. Tô Diêu im — giữ ca, giữ im, giữ phế trong mắt mà không xuống, không hút, không theo ba bóng.
 
-Dưới **断**, sợi xám tây nam mỏng hơn canh Bính; phế vẫn chết cục bộ; cọc đỏ đài bắc vẫn sáng. Giữa hai thứ, mười bảy còn nợ một hạt treo đài, Trung lệch, và chiều Mùi vừa hé một góc miệng hút — giá chưa đọc tên, nghiệp chưa ai giải trên mõ.
+Dưới **Đoạn**, sợi xám tây nam mỏng hơn canh Bính; phế vẫn chết cục bộ; cọc đỏ đài bắc vẫn sáng. Giữa hai thứ, mười bảy còn nợ một hạt treo đài, Trung lệch, và chiều Mùi vừa hé một góc miệng hút — giá chưa đọc tên, nghiệp chưa ai giải trên mõ.
 
 Hắn bước theo tre đen rút — không quay lại nhìn miệng hố. Quay lại là trinh sát thêm; trinh sát thêm đêm nay đồng nghĩa khế hoặc suất tre đài.
 
@@ -164,7 +164,7 @@ Gió từ mạch sống mang Mộc mỏng; gió từ miệng hố mang mùi chua
 - **Revise (review REWRITE batch 2026-09-09):** **C-01** *pattern* → *lặp điệu đêm Bính* · **M-01** bổ hạt gắn ca cập rìa ban ngày ch.80, đêm Bính chỉ trinh sát · **M-02** Canh Mùi thu witness (màn/khói/hé ẩm, xám đổi hướng che nửa; bỏ úp lòng bàn + veo gom đầy như đêm Bính ch.80; giữ chưa phù/veo đầy → ch.82).
 - **Campaign REWRITE-66-112 · full replace (2026-09-09):** Nối liền cuối ch.80 (Canh Dần / sáng sớm · khế · nợ một hạt treo · đêm Bính · Huyết Sa thì thầm); mở **Canh Mão** phụ tây — **không** «một ngày sau Canh Thìn»; Beat 8 mở; MC chỉ nhìn; cliff hé hút (màn/khói/hé ẩm · chưa phù/veo đầy → ch.82).
 - **Số chữ thân chương (prose):** ~3.076 từ (đếm token khoảng trắng; không tính metadata và ghi chú).
-- **Kiểm tra canon:** Đạt — Trúc Cơ Trung lệch, Linh Dịch lệch, túi rỗng, khế/sổ/thẻ 28/hiệu 17; cấm xuống · cấm hút · **断**; chấp sự **Mai** cảnh báo trừ suất tre đài; không heal/vá Trung; không NC; không MC hút/gia nhập Ma; không leader đối thoại dài; không solo Kim Đan; không payoff Cửu Huyền đầy; prose không tiếng Anh/meta.
+- **Kiểm tra canon:** Đạt — Trúc Cơ Trung lệch, Linh Dịch lệch, túi rỗng, khế/sổ/thẻ 28/hiệu 17; cấm xuống · cấm hút · **Đoạn**; chấp sự **Mai** cảnh báo trừ suất tre đài; không heal/vá Trung; không NC; không MC hút/gia nhập Ma; không leader đối thoại dài; không solo Kim Đan; không payoff Cửu Huyền đầy; prose không tiếng Anh/meta.
 - **FS đã gài/nuôi:** FS-002 · FS-004 · FS-010 *(mầm · veo/hé ẩm một tích)* · FS-011 *(mầm · chưa chọn)* · FS-015 · FS-001 · FS-014 · FS-006.
 - **Tên cần chốt:** Không.
 - **Hook ch.82 `hut-linh`:** MC (hoặc cùng ca) thấy **cơ chế** hút đủ fair-play — phù tro, veo đầy, miệng hố, hậu quả vùng ngắn rõ hơn; vẫn không MC hút; giá *trả bằng gì* treo.

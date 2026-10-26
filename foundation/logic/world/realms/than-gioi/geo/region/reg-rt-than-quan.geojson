@@ -19,7 +19,7 @@
       "properties": {
         "id": "REG-RT-THAN-QUAN-AREA",
         "name_vi": "Phạm vi Thần Quan thành",
-        "name_hv": "神关域",
+        "name_hv": "Phạm vi Thần Quan thành",
         "kind": "polity",
         "visibility": "public",
         "notes": "Trung ương thần triều; thuế Thần nguyên 12–25%; tranh thần phủ T2–T3.",
@@ -330,7 +330,7 @@
       "properties": {
         "id": "LOC-RT-THAN-QUAN",
         "name_vi": "Thần Quan · trung ương",
-        "name_hv": "神关",
+        "name_hv": "Thần Quan",
         "kind": "hub",
         "visibility": "public",
         "notes": "Shared id chl-trung-than; parent (430,400).",
@@ -349,7 +349,7 @@
       "properties": {
         "id": "LOC-RT-TAM-DE-DAI",
         "name_vi": "Tam Đế đài",
-        "name_hv": "三神台",
+        "name_hv": "Tam Đế đài",
         "kind": "polity",
         "visibility": "public",
         "notes": "Chia mạch Trung Thần; tranh thần phủ gốc.",
@@ -369,7 +369,7 @@
       "properties": {
         "id": "LOC-RT-THAN-TONG",
         "name_vi": "Thần Quốc Tông · sơn môn",
-        "name_hv": "神国宗",
+        "name_hv": "Thần Quốc Tông",
         "kind": "settlement",
         "visibility": "public",
         "notes": "Tông lớn nhất cụm; mạch gốc nội thành thần triều.",
@@ -390,7 +390,7 @@
       "properties": {
         "id": "LOC-RT-TRUNG-NGUYEN-KE",
         "name_vi": "Trung Nguyên các · chợ Thần nguyên",
-        "name_hv": "中元阁",
+        "name_hv": "Trung Nguyên các",
         "kind": "settlement",
         "visibility": "public",
         "notes": "Neo REG-RT-TRUNG-NGUYEN; thuế hội 18–22%.",
@@ -411,7 +411,7 @@
       "properties": {
         "id": "LOC-RT-GIA-THAN-PHU",
         "name_vi": "Phủ đệ · gia tộc thần",
-        "name_hv": "神府",
+        "name_hv": "Phủ đệ",
         "kind": "settlement",
         "visibility": "public",
         "notes": "Generic gia tộc thần; thần phủ T1 ven thành.",
@@ -431,7 +431,7 @@
       "properties": {
         "id": "LOC-RT-THAN-MACH-NO",
         "name_vi": "Thần mạch nội thành",
-        "name_hv": "内城神脉",
+        "name_hv": "Thần mạch nội thành",
         "kind": "resource",
         "visibility": "public",
         "notes": "Mạch chủ nuôi thành; monopoly thần triều.",
@@ -451,7 +451,7 @@
       "properties": {
         "id": "LOC-RT-THAN-PHU-MEN",
         "name_vi": "Thần phủ · cửa cốc",
-        "name_hv": "神府口",
+        "name_hv": "Thần phủ",
         "kind": "dungeon",
         "visibility": "mc_phase1",
         "notes": "Neo REG-RT-PHUC-DIA; tranh T2–T3.",
@@ -471,7 +471,7 @@
       "properties": {
         "id": "LOC-RT-EXIT-DONG-HAI",
         "name_vi": "Ải đông · Đông Hải",
-        "name_hv": "东海关",
+        "name_hv": "Ải đông",
         "kind": "hub",
         "visibility": "public",
         "notes": "Ra REG-RT-DONG-HAI · thần thuyền thuế.",
@@ -490,7 +490,7 @@
       "properties": {
         "id": "BRR-RT-THIEN-LAM-FOOT",
         "name_vi": "Chân Thiên Lam · biên tây",
-        "name_hv": "天岚脚",
+        "name_hv": "Chân Thiên Lam",
         "kind": "barrier",
         "visibility": "public",
         "notes": "BRR-RT-THIEN-LAM trên chau_luc; thần khí rải cao."
@@ -528,7 +528,7 @@
       "properties": {
         "id": "RIVER-RT-THAN-HA-URBAN",
         "name_vi": "Thần Hà · đoạn thành",
-        "name_hv": "神河",
+        "name_hv": "Thần Hà",
         "kind": "route",
         "visibility": "public",
         "notes": "Nối RIVER-RT-THAN-HA chau_luc.",
@@ -567,7 +567,7 @@
       "properties": {
         "id": "ROUTE-RT-THAN-TAM",
         "name_vi": "Đạo Thần–Tam",
-        "name_hv": "神三大道",
+        "name_hv": "Đạo Thần–Tam",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-RT-THAN-QUAN",
@@ -602,7 +602,7 @@
       "properties": {
         "id": "ROUTE-RT-THAN-DONG",
         "name_vi": "Đạo Đông Hải",
-        "name_hv": "东海道",
+        "name_hv": "Đạo Đông Hải",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-RT-THAN-QUAN",
@@ -641,7 +641,7 @@
       "properties": {
         "id": "ROUTE-RT-THAN-PHU",
         "name_vi": "Đường xuống Thần phủ",
-        "name_hv": "神府道",
+        "name_hv": "Đường xuống Thần phủ",
         "kind": "route",
         "visibility": "mc_phase1",
         "from_id": "LOC-RT-THAN-QUAN",

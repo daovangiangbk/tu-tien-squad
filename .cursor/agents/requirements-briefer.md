@@ -68,6 +68,18 @@ projects/
 ## 4. Phạm vi & quy mô
 …
 
+### 4b. Chiến lược thế giới (bắt buộc chốt)
+
+| Trường | Giá trị |
+| --- | --- |
+| `world_strategy` | `foundation-fixed` \| `foundation+delta` \| `project-new` |
+| `foundation_world_paths` | Path atlas/geo/laws dưới `foundation_root` (vd. `foundation/logic/world/...`, geo owner) |
+| `story_region_start` | ID hoặc tên vùng mở đầu truyện (neo plot/prose) |
+| `waive_T-world-project` | `true` nếu `foundation-fixed` (orchestrator skip step 2) |
+| *(tùy chọn)* | `{logic_root}/world/00-foundation-handoff.md` — mirror link ngắn |
+
+**Mặc định khuyến nghị:** tiểu thuyết trong repo shared world → `foundation-fixed` + liệt kê path Foundation; **không** yêu cầu rebuild geo A1.
+
 ## 5. Ràng buộc sáng tác
 …
 

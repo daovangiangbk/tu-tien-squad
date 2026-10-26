@@ -51,8 +51,7 @@ child_index:
     visibility: public
 ---
 
-# Lô Hàng · 螺航大陆
-
+# Lô Hàng · ĐạiLục
 Châu lục hải đảo ở phía đông Bích Lạc Tinh, giữ trục thương lộ liên lục qua Cảng Tiên Sa, nội cảng và các hành lang hải lưu.
 
 **parent:** [`Bích Lạc Tinh`](../../00-overview.md) · **GeoJSON:** [`chl-lo-hang.geojson`](../../geo/chau-luc/chl-lo-hang.geojson)

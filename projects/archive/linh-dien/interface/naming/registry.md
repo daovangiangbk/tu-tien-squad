@@ -24,13 +24,13 @@ Tham chiếu shared: `foundation/core/00-glossary.md` — **không** trùng **Th
 
 | Thực thể | Chốt | Lý do ngắn |
 | --- | --- | --- |
-| Tông | **Ngưng Lộ Tông** (凝露宗) | *Ngưng lộ* = sương đọng — khớp ch.1, slice yên; không trùng bảo vật **Thiên Đạo Ngưng Lộ Bình** (danh từ khác). |
-| Linh điền | **Bán Sơn Linh Ngư** (半山灵畦) | Nửa sườn — Z-1→Z-5 trong micro-setting; *ngư* = luống linh, không “điền” trùng title work. |
-| MC | **Thường An** (常安) | *Thường an* = bình yên lặng — động cơ slice; không oai vệ. |
-| Quản điền | **Diệp Hoằng** (叶衡) | *Diệp* = lá; *Hoằng* = cân — trận, sổ, Tụ Linh. |
-| Linh nông phàm nhân | **Phương Thực** (方实) | *Thực* = chắc, thực địa — nhắc “thưa mới lên” ch.2. |
-| Tông chủ (Kim Đan) | **Ngụy Hàm** (魏涵) | Ghế công khai; **không** lộ MC; nhắc qua sổ / uy danh. |
-| Đan các (nội bộ) | **Đan Các Ngưng Lộ** (丹阁凝露) | Giao dược, deadline nhẹ. |
+| Tông | **Ngưng Lộ Tông** | *Ngưng lộ* = sương đọng — khớp ch.1, slice yên; không trùng bảo vật **Thiên Đạo Ngưng Lộ Bình** (danh từ khác). |
+| Linh điền | **Bán Sơn Linh Ngư** | Nửa sườn — Z-1→Z-5 trong micro-setting; *ngư* = luống linh, không “điền” trùng title work. |
+| MC | **Thường An** | *Thường an* = bình yên lặng — động cơ slice; không oai vệ. |
+| Quản điền | **Diệp Hoằng** | *Diệp* = lá; *Hoằng* = cân — trận, sổ, Tụ Linh. |
+| Linh nông phàm nhân | **Phương Thực** | *Thực* = chắc, thực địa — nhắc “thưa mới lên” ch.2. |
+| Tông chủ (Kim Đan) | **Ngụy Hàm** | Ghế công khai; **không** lộ MC; nhắc qua sổ / uy danh. |
+| Đan các (nội bộ) | **Đan Các Ngưng Lộ** | Giao dược, deadline nhẹ. |
 
 *(Loại nhanh: **Thanh Ngư Tông** — quá giống **Thanh Linh Thảo** trong thoại; **Tĩnh Điền Tông** — flat, thiếu ảnh sương.)*
 
@@ -40,27 +40,27 @@ Tham chiếu shared: `foundation/core/00-glossary.md` — **không** trùng **Th
 
 | ID | Loại | Tên hiển thị (Việt) | Hán | Slug / alias | Ghi chú 1 dòng |
 | --- | --- | --- | --- | --- | --- |
-| **ORG-001** | Tông môn | Ngưng Lộ Tông | 凝露宗 | `org-ngung-lo-tong` | Tông nhỏ MC lập; Kim Đan công khai; vài chục tu sĩ. |
-| **ORG-002** | Đan các | Đan Các Ngưng Lộ | 丹阁凝露 | `org-dan-cac-ngung-lo` | Thu mua lô dược điền; sứ giả **không** bắt buộc đặt tên arc 1. |
-| **LOC-001** | Linh điền | Bán Sơn Linh Ngư | 半山灵畦 | `loc-ban-son-linh-ngu` | Micro-only; Z-1→Z-5. |
-| **LOC-002** | Phân khu | Giàn Phơi Linh Dược | 晒药架 | `loc-gian-phoi-linh-duoc` | **Z-4** — ch.7–8 phơi. |
-| **LOC-003** | Phân khu | Kho Sơ Chế | 初制库 | `loc-kho-so-che` | **Z-5** — bao, tem cống hiến. |
-| **LOC-004** | Điện | Ngưng Lộ Điện | 凝露殿 | `loc-ngung-lo-dien` | Sườn núi gần điền; **không** mở đại sảnh arc 1. |
-| **CHAR-001** | MC | Thường An | 常安 | Quản luống · *Thường An* / *Thường huynh* (hiếm) | POV; **ẩn Đại Thừa**; sổ ghi như linh nông. |
-| **CHAR-010** | NPC | Diệp Hoằng | 叶衡 | Quản điền · *Diệp quản* / *Diệp Hoằng* | Trúc Cơ+; ghé kiểm tuần, ký sổ, Tụ Linh. |
-| **CHAR-011** | NPC | Phương Thực | 方实 | Linh nông phàm nhân · *lão Phương* / *Phương Thực* | Ch.2 nhắc bón; ch.4–6 **ca làm việc** chung. |
-| **CHAR-012** | NPC | Ngụy Hàm | 魏涵 | Tông chủ · *Ngụy tông chủ* | Kim Đan; **không** xuống điền arc 1 (tránh gọi tông chủ). |
+| **ORG-001** | Tông môn | Ngưng Lộ Tông | Ngưng Lộ Tông | `org-ngung-lo-tong` | Tông nhỏ MC lập; Kim Đan công khai; vài chục tu sĩ. |
+| **ORG-002** | Đan các | Đan Các Ngưng Lộ | Đan Các Ngưng Lộ | `org-dan-cac-ngung-lo` | Thu mua lô dược điền; sứ giả **không** bắt buộc đặt tên arc 1. |
+| **LOC-001** | Linh điền | Bán Sơn Linh Ngư | Bán Sơn Linh Ngư | `loc-ban-son-linh-ngu` | Micro-only; Z-1→Z-5. |
+| **LOC-002** | Phân khu | Giàn Phơi Linh Dược | TháiDượcGiá | `loc-gian-phoi-linh-duoc` | **Z-4** — ch.7–8 phơi. |
+| **LOC-003** | Phân khu | Kho Sơ Chế | SơChếKhố | `loc-kho-so-che` | **Z-5** — bao, tem cống hiến. |
+| **LOC-004** | Điện | Ngưng Lộ Điện | Ngưng Lộ Điện | `loc-ngung-lo-dien` | Sườn núi gần điền; **không** mở đại sảnh arc 1. |
+| **CHAR-001** | MC | Thường An | Thường An | Quản luống · *Thường An* / *Thường huynh* (hiếm) | POV; **ẩn Đại Thừa**; sổ ghi như linh nông. |
+| **CHAR-010** | NPC | Diệp Hoằng | Diệp Hoằng | Quản điền · *Diệp quản* / *Diệp Hoằng* | Trúc Cơ+; ghé kiểm tuần, ký sổ, Tụ Linh. |
+| **CHAR-011** | NPC | Phương Thực | Phương Thực | Linh nông phàm nhân · *lão Phương* / *Phương Thực* | Ch.2 nhắc bón; ch.4–6 **ca làm việc** chung. |
+| **CHAR-012** | NPC | Ngụy Hàm | Ngụy Hàm | Tông chủ · *Ngụy tông chủ* | Kim Đan; **không** xuống điền arc 1 (tránh gọi tông chủ). |
 
 ### Linh thảo trên điền (arc 1 — không đổi tên)
 
 | ID | Tên | Hán | Tra chi tiết |
 | --- | --- | --- | --- |
-| **HERB-01** | Thanh Linh Thảo | 青灵草 | `logic/00-linh-thao-glossary.md` §I.1 · `02-linh-duoc.md` |
-| **HERB-02** | Sa Hoàng Quả | 沙黄果 | §I.2 |
-| **HERB-03** | Phong Linh Thảo | 风灵草 | §I.3 |
-| **HERB-04** | Cửu Diệp Chi | 九叶芝 | §I.4 |
-| **HERB-05** | Ngũ Sắc Linh Quả | 五色灵果 | §I.5 |
-| **HERB-06** | Băng Tinh Thảo | 冰晶草 | §I.6 · slot Z-2 |
+| **HERB-01** | Thanh Linh Thảo | Thanh Linh Thảo | `logic/00-linh-thao-glossary.md` §I.1 · `02-linh-duoc.md` |
+| **HERB-02** | Sa Hoàng Quả | Sa Hoàng Quả | §I.2 |
+| **HERB-03** | Phong Linh Thảo | Phong Linh Thảo | §I.3 |
+| **HERB-04** | Cửu Diệp Chi | Cửu Diệp Chi | §I.4 |
+| **HERB-05** | Ngũ Sắc Linh Quả | Ngũ Sắc Linh Quả | §I.5 |
+| **HERB-06** | Băng Tinh Thảo | Băng Tinh Thảo | §I.6 · slot Z-2 |
 
 §IV (10 thảo tông thông dụng): **không** gieo arc 1 — chỉ nhắc / sổ / lô lân cận.
 

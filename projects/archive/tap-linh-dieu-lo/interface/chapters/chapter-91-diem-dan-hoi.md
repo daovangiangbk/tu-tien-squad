@@ -15,7 +15,7 @@ Trước hàng — bàn gỗ — chấp sự lật sổ — đối biên lai tre
 
 — Giấy **đúng** — **Mão** mai — thứ chín — **chưa** tro — số vách chờ **Mùi**.
 
-Hắn gật — Linh Dịch **ù** một nhịp khi đông người — hắn giữ thở **nông** — **không** quét thần trong sân — quét là hao — là tưởng hắn trinh sát hội — tưởng là khế **断** thêm một dòng.
+Hắn gật — Linh Dịch **ù** một nhịp khi đông người — hắn giữ thở **nông** — **không** quét thần trong sân — quét là hao — là tưởng hắn trinh sát hội — tưởng là khế **Đoạn** thêm một dòng.
 
 Chấp sự đọc **không** giảng — chỉ gọi số tre:
 
@@ -23,7 +23,7 @@ Chấp sự đọc **không** giảng — chỉ gọi số tre:
 
 Hàng **rút** — cao trước — thấp sau. *Giáp Thất* — hai mươi mốt — vách một nét đậm. *Bính Mười* — mười bốn — lao lò chính tuần trước. Hắn **một** — *tạm* — chấp sự **không** tre bia — **không** hỏi tên thật:
 
-— **Ất Vô** — một — lệ phí cống hiến — **断** ghi chú — tro phụ đăng ký **Mão** — thứ chín — có?
+— **Ất Vô** — một — lệ phí cống hiến — **Đoạn** ghi chú — tro phụ đăng ký **Mão** — thứ chín — có?
 
 — Có.
 
@@ -31,7 +31,7 @@ Một tích — mực nhạt trên vách — đủ để người rìa **nhìn**
 
 Vách dài — tên tắt **chen** nhau — có người **mười lăm** — có người **không** — bị gọi lại cuối — *chưa* lao đủ — *chưa* lọc — tre **không** ghi — tre **ghi** *nợ canh*. Hắn **nhìn** — **không** so — so là tự đặt mình vào hàng người có hạt — hắn **không** có — hắn có **canh** **Mão** trên tre và **một** trên vách.
 
-Chấp sự mang con dấu nhỏ — đóng lên biên lai từng người — tiếng **cộp** — **cộp** — như khế **断** gõ ngực — hắn **không** rùng — đã quen loại âm thanh của sổ **ăn** thân.
+Chấp sự mang con dấu nhỏ — đóng lên biên lai từng người — tiếng **cộp** — **cộp** — như khế **Đoạn** gõ ngực — hắn **không** rùng — đã quen loại âm thanh của sổ **ăn** thân.
 
 Trưởng phòng một tầng — áo sạch tro — đọc luật tuần **ngắn**:
 
@@ -41,7 +41,7 @@ Trưởng phòng một tầng — áo sạch tro — đọc luật tuần **ng�
 
 — Phương chính danh — mười lăm điểm — hoặc hạt Bách Hóa. Tán tu — **một** điểm — **chưa** cửa sâu — **chưa** liều.
 
-Khế **mười bảy** **断** **im** trong ngực — chỉ gõ nhẹ khi hắn **tưởng** bỏ nợ Bách Hóa vì điểm hội — hắn thả tưởng. Nợ thành và sổ hội **không** cùng miệng — cùng thân **hao**.
+Khế **mười bảy** **Đoạn** **im** trong ngực — chỉ gõ nhẹ khi hắn **tưởng** bỏ nợ Bách Hóa vì điểm hội — hắn thả tưởng. Nợ thành và sổ hội **không** cùng miệng — cùng thân **hao**.
 
 Một tán tu vách giữa — giọng **không** cao — hỏi chấp sự:
 
@@ -69,7 +69,7 @@ Canh một — tro nóng cắn da qua vải — hắn **không** dùng phù ch�
 
 — Giữ — **không** rơi.
 
-Ba canh — lưng ướt — tay **nứt** nhẹ — **không** thuốc hội — thuốc đổi điểm — **chưa** đủ điểm. Hắn **không** hút khí lò — **không** tam giác — **断** trên biên lai **cấm** hút dư khí dược — hút là ghi sổ mạch — hội **không** cứu — Bách Hóa **cũng** **không** cứu túi rỗng. Mộc trong mạch **mỏng** — đan **chưa** đổi được một liều — phù che lệch **đã** hao — trận **đã** hao — cùng một thân **trả** — **chưa** trả hết.
+Ba canh — lưng ướt — tay **nứt** nhẹ — **không** thuốc hội — thuốc đổi điểm — **chưa** đủ điểm. Hắn **không** hút khí lò — **không** tam giác — **Đoạn** trên biên lai **cấm** hút dư khí dược — hút là ghi sổ mạch — hội **không** cứu — Bách Hóa **cũng** **không** cứu túi rỗng. Mộc trong mạch **mỏng** — đan **chưa** đổi được một liều — phù che lệch **đã** hao — trận **đã** hao — cùng một thân **trả** — **chưa** trả hết.
 
 Một tán tu sau hắn — tay run hơn — Tổ phụ **không** đổi giọng:
 
@@ -91,7 +91,7 @@ Canh **Tý** — sân **trống** — tro nguội trong khay — hơi dược **
 
 Một tán tu *Đinh Lục* ngồi ven tường — tay băng — **không** phải chiến — phải lò — hỏi **không** nhìn mặt:
 
-— **Ất Vô** — **断** thật?
+— **Ất Vô** — **Đoạn** thật?
 
 — Thật.
 
@@ -103,7 +103,7 @@ Hắn **không** đáp thêm — đáp là tiết lộ — tiết lộ là danh 
 
 Canh **Ngọ** — vách cập lần hai trong tuần — *Ất Vô* **bốn** — vẫn cuối — **không** tên thật. Rìa sân — xì xào **mỏng**:
 
-— Bốn điểm hai ngày — **断** hay làm nhanh?
+— Bốn điểm hai ngày — **Đoạn** hay làm nhanh?
 
 — Sân dược — Tổ trừ một lệ phí — **không** gian — gian **không** tre *tạm* lâu.
 
@@ -131,7 +131,7 @@ Sáng sớm — hắn tới sảnh **trước** **Mùi** — hàng lọc sa **đ
 
 Một tán tu *Kỷ Ba* — lao kho — nói **không** nhìn hắn:
 
-— Lọc **đúng** tích — **断** soi tay — **đừng** nhanh — nhanh — bụi vào mạch — mạch **lệch** thêm — **không** ai cứu — cứu bằng điểm — điểm **đắt** hơn mạch.
+— Lọc **đúng** tích — **Đoạn** soi tay — **đừng** nhanh — nhanh — bụi vào mạch — mạch **lệch** thêm — **không** ai cứu — cứu bằng điểm — điểm **đắt** hơn mạch.
 
 Hắn gật — *Kỷ* **không** cần biết hắn có nghe — hắn **nghe** — nghe là **rẻ** — rẻ hơn một canh trừ.
 
@@ -139,13 +139,13 @@ Hắn gật — *Kỷ* **không** cần biết hắn có nghe — hắn **nghe**
 
 Canh **Mùi** — bàn lọc sa ngoài sảnh — bụi mịn cắn cổ — khay đồng xếp theo hạt — **không** phù lọc — phù **hao thần** — hao thần **cũng** nợ.
 
-Ca một — hắn dùng tay và khí tục mỏng — lọc **chậm** — chậm **không** trừ — nhanh **sai** hạt — trừ gấp. Mộc **mỏng** — Kim **gắt** trong mạch tạp — Hỏa **im** — tạp căn **không** cho một đường sạch — **không** tu vòng đầy — tu là **ù** thêm. Chấp sự **không** nhìn mặt — nhìn khay — ghi **hai** điểm — **断** — làm đủ tích — **không** thêm.
+Ca một — hắn dùng tay và khí tục mỏng — lọc **chậm** — chậm **không** trừ — nhanh **sai** hạt — trừ gấp. Mộc **mỏng** — Kim **gắt** trong mạch tạp — Hỏa **im** — tạp căn **không** cho một đường sạch — **không** tu vòng đầy — tu là **ù** thêm. Chấp sự **không** nhìn mặt — nhìn khay — ghi **hai** điểm — **Đoạn** — làm đủ tích — **không** thêm.
 
 Ca hai — gió đổi — bụi **dày** — hắn **không** che miệng bằng phù — phù **hao** — che bằng vải ướt — vải **hao** tay. Tay **nứt** thêm một li — **không** máu — **không** dừng — dừng là mất ca — mất ca là **bốn** điểm **không** thành **tám**.
 
 Hai ca — **bốn** điểm — tổng **tám** — chấp sự ghi sổ nội **Sửu** — vách tre **Mùi** chiều:
 
-— **Ất Vô** — tám — lọc sa · tro phụ — **断** — có ghi chú.
+— **Ất Vô** — tám — lọc sa · tro phụ — **Đoạn** — có ghi chú.
 
 Tám — còn **hai** nữa mới mười — phương phụ một tầng trên bảng — **chưa** duyệt — **chưa** uống — Linh Dịch **vẫn** lệch — **không** một tích ổn — chỉ số trên giấy mở cửa sâu hơn vào hội — **không** ăn.
 
@@ -188,7 +188,7 @@ Tin **đã** dán — ba ngày nữa **Mộ Dục Thanh** — hàng **sẽ** ké
 ## Ghi chú sáng tác
 
 - **Rewrite campaign REWRITE-66-112:** Full replace · nối cliff ch.90 (*một* điểm · *Mùi* vách · đăng ký tro **Mão** thứ chín; tre *suất còn tám* = chỗ đăng ký còn lại — **không** nhầm với **chín khay** hàng lò) · thứ tự **Mùi điểm danh/bảng công khai → Mão tro →** lao lọc sa · cliff tin **Mộ Dục Thanh** + manh **điểm ảo** (seed ch.92, không payoff). **r2:** M-01 độc quyền prose · M-02 tro **Mão**/chín khay vs tre.
-- **FS:** FS-007 nurture (điểm thay hạt); FS-009 monopoly suất/phương/vé; FS-012 vang (phù/trận/đan đã hao — **không** lecture); FS-004 khế im/**断** tro.
+- **FS:** FS-007 nurture (điểm thay hạt); FS-009 monopoly suất/phương/vé; FS-012 vang (phù/trận/đan đã hao — **không** lecture); FS-004 khế im/**Đoạn** tro.
 - **Canon check:** Pass — Trúc Cơ Trung lệch · ~3 hạt · **Ất Vô** · **không** heal · **không** NC đan sư · **không** solo Kim Đan · **không** Cửu Huyền payoff · **Định Linh Tán** chỉ tên Bách Hóa.
 - **Hook ch.92:** ~**tám** điểm · kiểm điểm **Mộ Dục Thanh** (Thứ Năm) · overheard điểm ảo/thuê nộp → `gian-lan-diem`.
 - **Số chữ thân (prose):** ~2.520 từ (ước cùng tỷ lệ ch.90; trừ metadata & ghi chú).

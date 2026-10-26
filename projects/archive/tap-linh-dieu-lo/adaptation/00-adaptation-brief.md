@@ -6,7 +6,7 @@
 
 | Trường | Giá trị |
 | --- | --- |
-| **work_title** | **Tạp Linh Diêu Lộ** (杂灵遥路) |
+| **work_title** | **Tạp Linh Diêu Lộ** |
 | **work_slug** | `tap-linh-dieu-lo` |
 | **work_root** | `projects/tap-linh-dieu-lo/` |
 | **foundation_root** | `foundation/` *(shared)* |

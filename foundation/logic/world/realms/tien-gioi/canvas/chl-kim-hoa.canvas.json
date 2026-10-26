@@ -13,8 +13,15 @@
     {
       "id": "REG-DA-LUC-NEN",
       "name": "Kim Hoa · nền đại lục",
-      "dimensions": { "width": 1000, "length": 1000 },
-      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "dimensions": {
+        "width": 1000,
+        "length": 1000
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 0,
+        "y": 0
+      },
       "properties": {
         "kind": "wilderness",
         "visibility": "hidden_logic",
@@ -26,10 +33,17 @@
     {
       "id": "REG-KH-NAM-VAN",
       "name": "Nam Vân cửa",
-      "dimensions": { "width": 480, "length": 72 },
-      "anchor": { "type": "absolute", "x": 260, "y": 28 },
+      "dimensions": {
+        "width": 480,
+        "length": 72
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 260,
+        "y": 28
+      },
       "properties": {
-        "name_hv": "南云关",
+        "name_hv": "Nam Vân cửa",
         "kind": "wilderness",
         "tien_khi_tier": "dồi",
         "visibility": "public",
@@ -39,10 +53,18 @@
     {
       "id": "REG-KH-HOA-TINH",
       "name": "Hoa Tinh trấn",
-      "dimensions": { "width": 320, "length": 160 },
-      "anchor": { "type": "relative", "ref_id": "REG-KH-NAM-VAN", "edge": "top", "align": "center" },
+      "dimensions": {
+        "width": 320,
+        "length": 160
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-KH-NAM-VAN",
+        "edge": "top",
+        "align": "center"
+      },
       "properties": {
-        "name_hv": "花星镇",
+        "name_hv": "Hoa Tinh trấn",
         "kind": "polity",
         "tien_khi_tier": "mach_chủ",
         "visibility": "public",
@@ -52,10 +74,18 @@
     {
       "id": "REG-KH-TRUNG-THI",
       "name": "Trung Thị · chợ tiên",
-      "dimensions": { "width": 280, "length": 120 },
-      "anchor": { "type": "relative", "ref_id": "REG-KH-HOA-TINH", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 280,
+        "length": 120
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-KH-HOA-TINH",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "中市",
+        "name_hv": "Trung Thị",
         "kind": "polity",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public",
@@ -65,10 +95,18 @@
     {
       "id": "REG-KH-KIM-LUYEN",
       "name": "Kim Luyện cốc",
-      "dimensions": { "width": 240, "length": 200 },
-      "anchor": { "type": "relative", "ref_id": "REG-KH-HOA-TINH", "edge": "left", "align": "top" },
+      "dimensions": {
+        "width": 240,
+        "length": 200
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-KH-HOA-TINH",
+        "edge": "left",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "金炼谷",
+        "name_hv": "Kim Luyện cốc",
         "kind": "resource",
         "tien_khi_tier": "mach_chủ",
         "visibility": "public",
@@ -78,10 +116,18 @@
     {
       "id": "REG-KH-MOC-LAM",
       "name": "Mộc Lam",
-      "dimensions": { "width": 200, "length": 360 },
-      "anchor": { "type": "relative", "ref_id": "REG-KH-TRUNG-THI", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 200,
+        "length": 360
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-KH-TRUNG-THI",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "木林",
+        "name_hv": "Mộc Lam",
         "kind": "resource",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public",
@@ -91,10 +137,17 @@
     {
       "id": "REG-KH-TAY-KIM",
       "name": "Tây Kim · rìa tây",
-      "dimensions": { "width": 180, "length": 720 },
-      "anchor": { "type": "absolute", "x": 24, "y": 100 },
+      "dimensions": {
+        "width": 180,
+        "length": 720
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 24,
+        "y": 100
+      },
       "properties": {
-        "name_hv": "西金",
+        "name_hv": "Tây Kim",
         "kind": "wilderness",
         "tien_khi_tier": "dồi",
         "visibility": "public",
@@ -104,10 +157,17 @@
     {
       "id": "BRR-KH-KIM-SON",
       "name": "Dãy Kim Sơn",
-      "dimensions": { "width": 48, "length": 460 },
-      "anchor": { "type": "absolute", "x": 204, "y": 108 },
+      "dimensions": {
+        "width": 48,
+        "length": 460
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 204,
+        "y": 108
+      },
       "properties": {
-        "name_hv": "金山",
+        "name_hv": "Dãy Kim Sơn",
         "kind": "barrier",
         "tien_khi_tier": "mach_rải_cao",
         "visibility": "public",
@@ -117,10 +177,18 @@
     {
       "id": "REG-KH-THAO-VIEN",
       "name": "Thảo Viên",
-      "dimensions": { "width": 320, "length": 280 },
-      "anchor": { "type": "relative", "ref_id": "BRR-KH-KIM-SON", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 320,
+        "length": 280
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "BRR-KH-KIM-SON",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "草园",
+        "name_hv": "Thảo Viên",
         "kind": "wilderness",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public"
@@ -129,10 +197,17 @@
     {
       "id": "REG-KH-DONG-MACH",
       "name": "Đông Mạch · biên Trung Tiên",
-      "dimensions": { "width": 120, "length": 400 },
-      "anchor": { "type": "absolute", "x": 560, "y": 120 },
+      "dimensions": {
+        "width": 120,
+        "length": 400
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 560,
+        "y": 120
+      },
       "properties": {
-        "name_hv": "东脉",
+        "name_hv": "Đông Mạch",
         "kind": "wilderness",
         "tien_khi_tier": "dồi",
         "visibility": "public",
@@ -142,10 +217,18 @@
     {
       "id": "REG-KH-BAC-HAN",
       "name": "Bắc Hàn · uyên bắc",
-      "dimensions": { "width": 680, "length": 140 },
-      "anchor": { "type": "relative", "ref_id": "REG-KH-MOC-LAM", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 680,
+        "length": 140
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-KH-MOC-LAM",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "北寒",
+        "name_hv": "Bắc Hàn",
         "kind": "wilderness",
         "tien_khi_tier": "mach_rải",
         "visibility": "public",
@@ -158,9 +241,12 @@
       "id": "LOC-KH-HOA-TINH",
       "name": "Hoa Tinh · trấn chính",
       "type": "point",
-      "coordinates": { "x": 400, "y": 280 },
+      "coordinates": {
+        "x": 400,
+        "y": 280
+      },
       "properties": {
-        "name_hv": "花星",
+        "name_hv": "Hoa Tinh",
         "kind": "hub",
         "visibility": "public",
         "tien_khi_tier": "mach_chủ"
@@ -171,16 +257,25 @@
       "name": "Kim quan đông",
       "type": "river",
       "properties": {
-        "name_hv": "东金路",
+        "name_hv": "Kim quan đông",
         "kind": "route",
         "from_id": "REG-KH-DONG-MACH",
         "to_id": "REG-TT-TAY-KIM",
         "hazard": "thuế_mạch"
       },
       "control_points": [
-        { "x": 720, "y": 360 },
-        { "x": 820, "y": 340 },
-        { "x": 920, "y": 320 }
+        {
+          "x": 720,
+          "y": 360
+        },
+        {
+          "x": 820,
+          "y": 340
+        },
+        {
+          "x": 920,
+          "y": 320
+        }
       ],
       "roughness": "medium"
     },
@@ -189,17 +284,32 @@
       "name": "Hoa Hà",
       "type": "river",
       "properties": {
-        "name_hv": "花河",
+        "name_hv": "Hoa Hà",
         "kind": "route",
         "from_id": "REG-KH-BAC-HAN",
         "to_id": "REG-KH-NAM-VAN"
       },
       "control_points": [
-        { "x": 400, "y": 680 },
-        { "x": 420, "y": 520 },
-        { "x": 440, "y": 360 },
-        { "x": 460, "y": 200 },
-        { "x": 480, "y": 80 }
+        {
+          "x": 400,
+          "y": 680
+        },
+        {
+          "x": 420,
+          "y": 520
+        },
+        {
+          "x": 440,
+          "y": 360
+        },
+        {
+          "x": 460,
+          "y": 200
+        },
+        {
+          "x": 480,
+          "y": 80
+        }
       ],
       "roughness": "high"
     }

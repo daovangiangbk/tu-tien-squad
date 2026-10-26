@@ -78,7 +78,7 @@ Hắn bước theo dấu, và lần đầu sau hai mươi năm, không ai gọi 
 
 Hắn ở **Phù các Tây** thêm hai ngày — không phải nghỉ; là **học im**.
 
-Ngày thứ hai, hắn thử **sao nét** trên vải rách bằng than — không **mực linh**, không **linh lực**; chỉ tay nhớ **横竖**. Ngọc công tử từng coi **phù** là việc của người khác. Giờ **nợ máu** biến việc của người khác thành **đường sống** duy nhất có thể mở.
+Ngày thứ hai, hắn thử **sao nét** trên vải rách bằng than — không **mực linh**, không **linh lực**; chỉ tay nhớ **HoànhThụ**. Ngọc công tử từng coi **phù** là việc của người khác. Giờ **nợ máu** biến việc của người khác thành **đường sống** duy nhất có thể mở.
 
 Đêm thứ hai, hắn mơ **Thẩm Chiến Thiên** nói: *con cần tu*. Trong mơ, cha không nói *báo thù*. Hắn tỉnh, mồ hôi lạnh. Báo thù là **lửa** dễ; **sống** là **nước** khó.
 

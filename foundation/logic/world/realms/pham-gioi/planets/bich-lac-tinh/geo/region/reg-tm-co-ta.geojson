@@ -19,7 +19,7 @@
       "properties": {
         "id": "REG-TM-CO-TA-AREA",
         "name_vi": "Phạm vi Cổ Ta",
-        "name_hv": "古塔域",
+        "name_hv": "Phạm vi Cổ Ta",
         "kind": "wilderness",
         "visibility": "public",
         "linh_khi_tier": "cực_mỏng"
@@ -57,7 +57,7 @@
       "properties": {
         "id": "LOC-TM-CO-TA-TAP",
         "name_vi": "Cổ Ta · trại tháp",
-        "name_hv": "古塔营",
+        "name_hv": "Cổ Ta",
         "kind": "hub",
         "visibility": "public",
         "notes": "Hub vùng; tháp đổ xếp hàng."
@@ -75,7 +75,7 @@
       "properties": {
         "id": "LOC-TM-CO-TA-1",
         "name_vi": "Tháp một · nghiêng",
-        "name_hv": "古塔一",
+        "name_hv": "Tháp một",
         "kind": "dungeon",
         "visibility": "public",
         "direction_label": "Bắc"
@@ -93,7 +93,7 @@
       "properties": {
         "id": "LOC-TM-CO-TA-2",
         "name_vi": "Tháp hai · vỡ nửa",
-        "name_hv": "古塔二",
+        "name_hv": "Tháp hai",
         "kind": "dungeon",
         "visibility": "public",
         "direction_label": "Đông"
@@ -111,7 +111,7 @@
       "properties": {
         "id": "LOC-TM-OA-TUYEN",
         "name_vi": "Oa Tuyền · giếng đông",
-        "name_hv": "洼泉",
+        "name_hv": "Oa Tuyền",
         "kind": "hub",
         "visibility": "public",
         "direction_label": "Bắc",
@@ -130,7 +130,7 @@
       "properties": {
         "id": "LOC-TM-CO-TU",
         "name_vi": "Cổ Tu · trung tâm di tích",
-        "name_hv": "古墟",
+        "name_hv": "Cổ Tu",
         "kind": "hub",
         "visibility": "public",
         "notes": "Shared id; parent (350,620)."
@@ -148,7 +148,7 @@
       "properties": {
         "id": "LOC-TM-CO-TA-KHI",
         "name_vi": "Đống cổ khí · nam",
-        "name_hv": "塔器堆",
+        "name_hv": "Đống cổ khí",
         "kind": "resource",
         "visibility": "public",
         "direction_label": "Nam"
@@ -166,7 +166,7 @@
       "properties": {
         "id": "BRR-TM-CO-TA-VO",
         "name_vi": "Tường tháp · vòng",
-        "name_hv": "塔墙",
+        "name_hv": "Tường tháp",
         "kind": "barrier",
         "visibility": "public"
       },
@@ -203,7 +203,7 @@
       "properties": {
         "id": "ROUTE-TM-CO-TA-OA",
         "name_vi": "Lối Oa Tuyền",
-        "name_hv": "洼泉塔道",
+        "name_hv": "Lối Oa Tuyền",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-CO-TA-TAP",
@@ -234,7 +234,7 @@
       "properties": {
         "id": "ROUTE-TM-CO-TA-CO-TU",
         "name_vi": "Đạo Cổ Tu",
-        "name_hv": "古墟塔道",
+        "name_hv": "Đạo Cổ Tu",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-CO-TA-TAP",
@@ -269,7 +269,7 @@
       "properties": {
         "id": "LOC-TM-CO-TA-LUU",
         "name_vi": "Lữ khách · tây",
-        "name_hv": "塔旅",
+        "name_hv": "Lữ khách",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Tây"
@@ -287,7 +287,7 @@
       "properties": {
         "id": "LOC-TM-SA-HAI-RIM-E",
         "name_vi": "Rìa Sa Hải · đông",
-        "name_hv": "沙海东缘",
+        "name_hv": "Rìa Sa Hải",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Tây nam"
@@ -305,7 +305,7 @@
       "properties": {
         "id": "ROUTE-TM-CO-TA-SA",
         "name_vi": "Biên Sa Hải",
-        "name_hv": "沙海塔道",
+        "name_hv": "Biên Sa Hải",
         "kind": "route",
         "visibility": "mc_phase1",
         "from_id": "LOC-TM-CO-TA-TAP",
@@ -340,7 +340,7 @@
       "properties": {
         "id": "LOC-TM-CO-TA-MANH",
         "name_vi": "Manh mạch · tháp gãy",
-        "name_hv": "塔脉",
+        "name_hv": "Manh mạch",
         "kind": "resource",
         "visibility": "hidden_logic",
         "linh_khi_tier": "manh_mach_rải"
@@ -358,7 +358,7 @@
       "properties": {
         "id": "RIVER-TM-CO-TA-CAN",
         "name_vi": "Rãnh khô · giữa tháp",
-        "name_hv": "塔涸",
+        "name_hv": "Rãnh khô",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-CO-TA-1",

@@ -19,7 +19,7 @@
       "properties": {
         "id": "BRR-HP-HAN-SON-AREA",
         "name_vi": "Hàn Sơn · đèo chính",
-        "name_hv": "寒山隘",
+        "name_hv": "Hàn Sơn",
         "kind": "barrier",
         "visibility": "public",
         "notes": "Khớp polygon BRR trên chau_luc; một ô phân vùng — không LineString."
@@ -57,7 +57,7 @@
       "properties": {
         "id": "LOC-HP-HAN-SON-PASS",
         "name_vi": "Hàn Sơn · đèo chính",
-        "name_hv": "寒山隘",
+        "name_hv": "Hàn Sơn",
         "kind": "settlement",
         "visibility": "public",
         "notes": "Hub đèo barrier [0,0]."
@@ -75,7 +75,7 @@
       "properties": {
         "id": "BRR-HP-HAN-SON",
         "name_vi": "Hàn Sơn · đèo chính",
-        "name_hv": "寒山隘",
+        "name_hv": "Hàn Sơn",
         "kind": "barrier",
         "visibility": "public"
       },
@@ -112,7 +112,7 @@
       "properties": {
         "id": "LOC-HP-PHONG-MO",
         "name_vi": "Phong Mộ Cốc",
-        "name_hv": "封墓谷",
+        "name_hv": "Phong Mộ Cốc",
         "kind": "hub",
         "visibility": "public",
         "notes": "Shared id; parent chl (240.0, 620.0)."

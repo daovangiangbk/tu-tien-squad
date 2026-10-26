@@ -1,0 +1,211 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "region",
+  "world:work_slug": "than-khi",
+  "world:hub_id": "LOC-TWN-MC-FORGE",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "CHL-AN-LAM-TRUNG",
+  "world:region_id": "REG-CUOC-AN-SAT",
+  "world:parent_file": "chau-luc/chl-an-lam-trung.geojson",
+  "world:parent_coordinates": [
+    420,
+    520
+  ],
+  "world:coordinateNote": "Region Cuộc ám sát; gốc trấn rèn MC; naming pending.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-TWN-MC-FORGE",
+        "name_vi": "Thiết Ngọc Trấn",
+        "name_hv": "Thiết Ngọc Trấn",
+        "kind": "hub",
+        "visibility": "public",
+        "notes": "Ban ngày thợ rèn; đêm săn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CTY-BAC-AN",
+        "name_vi": "Bắc An Thành",
+        "name_hv": "Bắc An Thành",
+        "kind": "city",
+        "power_note": "Kim Đan toạ trấn công khai; Nguyên Anh ẩn",
+        "direction_label": "Bắc",
+        "travel_days_walk": "4-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12,
+          42
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CTY-DONG-HA",
+        "name_vi": "Đông Hải Thành",
+        "name_hv": "Đông Hải Thành",
+        "kind": "city",
+        "power_note": "Kim Đan toạ trấn; thương tin",
+        "direction_label": "Đông",
+        "travel_days_walk": "5-7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55,
+          8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CTY-TAY-QUAN",
+        "name_vi": "Tây Quan Thành",
+        "name_hv": "Tây Quan Thành",
+        "kind": "city",
+        "power_note": "Kim Đan toạ trấn; ải",
+        "direction_label": "Tây",
+        "travel_days_walk": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38,
+          6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TWN-AN-HA",
+        "name_vi": "Trấn An Hạ (naming pending)",
+        "name_hv": "Trấn An Hạ (naming pending)",
+        "kind": "town",
+        "direction_label": "Đông nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28,
+          -18
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TWN-PHUONG-KHI",
+        "name_vi": "Trấn Phường Khí (naming pending)",
+        "name_hv": "Trấn Phường Khí (naming pending)",
+        "kind": "town",
+        "direction_label": "Nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4,
+          -32
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TWN-DUONG-LINH",
+        "name_vi": "Trấn Dược Lâm (naming pending)",
+        "name_hv": "Trấn Dược Lâm (naming pending)",
+        "kind": "town",
+        "direction_label": "Tây nam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22,
+          -24
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TWN-MY-VIEN",
+        "name_vi": "Trấn Mỹ Viên (naming pending)",
+        "name_hv": "Trấn Mỹ Viên (naming pending)",
+        "kind": "town",
+        "direction_label": "Bắc đông"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32,
+          22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-FOREST-MISSION",
+        "name_vi": "U Lâm Khẩu",
+        "name_hv": "U Lâm Khẩu",
+        "kind": "wilderness",
+        "direction_label": "Tây",
+        "travel_days_walk": "1",
+        "notes": "Vợ chồng tháo chạy; đứa trẻ 2-3 tuổi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48,
+          -8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-NIGHT-HUNT",
+        "name_vi": "Tuyến đêm · săn",
+        "name_hv": "Tuyến đêm",
+        "kind": "route",
+        "visibility": "mc_phase1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -18,
+            -4
+          ],
+          [
+            -35,
+            -6
+          ],
+          [
+            -48,
+            -8
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -21,4 +21,4 @@
 | C-03 | |
 | C-04 | |
 
-*(Band ~3.058 từ thân; handoff canh 2+ · Trầm · mười/hai · 断 · không heal/NC/Kim Đan solo · cliff canh Tý → re-rung: pass sau C-01–C-04.)*
+*(Band ~3.058 từ thân; handoff canh 2+ · Trầm · mười/hai · Đoạn · không heal/NC/Kim Đan solo · cliff canh Tý → re-rung: pass sau C-01–C-04.)*

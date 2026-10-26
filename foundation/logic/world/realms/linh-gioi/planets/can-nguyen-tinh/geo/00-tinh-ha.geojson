@@ -12,7 +12,7 @@
       "properties": {
         "id": "TINH-HA-REF",
         "name_vi": "Tinh hà Càn Nguyên (tham chiếu)",
-        "name_hv": "苍元灵域",
+        "name_hv": "Tinh hà Càn Nguyên (tham chiếu)",
         "kind": "hub"
       },
       "geometry": {
@@ -28,7 +28,7 @@
       "properties": {
         "id": "CHL-TRUNG-LINH",
         "name_vi": "Trung Linh đại lục",
-        "name_hv": "中灵大陆",
+        "name_hv": "Trung Linh đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -169,7 +169,7 @@
       "properties": {
         "id": "CHL-BANG-PHONG",
         "name_vi": "Băng Phong đại lục",
-        "name_hv": "冰风大陆",
+        "name_hv": "Băng Phong đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -302,7 +302,7 @@
       "properties": {
         "id": "CHL-NGOC-LAM",
         "name_vi": "Ngọc Lâm đại lục",
-        "name_hv": "玉林大陆",
+        "name_hv": "Ngọc Lâm đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -435,7 +435,7 @@
       "properties": {
         "id": "CHL-HOA-DIEN",
         "name_vi": "Hỏa Diễm đại lục",
-        "name_hv": "火炎大陆",
+        "name_hv": "Hỏa Diễm đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -556,7 +556,7 @@
       "properties": {
         "id": "CHL-VAN-HAI",
         "name_vi": "Vân Hải đại lục",
-        "name_hv": "云海大陆",
+        "name_hv": "Vân Hải đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -697,7 +697,7 @@
       "properties": {
         "id": "CHL-CUU-LAC",
         "name_vi": "Cửu Lạc đại lục",
-        "name_hv": "九洛大陆",
+        "name_hv": "Cửu Lạc đại lục",
         "kind": "continent",
         "visibility": "public"
       },

@@ -29,7 +29,7 @@ Hắn ghi nhớ trong đầu, không viết ra — viết là để lại dấu.
 
 Trưa, hắn thử **pha mực** theo *Mực linh sơ giải*: linh thạch một hạt nghiền, nước suối, **khí** đảo ba vòng. Tay vụng; mực loãng. Vẫn mùi **phù**.
 
-Hắn không vẽ phù thật — chưa dám kích — chỉ luyện **nét** trên da rách:横,竖,勾 — như đứa trẻ luyện chữ, trừ đây là **mạng**.
+Hắn không vẽ phù thật — chưa dám kích — chỉ luyện **nét** trên da rách:Hoành,Thụ,Câu — như đứa trẻ luyện chữ, trừ đây là **mạng**.
 
 Mỗi nét, **thần thức** yếu mỏi — không phải đau đầu Trúc Cơ; là **mỏi** của kẻ chưa quen dùng ý làm mực.
 

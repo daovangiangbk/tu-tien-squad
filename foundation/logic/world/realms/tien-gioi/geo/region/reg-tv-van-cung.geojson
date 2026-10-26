@@ -19,7 +19,7 @@
       "properties": {
         "id": "REG-TV-VAN-CUNG-AREA",
         "name_vi": "Phạm vi Vân Cung thành",
-        "name_hv": "云宫域",
+        "name_hv": "Phạm vi Vân Cung thành",
         "kind": "polity",
         "visibility": "public",
         "notes": "Thanh Vân tiên môn; thuế mây 18–28%; tranh Tiên Nguyên Phong–Mộc.",
@@ -330,7 +330,7 @@
       "properties": {
         "id": "LOC-TV-VAN-CUNG",
         "name_vi": "Vân Cung · tiên môn",
-        "name_hv": "云宫",
+        "name_hv": "Vân Cung",
         "kind": "hub",
         "visibility": "public",
         "notes": "Shared id chl-thanh-van; parent (430,380).",
@@ -349,7 +349,7 @@
       "properties": {
         "id": "LOC-TV-THANH-FENG-DINH",
         "name_vi": "Thanh Phong đài · tu Phong–Mộc",
-        "name_hv": "青风台",
+        "name_hv": "Thanh Phong đài",
         "kind": "polity",
         "visibility": "public",
         "direction_label": "Bắc",
@@ -369,7 +369,7 @@
       "properties": {
         "id": "LOC-TV-VAN-MEN-TONG",
         "name_vi": "Vân Cung Tông · sơn môn",
-        "name_hv": "云宫宗",
+        "name_hv": "Vân Cung Tông",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Tây bắc",
@@ -390,7 +390,7 @@
       "properties": {
         "id": "LOC-TV-VAN-HAI-KE",
         "name_vi": "Vân Hải các · biển mây",
-        "name_hv": "云海阁",
+        "name_hv": "Vân Hải các",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Nam",
@@ -411,7 +411,7 @@
       "properties": {
         "id": "LOC-TV-TIEN-DAN-PHU",
         "name_vi": "Tiên đan phủ · luyện đan",
-        "name_hv": "仙丹府",
+        "name_hv": "Tiên đan phủ",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Đông",
@@ -431,7 +431,7 @@
       "properties": {
         "id": "LOC-TV-VAN-MACH-NO",
         "name_vi": "Vân mạch nội thành",
-        "name_hv": "内城云脉",
+        "name_hv": "Vân mạch nội thành",
         "kind": "resource",
         "visibility": "public",
         "direction_label": "Trung tâm",
@@ -451,7 +451,7 @@
       "properties": {
         "id": "LOC-TV-MO-TIEN-NGUYEN",
         "name_vi": "Mỏ Tiên Nguyên · cửa mây",
-        "name_hv": "仙源口",
+        "name_hv": "Mỏ Tiên Nguyên",
         "kind": "dungeon",
         "visibility": "mc_phase1",
         "direction_label": "Nam tây",
@@ -471,7 +471,7 @@
       "properties": {
         "id": "LOC-TV-EXIT-DONG-MACH",
         "name_vi": "Ải đông · Đông Mạch",
-        "name_hv": "东脉关",
+        "name_hv": "Ải đông",
         "kind": "hub",
         "visibility": "public",
         "direction_label": "Đông · mép region",
@@ -490,7 +490,7 @@
       "properties": {
         "id": "BRR-TV-VAN-SON-FOOT",
         "name_vi": "Chân Vân Sơn · biên tây",
-        "name_hv": "云山脚",
+        "name_hv": "Chân Vân Sơn",
         "kind": "barrier",
         "visibility": "public",
         "notes": "BRR-TV-VAN-SON trên chau_luc; Phong kiếp nặng hơn."
@@ -528,7 +528,7 @@
       "properties": {
         "id": "RIVER-TV-VAN-HE-URBAN",
         "name_vi": "Vân Hà · đoạn thành",
-        "name_hv": "云河",
+        "name_hv": "Vân Hà",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TV-VAN-CUNG",
@@ -567,7 +567,7 @@
       "properties": {
         "id": "ROUTE-TV-VAN-FENG",
         "name_vi": "Đạo Vân–Phong",
-        "name_hv": "云风大道",
+        "name_hv": "Đạo Vân–Phong",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TV-VAN-CUNG",
@@ -602,7 +602,7 @@
       "properties": {
         "id": "ROUTE-TV-VAN-DONG",
         "name_vi": "Đạo Đông Mạch",
-        "name_hv": "东脉道",
+        "name_hv": "Đạo Đông Mạch",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TV-VAN-CUNG",
@@ -641,7 +641,7 @@
       "properties": {
         "id": "ROUTE-TV-NGUYEN-MO",
         "name_vi": "Đường xuống mỏ Tiên Nguyên",
-        "name_hv": "仙源道",
+        "name_hv": "Đường xuống mỏ Tiên Nguyên",
         "kind": "route",
         "visibility": "mc_phase1",
         "from_id": "LOC-TV-VAN-CUNG",

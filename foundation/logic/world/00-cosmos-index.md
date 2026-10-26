@@ -4,7 +4,7 @@
 >
 > **Mô hình:** Bốn **giới diện vật chất song song trong Nhân Giới thuộc Không gian Bàn Cổ**: Phàm · Linh · Tiên · Thần. Giới bích nội tầng tách từng giới diện; **Vực Ngoại** là vùng rìa nội giới, còn ngoài **Giới Tường** mới là Hỗn Độn.
 
-**work_slug GeoJSON:** `foundation-canon` · Convention: [`../00-geojson-world-map-convention.md`](../00-geojson-world-map-convention.md) · **Kiến trúc object:** [`01-world-object-architecture.md`](01-world-object-architecture.md) · **Mẫu:** [`_templates/object/`](_templates/object/README.md)
+**work_slug GeoJSON:** `foundation-canon` · Convention: [`../00-geojson-world-map-convention.md`](../00-geojson-world-map-convention.md) · **Kiến trúc object:** [`01-world-object-architecture.md`](01-world-object-architecture.md) · **Mẫu:** [`_templates/`](_templates/README.md) · [`object/`](_templates/object/README.md)
 
 **Tracker:** [`status.md`](status.md)
 
@@ -16,10 +16,10 @@
 
 | Giới | Hán Việt | Năng lượng đặc trưng | Tinh hà (kế hoạch) | Atlas |
 | --- | --- | --- | --- | --- |
-| **Phàm Giới** | 凡界 | Linh khí cực mỏng / vô linh | **1 planet active:** [Bích Lạc Tinh](realms/pham-gioi/planets/bich-lac-tinh/00-overview.md); `TH-PHAM-BICH-LAC` là parent map legacy | [`realms/pham-gioi/00-world-atlas.md`](realms/pham-gioi/00-world-atlas.md) |
-| **Linh Giới** | 灵界 | Thiên Địa Linh Khí | **1 planet active:** [Càn Nguyên Tinh](realms/linh-gioi/planets/can-nguyen-tinh/00-overview.md); quần vực láng giềng deferred | [`realms/linh-gioi/00-world-atlas.md`](realms/linh-gioi/00-world-atlas.md) |
-| **Tiên Giới** | 仙界 | Tiên Khí / Tiên Nguyên Lực | **System-first:** [`TH-TIEN-*`](realms/tien-gioi/systems/00-system-index.md); planet theo nhu cầu | [`realms/tien-gioi/00-world-atlas.md`](realms/tien-gioi/00-world-atlas.md) |
-| **Thần Giới** | 神界 | Thần Khí | **System-first:** [`TH-THAN-*`](realms/than-gioi/systems/00-system-index.md); planet theo nhu cầu | [`realms/than-gioi/00-world-atlas.md`](realms/than-gioi/00-world-atlas.md) |
+| **Phàm Giới** | Phàm Giới | Linh khí cực mỏng / vô linh | **1 planet active:** [Bích Lạc Tinh](realms/pham-gioi/planets/bich-lac-tinh/00-overview.md); `TH-PHAM-BICH-LAC` là parent map legacy | [`realms/pham-gioi/00-world-atlas.md`](realms/pham-gioi/00-world-atlas.md) |
+| **Linh Giới** | Linh Giới | Thiên Địa Linh Khí | **1 planet active:** [Càn Nguyên Tinh](realms/linh-gioi/planets/can-nguyen-tinh/00-overview.md); quần vực láng giềng deferred | [`realms/linh-gioi/00-world-atlas.md`](realms/linh-gioi/00-world-atlas.md) |
+| **Tiên Giới** | Tiên Giới | Tiên Khí / Tiên Nguyên Lực | **System-first:** [`TH-TIEN-*`](realms/tien-gioi/systems/00-system-index.md); planet theo nhu cầu | [`realms/tien-gioi/00-world-atlas.md`](realms/tien-gioi/00-world-atlas.md) |
+| **Thần Giới** | Thần Giới | Thần Khí | **System-first:** [`TH-THAN-*`](realms/than-gioi/systems/00-system-index.md); planet theo nhu cầu | [`realms/than-gioi/00-world-atlas.md`](realms/than-gioi/00-world-atlas.md) |
 
 ### 1.1. Giới bích (tóm)
 
@@ -37,7 +37,7 @@
 
 | ID | Tên | Vị trí trong void Phàm | Quy mô (story) | Linh khí / sinh thái |
 | --- | --- | --- | --- | --- |
-| `TH-PHAM-BICH-LAC` | **Tinh hà Bích Lạc** (碧落星河) | Cụm **nam–tây** mặt phẳng Hư Không Phàm; giới bích Phàm–Linh ~9 vạn đơn vị hư không *(lore, không đo phàm)* | **6** đại lục (`CHL-*`); bbox grid ~ x∈[−360,+330], y∈[−250,+220] | **Mạt pháp** — cực mỏng / vô linh; **võ tu / Luyện Thể**; manh mạch **rò khí** ( không chân tu cư trú — Luật 6a ) |
+| `TH-PHAM-BICH-LAC` | **Tinh hà Bích Lạc** | Cụm **nam–tây** mặt phẳng Hư Không Phàm; giới bích Phàm–Linh ~9 vạn đơn vị hư không *(lore, không đo phàm)* | **6** đại lục (`CHL-*`); bbox grid ~ x∈[−360,+330], y∈[−250,+220] | **Mạt pháp** — cực mỏng / vô linh; **võ tu / Luyện Thể**; manh mạch **rò khí** ( không chân tu cư trú — Luật 6a ) |
 
 **Atlas · catalog:** [`realms/pham-gioi/00-world-atlas.md`](realms/pham-gioi/00-world-atlas.md) · [`realms/pham-gioi/01-region-catalog.md`](realms/pham-gioi/01-region-catalog.md)
 
@@ -55,10 +55,10 @@
 
 | ID | Tên | Vị trí trong void Linh | Quy mô (story) | Linh khí / sinh thái |
 | --- | --- | --- | --- | --- |
-| **`TH-LINH-CAN-NGUYEN`** | **Tinh hà Càn Nguyên** (苍元灵域) | Cụm **bắc–đông** Hư Không Linh | **6** đại lục (`CHL-*`); bbox ~ x∈[−265,+304], y∈[−208,+227] | **Dày**; Luyện Khí→Độ Kiếp; giới bích Linh–Tiên = Cửu Cửu |
-| `TH-LINH-HUYEN-AM` | Tinh hà Huyền Âm (玄阴灵域) | **Tây** main (~3–5 vạn hư không lore) | 4–5 lục (chưa geo) | Âm thịnh — tu âm, Minh mạch |
-| `TH-LINH-MOC-DUONG` | Tinh hà Mộc Dương (木阳灵域) | **Nam** main | 5–7 lục (chưa geo) | Mộc–dương — dược, yêu biên |
-| `TH-LINH-KIM-HA` | Tinh hà Kim Hà (金河灵域) | **Đông bắc xa** main | 6+ lục (chưa geo) | Kim–Thủy — linh thạch thượng, liên tinh thương |
+| **`TH-LINH-CAN-NGUYEN`** | **Tinh hà Càn Nguyên** | Cụm **bắc–đông** Hư Không Linh | **6** đại lục (`CHL-*`); bbox ~ x∈[−265,+304], y∈[−208,+227] | **Dày**; Luyện Khí→Độ Kiếp; giới bích Linh–Tiên = Cửu Cửu |
+| `TH-LINH-HUYEN-AM` | Tinh hà Huyền Âm (HuyềnÂmLinhVực) | **Tây** main (~3–5 vạn hư không lore) | 4–5 lục (chưa geo) | Âm thịnh — tu âm, Minh mạch |
+| `TH-LINH-MOC-DUONG` | Tinh hà Mộc Dương (MộcDươngLinhVực) | **Nam** main | 5–7 lục (chưa geo) | Mộc–dương — dược, yêu biên |
+| `TH-LINH-KIM-HA` | Tinh hà Kim Hà (KimHàLinhVực) | **Đông bắc xa** main | 6+ lục (chưa geo) | Kim–Thủy — linh thạch thượng, liên tinh thương |
 
 **Atlas · catalog:** [`realms/linh-gioi/00-world-atlas.md`](realms/linh-gioi/00-world-atlas.md) (cụm tinh hà) · [`realms/linh-gioi/planets/can-nguyen-tinh/00-world-atlas.md`](realms/linh-gioi/planets/can-nguyen-tinh/00-world-atlas.md) (Càn Nguyên chi tiết) · [`realms/linh-gioi/01-region-catalog.md`](realms/linh-gioi/01-region-catalog.md)
 
@@ -76,13 +76,13 @@
 
 | ID | Tên | Vị trí trong void Tiên | Quy mô (story) | Tiên khí / sinh thái |
 | --- | --- | --- | --- | --- |
-| **`TH-TIEN-HUONG-NGUYEN`** | **Tinh hà Hương Nguyên** (香元仙域) | Cụm **nam–tây trung tâm** Hư Không Tiên | **6** đại lục (`CHL-*`); bbox ~ x∈[−282,+217], y∈[−192,+244] | **Ổn định–dồi**; Chân Tiên→Tiên Đế; giới bích Tiên–Thần = đại kiếp |
-| `TH-TIEN-CAM-LAC` | Tinh hà Cảm Lạc (淡落仙域) | **Tây** main (~4–6 vạn hư không lore) | 4–5 lục (chưa geo) | **Loãng** — Tản Tiên di tích |
-| `TH-TIEN-DUONG-HANH` | Tinh hà Dương Hành (曜行仙域) | **Bắc** main | 5–6 lục (chưa geo) | Dương thịnh — phi thuyền liên tinh |
-| `TH-TIEN-NGUOC-MAC` | Tinh hà Ngược Mạc (逆漠仙域) | **Tây nam** main | 3–4 lục (chưa geo) | Hỗn loạn cục bộ — thử kiếp |
-| `TH-TIEN-LONG-TAU` | Tinh hà Long Tẩu (龙腾仙域) | **Đông** main | 5–7 lục (chưa geo) | Long khí — Long Linh |
-| `TH-TIEN-UY-VOI` | Tinh hà Uy Vi (幽微仙域) | **Đông nam xa** main | 4–6 lục (chưa geo) | U vi — ảo cảnh, bí pháp |
-| `TH-TIEN-THAI-CUC` | Tinh hà Thái Cực (太极仙域) | **Tây bắc** main | 6 lục (chưa geo) | Trung hòa Ngũ Hành — đan tiên |
+| **`TH-TIEN-HUONG-NGUYEN`** | **Tinh hà Hương Nguyên** | Cụm **nam–tây trung tâm** Hư Không Tiên | **6** đại lục (`CHL-*`); bbox ~ x∈[−282,+217], y∈[−192,+244] | **Ổn định–dồi**; Chân Tiên→Tiên Đế; giới bích Tiên–Thần = đại kiếp |
+| `TH-TIEN-CAM-LAC` | Tinh hà Cảm Lạc (LạcTiênVực) | **Tây** main (~4–6 vạn hư không lore) | 4–5 lục (chưa geo) | **Loãng** — Tản Tiên di tích |
+| `TH-TIEN-DUONG-HANH` | Tinh hà Dương Hành (HànhTiênVực) | **Bắc** main | 5–6 lục (chưa geo) | Dương thịnh — phi thuyền liên tinh |
+| `TH-TIEN-NGUOC-MAC` | Tinh hà Ngược Mạc (NghịchTiênVực) | **Tây nam** main | 3–4 lục (chưa geo) | Hỗn loạn cục bộ — thử kiếp |
+| `TH-TIEN-LONG-TAU` | Tinh hà Long Tẩu (LongTiênVực) | **Đông** main | 5–7 lục (chưa geo) | Long khí — Long Linh |
+| `TH-TIEN-UY-VOI` | Tinh hà Uy Vi (UViTiênVực) | **Đông nam xa** main | 4–6 lục (chưa geo) | U vi — ảo cảnh, bí pháp |
+| `TH-TIEN-THAI-CUC` | Tinh hà Thái Cực (TháiTiênVực) | **Tây bắc** main | 6 lục (chưa geo) | Trung hòa Ngũ Hành — đan tiên |
 
 **Liên tinh hà (lore):** **Tiên Vương+** có thể mở mạch hư không ngắn giữa `TH-TIEN-*` — **phí / khế**; không thêm invariant Core.
 
@@ -102,16 +102,16 @@
 
 | ID | Tên | Vị trí trong void Thần | Quy mô (story) | Thần khí / sinh thái |
 | --- | --- | --- | --- | --- |
-| **`TH-THAN-HUYEN-CUC`** | **Tinh hà Huyền Cự** (玄极神域) | Cụm **bắc–tây trung tâm** Hư Không Thần | **7** đại lục (`CHL-*`); bbox ~ x∈[−250,+228], y∈[−217,+244] | **Nặng ổn định**; Thần giai; giới bích Tiên–Thần = đại kiếp |
-| `TH-THAN-TICH-MINH` | Tinh hà Tịch Minh (寂明神域) | **Tây** main | 4–5 lục (chưa geo) | **Tịnh** — thần khí sạch, loãng |
-| `TH-THAN-DO-DU` | Tinh hà Độ Du (渡游神域) | **Nam** main | 5–6 lục (chưa geo) | Mạch du hành · thuế liên tinh |
-| `TH-THAN-LOI-HANH` | Tinh hà Lôi Hành (雷行神域) | **Đông** main | 5–7 lục (chưa geo) | **Lôi thịnh** — Thần kiếp |
-| `TH-THAN-HON-NGUYEN` | Tinh hà Hồn Nguyên (混元神域) | **Bắc** main | 6 lục (chưa geo) | Hỗn nguyên manh — **Thánh** lore |
-| `TH-THAN-PHUC-MENH` | Tinh hà Phục Mệnh (复命神域) | **Tây nam** main | 4–5 lục (chưa geo) | Sinh–diệt dao động |
-| `TH-THAN-VAN-TU` | Tinh hà Vạn Tự (万序神域) | **Đông bắc** main | 6 lục (chưa geo) | Luật thần · khế Vạn Tự |
-| `TH-THAN-DOAN-MACH` | Tinh hà Đoạn Mạch (断脉神域) | **Nam tây** main | 3–4 lục (chưa geo) | Mạch đứt — nhập Thần nguyên |
-| `TH-THAN-HU-VI` | Tinh hà Hư Vi (虚无神域) | **Tây bắc xa** main | 2–3 lục (chưa geo) | Mép void · Vực Ngoại |
-| `TH-THAN-THAI-SO` | Tinh hà Thái Sơ (太初神域) | **Đông nam xa** main | 5–6 lục (chưa geo) | Cổ khí + di tích thần cổ |
+| **`TH-THAN-HUYEN-CUC`** | **Tinh hà Huyền Cự** | Cụm **bắc–tây trung tâm** Hư Không Thần | **7** đại lục (`CHL-*`); bbox ~ x∈[−250,+228], y∈[−217,+244] | **Nặng ổn định**; Thần giai; giới bích Tiên–Thần = đại kiếp |
+| `TH-THAN-TICH-MINH` | Tinh hà Tịch Minh (ThầnVực) | **Tây** main | 4–5 lục (chưa geo) | **Tịnh** — thần khí sạch, loãng |
+| `TH-THAN-DO-DU` | Tinh hà Độ Du (ThầnVực) | **Nam** main | 5–6 lục (chưa geo) | Mạch du hành · thuế liên tinh |
+| `TH-THAN-LOI-HANH` | Tinh hà Lôi Hành (HànhThầnVực) | **Đông** main | 5–7 lục (chưa geo) | **Lôi thịnh** — Thần kiếp |
+| `TH-THAN-HON-NGUYEN` | Tinh hà Hồn Nguyên (HồnNguyênThầnVực) | **Bắc** main | 6 lục (chưa geo) | Hỗn nguyên manh — **Thánh** lore |
+| `TH-THAN-PHUC-MENH` | Tinh hà Phục Mệnh (MệnhThầnVực) | **Tây nam** main | 4–5 lục (chưa geo) | Sinh–diệt dao động |
+| `TH-THAN-VAN-TU` | Tinh hà Vạn Tự (VạnThầnVực) | **Đông bắc** main | 6 lục (chưa geo) | Luật thần · khế Vạn Tự |
+| `TH-THAN-DOAN-MACH` | Tinh hà Đoạn Mạch (ĐoạnMạchThầnVực) | **Nam tây** main | 3–4 lục (chưa geo) | Mạch đứt — nhập Thần nguyên |
+| `TH-THAN-HU-VI` | Tinh hà Hư Vi (HưVôThầnVực) | **Tây bắc xa** main | 2–3 lục (chưa geo) | Mép void · Vực Ngoại |
+| `TH-THAN-THAI-SO` | Tinh hà Thái Sơ (TháiThầnVực) | **Đông nam xa** main | 5–6 lục (chưa geo) | Cổ khí + di tích thần cổ |
 
 **Liên tinh hà (lore):** **Thần Vương+** (Logic mở bậc) mạch hư không ngắn giữa `TH-THAN-*`; **Thánh-tier** liên tinh hà **không** hub geo — không thêm invariant Core.
 
@@ -133,10 +133,10 @@ Không thay bộ bốn giới diện vật chất trên lộ trình Phàm→Th�
 
 | Khái niệm | Vai trò | Gắn vào 4 giới (tóm) |
 | --- | --- | --- |
-| **Minh Giới** (冥界) | Luân hồi, vong hồn, âm khí | Mạch **Phàm mỏng** · **Linh Huyền Âm** · **Thần Hồn Vực** = hồn–mệnh, **không** hub Minh |
+| **Minh Giới** | Luân hồi, vong hồn, âm khí | Mạch **Phàm mỏng** · **Linh Huyền Âm** · **Thần Hồn Vực** = hồn–mệnh, **không** hub Minh |
 | **Ma / Yêu patches** | Ma Khí / Yêu Khí **mảnh biên** | `SUB-PATCH-MA-TAN-MO` (Phàm) · `SUB-PATCH-MA-VH-ABYSS` (Linh) · `SUB-PATCH-MA-TL-PIT` (Tiên) · Yêu: Ngọc Lâm / Cửu Lạc / Mộc Dương rim |
-| **Vực Ngoại nội giới / hư không nội giới** (域外 · 虚空) | Vùng rìa và các mạch xa trong Giới Tường — **không** giới tu | Mạch Phàm–Linh (`REG-TM-KHE-GIOI`, `REG-CL-PHAM-KHE`) · Linh–Tiên (Cửu Khẩu) · Tiên–Thần (Huyền Băng) · mép `TH-THAN-HU-VI` |
-| **Tiểu Thiên Thế Giới** (小千世界) | Pocket host | **`E-PHAM-POCKET`** — Tam Nguyên; **không** thay Cửu Cửu |
+| **Vực Ngoại nội giới / hư không nội giới** | Vùng rìa và các mạch xa trong Giới Tường — **không** giới tu | Mạch Phàm–Linh (`REG-TM-KHE-GIOI`, `REG-CL-PHAM-KHE`) · Linh–Tiên (Cửu Khẩu) · Tiên–Thần (Huyền Băng) · mép `TH-THAN-HU-VI` |
+| **Tiểu Thiên Thế Giới** | Pocket host | **`E-PHAM-POCKET`** — Tam Nguyên; **không** thay Cửu Cửu |
 | **Bí cảnh / Chư Thiên** | Cắt không gian / đa bộ bốn giới | Stub slots trong `06-subsidiary-realms.md` §5–§6 |
 
 ```text

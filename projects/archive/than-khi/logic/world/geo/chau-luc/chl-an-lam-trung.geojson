@@ -1,0 +1,294 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "chau_luc",
+  "world:work_slug": "than-khi",
+  "world:hub_id": "LOC-REG-HUB",
+  "world:continent_id": "CHL-AN-LAM-TRUNG",
+  "world:parent_scope": "tinh_ha",
+  "world:parent_feature_id": "CHL-AN-LAM-TRUNG",
+  "world:parent_file": "00-tinh-ha.geojson",
+  "world:parent_coordinates": [
+    120,
+    80
+  ],
+  "world:grid_extent": [
+    0,
+    1000
+  ],
+  "world:coordinateNote": "Ẩn Lam trung lục — vỏ lục đơn giản A1; hub region LOC-REG-HUB (420,520).",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CHL-AN-LAM-TRUNG",
+        "name_vi": "Ẩn Lam trung lục",
+        "name_hv": "Ẩn Lam trung lục",
+        "kind": "continent"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80,
+              120
+            ],
+            [
+              920,
+              140
+            ],
+            [
+              940,
+              880
+            ],
+            [
+              100,
+              860
+            ],
+            [
+              80,
+              120
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-CUOC-AN-SAT",
+        "name_vi": "Cuộc ám sát (vùng MC)",
+        "name_hv": "Cuộc ám sát (vùng MC)",
+        "kind": "region",
+        "notes": "3 thành + 5 trấn — chi tiết reg-cuoc-an-sat.geojson"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              200,
+              280
+            ],
+            [
+              780,
+              300
+            ],
+            [
+              760,
+              720
+            ],
+            [
+              220,
+              700
+            ],
+            [
+              200,
+              280
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "CHAU-NOI-DIA-TAY",
+        "name_vi": "Nội địa Tây · rừng nhiệm vụ",
+        "name_hv": "Nội địa Tây",
+        "kind": "wilderness"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              80,
+              320
+            ],
+            [
+              210,
+              340
+            ],
+            [
+              200,
+              680
+            ],
+            [
+              90,
+              660
+            ],
+            [
+              80,
+              320
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-BIEN-BAC",
+        "name_vi": "Biên Bắc · ải",
+        "name_hv": "Biên Bắc",
+        "kind": "region"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              220,
+              720
+            ],
+            [
+              760,
+              740
+            ],
+            [
+              780,
+              860
+            ],
+            [
+              200,
+              840
+            ],
+            [
+              220,
+              720
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-AN-LAM",
+        "name_vi": "Dãy Ẩn Lam",
+        "name_hv": "Dãy Ẩn Lam",
+        "kind": "barrier"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              400,
+              720
+            ],
+            [
+              440,
+              720
+            ],
+            [
+              430,
+              860
+            ],
+            [
+              390,
+              850
+            ],
+            [
+              400,
+              720
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "REG-NAM-DOC",
+        "name_vi": "Nam độc · khai thác",
+        "name_hv": "Nam độc",
+        "kind": "region"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              220,
+              120
+            ],
+            [
+              760,
+              140
+            ],
+            [
+              780,
+              280
+            ],
+            [
+              200,
+              260
+            ],
+            [
+              220,
+              120
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "RIVER-AN-GIANG",
+        "name_vi": "Ẩn Giang",
+        "name_hv": "Ẩn Giang",
+        "kind": "route"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            150,
+            400
+          ],
+          [
+            280,
+            420
+          ],
+          [
+            420,
+            480
+          ],
+          [
+            550,
+            520
+          ],
+          [
+            680,
+            540
+          ],
+          [
+            820,
+            560
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-REG-HUB",
+        "name_vi": "Hub vùng Cuộc ám sát",
+        "name_hv": "Hub vùng Cuộc ám sát",
+        "kind": "hub",
+        "notes": "Neo region reg-cuoc-an-sat parent_coordinates"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          420,
+          520
+        ]
+      }
+    }
+  ]
+}

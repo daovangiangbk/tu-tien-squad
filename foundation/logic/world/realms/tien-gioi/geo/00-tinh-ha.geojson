@@ -12,7 +12,7 @@
       "properties": {
         "id": "TINH-HA-REF",
         "name_vi": "Tinh hà Hương Nguyên (tham chiếu)",
-        "name_hv": "香元仙域",
+        "name_hv": "Tinh hà Hương Nguyên (tham chiếu)",
         "kind": "hub"
       },
       "geometry": {
@@ -28,7 +28,7 @@
       "properties": {
         "id": "CHL-TRUNG-TIEN",
         "name_vi": "Trung Tiên đại lục",
-        "name_hv": "中仙大陆",
+        "name_hv": "Trung Tiên đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -169,7 +169,7 @@
       "properties": {
         "id": "CHL-THANH-VAN",
         "name_vi": "Thanh Vân đại lục",
-        "name_hv": "青云大陆",
+        "name_hv": "Thanh Vân đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -302,7 +302,7 @@
       "properties": {
         "id": "CHL-NGU-LONG",
         "name_vi": "Ngự Long đại lục",
-        "name_hv": "御龙大陆",
+        "name_hv": "Ngự Long đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -427,7 +427,7 @@
       "properties": {
         "id": "CHL-KIM-HOA",
         "name_vi": "Kim Hoa đại lục",
-        "name_hv": "金花大陆",
+        "name_hv": "Kim Hoa đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -560,7 +560,7 @@
       "properties": {
         "id": "CHL-TRAN-LAC",
         "name_vi": "Trần Lạc đại lục",
-        "name_hv": "尘落大陆",
+        "name_hv": "Trần Lạc đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -685,7 +685,7 @@
       "properties": {
         "id": "CHL-HUYEN-BANG",
         "name_vi": "Huyền Bang đại lục",
-        "name_hv": "玄冰大陆",
+        "name_hv": "Huyền Bang đại lục",
         "kind": "continent",
         "visibility": "public"
       },

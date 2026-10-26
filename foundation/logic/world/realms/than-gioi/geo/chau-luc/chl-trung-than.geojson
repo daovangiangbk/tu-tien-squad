@@ -6,7 +6,7 @@
       "properties": {
         "id": "CHL-TRUNG-THAN",
         "name_vi": "Trung Thần đại lục",
-        "name_hv": "中神大陆",
+        "name_hv": "Trung Thần đại lục",
         "kind": "continent",
         "visibility": "public",
         "notes": "Silhouette CHL-TRUNG-THAN từ 00-tinh-ha; parent SW [-60.0, -34.0]; k≈7.56; hub LOC-RT-THAN-QUAN."
@@ -695,7 +695,7 @@
         "id": "REG-RT-NAM-VAN",
         "name_vi": "Nam Vân cửa",
         "kind": "wilderness",
-        "name_hv": "南云关",
+        "name_hv": "Nam Vân cửa",
         "than_khi_tier": "nặng_ổn_định",
         "visibility": "public",
         "notes": "Thương lộ mây thần — thuế thần mạch nhánh 12–18%"
@@ -802,7 +802,7 @@
         "id": "REG-RT-NAM-HAI",
         "name_vi": "Nam Hải thần cảng",
         "kind": "polity",
-        "name_hv": "南海神港",
+        "name_hv": "Nam Hải thần cảng",
         "than_khi_tier": "rất_nặng",
         "visibility": "public",
         "notes": "Thần thuyền Độ Du mùa — thuế Thần nguyên"
@@ -1285,7 +1285,7 @@
         "id": "REG-RT-THAN-QUAN",
         "name_vi": "Thần Quan thành",
         "kind": "polity",
-        "name_hv": "神关城",
+        "name_hv": "Thần Quan thành",
         "than_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Trung ương thần triều · hub LOC-RT-THAN-QUAN"
@@ -1572,7 +1572,7 @@
         "id": "REG-RT-TRUNG-NGUYEN",
         "name_vi": "Trung Nguyên đài",
         "kind": "polity",
-        "name_hv": "中原台",
+        "name_hv": "Trung Nguyên đài",
         "than_khi_tier": "rất_nặng",
         "visibility": "public",
         "notes": "Chợ Thần nguyên · hội thương liên triều"
@@ -1899,7 +1899,7 @@
         "id": "REG-RT-TAM-DE",
         "name_vi": "Tam Đế đài",
         "kind": "polity",
-        "name_hv": "三帝台",
+        "name_hv": "Tam Đế đài",
         "than_khi_tier": "rất_nặng",
         "visibility": "public",
         "notes": "Tam thần triều chia mạch — chính trị thần giới"
@@ -2074,7 +2074,7 @@
         "id": "REG-RT-BAC-LINH",
         "name_vi": "Bắc Linh uyên",
         "kind": "wilderness",
-        "name_hv": "北灵苑",
+        "name_hv": "Bắc Linh uyên",
         "than_khi_tier": "nặng_ổn_định",
         "visibility": "public",
         "notes": "Biên Kiếm Lôi — thần kiếp vệt; tranh biên quan"
@@ -2273,7 +2273,7 @@
         "id": "REG-RT-TAY-QUAN",
         "name_vi": "Tây Kim quan",
         "kind": "wilderness",
-        "name_hv": "西金关",
+        "name_hv": "Tây Kim quan",
         "than_khi_tier": "nặng_ổn_định",
         "visibility": "public",
         "notes": "Biên Hồn Vực — thương lộ thần hồn phế"
@@ -2536,7 +2536,7 @@
         "id": "BRR-RT-THIEN-LAM",
         "name_vi": "Dãy Thiên Lam",
         "kind": "barrier",
-        "name_hv": "天岚岭",
+        "name_hv": "Dãy Thiên Lam",
         "than_khi_tier": "mach_rải_cao",
         "visibility": "public",
         "notes": "Barrier polygon — mạch rải; Thần kiếp nặng khi vượt"
@@ -2663,7 +2663,7 @@
         "id": "REG-RT-PHUC-DIA",
         "name_vi": "Phúc Địa cốc",
         "kind": "dungeon",
-        "name_hv": "福地谷",
+        "name_hv": "Phúc Địa cốc",
         "than_khi_tier": "mach_T2_T3",
         "visibility": "mc_phase1",
         "notes": "Thần phủ T2–T3 — chiến mạch arc-scale"
@@ -2762,7 +2762,7 @@
         "id": "REG-RT-DONG-THAN",
         "name_vi": "Đông Vân đài",
         "kind": "wilderness",
-        "name_hv": "东云台",
+        "name_hv": "Đông Vân đài",
         "than_khi_tier": "rất_nặng",
         "visibility": "public",
         "notes": "Mây thần dày — liên lạc Vạn Pháp"
@@ -3025,7 +3025,7 @@
         "id": "REG-RT-DONG-HAI",
         "name_vi": "Đông Hải thần cảng",
         "kind": "polity",
-        "name_hv": "东海神港",
+        "name_hv": "Đông Hải thần cảng",
         "than_khi_tier": "rất_nặng",
         "visibility": "public",
         "notes": "Cảng thần thuyền · thuế 20–25% thần triều"
@@ -3043,7 +3043,7 @@
       "properties": {
         "id": "LOC-RT-THAN-QUAN",
         "name_vi": "Thần Quan · trung ương",
-        "name_hv": "神关",
+        "name_hv": "Thần Quan",
         "kind": "hub",
         "visibility": "public",
         "than_khi_tier": "mach_chủ"
@@ -3307,7 +3307,7 @@
       "properties": {
         "id": "RIVER-RT-THAN-HA",
         "name_vi": "Thần Hà",
-        "name_hv": "神河",
+        "name_hv": "Thần Hà",
         "kind": "route",
         "from_id": "REG-RT-TAM-DE",
         "to_id": "REG-RT-NAM-VAN",
@@ -3648,7 +3648,7 @@
       "properties": {
         "id": "RIVER-RT-DONG-LUU",
         "name_vi": "Đông Lưu thần thủy",
-        "name_hv": "东流",
+        "name_hv": "Đông Lưu thần thủy",
         "kind": "route",
         "from_id": "REG-RT-PHUC-DIA",
         "to_id": "REG-RT-DONG-HAI"

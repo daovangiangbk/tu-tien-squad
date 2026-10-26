@@ -7,7 +7,10 @@
   "world:parent_scope": "region",
   "world:parent_feature_id": "REG-GIA-TOC-PHU-GIAU",
   "world:parent_file": "region/reg-gia-toc-phu-vuc.geojson",
-  "world:parent_coordinates": [-38, 8],
+  "world:parent_coordinates": [
+    -38,
+    8
+  ],
   "world:tieu_cuc_id": "TC-TP-002",
   "world:coordinateNote": "Micro · Tây Lam phế Arc 1; gốc LOC-TAY-LAM-PHI trên region.",
   "features": [
@@ -16,59 +19,83 @@
       "properties": {
         "id": "LOC-TAY-LAM-PHI",
         "name_vi": "Tây Lam · đống phế",
-        "name_hv": "西林废",
+        "name_hv": "Tây Lam",
         "kind": "hub",
         "visibility": "public",
         "event_scale": "II",
         "notes": "Beat 4–7; thoát · ch.13–28"
       },
-      "geometry": { "type": "Point", "coordinates": [0, 0] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-TAN-PHU-CAC-TAY",
         "name_vi": "Phù các Tây · tàn",
-        "name_hv": "西符阁残",
+        "name_hv": "Phù các Tây",
         "kind": "wilderness",
         "visibility": "public",
         "direction_label": "Bắc",
         "notes": "Beat 5; manh Cổ Phổ · ch.17–18"
       },
-      "geometry": { "type": "Point", "coordinates": [8, 14] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8,
+          14
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-HANG-PHIEU-MC",
         "name_vi": "Hang phieu · ẩn thân",
-        "name_hv": "藏窟",
+        "name_hv": "Hang phieu",
         "kind": "wilderness",
         "visibility": "secret",
         "direction_label": "Nam",
         "notes": "Beat 4–6; vẽ phù · ch.15–24"
       },
-      "geometry": { "type": "Point", "coordinates": [-6, -18] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6,
+          -18
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-CHOI-PHE-MO",
         "name_vi": "Chòi phế · gặp Mộ Thanh Y",
-        "name_hv": "废棚",
+        "name_hv": "Chòi phế",
         "kind": "settlement",
         "visibility": "mc_phase1",
         "direction_label": "Đông",
         "notes": "Beat 8; CHAR-013 sống sót · ch.29–30"
       },
-      "geometry": { "type": "Point", "coordinates": [22, -4] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22,
+          -4
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-DUONG-PHU-GIANG",
         "name_vi": "Đường xuống · bến Phù Giang",
-        "name_hv": "符江道",
+        "name_hv": "Đường xuống",
         "kind": "route",
         "visibility": "public",
         "direction_label": "Đông",
@@ -77,7 +104,20 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [[22, -4], [38, 0], [52, 2]]
+        "coordinates": [
+          [
+            22,
+            -4
+          ],
+          [
+            38,
+            0
+          ],
+          [
+            52,
+            2
+          ]
+        ]
       }
     }
   ]

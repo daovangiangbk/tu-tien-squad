@@ -19,7 +19,7 @@
       "properties": {
         "id": "REG-TM-BAC-HAN-AREA",
         "name_vi": "Phạm vi Bắc Hạn",
-        "name_hv": "北旱域",
+        "name_hv": "Phạm vi Bắc Hạn",
         "kind": "wilderness",
         "visibility": "public",
         "linh_khi_tier": "cực_mỏng"
@@ -57,7 +57,7 @@
       "properties": {
         "id": "LOC-TM-BAC-HAN-RIM",
         "name_vi": "Rìa Bắc Hạn · cửa nam",
-        "name_hv": "北旱口",
+        "name_hv": "Rìa Bắc Hạn",
         "kind": "hub",
         "visibility": "public",
         "notes": "Hub vùng; lối xuống Cổ Tu / Hạn Cốc."
@@ -75,7 +75,7 @@
       "properties": {
         "id": "LOC-TM-BAC-TRAM",
         "name_vi": "Trạm gió · bắc",
-        "name_hv": "风站",
+        "name_hv": "Trạm gió",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Bắc"
@@ -93,7 +93,7 @@
       "properties": {
         "id": "LOC-TM-BAC-CO",
         "name_vi": "Cổ tháp · đông",
-        "name_hv": "北塔",
+        "name_hv": "Cổ tháp",
         "kind": "dungeon",
         "visibility": "public",
         "direction_label": "Đông"
@@ -111,7 +111,7 @@
       "properties": {
         "id": "LOC-TM-CO-TU",
         "name_vi": "Cổ Tu · trung tâm di tích",
-        "name_hv": "古墟",
+        "name_hv": "Cổ Tu",
         "kind": "hub",
         "visibility": "public",
         "notes": "Shared id; parent (350,620)."
@@ -129,7 +129,7 @@
       "properties": {
         "id": "LOC-TM-HAN-COC-MOUTH",
         "name_vi": "Cửa Hạn Cốc · tây",
-        "name_hv": "旱谷口",
+        "name_hv": "Cửa Hạn Cốc",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Tây",
@@ -148,7 +148,7 @@
       "properties": {
         "id": "BRR-TM-BAC-GIO",
         "name_vi": "Vành gió · bắc",
-        "name_hv": "北风环",
+        "name_hv": "Vành gió",
         "kind": "barrier",
         "visibility": "public"
       },
@@ -185,7 +185,7 @@
       "properties": {
         "id": "ROUTE-TM-BAC-CO-TU",
         "name_vi": "Đạo Cổ Tu",
-        "name_hv": "北墟道",
+        "name_hv": "Đạo Cổ Tu",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-BAC-HAN-RIM",
@@ -216,7 +216,7 @@
       "properties": {
         "id": "ROUTE-TM-BAC-HAN-COC",
         "name_vi": "Lối Hạn Cốc",
-        "name_hv": "旱谷道",
+        "name_hv": "Lối Hạn Cốc",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-BAC-HAN-RIM",
@@ -247,7 +247,7 @@
       "properties": {
         "id": "LOC-TM-OA-TUYEN",
         "name_vi": "Oa Tuyền · giếng đông",
-        "name_hv": "洼泉",
+        "name_hv": "Oa Tuyền",
         "kind": "hub",
         "visibility": "public",
         "direction_label": "Đông",
@@ -266,7 +266,7 @@
       "properties": {
         "id": "ROUTE-TM-BAC-DONG-OA",
         "name_vi": "Biên đạo Oa Tuyền",
-        "name_hv": "洼泉北道",
+        "name_hv": "Biên đạo Oa Tuyền",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-BAC-CO",
@@ -301,7 +301,7 @@
       "properties": {
         "id": "LOC-TM-BAC-MANH",
         "name_vi": "Manh mạch · đá lạnh",
-        "name_hv": "寒脉",
+        "name_hv": "Manh mạch",
         "kind": "resource",
         "visibility": "hidden_logic",
         "linh_khi_tier": "manh_mach_rải"
@@ -319,7 +319,7 @@
       "properties": {
         "id": "LOC-TM-BAC-PHU",
         "name_vi": "Phế trại · tây bắc",
-        "name_hv": "北废营",
+        "name_hv": "Phế trại",
         "kind": "settlement",
         "visibility": "mc_phase1",
         "direction_label": "Tây bắc"
@@ -337,7 +337,7 @@
       "properties": {
         "id": "RIVER-TM-BAC-CAN",
         "name_vi": "Rãnh băng khô",
-        "name_hv": "涸冰",
+        "name_hv": "Rãnh băng khô",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-BAC-TRAM",

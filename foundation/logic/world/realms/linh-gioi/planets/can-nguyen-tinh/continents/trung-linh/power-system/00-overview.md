@@ -20,7 +20,7 @@ child_index: []
 
 - **Cực khí (Luật 2):** **cân bằng** — tu **ngũ hành trung bình** ít phí địa lý; không lục “một hành độc quyền” như Hỏa/Băng (đối chiếu [`../../../power-system/00-overview.md`](../../../power-system/00-overview.md) §3.1).
 - **Mạch nhánh:** nuôi `REG-TL-LINH-HA`, thành phụ, mỏ **linh thạch hạ–trung** — thuế tông **20–35%** (atlas §4); đoạn đô thị Linh Hà **25–30%** (catalog Thiên Quan).
-- **Mạch gốc / phúc địa:** `REG-TL-PHUC-DIA`, các **阵眼** quanh Tam Tông — **Tam Tông** tranh **arc-scale**; đụng gốc nội thành → **Nhân quả** + can thiệp liên tông (catalog exemplar).
+- **Mạch gốc / phúc địa:** `REG-TL-PHUC-DIA`, các **TrậnNhãn** quanh Tam Tông — **Tam Tông** tranh **arc-scale**; đụng gốc nội thành → **Nhân quả** + can thiệp liên tông (catalog exemplar).
 - **Động phủ tier:** **T1** gia tộc (`LOC-TL-GIA-TTOC-PHU`) · **T2** tông nhánh Linh Hà (`LOC-TL-TONG-LINH-HA`) · tranh **T2–T3** tại `LOC-TL-PHUC-DIA-MEN`.
 - **Kiếp:** **chuẩn mực** Kim Đan–Nguyên Anh trên Linh; **Lục Cửu** ưu tiên vùng mạch dày quanh hub; **Thiên Lam** — mạch rải → kiếp / tẩu hỏa **nặng hơn** nếu không có đan/trận nhập.
 - **Chiến:** **Hợp trận** quy mô lớn nhất cụm; thua mạch = sụt **tốc độ tu + hậu cần trận**, không chỉ một trận (planet power §5).

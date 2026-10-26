@@ -1,6 +1,6 @@
 # Project status — Tạp Linh Diêu Lộ — cập nhật 2026-09-18
 
-**Tên truyện:** **Tạp Linh Diêu Lộ** (杂灵遥路)  
+**Tên truyện:** **Tạp Linh Diêu Lộ**  
 **Work slug:** `tap-linh-dieu-lo`  
 **Work root:** `projects/archive/tap-linh-dieu-lo/`  
 **Progress map:** [`00-progress-map.md`](00-progress-map.md)  
@@ -830,7 +830,7 @@
 | Beat | [`ch108-tam-ma-day-beat.md`](logic/chapters/ch108-tam-ma-day-beat.md) · **Arc 3 Beat 8 giữa · block 3C** |
 | Review | r1 [`review-chapter-108-tam-ma-day.md`](interface/chapter-view/review-chapter-108-tam-ma-day.md) · suggest_revise C-01, M-01, M-02 · [Reviewer r1](e8babcb1-4b4c-4e13-b30f-a1f320c28a5a) |
 | Review r2 | [`review-chapter-108-tam-ma-day-r2.md`](interface/chapter-view/review-chapter-108-tam-ma-day-r2.md) · **suggest_pass** · [Reviewer r2](9dce8517-8292-4a19-9751-455d9bd449aa) |
-| Ghi chú | Nối Canh Dần ngày sáu ch.107 · ngày 6–7 tro/lọc/trận/ca mượn không hạt · tâm ma mầm dày (không ma quỷ) · ~29 điểm · khế **断** · Linh Dịch lệch · cliff nắp lọ phương phụ / liều che → ch.109 `linh-dich-che` |
+| Ghi chú | Nối Canh Dần ngày sáu ch.107 · ngày 6–7 tro/lọc/trận/ca mượn không hạt · tâm ma mầm dày (không ma quỷ) · ~29 điểm · khế **Đoạn** · Linh Dịch lệch · cliff nắp lọ phương phụ / liều che → ch.109 `linh-dich-che` |
 
 ## Chương 109 — `linh-dich-che`
 

@@ -13,7 +13,7 @@
 ## Giữa
 
 - **Hốc / điểm quen** (Beat 1): MC **dọn** dấu tạm trú; tránh ánh mắt tán tu săn **Tàn Linh Sa** — giữ **thấp profile**.
-- **Tụ Linh Vi Trận Đĩa** (聚灵微阵盘): lấy ra từ túi / ngăn giấu — **canon Logic:** đã có từ Beat 3 (đổi phù/trận Phi Vân) hoặc loot uyên **chưa lộ** khi chia; prose chốt một đường — beat giữ **đĩa Hoàng trận** sẵn trong tay.
+- **Tụ Linh Vi Trận Đĩa**: lấy ra từ túi / ngăn giấu — **canon Logic:** đã có từ Beat 3 (đổi phù/trận Phi Vân) hoặc loot uyên **chưa lộ** khi chia; prose chốt một đường — beat giữ **đĩa Hoàng trận** sẵn trong tay.
 - **FS-006 — echo mầm (nhẹ):** một nhịp vision / tiếng vọng — *vì đại cục* (FS-014) + **hơi thở mồi không tên**; MC **lắc đầu**, quay lại đếm hạt — **không** ma quỷ, **không** giải.
 - **FS-010 nhắc:** mất lối / trễ bán **đã trả** — giờ **đổi** sang cược tu; không bài giảng.
 - **Chuẩn bị đột phá:** chọn **mạch yếu** (khe trận tàn / linh khí cực thấp nhưng **ổn định hơn mép uyên**); xếp dược; đĩa **chưa kích** — đối chiếu mảnh **Cửu Huyền Trận** (FS-001): có thể **không** phản ứng lần này (tránh lấn climax Beat 9).

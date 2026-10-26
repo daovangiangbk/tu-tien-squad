@@ -27,9 +27,9 @@
 
 | ID | Tên (registry) | Tầng | Ghi chú |
 | --- | --- | --- | --- |
-| CHAR-001 | **Tô Diêu** (苏遥) | Project | MC |
-| CHAR-002 | **Lục Thanh Phong** (陆清风) | Project | Chết Arc 2; theme xuyên |
-| CHAR-003 | **Phương Ngự Hàn** (方御寒) | Project | NC trì hoãn |
+| CHAR-001 | **Tô Diêu** | Project | MC |
+| CHAR-002 | **Lục Thanh Phong** | Project | Chết Arc 2; theme xuyên |
+| CHAR-003 | **Phương Ngự Hàn** | Project | NC trì hoãn |
 | CHAR-004 | **Trần Quy Mạc / Mạc Lão** | Arc 1 | Antagonist xám |
 | CHAR-005 | **Hứa Bình** | Arc 1 | Phí ngõ |
 | CHAR-006 | **Tống Minh Vi** | Arc T–2 | FS-003 |

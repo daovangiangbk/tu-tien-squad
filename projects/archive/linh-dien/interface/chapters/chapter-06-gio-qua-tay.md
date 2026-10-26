@@ -34,7 +34,7 @@ Tan ca, người rửa tay, ký sổ; **Thường An** ở lại **luống gió*
 
 Lá rụng sáng nay nằm dọc mương; nước đẩy vài chiếc — lá phụ thu, không tem cống hiến. Hắn dùng vợt tre gom một đống nhỏ, đem phơi góc **giàn phơi** cho khô tro; mùi lá Phong Linh Thảo phơi nhẹ, hòa mùi nước ao. Giàn trống phần lớn; chờ **Thu** mới đầy.
 
-Trong **kho**, sổ **Thu hái** treo cửa: còn vài ngày **Phong Linh Thảo**, **Ngũ Sắc Linh Quả** (五色灵果). Hắn ngửi lá trên tay — tưởng đủ kỳ; mùi còn non, gân còn mềm. Mẫu treo tường im; mắt biết, tay vẫn vội từ tu. Không ai ép hái sớm; chỉ có hạn giao và thói *đủ một lô* trong ngực — vài ngày nữa, tay có thể hái trước khi mắt đồng ý; hắn biết trước, chưa biết cách cản nhịp **sốt** ngoài việc viết lại sau khi sai.
+Trong **kho**, sổ **Thu hái** treo cửa: còn vài ngày **Phong Linh Thảo**, **Ngũ Sắc Linh Quả**. Hắn ngửi lá trên tay — tưởng đủ kỳ; mùi còn non, gân còn mềm. Mẫu treo tường im; mắt biết, tay vẫn vội từ tu. Không ai ép hái sớm; chỉ có hạn giao và thói *đủ một lô* trong ngực — vài ngày nữa, tay có thể hái trước khi mắt đồng ý; hắn biết trước, chưa biết cách cản nhịp **sốt** ngoài việc viết lại sau khi sai.
 
 Tối, kho ấm; trà nguội. Hắn mở quyển riêng, viết: *Hạ cuối, trận gió Z-2 quá tay — lá rụng; chỉnh nhỏ Tụ Linh luống sương.* Gió trận chạy đều; tiếng **Tụ Linh** xa như thở. **Ngưng Lộ Tông** xa tre, đèn lờ; điền yên trước mùa hái còn vài ngày trên sổ. Hắn đi ngủ với tay còn mùi lá phụ thu và mùi phù tre — mùi thợ, không mùi tu.
 

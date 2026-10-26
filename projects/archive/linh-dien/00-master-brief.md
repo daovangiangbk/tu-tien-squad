@@ -25,7 +25,7 @@
 
 ### Raw intent — bổ sung user (2026-09-24, chốt canon)
 
-> - **MC:** Nam · **Đại Thừa** (大乘) · đã đạt **quyền lực chiến đấu tuyệt đối trong Linh Giới**, chán tranh đấu · trở về quản linh điền tại tông **tự lập** (đã lập nhiều tông lớn nhỏ khắp Linh Giới).
+> - **MC:** Nam · **Đại Thừa** · đã đạt **quyền lực chiến đấu tuyệt đối trong Linh Giới**, chán tranh đấu · trở về quản linh điền tại tông **tự lập** (đã lập nhiều tông lớn nhỏ khắp Linh Giới).
 > - **Plot engine:** **Trải nghiệm cuộc sống yên bình** — **trồng linh thảo** trên điền; **thiếu kinh nghiệm linh nông** → bất ngờ / biến cố nhỏ khi trồng trọt (bón dư, nhầm loại, thúc cây bằng linh lực vô vọng, nhịp **chậm hơn** tu trước).
 > - **Hữu tình:** **Phong cảnh hữu tình** — không khí / cảnh đẹp gợi cảm xúc dịu; **không** plot quan hệ nam-nữ.
 > - **Quy mô:** **1 arc**, **5–10 chương** (<10); **không** bắt buộc kết dramatic.
@@ -64,7 +64,7 @@ Tiên hiệp **tĩnh** trên **một linh điền** tông **MC tự lập** (Lin
 | Trường | Giá trị |
 | --- | --- |
 | **Giới** | Nam |
-| **Cảnh giới** | **Đại Thừa** (大乘) — neo `03` §1.3 |
+| **Cảnh giới** | **Đại Thừa** — neo `03` §1.3 |
 | **Chiến lực (work)** | **Tuyệt đối trong phạm vi Linh Giới** (narrative framing; vẫn có **Độ Kiếp / Tiên** ở meta Core — không kể làm plot) |
 | **Lịch sử** | Đã lập **nhiều** tông lớn nhỏ; quay lại **tự quản** một linh điền tông “tình cờ” / quen thuộc |
 | **Động cơ** | **Yên bình** — **trồng linh thảo** trên điền; **nhàm** tranh đấu |

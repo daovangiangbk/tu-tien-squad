@@ -51,8 +51,7 @@ child_index:
     visibility: public
 ---
 
-# Tàn Mộ · 残漠大陆
-
+# Tàn Mộ · TànĐạiLục
 Châu lục sa mạc ở nam tây Bích Lạc Tinh, tập trung di tích, Cổ khí vụn và Khe Giới nhưng bị khống chế bởi Mạt Pháp cùng đường hành trình nguy hiểm.
 
 **parent:** [`Bích Lạc Tinh`](../../00-overview.md) · **GeoJSON:** [`chl-tan-mo.geojson`](../../geo/chau-luc/chl-tan-mo.geojson)

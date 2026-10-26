@@ -32,7 +32,7 @@ alwaysApply: false
 | Lớp | Quy tắc |
 | --- | --- |
 | **Canon** | Tên riêng, cảnh giới, pháp bảo, môn phái theo `00-glossary.md` + registry — **Hán Việt** khi đã chốt; tiêu đề chương cổ kính. |
-| **Thân văn** | **Tiếng Việt tự nhiên**, câu **chuẩn ngữ pháp Việt**; tránh **翻译腔** (cấu trúc convert Trung: «hắn hướng … thân hình …», lạm dụng «hư không», «đối với», «liền», «chỉ thấy», « không khỏi » kiểu web dịch). |
+| **Thân văn** | **Tiếng Việt tự nhiên**, câu **chuẩn ngữ pháp Việt**; tránh **PhiênDịchKhương** (cấu trúc convert Trung: «hắn hướng … thân hình …», lạm dụng «hư không», «đối với», «liền», «chỉ thấy», « không khỏi » kiểu web dịch). |
 | **Hán Việt trong câu** | Chỉ khi **thuật ngữ canon** hoặc thoại phe tu; **không** thay từ thuần Việt đã đủ (vd. *mỏ* thay vì xếp chữ Hán không cần). **Ưu tiên hình ảnh thuần Việt:** gió, đá, mùi, da, hơi thở, bóng tối. |
 | **Xưng hô** | Nhất quán (huynh, sư huynh, quản mỏ…); không lóng hiện đại. |
 
@@ -71,7 +71,7 @@ alwaysApply: false
 ❌ Trong ngực vẫn không có linh khí; không mơ tới tu tiên. (POV phàm + khung tu sẵn)
 ✅ Ngực chật vì hơi dầu; hơi kế dễ hơn một chút — sợ hơn đau, vì không có lý do quen trong mỏ.
 
-❌ Hắn liền hướng thân hình về phía ánh sáng phía trước. (翻译腔)
+❌ Hắn liền hướng thân hình về phía ánh sáng phía trước. (PhiênDịchKhương)
 ✅ Hắn quờ tay về phía tia sáng — mảnh, lạnh, rồi ấm một nhịp.
 
 ❌ Im. Im là vách. (telegraphic cả đoạn)
@@ -83,4 +83,4 @@ alwaysApply: false
 ## Agent
 
 - **`xianxia-prose-writer`:** draft/revise theo rule này.
-- **`xianxia-chapter-reviewer`:** `major` nếu mơ hồ hành động, sai POV tu, **翻译腔** nặng làm lệch tone, hoặc scale không gian sai continuity; `minor` chỉ khi làm sai nghĩa — không nit «hay hơn» thuần gu.
+- **`xianxia-chapter-reviewer`:** `major` nếu mơ hồ hành động, sai POV tu, **PhiênDịchKhương** nặng làm lệch tone, hoặc scale không gian sai continuity; `minor` chỉ khi làm sai nghĩa — không nit «hay hơn» thuần gu.

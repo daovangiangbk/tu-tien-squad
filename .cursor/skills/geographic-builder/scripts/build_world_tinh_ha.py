@@ -40,11 +40,11 @@ def main() -> int:
     args = p.parse_args()
 
     specs = [
-        ("CHL-TAY-MO", "Tây Mạc đại lục", "西漠大陆", (-240, 0), 180, 200, 26, 0.42),
-        ("CHL-HA-GIOI-NAM", "Đại Hoang Lục địa · Hạ Giới (Phàm giới)", "大荒大陆", (40, -145), 200, 130, 28, 0.38),
-        ("CHL-TRUNG-THIEN", "Trung Thiên đại lục", "中天大陆", (25, 95), 220, 160, 32, 0.32),
-        ("CHL-BAC-HUYEN", "Bắc Huyền đại lục", "北玄大陆", (10, 265), 200, 120, 26, 0.42),
-        ("CHL-DONG-HAI", "Đông Hải đại lục", "东海大陆", (235, 55), 175, 145, 28, 0.35),
+        ("CHL-TAY-MO", "Tây Mạc đại lục", "TâyMạcĐạiLục", (-240, 0), 180, 200, 26, 0.42),
+        ("CHL-HA-GIOI-NAM", "Đại Hoang Lục địa · Hạ Giới (Phàm giới)", "ĐạiHoangĐạiLục", (40, -145), 200, 130, 28, 0.38),
+        ("CHL-TRUNG-THIEN", "Trung Thiên đại lục", "TrungThiênĐạiLục", (25, 95), 220, 160, 32, 0.32),
+        ("CHL-BAC-HUYEN", "Bắc Huyền đại lục", "BắcHuyềnĐạiLục", (10, 265), 200, 120, 26, 0.42),
+        ("CHL-DONG-HAI", "Đông Hải đại lục", "ĐôngHảiĐạiLục", (235, 55), 175, 145, 28, 0.35),
     ]
 
     rng = random.Random(args.seed)
@@ -55,7 +55,7 @@ def main() -> int:
             "properties": {
                 "id": "TINH-HA-REF",
                 "name_vi": "Vực Tinh Hà (tham chiếu)",
-                "name_hv": "星河",
+                "name_hv": "TinhHà",
                 "kind": "hub",
             },
             "geometry": {"type": "Point", "coordinates": [0, 0]},

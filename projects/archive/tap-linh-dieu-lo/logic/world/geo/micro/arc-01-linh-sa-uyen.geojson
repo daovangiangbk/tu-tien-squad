@@ -7,7 +7,10 @@
   "world:parent_scope": "region",
   "world:parent_feature_id": "LOC-LINH-SA-UYEN",
   "world:parent_file": "region/reg-lan-sa-chau.geojson",
-  "world:parent_coordinates": [-27, -22],
+  "world:parent_coordinates": [
+    -27,
+    -22
+  ],
   "world:tieu_cuc_id": "TC-003",
   "world:coordinateNote": "Micro · Linh Sa Uyên Arc 1; gốc cửa trên; parent neo region; y âm = sâu nội bộ uyên.",
   "world:depth_axis": "region_xy = world:parent_coordinates + local_xy (mặt phẳng); trục sâu uyên không quy full chain lên chau_luc.",
@@ -17,7 +20,7 @@
       "properties": {
         "id": "LOC-LINH-SA-UYEN",
         "name_vi": "Điểm giao · cửa trên uyên",
-        "name_hv": "灵沙渊",
+        "name_hv": "Điểm giao",
         "kind": "hub",
         "visibility": "public",
         "parent_id": "LOC-LINH-SA-UYEN",
@@ -26,7 +29,13 @@
         "linh_khi_tier": "II",
         "notes": "Trạm đối khí; vòng đồng; chuông mở uyên (ch.19–20)"
       },
-      "geometry": { "type": "Point", "coordinates": [0, 0] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -40,7 +49,13 @@
         "parent_id": "LOC-LINH-SA-UYEN",
         "notes": "Sáu cọc phù dẫn dấu trước điểm giao (ch.18)"
       },
-      "geometry": { "type": "Point", "coordinates": [0, 18] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          18
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -54,7 +69,13 @@
         "parent_id": "LOC-LINH-SA-UYEN",
         "notes": "Vòng đồng xanh; chặn mép bắc lần đổi thứ tư (ch.19–21)"
       },
-      "geometry": { "type": "Point", "coordinates": [0, -14] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          -14
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -69,7 +90,13 @@
         "faction": "Thanh Sa Thương Hội",
         "notes": "Phí khe 3 hạt; dây mép bắc; đèn soi khí (ch.21)"
       },
-      "geometry": { "type": "Point", "coordinates": [-22, -28] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22,
+          -28
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -84,14 +111,20 @@
         "hazard": "phong bộc; khí đối lưu",
         "notes": "Dấu chuyển lần 4; không đi sau người mang chuông (ch.19–21)"
       },
-      "geometry": { "type": "Point", "coordinates": [-28, -42] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28,
+          -42
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-LSU-PHONG-BO-COT",
         "name_vi": "Phong Bộ Thiểm Bộ · cột gãy",
-        "name_hv": "风薄险步",
+        "name_hv": "Phong Bộ Thiểm Bộ",
         "kind": "dungeon",
         "visibility": "mc_phase1",
         "direction_label": "Tây",
@@ -99,7 +132,13 @@
         "hazard": "phong bộc ngược; hao thần",
         "notes": "Men vách; ấn xích; thoát vòng II (ch.21–22)"
       },
-      "geometry": { "type": "Point", "coordinates": [-35, -38] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35,
+          -38
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -113,7 +152,13 @@
         "parent_id": "LOC-LINH-SA-UYEN",
         "notes": "Dời ba trượng về nam lần đổi; nạn nhân đội sáu (ch.19–22)"
       },
-      "geometry": { "type": "Point", "coordinates": [-12, -52] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12,
+          -52
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -127,7 +172,13 @@
         "parent_id": "LOC-LINH-SA-UYEN",
         "notes": "Vòng vây Thanh Sa · sa thú; tranh slot (ch.23–24)"
       },
-      "geometry": { "type": "Point", "coordinates": [-8, -48] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8,
+          -48
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -141,7 +192,13 @@
         "parent_id": "LOC-LINH-SA-UYEN",
         "notes": "Loot pháp khí sơ; ba phe + yêu thú (ch.23)"
       },
-      "geometry": { "type": "Point", "coordinates": [-6, -68] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6,
+          -68
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -156,7 +213,13 @@
         "faction": "Thanh Sa Thương Hội",
         "notes": "Chia loot · Hợp Đội Lệnh rách (ch.26–27)"
       },
-      "geometry": { "type": "Point", "coordinates": [18, -55] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18,
+          -55
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -171,7 +234,13 @@
         "hazard": "Sinh tử tự mang",
         "notes": "Rãnh mồi vs cọc trắng; Thả mồi! (ch.27–28)"
       },
-      "geometry": { "type": "Point", "coordinates": [26, -12] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26,
+          -12
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -185,7 +254,13 @@
         "parent_id": "LOC-LINH-SA-UYEN",
         "notes": "Sinh tử tự mang; hai lối cọc trắng / rãnh mồi (ch.28)"
       },
-      "geometry": { "type": "Point", "coordinates": [14, -6] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14,
+          -6
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -200,7 +275,13 @@
         "travel_days_walk": "~3 dặm rẽ đông",
         "notes": "Ra uyên ch.28–29; giếng cạn tuyến về"
       },
-      "geometry": { "type": "Point", "coordinates": [38, 4] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38,
+          4
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -219,11 +300,26 @@
         "type": "Polygon",
         "coordinates": [
           [
-            [-40, -8],
-            [32, -8],
-            [36, -72],
-            [-40, -72],
-            [-40, -8]
+            [
+              -40,
+              -8
+            ],
+            [
+              32,
+              -8
+            ],
+            [
+              36,
+              -72
+            ],
+            [
+              -40,
+              -72
+            ],
+            [
+              -40,
+              -8
+            ]
           ]
         ]
       }
@@ -244,8 +340,14 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [0, 0],
-          [0, -14]
+          [
+            0,
+            0
+          ],
+          [
+            0,
+            -14
+          ]
         ]
       }
     },
@@ -266,9 +368,18 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [-22, -28],
-          [-28, -42],
-          [-35, -38]
+          [
+            -22,
+            -28
+          ],
+          [
+            -28,
+            -42
+          ],
+          [
+            -35,
+            -38
+          ]
         ]
       }
     },
@@ -288,9 +399,18 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [-12, -52],
-          [-8, -60],
-          [-6, -68]
+          [
+            -12,
+            -52
+          ],
+          [
+            -8,
+            -60
+          ],
+          [
+            -6,
+            -68
+          ]
         ]
       }
     },
@@ -311,9 +431,18 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [14, -6],
-          [26, -12],
-          [38, 4]
+          [
+            14,
+            -6
+          ],
+          [
+            26,
+            -12
+          ],
+          [
+            38,
+            4
+          ]
         ]
       }
     }

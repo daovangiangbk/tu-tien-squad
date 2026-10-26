@@ -11,9 +11,9 @@ Canh Tuất — tre đen rút song song hành lang phụ tây, không xa hơn ba
 
 Chiều Mùi chỉ **hé cửa** — màn, khói che nửa, cỏ hé ẩm một tích, **chưa** phù tro, **chưa** veo đầy. Đêm nay, theo lời tán tu trả hạt, miệng thứ hai trên cùng sổ nợ sẽ được đọc bằng tro. Gió tây nam đổi; khói không cờ dày hơn Mùi một tích.
 
-Dưới **断**, sợi xám tây nam mỏng hơn canh Bính; phế vẫn chết cục bộ; cọc đỏ đài bắc vẫn sáng. Tam giác trên tre vẫn *ổn*; phế trên sổ phụ vẫn *chưa khai* — miệng hút thở chậm hơn chiều một nhịp, như phổi thử mở cửa ngược. Hắn ngậm một ngụm nước mang theo; tro phụ tây chua trên môi, không đổi Linh Dịch. Báo khí **lệch** như sáng, không lan quá cọc đen; cỏ chết vàng giữ ranh. Khế cắn khi thần thức muốn bám miệng hố — đủ nhìn phế qua khói, không đủ khai. Một nét mực mới bên lề sổ treo phía đài — hắn không đọc gần — đủ biết *tro · một canh · chưa đối* viết song song *ổn tam giác*: ai trả trước, ai chỉ đứng tre, ai bị trừ suất vì khí đổi, tách trên hai sổ.
+Dưới **Đoạn**, sợi xám tây nam mỏng hơn canh Bính; phế vẫn chết cục bộ; cọc đỏ đài bắc vẫn sáng. Tam giác trên tre vẫn *ổn*; phế trên sổ phụ vẫn *chưa khai* — miệng hút thở chậm hơn chiều một nhịp, như phổi thử mở cửa ngược. Hắn ngậm một ngụm nước mang theo; tro phụ tây chua trên môi, không đổi Linh Dịch. Báo khí **lệch** như sáng, không lan quá cọc đen; cỏ chết vàng giữ ranh. Khế cắn khi thần thức muốn bám miệng hố — đủ nhìn phế qua khói, không đủ khai. Một nét mực mới bên lề sổ treo phía đài — hắn không đọc gần — đủ biết *tro · một canh · chưa đối* viết song song *ổn tam giác*: ai trả trước, ai chỉ đứng tre, ai bị trừ suất vì khí đổi, tách trên hai sổ.
 
-Ba bóng, đôi khi bốn — lách dưới đường chân núi **断**, ngoài tam giác chính thức. Không leo cọc đỏ đài bắc; không vào hành lang Thanh Vi được phép. Chỉ **miệng thứ hai**: nhánh bảy đã chết trên tre tông, sợi xám còn dính như gân khô trên thịt cắt. Lệch hướng ban ngày đã tan — tán tu già đã nói *trên đài cắt · dưới rìa hút* — giờ là **mắt thấy**, không còn chỉ lời đối địch.
+Ba bóng, đôi khi bốn — lách dưới đường chân núi **Đoạn**, ngoài tam giác chính thức. Không leo cọc đỏ đài bắc; không vào hành lang Thanh Vi được phép. Chỉ **miệng thứ hai**: nhánh bảy đã chết trên tre tông, sợi xám còn dính như gân khô trên thịt cắt. Lệch hướng ban ngày đã tan — tán tu già đã nói *trên đài cắt · dưới rìa hút* — giờ là **mắt thấy**, không còn chỉ lời đối địch.
 
 Một **màn** tro mỏng căng giữa hai mỏm đá — không trận sáng trời, không Kim trên hành lang. Màn rung một nhịp; khói loãng đủ để từ **ba trượng** hắn thấy hành vi, không thấy mặt.
 
@@ -55,11 +55,11 @@ Hắn không giơ tay. Giơ tay là thử hướng đã chọn người khác.
 
 ---
 
-Trên hành lang **trên** tam giác, một gã cờ Thanh Vi nhìn xuống — mặt cứng như chiều — không quát, không xuống đuổi. Huyền Lôi không kích trận ban đêm này. Đài bắc im: ưu tiên *cấm lậu* trên giấy, *ổn tam giác* trên tre — chấp sự phụ từ cọc đỏ không xuống phế chưa khai; không Kim Đan một mình dưới **断**.
+Trên hành lang **trên** tam giác, một gã cờ Thanh Vi nhìn xuống — mặt cứng như chiều — không quát, không xuống đuổi. Huyền Lôi không kích trận ban đêm này. Đài bắc im: ưu tiên *cấm lậu* trên giấy, *ổn tam giác* trên tre — chấp sự phụ từ cọc đỏ không xuống phế chưa khai; không Kim Đan một mình dưới **Đoạn**.
 
 Một chấp sự phụ đi ngang hành lang phụ tây — không tới chỗ hắn — đọc nhanh cho hàng tán tu rìa:
 
-— **断** · Hợi · **cấm hút lặp** — ai hút trước lệnh · khế ghi **cả đội** — **lậu · chưa đối**.
+— **Đoạn** · Hợi · **cấm hút lặp** — ai hút trước lệnh · khế ghi **cả đội** — **lậu · chưa đối**.
 
 Khí đổi một canh — y **biết** — y chọn không đọc to tên tro, chọn không hỏi ai úp lòng bàn. Hỏi là trinh sát thêm; không hỏi là *ổn tam giác* một đêm nữa trên sổ treo. Thanh Vi tin Huyền Lôi cấm lậu hơn tin Ma tên — đất dưới phế không đủ tên trên mõ, chỉ đủ tro và ranh.
 
@@ -75,7 +75,7 @@ Canh Tý — khói tan; lợi ngắn **tan dần** nhưng chưa về vàng hết
 
 Cỏ hé ẩm co lại; xám trong tam giác veo lại chiều cũ — chậm hơn trước màn một tích, vẫn cắn. *Một canh* không đổi số phận vùng; đổi **nhịp thở** đủ để ai đứng rìa không gục ngay.
 
-Thuận trên sổ vẫn để tro dưới **断** — khế, Trung lệch, ca im; Nghịch dưới khói vừa **trả trước** một canh bằng xám, miệng hố thở nhờ miệng khác. Hắn hiểu bằng mắt; hắn **không** hút. **Đường tắt** đã thấy; **Hữu** vẫn là vá · ca · hạt trên mõ — chưa chọn, chưa ký dưới rìa. Khí sụt trong xương vẫn kéo — chứng kiến không lành Trung; Linh Dịch lệch không vá thêm; ngụm nước trên tre không đủ một hơi dài. Thân hắn vẫn sổ Thuận chậm — ca, im, nợ treo, trừ suất mầm — trong khi cùng một vùng được cứu bằng nhịp khác. Trong đầu chỉ mầm — chưa lời chỉ huy chi nhánh, chưa gương đối thoại; khói, phù tro, và câu tán tu *nghiệp ai gánh*.
+Thuận trên sổ vẫn để tro dưới **Đoạn** — khế, Trung lệch, ca im; Nghịch dưới khói vừa **trả trước** một canh bằng xám, miệng hố thở nhờ miệng khác. Hắn hiểu bằng mắt; hắn **không** hút. **Đường tắt** đã thấy; **Hữu** vẫn là vá · ca · hạt trên mõ — chưa chọn, chưa ký dưới rìa. Khí sụt trong xương vẫn kéo — chứng kiến không lành Trung; Linh Dịch lệch không vá thêm; ngụm nước trên tre không đủ một hơi dài. Thân hắn vẫn sổ Thuận chậm — ca, im, nợ treo, trừ suất mầm — trong khi cùng một vùng được cứu bằng nhịp khác. Trong đầu chỉ mầm — chưa lời chỉ huy chi nhánh, chưa gương đối thoại; khói, phù tro, và câu tán tu *nghiệp ai gánh*.
 
 Thẻ hai mươi tám cọ đùi — nhắc bia, nhắc khế cả đội nếu ai lén. Túi rỗng — không mua đường tắt bằng hạt đêm nay. Sổ đen im trên hông — không ghi hút thay ai; ghi chỉ trong đầu, để mai đọc tre mà không há miệng sai chỗ.
 
@@ -101,7 +101,7 @@ Tô Diêu bước tiếp theo tre đen — hết ca Sửu, rút khỏi ranh ph�
 
 Phía sau, miệng hố thở xám — đã thấy phù tro, veo đầy, miệng thở ngược; đã thấy cỏ hé một canh; **chưa** thấy nghiệp ai gánh trên tre đài. Giữa Thuận chậm và Nghịch nhanh, mười bảy còn đứng trên hành lang được phép — và biết sáng mầm, hoặc ca đổi tây nam, **so gương** không chỉ là khói: có tin *chi nhánh* không mời, có sổ trừ suất dù chưa hút, có câu hỏi chưa mở trọn: hút giúp vùng một canh — **trả bằng gì** khi sổ chính đạo không ghi đủ.
 
-Gió từ mạch sống mang Mộc mỏng; gió từ **断** mang mùi tro đỏ còn vướng — hắn nuốt không xuống, chỉ đi.
+Gió từ mạch sống mang Mộc mỏng; gió từ **Đoạn** mang mùi tro đỏ còn vướng — hắn nuốt không xuống, chỉ đi.
 
 Khế gõ túi rỗng — tiếng nhỏ — nhắc *đường tắt* chưa mua, *điểm đổi ca* chưa lách, và nhắc canh kế: **đối chiếu** nhịp Ma với chuỗi Hữu — không chọn gia Ma, chỉ **nhìn** thêm một lớp trước khi *cứu vùng* ai đó khép trên tre.
 
@@ -113,7 +113,7 @@ Khế gõ túi rỗng — tiếng nhỏ — nhắc *đường tắt* chưa mua, 
 - **Revise (review REWRITE-66-112 · 2026-09-09):** **C-01** bỏ mã FS trong prose Canh Tý · giữ mầm nội tâm; **C-02** mở Canh Tuất nối cuối ch.81 (tre đen rút · không lặp Canh Dậu / lệnh Mai nguyên câu); **M-01** rút chuỗi đối chiếu Canh Tý còn hình Thuận/Nghịch + mầm.
 - **Campaign REWRITE-66-112 · full replace (2026-09-09):** Nối cliff ch.81 Canh Dậu / Mùi hé hút chưa phù·veo đầy; Beat 8 giữa; fair-play cơ chế hút (phù tro đỏ mờ · sa huyết · úp lòng bàn · veo xám vào miệng hố); MC witness rìa · không hút · không xuống phế; cliff → ch.83 (đối chiếu Hữu/Ma mầm · trừ suất · **không** mirror Sa Hồng Phàm đầy).
 - **Số chữ thân chương (prose):** ~2.507 từ (đếm token khoảng trắng; không tính metadata và ghi chú).
-- **Kiểm tra canon:** Đạt — Trúc Cơ Trung lệch, Linh Dịch lệch, túi rỗng, khế/sổ/thẻ 28/hiệu 17; cấm xuống · cấm hút · **断** chưa khai phế; không heal/vá Trung; không NC; không MC hút/gia nhập Ma; không Kim Đan solo xuống phế; không leader mirror đầy (→ ch.83); không payoff cứu vùng khép (→ ch.84); hút chỉ nhánh phế/xám; prose không tiếng Anh/meta.
+- **Kiểm tra canon:** Đạt — Trúc Cơ Trung lệch, Linh Dịch lệch, túi rỗng, khế/sổ/thẻ 28/hiệu 17; cấm xuống · cấm hút · **Đoạn** chưa khai phế; không heal/vá Trung; không NC; không MC hút/gia nhập Ma; không Kim Đan solo xuống phế; không leader mirror đầy (→ ch.83); không payoff cứu vùng khép (→ ch.84); hút chỉ nhánh phế/xám; prose không tiếng Anh/meta.
 - **FS đã gài/nuôi:** FS-010 · FS-015 · FS-002 · FS-004 · FS-011 *(mầm · đối chiếu nội tâm)* · FS-001 · FS-012 · FS-006 *(vọng)*.
 - **Tên cần chốt:** Không.
 - **Hook ch.83** (`logic/chapters/ch83-shortcut-ma-beat.md`): điểm đổi ca / hang tro tây nam · **Sa Hồng Phàm** mirror thoại ngắn · nuôi FS-011; khế + trừ suất cắn; vẫn không ký Ma.

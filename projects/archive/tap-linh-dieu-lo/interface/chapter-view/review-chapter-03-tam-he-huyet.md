@@ -88,7 +88,7 @@ Chương 3 hoàn thành cam kết ch.2 (“đêm nay sẽ tu”, cơ duyên tron
 
 ### Lore / lịch sử (nếu có)
 
-Không trích sử thật; **Thuận thiên / Tồn (存)** nhất quán review ch.1–2 Hán Việt.
+Không trích sử thật; **Thuận thiên / Tồn (Tồn)** nhất quán review ch.1–2 Hán Việt.
 
 ## 5. Spine & foreshadow (FS-xxx)
 

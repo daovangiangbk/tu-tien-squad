@@ -9,7 +9,7 @@
 
 | ID | Mức | Vị trí (đoạn / trích ngắn) | Cần sửa gì | Lý do (1 câu) |
 | --- | --- | --- | --- | --- |
-| C-01 | major | Hang / hai tầng — «Trên **Linh Giới** (灵界), phu mỏ và tu sĩ cùng một núi…» | Gói ý bằng cảnh sân cổng / mỏ (bạc xuống, linh thạch lên, cùng núi); bỏ hoặc thay tên giới «Linh Giới» trong suy nghĩ MC | POV phu mỏ (ch.1–3 chưa dùng giới danh; micro §2: arc đã ở Linh Giới): dễ đọc như «vừa sang giới» hoặc tầng luật thế giới thay kinh nghiệm mỏ. |
+| C-01 | major | Hang / hai tầng — «Trên **Linh Giới**, phu mỏ và tu sĩ cùng một núi…» | Gói ý bằng cảnh sân cổng / mỏ (bạc xuống, linh thạch lên, cùng núi); bỏ hoặc thay tên giới «Linh Giới» trong suy nghĩ MC | POV phu mỏ (ch.1–3 chưa dùng giới danh; micro §2: arc đã ở Linh Giới): dễ đọc như «vừa sang giới» hoặc tầng luật thế giới thay kinh nghiệm mỏ. |
 | C-02 | major | Leo dốc — «leo là trọng lượng + ý + nhịp thở dài» | Viết một–hai câu trọn ý (trọng lượng, ý giữ tay, hơi thở dài); bỏ công thức «+» | Prose-language: telegraphic/meta — cắt nghĩa hành leo thành nhãn công thức. |
 | C-03 | minor | Hốc / vết dầu — «…đốm than — **chứng từng** có đèn treo» | Sửa từ (vd. *chứng tích*, *dấu*) + câu đủ ý «từng có đèn treo» | Ngữ nghĩa — «chứng từng» không thành lời; làm lệch nghĩa manh mối đèn cũ. |
 

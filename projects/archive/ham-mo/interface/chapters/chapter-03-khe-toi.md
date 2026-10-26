@@ -9,7 +9,7 @@
 
 ---
 
-Nhát cuốc sau tiếng kêu dài của cột vẫn đi xuống vạch đỏ — không vì gan, vì **Mã Giữ Ca** (马守伢) vừa quát «**Đào tiếp!**» và roi trong tay chưa cất. Tay dừng, roi đến trước sập; hắn đã thấy ở Trung hầm. Gã trẻ bên cạnh cuốc liền như sợ trời rơi trước đá; lão phu xa hơn về phía thang, ho kẹt, mỗi cơn ho làm đèn treo trần lắc. Hắn **bám vạch đỏ**, mắt chỉ theo sợi vải huyết đục và mũi cuốc, **không** quay sang ngách bảng «cấm» — gió trong đó rít mảnh, lạnh, như khe thở của đá.
+Nhát cuốc sau tiếng kêu dài của cột vẫn đi xuống vạch đỏ — không vì gan, vì **Mã Giữ Ca** vừa quát «**Đào tiếp!**» và roi trong tay chưa cất. Tay dừng, roi đến trước sập; hắn đã thấy ở Trung hầm. Gã trẻ bên cạnh cuốc liền như sợ trời rơi trước đá; lão phu xa hơn về phía thang, ho kẹt, mỗi cơn ho làm đèn treo trần lắc. Hắn **bám vạch đỏ**, mắt chỉ theo sợi vải huyết đục và mũi cuốc, **không** quay sang ngách bảng «cấm» — gió trong đó rít mảnh, lạnh, như khe thở của đá.
 
 Trên mặt, nếu vẫn còn mặt, tiếng đập trời dày lên: không còn giống sấm xa. **Mưa.** Mưa thấm vách núi, làm đất mềm nơi không ai nhìn thấy; Hạ hầm chỉ nhận hậu quả — giọt nước rơi trần, trúng cổ, lạnh như kim; rồi bụi không rơi lẻ tẻ nữa mà trượt theo mảng đá như có tay đẩy từ trên.
 
@@ -93,7 +93,7 @@ Hắn không đứng; không đứng được. **Quyết bám gió** — không 
 
 Một khuỷu, một khuỷu; đá trên lưng cào, khe **nới** chút khi kéo thân theo hướng rộng hơn — không rộng cho đứng, rộng cho **liều**. Mỗi khuỷu, đá đè lệch một đường mới trên da; thương cũ nham thêm thương mới, và thương mới **đổi** cách bám: tay phải còn đủ sức, tay trái run vì vai kẹt. Vai trượt trên đá ướt; máu làm lòng bàn **trượt** một nhát — thân **lún** sắp tuột ngược về đống im, đá đè đập sườn, hơi **vọt** mất nửa nhịp, mắt tối sẫm một khoảnh. Hắn dừng, **cắn áo lau mu bàn tay** trên đá nhám — mất thời gian, tốn hơi, đau thêm cổ tay vì cấu vào đá — rồi mới bám lại. Trơn không giúp đi; trơn **đòi trả** bằng cú **gần trượt ngược** và **mất một nhịp thở mới** vừa học được.
 
-Vách có chỗ lở, chỗ nhọn; gờ sắc cắn cẳng như mép cắm da — một nhát, rút ra đau thêm. Trần khe thấp, đầu nghiêng sát đá ướt; nền dốc, đá đè trượt xuống bắp chân — đau chớp rồi qua; qua không phải hết, là **chưa tới**. Hắn nghĩ **Hàn Phong** (寒锋) một thoáng: ngón gõ không, phù bùng — đủ để phàm nằm im. Ở đáy khe không có phù; chỉ hơi thở dài hơn một nhịp, như lấy trộm thời gian từ chỗ trống trong xương.
+Vách có chỗ lở, chỗ nhọn; gờ sắc cắn cẳng như mép cắm da — một nhát, rút ra đau thêm. Trần khe thấp, đầu nghiêng sát đá ướt; nền dốc, đá đè trượt xuống bắp chân — đau chớp rồi qua; qua không phải hết, là **chưa tới**. Hắn nghĩ **Hàn Phong** một thoáng: ngón gõ không, phù bùng — đủ để phàm nằm im. Ở đáy khe không có phù; chỉ hơi thở dài hơn một nhịp, như lấy trộm thời gian từ chỗ trống trong xương.
 
 Sáng lớn thêm một tấc — không ban ngày, chỉ **ít tối hơn** tối phía sau. Gió rít bên tai trái; bên phải vách ẩm, nước rỉ lạnh. Hắn **chọn gió**, không vì đạo mà vì **còn đường thở**.
 

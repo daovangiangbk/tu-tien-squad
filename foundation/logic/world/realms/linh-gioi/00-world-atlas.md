@@ -1,6 +1,6 @@
 # Linh Giới — atlas (Foundation Canon)
 
-> **work_slug:** `foundation-canon` · **Giới:** Linh (灵界) — Luật 6 · **Convention:** [`../../00-geojson-world-map-convention.md`](../../00-geojson-world-map-convention.md)
+> **work_slug:** `foundation-canon` · **Giới:** Linh (Linh Giới) — Luật 6 · **Convention:** [`../../00-geojson-world-map-convention.md`](../../00-geojson-world-map-convention.md)
 
 **Hồ sơ đối tượng:** [`00-object-index.md`](00-object-index.md) · **Tinh cầu active (chi tiết):** [`planets/can-nguyen-tinh/00-world-atlas.md`](planets/can-nguyen-tinh/00-world-atlas.md) · **Catalog REG:** [`01-region-catalog.md`](01-region-catalog.md) · **Tiểu cục:** [`02-tieu-cuc-index.md`](02-tieu-cuc-index.md)
 
@@ -10,7 +10,7 @@ File này chỉ mô tả **Linh Giới** và **cụm tinh hà / tinh vực** đ�
 
 ## 1. Linh Giới trong Nhân Giới
 
-**Linh Giới** (灵界) là một trong **bốn giới diện vật chất song song** thuộc Nhân Giới (Không gian Bàn Cổ): **Phàm → Linh → Tiên → Thần**. Các giới **không** xếp chồng theo phương vị thường; ngăn cách bởi **giới bích nội tầng** (pháp tắc).
+**Linh Giới** là một trong **bốn giới diện vật chất song song** thuộc Nhân Giới (Không gian Bàn Cổ): **Phàm → Linh → Tiên → Thần**. Các giới **không** xếp chồng theo phương vị thường; ngăn cách bởi **giới bích nội tầng** (pháp tắc).
 
 | Khía cạnh | Tóm (Logic) |
 | --- | --- |
@@ -29,10 +29,10 @@ Trong Phase Foundation **2a**, atlas ghi **một cụm** (tinh vực lore) gọi
 
 | ID | Tên (Việt · Hán) | Vai trò | Vị trí so với main | Quy mô (story) | Profile linh khí |
 | --- | --- | --- | --- | --- | --- |
-| **`TH-LINH-CAN-NGUYEN`** | **Tinh hà Càn Nguyên** · 苍元灵域 | **Chủ** — sự kiện, geo Phase 2a | Hub cụm **bắc–đông** (đối diện Phàm `TH-PHAM-BICH-LAC` **nam–tây**) | **Một** tinh cầu khảo sát sâu · **6** đại lục | **Trung bình–dày**; mạch công cộng |
-| `TH-LINH-HUYEN-AM` | Huyền Âm · 玄阴灵域 | Láng giềng — âm–dương | **Tây** (~3–5 vạn đơn vị hư không lore) | 4–5 lục `(chưa geo)` | **Âm thịnh dương suy** |
-| `TH-LINH-MOC-DUONG` | Mộc Dương · 木阳灵域 | Láng giềng — dược / sinh thái | **Nam** (~2–4 vạn) | 5–7 lục `(chưa geo)` | **Mộc + dương** |
-| `TH-LINH-KIM-HA` | Kim Hà · 金河灵域 | Láng giềng — thương mạch | **Đông bắc xa** (~6–8 vạn) | 6+ lục `(chưa geo)` | **Kim–Thủy**; linh thạch cao cấp |
+| **`TH-LINH-CAN-NGUYEN`** | **Tinh hà Càn Nguyên** · Tinh hà Càn Nguyên | **Chủ** — sự kiện, geo Phase 2a | Hub cụm **bắc–đông** (đối diện Phàm `TH-PHAM-BICH-LAC` **nam–tây**) | **Một** tinh cầu khảo sát sâu · **6** đại lục | **Trung bình–dày**; mạch công cộng |
+| `TH-LINH-HUYEN-AM` | Huyền Âm · HuyềnÂmLinhVực | Láng giềng — âm–dương | **Tây** (~3–5 vạn đơn vị hư không lore) | 4–5 lục `(chưa geo)` | **Âm thịnh dương suy** |
+| `TH-LINH-MOC-DUONG` | Mộc Dương · MộcDươngLinhVực | Láng giềng — dược / sinh thái | **Nam** (~2–4 vạn) | 5–7 lục `(chưa geo)` | **Mộc + dương** |
+| `TH-LINH-KIM-HA` | Kim Hà · KimHàLinhVực | Láng giềng — thương mạch | **Đông bắc xa** (~6–8 vạn) | 6+ lục `(chưa geo)` | **Kim–Thủy**; linh thạch cao cấp |
 
 **Láng giềng:** markdown + slot lore — **không** file `00-tinh-ha` riêng trong Phase 2a.
 

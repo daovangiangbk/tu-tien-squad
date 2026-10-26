@@ -1,4 +1,4 @@
-# Phụ nghề tu tiên (副业 · 副职)
+# Phụ nghề tu tiên (·)
 
 **Nguồn:** `[nguồn V2]` §8 — phụ / trợ nghề bổ trợ con đường tu luyện.  
 **Hub Core:** `../core/02-world-laws-lore-core.md` §5 · `../core/03-power-system-economy-core.md` §3–4 · Luật 1–5.  
@@ -36,21 +36,21 @@
 
 | # | Nghề (Hán Việt) | Chức danh | Sản phẩm / dịch vụ chính | Catalog | Ai thuê / sở hữu |
 | --- | --- | --- | --- | --- | --- |
-| 1 | **Luyện đan** (炼丹) | **Đan sư** (丹师) | Đan đột phá, hồi phục, độc / Ma | `03`, `04` | Tông Đan các; **Luyện Đan Sư Hiệp Hội**; hắc thị |
-| 2 | **Luyện khí** (炼器) | **Khí sư** (器师) | Pháp khí, giáp, lò, túi không gian | `05` | Khí các tông; thương thành; gia tộc |
-| 3 | **Trận pháp** (阵法) | **Trận sư** (阵师) | Hộ sơn, sát, huyễn, truyền tống, hợp trận | `08` | Trận các; danh môn; Sát Thủ Các (hợp đồng) |
-| 4 | **Phù lục** (符箓) | **Phù sư** (符师) | Phù tấn công, phòng, ấn, truyền âm | `06` | Phù các; đúc sẵn ngoại môn; tán tu mua |
-| 5 | **Linh điền** (灵田) | **Linh nông** (灵农) | Linh dược, cốt thảo, gốc đan | `02-linh-duoc.md` | Tông / gia tộc; thuê ngoại môn |
-| 6 | **Sủng thú** (灵兽) | **Linh thú sư / Sư thú** (御兽师) | Linh thú chiến, cưỡi, dò bí cảnh | `07` (yêu đan liên quan) | Tông; yêu tộc đối lập; thương đội |
-| 7 | **Bói toán** (天机) | **Thiên cơ sư / Bói sư** (卜师) | Dự đoán cơ duyên, hung cát, thời mở bí cảnh | — (Logic) | Độc lập; Bách Hóa Đường; `(bí mật)` nội gián tông |
-| 8 | **Tạp tu** (杂修) | **Tạp dịch đệ tử** | Việc lặt: canh điền, vận tải, bảo vệ lô | — | Mọi tông §7; tán tu làm thuê |
+| 1 | **Luyện đan** | **Đan sư** | Đan đột phá, hồi phục, độc / Ma | `03`, `04` | Tông Đan các; **Luyện Đan Sư Hiệp Hội**; hắc thị |
+| 2 | **Luyện khí** | **Khí sư** | Pháp khí, giáp, lò, túi không gian | `05` | Khí các tông; thương thành; gia tộc |
+| 3 | **Trận pháp** | **Trận sư** | Hộ sơn, sát, huyễn, truyền tống, hợp trận | `08` | Trận các; danh môn; Sát Thủ Các (hợp đồng) |
+| 4 | **Phù lục** | **Phù sư** | Phù tấn công, phòng, ấn, truyền âm | `06` | Phù các; đúc sẵn ngoại môn; tán tu mua |
+| 5 | **Linh điền** | **Linh nông** | Linh dược, cốt thảo, gốc đan | `02-linh-duoc.md` | Tông / gia tộc; thuê ngoại môn |
+| 6 | **Sủng thú** | **Linh thú sư / Sư thú** | Linh thú chiến, cưỡi, dò bí cảnh | `07` (yêu đan liên quan) | Tông; yêu tộc đối lập; thương đội |
+| 7 | **Bói toán** | **Thiên cơ sư / Bói sư** | Dự đoán cơ duyên, hung cát, thời mở bí cảnh | — (Logic) | Độc lập; Bách Hóa Đường; `(bí mật)` nội gián tông |
+| 8 | **Tạp tu** | **Tạp dịch đệ tử** | Việc lặt: canh điền, vận tải, bảo vệ lô | — | Mọi tông §7; tán tu làm thuê |
 | 9 | **Thiên cơ / Lục bảo** `[bổ sung sáng tác]` | **Điển tịch sư** | Giải cổ văn, mảnh công pháp, đan phương | `04`, `09` | Tàng kinh các; đấu giá |
-| 10 | **Thi thu thập** (采药) | **Dược điêu / Thái dược** | Thu hái linh dược hoang sơ | `02` | Ngoại môn, tán tu, yêu giới tranh |
-| 11 | **Đào bảo / Khai cung** (探宝) | **Đào bảo tu** | Mở phế địa, bí cảnh; thuê hộ vệ | `05`, `08` | Tán tu, Sát Thủ Các, liên minh tông |
-| 12 | **Thương tu** (行商) | **Tu sĩ thương nhân** | Vận linh thạch, đan, pháp khí; tin | `01-linh-thach-tien-te.md` | **Bách Hóa Đường**, đấu giá hội |
+| 10 | **Thi thu thập** | **Dược điêu / Thái dược** | Thu hái linh dược hoang sơ | `02` | Ngoại môn, tán tu, yêu giới tranh |
+| 11 | **Đào bảo / Khai cung** | **Đào bảo tu** | Mở phế địa, bí cảnh; thuê hộ vệ | `05`, `08` | Tán tu, Sát Thủ Các, liên minh tông |
+| 12 | **Thương tu** | **Tu sĩ thương nhân** | Vận linh thạch, đan, pháp khí; tin | `01-linh-thach-tien-te.md` | **Bách Hóa Đường**, đấu giá hội |
 | 13 | **Luyện thể phụ** `[bổ sung sáng tác]` | **Thể dược sư** | Dược ngâm thân, đan Trúng Cốt | `03` | Võ tu, Luyện Thể tông phụ |
-| 14 | **Quỷ / Khế** (契鬼) Ma `[bổ sung sáng tác]` | **Quỷ tu sư** | Hợp đồng quỷ, U Minh phù hỗ trợ | `06` (Ma phù) | **Quỷ Doanh**; hắc thị; **Nghiệp** |
-| 15 | **Độc / Dược** (毒术) | **Độc sư** | Độc dược, đan độc, phá trận bằng độc | `03`, `07` | **Độc Phái**; ám sát; Luật 4 |
+| 14 | **Quỷ / Khế** Ma `[bổ sung sáng tác]` | **Quỷ tu sư** | Hợp đồng quỷ, U Minh phù hỗ trợ | `06` (Ma phù) | **Quỷ Doanh**; hắc thị; **Nghiệp** |
+| 15 | **Độc / Dược** | **Độc sư** | Độc dược, đan độc, phá trận bằng độc | `03`, `07` | **Độc Phái**; ám sát; Luật 4 |
 
 *Nghề 1–8: `[nguồn V2]` §8 (+ tạp tu). 9–15: mở rộng có logic kinh tế / phe §6.*
 
@@ -58,7 +58,7 @@
 
 ## 3. Chi tiết nghề cốt lõi (V2 §8)
 
-### 3.1. Luyện đan (炼丹) — Đan sư
+### 3.1. Luyện đan (Luyện Đan) — Đan sư
 
 | Trục | Nội dung |
 | --- | --- |
@@ -69,7 +69,7 @@
 | **Trade-off** | Thất bại → nổ lò, đan độc; luyện Ma đan → **Nghiệp**; đan sư chiến yếu → cần hộ vệ. |
 | **Tán tu** | Mua đan; hiếm có đan sư đỉnh giữ **phương lậu** (hook `02` §6). |
 
-### 3.2. Luyện khí (炼器) — Khí sư
+### 3.2. Luyện khí (Luyện Khí) — Khí sư
 
 | Trục | Nội dung |
 | --- | --- |
@@ -79,19 +79,19 @@
 | **Kinh tế** | Nuôi khí pháp bảo = **dòng linh thạch dài hạn** (`05`); tông giữ khí sư **Đại sư** để monopolize trang bị nội môn. |
 | **Trade-off** | Thất bại → phế khí; Ma luyện (**Huyết Sát Phi Kiếm**) → Nghiệp. |
 
-### 3.3. Trận pháp (阵法) — Trận sư
+### 3.3. Trận pháp (Trận pháp) — Trận sư
 
 | Trục | Nội dung |
 | --- | --- |
-| **Công việc** | Thiết kế trận đồ, bố trí **阵眼**, duy trì hộ sơn / truyền tống; **合阵** chiến. |
+| **Công việc** | Thiết kế trận đồ, bố trí **TrậnNhãn**, duy trì hộ sơn / truyền tống; **Hợp Trận — Tam Tài** chiến. |
 | **Cảnh giới sư** | Trúc Cơ+ tiểu trận; hộ sơn đại trận cần Kim Đan–Nguyên Anh trận sư + **linh mạch**. |
 | **Vật liệu** | Trận kỳ, linh thạch, linh mẫu, trận đĩa (`05`, `08`). |
 | **Kinh tế** | Dự án **tiêu hao lớn** (`03` §3.7); tranh cống hiến với Đan / Phù; Sát Thủ Các thuê trận **hợp đồng**. |
-| **Trade-off** | Phá **阵眼** = sụp trận; trận Ma / huyết → Nghiệp; hút mạch quá mức → World Luật 7. |
+| **Trade-off** | Phá **TrậnNhãn** = sụp trận; trận Ma / huyết → Nghiệp; hút mạch quá mức → World Luật 7. |
 
 → Chi tiết trận: **`08-tran-phap.md`**.
 
-### 3.4. Phù lục (符箓) — Phù sư
+### 3.4. Phù lục (Phù lục) — Phù sư
 
 | Trục | Nội dung |
 | --- | --- |
@@ -104,7 +104,7 @@
 
 → **`06-phu-luc.md`**.
 
-### 3.5. Linh điền (灵田) — Linh nông
+### 3.5. Linh điền (Linh điền) — Linh nông
 
 | Trục | Nội dung |
 | --- | --- |
@@ -114,7 +114,7 @@
 | **Kinh tế** | Gia tộc / tông **sở hữu điền**; tranh **hạt giống** & địa; nghẽn đan = khan linh dược. |
 | **Trade-off** | Sơn lâm yêu phá điền; chiếm điền = chiến tranh (Luật 7). |
 
-### 3.6. Sủng thú (灵兽 / 御兽)
+### 3.6. Sủng thú (Linh/)
 
 | Trục | Nội dung |
 | --- | --- |
@@ -123,7 +123,7 @@
 | **Kinh tế** | **Yêu đan** từ thú chết = tranh nhân–yêu (`07`); tông bán **sủng thú đệ tử**. |
 | **Trade-off** | Phản chủ; thú chết; Ma **nuốt yêu đan** shortcut — Nghiệp. |
 
-### 3.7. Bói toán (天机 / 卜筮)
+### 3.7. Bói toán (Thiên/)
 
 | Trục | Nội dung |
 | --- | --- |
@@ -132,7 +132,7 @@
 | **Kinh tế** | Bán **tin** = ngang giá trị linh thạch (Bách Hóa, Sát Thủ Các); `(bí mật)` che giấu **tọa độ bí cảnh**. |
 | **Trade-off** | **Nghịch Thiên** đoán sai → Nhân-Quả; lạm dụng Mệnh Lực → giảm thọ / tâm ma. `(invariant)` Bói **không thay** kiếp nạn — chỉ giảm rủi ro thông tin. |
 
-### 3.8. Tạp tu (杂修)
+### 3.8. Tạp tu (Tạp tu)
 
 | Trục | Nội dung |
 | --- | --- |

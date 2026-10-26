@@ -13,8 +13,15 @@
     {
       "id": "REG-DA-LUC-NEN",
       "name": "Thanh Vân · nền đại lục",
-      "dimensions": { "width": 1000, "length": 1000 },
-      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "dimensions": {
+        "width": 1000,
+        "length": 1000
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 0,
+        "y": 0
+      },
       "properties": {
         "kind": "wilderness",
         "visibility": "hidden_logic",
@@ -26,10 +33,17 @@
     {
       "id": "REG-TV-NAM-VAN",
       "name": "Nam Vân hải",
-      "dimensions": { "width": 480, "length": 80 },
-      "anchor": { "type": "absolute", "x": 260, "y": 32 },
+      "dimensions": {
+        "width": 480,
+        "length": 80
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 260,
+        "y": 32
+      },
       "properties": {
-        "name_hv": "南云海",
+        "name_hv": "Nam Vân hải",
         "kind": "wilderness",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public",
@@ -39,10 +53,18 @@
     {
       "id": "REG-TV-NAM-HAI",
       "name": "Nam Hải đảo",
-      "dimensions": { "width": 220, "length": 80 },
-      "anchor": { "type": "relative", "ref_id": "REG-TV-NAM-VAN", "edge": "right", "align": "start" },
+      "dimensions": {
+        "width": 220,
+        "length": 80
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-TV-NAM-VAN",
+        "edge": "right",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "南海岛",
+        "name_hv": "Nam Hải đảo",
         "kind": "wilderness",
         "tien_khi_tier": "dồi",
         "visibility": "public",
@@ -52,10 +74,18 @@
     {
       "id": "REG-TV-VAN-CUNG",
       "name": "Vân Cung thành",
-      "dimensions": { "width": 340, "length": 160 },
-      "anchor": { "type": "relative", "ref_id": "REG-TV-NAM-VAN", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 340,
+        "length": 160
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-TV-NAM-VAN",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "云宫城",
+        "name_hv": "Vân Cung thành",
         "kind": "polity",
         "tien_khi_tier": "mach_chủ",
         "visibility": "public",
@@ -65,10 +95,18 @@
     {
       "id": "REG-TV-THANH-FENG",
       "name": "Thanh Phong đài",
-      "dimensions": { "width": 340, "length": 120 },
-      "anchor": { "type": "relative", "ref_id": "REG-TV-VAN-CUNG", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 340,
+        "length": 120
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-TV-VAN-CUNG",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "青峰台",
+        "name_hv": "Thanh Phong đài",
         "kind": "polity",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public",
@@ -78,10 +116,18 @@
     {
       "id": "REG-TV-THIEN-MEN",
       "name": "Thiên Môn quan",
-      "dimensions": { "width": 340, "length": 100 },
-      "anchor": { "type": "relative", "ref_id": "REG-TV-THANH-FENG", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 340,
+        "length": 100
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-TV-THANH-FENG",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "天门关",
+        "name_hv": "Thiên Môn quan",
         "kind": "wilderness",
         "tien_khi_tier": "dồi",
         "visibility": "public",
@@ -91,10 +137,18 @@
     {
       "id": "REG-TV-BAC-MY",
       "name": "Bắc Mị vực",
-      "dimensions": { "width": 280, "length": 220 },
-      "anchor": { "type": "relative", "ref_id": "REG-TV-THIEN-MEN", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 280,
+        "length": 220
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-TV-THIEN-MEN",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "北迷域",
+        "name_hv": "Bắc Mị vực",
         "kind": "dungeon",
         "tien_khi_tier": "mach_rải",
         "visibility": "mc_phase1",
@@ -104,10 +158,17 @@
     {
       "id": "REG-TV-TAY-LAM",
       "name": "Tây Lam",
-      "dimensions": { "width": 200, "length": 480 },
-      "anchor": { "type": "absolute", "x": 24, "y": 100 },
+      "dimensions": {
+        "width": 200,
+        "length": 480
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 24,
+        "y": 100
+      },
       "properties": {
-        "name_hv": "西林",
+        "name_hv": "Tây Lam",
         "kind": "wilderness",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public",
@@ -117,10 +178,17 @@
     {
       "id": "BRR-TV-VAN-SON",
       "name": "Dãy Vân Sơn",
-      "dimensions": { "width": 48, "length": 460 },
-      "anchor": { "type": "absolute", "x": 224, "y": 108 },
+      "dimensions": {
+        "width": 48,
+        "length": 460
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 224,
+        "y": 108
+      },
       "properties": {
-        "name_hv": "云山",
+        "name_hv": "Dãy Vân Sơn",
         "kind": "barrier",
         "tien_khi_tier": "mach_rải_cao",
         "visibility": "public",
@@ -130,10 +198,18 @@
     {
       "id": "REG-TV-VAN-HAI",
       "name": "Vân Hải bình",
-      "dimensions": { "width": 200, "length": 300 },
-      "anchor": { "type": "relative", "ref_id": "BRR-TV-VAN-SON", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 200,
+        "length": 300
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "BRR-TV-VAN-SON",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "云海坪",
+        "name_hv": "Vân Hải bình",
         "kind": "wilderness",
         "tien_khi_tier": "dồi",
         "visibility": "public",
@@ -143,10 +219,18 @@
     {
       "id": "REG-TV-DONG-MACH",
       "name": "Đông Mạch uyên",
-      "dimensions": { "width": 260, "length": 420 },
-      "anchor": { "type": "relative", "ref_id": "REG-TV-VAN-CUNG", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 260,
+        "length": 420
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-TV-VAN-CUNG",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "东脉苑",
+        "name_hv": "Đông Mạch uyên",
         "kind": "wilderness",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public",
@@ -159,9 +243,12 @@
       "id": "LOC-TV-VAN-CUNG",
       "name": "Vân Cung · tiên môn",
       "type": "point",
-      "coordinates": { "x": 430, "y": 380 },
+      "coordinates": {
+        "x": 430,
+        "y": 380
+      },
       "properties": {
-        "name_hv": "云宫",
+        "name_hv": "Vân Cung",
         "kind": "hub",
         "visibility": "public",
         "tien_khi_tier": "mach_chủ"
@@ -172,19 +259,37 @@
       "name": "Vân Hà",
       "type": "river",
       "properties": {
-        "name_hv": "云河",
+        "name_hv": "Vân Hà",
         "kind": "route",
         "from_id": "REG-TV-THANH-FENG",
         "to_id": "REG-TV-NAM-VAN",
         "hazard": "ảo_cảnh_nhẹ"
       },
       "control_points": [
-        { "x": 420, "y": 520 },
-        { "x": 450, "y": 440 },
-        { "x": 430, "y": 360 },
-        { "x": 460, "y": 280 },
-        { "x": 440, "y": 200 },
-        { "x": 420, "y": 120 }
+        {
+          "x": 420,
+          "y": 520
+        },
+        {
+          "x": 450,
+          "y": 440
+        },
+        {
+          "x": 430,
+          "y": 360
+        },
+        {
+          "x": 460,
+          "y": 280
+        },
+        {
+          "x": 440,
+          "y": 200
+        },
+        {
+          "x": 420,
+          "y": 120
+        }
       ],
       "roughness": "medium"
     }

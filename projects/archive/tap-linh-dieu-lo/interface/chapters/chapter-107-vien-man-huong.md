@@ -7,7 +7,7 @@
 
 ---
 
-Canh Dần ngày bốn — sương chưa rút hết khỏi mái lò phụ — Tô Diêu xuống sân trước khi ca tro mở, không vì cần thêm điểm ảo trên tre công khai, vì đêm nay là đêm ép mạch đầu, và ban ngày lò không chờ thân mỏi. Trên tay áo, chữ **断** còn đọc được qua tro mới; trong ngực, hai mươi sáu điểm nếu *Ất Vô* ghi đủ sau ba ngày ca — không cần chắc sổ, cần canh sống. Ba hạt im trong túi ngoài; một hạt sẽ không đốt đêm nay — hạt đó dành cho chữ ký mượn phòng.
+Canh Dần ngày bốn — sương chưa rút hết khỏi mái lò phụ — Tô Diêu xuống sân trước khi ca tro mở, không vì cần thêm điểm ảo trên tre công khai, vì đêm nay là đêm ép mạch đầu, và ban ngày lò không chờ thân mỏi. Trên tay áo, chữ **Đoạn** còn đọc được qua tro mới; trong ngực, hai mươi sáu điểm nếu *Ất Vô* ghi đủ sau ba ngày ca — không cần chắc sổ, cần canh sống. Ba hạt im trong túi ngoài; một hạt sẽ không đốt đêm nay — hạt đó dành cho chữ ký mượn phòng.
 
 Mộ Dục Thanh đứng bên khay tro đúng mã — không hỏi *đường tắt* — chỉ đưa phiếu quét sáng và nói thấp khi hắn trình biên lai mượn linh khí phòng:
 
@@ -57,13 +57,13 @@ Chiều — ca trận giữ nhiệt khay trong sân phụ — nhịp thứ ba sa
 
 ---
 
-Canh Tuất đêm hai — hạt thứ hai ghim vách — linh khí dày lại một tích — rồi vào mạch. Ép mạch mạnh hơn đêm một — không vì tham — vì đỉnh phong Hậu còn một đoạn — đoạn không nằm trên tờ *đối chiếu* — nằm trên thân. Linh khí vào — lệch cắn — che mỏng run — nửa lọ phương phụ trong trí nhắc canh uống — canh đã qua — không uống thêm — uống gấp là Thuận giả. Tạp căn kéo ba hướng: Kim gắt một nhịp, Mộc yếu sau **断**, Hỏa im — tu thêm ban đêm trên thân là kéo dây đứt — hắn chỉ ép một hướng Hậu — có giá — không sạch.
+Canh Tuất đêm hai — hạt thứ hai ghim vách — linh khí dày lại một tích — rồi vào mạch. Ép mạch mạnh hơn đêm một — không vì tham — vì đỉnh phong Hậu còn một đoạn — đoạn không nằm trên tờ *đối chiếu* — nằm trên thân. Linh khí vào — lệch cắn — che mỏng run — nửa lọ phương phụ trong trí nhắc canh uống — canh đã qua — không uống thêm — uống gấp là Thuận giả. Tạp căn kéo ba hướng: Kim gắt một nhịp, Mộc yếu sau **Đoạn**, Hỏa im — tu thêm ban đêm trên thân là kéo dây đứt — hắn chỉ ép một hướng Hậu — có giá — không sạch.
 
 Giữa đêm — không ma quỷ — không hình — chỉ bia không tên trong đầu — canh và chữ *vì đại cục lò* — tro thật trong tay chiều cắt ảo — cắt bằng mùi tro đúng mã còn dính da — không lành vết ù — vết ù vẫn ù — quản lý — không kịch. Một nhịp nhớ miệng hố ngoài tam giác — nhớ tay không kéo — nhớ leo ruộng đúng manh hợp pháp — quả cứu phế Ma hội tro gom — không ai trả hết — tâm mầm dày thêm — không phải ma quỷ — chỉ mệt tích và nợ tích.
 
 Canh Dần sắp — hắn thu linh khí — không ép tầng cuối — tầng cuối để đêm ba — thân đêm hai đã mỏi đủ. Mảnh Cửu Huyền gật một tích — không sáng — không giải — chỉ giúp một nhịp không văng thần — rồi im. Ngọc lệch ù — đỉnh phong Hậu **mầm** — **chưa** Viên Mãn — **chưa** Kim Đan — chỉ biết còn một đoạn gấp.
 
-Sáng ngày năm — hắn gượng ngủ một khắc trên nệm tro — mộng không vào phế — chỉ vào khay và vách phòng run — thức vì tiếng xe manh dưới sân — tin lậu hay tin phế — không gõ cửa. Nước rửa mặt đục; tro chiều hôm qua còn một hạt xám trên cổ tay — rơi xuống chậu — cùng tro phường, khác giá: hôm nay trả bằng ca lọc và ca tro và đêm ba. Khế thành im — **断** mờ — không phải vì nghĩ Ma — vì nghĩ mai Hàn soi khay — soi là điểm — điểm leo vẫn chậm — chậm vẫn máu.
+Sáng ngày năm — hắn gượng ngủ một khắc trên nệm tro — mộng không vào phế — chỉ vào khay và vách phòng run — thức vì tiếng xe manh dưới sân — tin lậu hay tin phế — không gõ cửa. Nước rửa mặt đục; tro chiều hôm qua còn một hạt xám trên cổ tay — rơi xuống chậu — cùng tro phường, khác giá: hôm nay trả bằng ca lọc và ca tro và đêm ba. Khế thành im — **Đoạn** mờ — không phải vì nghĩ Ma — vì nghĩ mai Hàn soi khay — soi là điểm — điểm leo vẫn chậm — chậm vẫn máu.
 
 ---
 
@@ -75,7 +75,7 @@ Mộ Dục Thanh đếm tro — thấp:
 
 — Ta không hỏi bảo hành.
 
-— Tốt — mai anh vẫn quét sàn — **断** vẫn đọc — dừng lò — điểm đông — Sát đọc **断** thành bỏ hội — đừng dừng vì mệt — dừng vì chọn — anh đã chọn tiếp.
+— Tốt — mai anh vẫn quét sàn — **Đoạn** vẫn đọc — dừng lò — điểm đông — Sát đọc **Đoạn** thành bỏ hội — đừng dừng vì mệt — dừng vì chọn — anh đã chọn tiếp.
 
 Hàn Tử Ngư qua vách — lần đầu tiếng y chạm tên tắt trên sổ phụ — không nhìn mặt hắn — nhìn sổ:
 
@@ -83,7 +83,7 @@ Hàn Tử Ngư qua vách — lần đầu tiếng y chạm tên tắt trên sổ
 
 Một câu — rồi đi — lạnh như đếm phương sâu. Hắn không đáp — đáp là điểm.
 
-Trưa — phù che khói — một tờ — hao thần — không đốt hạt thứ ba ban ngày — hạt để đêm. Chiều — không ca trận sân — ca trận dồn đêm — ban ngày chỉ tro và phù — đan phù trận cùng thân — hao chồng hao — chỉ cần tay nứt và mắt vàng và **断** còn đọc.
+Trưa — phù che khói — một tờ — hao thần — không đốt hạt thứ ba ban ngày — hạt để đêm. Chiều — không ca trận sân — ca trận dồn đêm — ban ngày chỉ tro và phù — đan phù trận cùng thân — hao chồng hao — chỉ cần tay nứt và mắt vàng và **Đoạn** còn đọc.
 
 ---
 
@@ -91,13 +91,13 @@ Canh Tuất đêm ba — hạt cuối ghim vách — phòng dày linh khí đế
 
 Linh khí vào — ù — lệch cắn — che mỏng run mạnh — nửa lọ phương phụ trong ngực như lớp giấy ướt — không **Định Linh Tán** — không sạch gốc — đủ để leo — không đủ để mua cách sống hết. Mạch Hậu như vách nứt bị bơm nước — nước không chảy Thuận — chảy lệch — vẫn dày — vẫn lên — lên sát đỉnh phong như sáp sát ngọn nến trước khi cháy hết — chưa cháy hết — chưa Viên Mãn — chỉ sát đỉnh. Trúc Cơ Hậu kỳ dày — đỉnh phong Hậu **mầm căng** — **chưa** chốt Viên Mãn — **chưa** Kim Đan — chỉ một đoạn gấp còn lại — đoạn đó không nằm trong một đêm — nằm thêm đêm nữa — nằm thêm tro ban ngày — nằm thêm tâm. Ranh giới không nói — chỉ ù trong xương — giữa Hậu dày và đỉnh phong — giữa leo và gom — gom Viên Mãn chưa tới — hướng mới mở — xa — có giá — giá đã trả một phần bằng ba hạt mượn và ba đêm không ngủ sâu và tro bốn ngày không dừng.
 
-Giữa đêm — tâm ma **dày** — không hình — không miệng Ma — không **Sa Hồng Phàm** đứng cửa — chỉ lớp mệt và lớp nợ và lớp bia không tên và lớp *nhanh — tây* dưới bia **Định Linh Tán** hết — và lớp *đường tắt hội* treo cạnh tro — cùng một thành **Thạch Lam** — khác canh ai trả trước. Hắn không bước cổng tây — không mua miệng nhanh — cắt bằng tro trong trí — bằng nhiệt lò trong xương — bằng **断** trên áo — không lành vết ù — vết vẫn ù — quản lý — tâm mầm không thành ma quỷ — chỉ dày — dày đến mức thần không phân biệt được võng lò và võng phế trong một nhịp — rồi tỉnh bằng cắn lưỡi — không máu — chỉ đau — đau mua tỉnh.
+Giữa đêm — tâm ma **dày** — không hình — không miệng Ma — không **Sa Hồng Phàm** đứng cửa — chỉ lớp mệt và lớp nợ và lớp bia không tên và lớp *nhanh — tây* dưới bia **Định Linh Tán** hết — và lớp *đường tắt hội* treo cạnh tro — cùng một thành **Thạch Lam** — khác canh ai trả trước. Hắn không bước cổng tây — không mua miệng nhanh — cắt bằng tro trong trí — bằng nhiệt lò trong xương — bằng **Đoạn** trên áo — không lành vết ù — vết vẫn ù — quản lý — tâm mầm không thành ma quỷ — chỉ dày — dày đến mức thần không phân biệt được võng lò và võng phế trong một nhịp — rồi tỉnh bằng cắn lưỡi — không máu — chỉ đau — đau mua tỉnh.
 
 Canh Sửu — hạt cạn — linh khí thoát nhanh hơn vào — hắn thu manh trận — thu phù — không ngủ — ngủ là mai thiếu mắt — mai tro ban ngày **không** dừng — lò phường không chờ Viên Mãn — lò chờ khay. Đỉnh phong Hậu mầm căng — **chưa** Viên Mãn — **chưa** Kim Đan — Linh Dịch lệch hoặc che một tầng — không gom hết — không gom vết — hướng Viên Mãn mở trên đường dài — không trên đường tắt.
 
 ---
 
-Canh Dần ngày sáu — mắt hắn vàng đục — không úp tay — xuống sân phụ — ca tro mở — Mộ nhìn khay — không hỏi *tiếp hay dừng* — đã hỏi đủ — chỉ giao phiếu quét. Khói lò thẳng — hắn quét — tay run — run giữ trong tro — không lộ ra ngoài — lộ là Sát. Trong ngực, đỉnh phong Hậu mầm và tâm mầm dày cùng một trọng lượng — không ai bảo hành — hội không — Ma không — bia **Định Linh Tán** không — chỉ **断** và điểm và canh còn.
+Canh Dần ngày sáu — mắt hắn vàng đục — không úp tay — xuống sân phụ — ca tro mở — Mộ nhìn khay — không hỏi *tiếp hay dừng* — đã hỏi đủ — chỉ giao phiếu quét. Khói lò thẳng — hắn quét — tay run — run giữ trong tro — không lộ ra ngoài — lộ là Sát. Trong ngực, đỉnh phong Hậu mầm và tâm mầm dày cùng một trọng lượng — không ai bảo hành — hội không — Ma không — bia **Định Linh Tán** không — chỉ **Đoạn** và điểm và canh còn.
 
 Hắn biết đêm tới — không phải đêm nghỉ — đêm **tâm ma dày** hơn đêm ba — tre công khai im, không ghi canh này — nặng nằm trong ngực — một đoạn gấp leo đỉnh Hậu còn — trả bằng thân — trả bằng không dừng lò — trả bằng tro sáng mai dù thần chưa về hết. Một đêm phía trước — lò không dừng — hắn không dừng thở.
 
@@ -108,7 +108,7 @@ Gió ngõ một tích — vọng xa cổng tây — không lời — miệng nha
 ## Ghi chú sáng tác
 
 - **Revise (review ch.107):** C-01 `win` → *không thắng gốc*; C-02 `heal` ×2 → *không lành vết ù*; M-01 bỏ nhãn *Cliff*, giữ hook bằng tre im · ngực · đêm tới · lò không dừng.
-- **Handoff ch.106:** ~26 điểm → ~29 sau ca mượn phòng/trận/tro ngày 4–5; ba đêm ép mạch mở; Linh Dịch lệch · phương che một tầng; khế **断**; hub Thạch Lam; không lành vết · không Viên Mãn · không Kim Đan.
+- **Handoff ch.106:** ~26 điểm → ~29 sau ca mượn phòng/trận/tro ngày 4–5; ba đêm ép mạch mở; Linh Dịch lệch · phương che một tầng; khế **Đoạn**; hub Thạch Lam; không lành vết · không Viên Mãn · không Kim Đan.
 - **Beat 8 (3C mở):** Trade-off đan/phù/trận/tro · leo Hậu hướng đỉnh phong · FS-012 hao payoff một tầng (show); FS-014 echo wound/tâm mầm — không lành vết.
 - **Hook ch.108 `tam-ma-day`:** Tâm ma dày đêm tới · một đoạn gấp đỉnh Hậu còn · tro ban ngày không dừng · không dừng lò.
 - **Cấm giữ:** không NC đan sư; không solo Kim Đan; không Cửu Huyền payoff đầy; không thắng gốc **Định Linh Tán**; Linh Dịch lệch/che đến ch.112.

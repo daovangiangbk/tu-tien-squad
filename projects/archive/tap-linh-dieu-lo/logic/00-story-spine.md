@@ -1,6 +1,6 @@
 # Story spine — Phase 1 (Logic)
 
-> **Tác phẩm:** **Tạp Linh Diêu Lộ** (杂灵遥路) · **Slug:** `tap-linh-dieu-lo` · **Brief:** v3 · **Trần phase 1:** **Trúc Cơ kỳ đỉnh phong**  
+> **Tác phẩm:** **Tạp Linh Diêu Lộ** · **Slug:** `tap-linh-dieu-lo` · **Brief:** v3 · **Trần phase 1:** **Trúc Cơ kỳ đỉnh phong**  
 > **Neo Foundation:** `foundation/core/01–03`, `foundation/logic/01-event-scale-system.md`
 
 ---

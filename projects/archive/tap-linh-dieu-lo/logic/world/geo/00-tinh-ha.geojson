@@ -11,7 +11,7 @@
       "properties": {
         "id": "TINH-HA-REF",
         "name_vi": "Vực Tinh Hà (tham chiếu)",
-        "name_hv": "星河",
+        "name_hv": "Vực Tinh Hà (tham chiếu)",
         "kind": "hub"
       },
       "geometry": {
@@ -27,7 +27,7 @@
       "properties": {
         "id": "CHL-TAY-MO",
         "name_vi": "Tây Mạc đại lục",
-        "name_hv": "西漠大陆",
+        "name_hv": "Tây Mạc đại lục",
         "kind": "continent",
         "notes": "geo-shape-random seed 20260916"
       },
@@ -152,7 +152,7 @@
       "properties": {
         "id": "CHL-HA-GIOI-NAM",
         "name_vi": "Đại Hoang Lục địa · Hạ Giới (Phàm giới)",
-        "name_hv": "大荒大陆",
+        "name_hv": "Đại Hoang Lục địa",
         "kind": "continent",
         "notes": "Cực nam tinh hà; geo-shape-random seed 20260916; bối cảnh truyện chính",
         "realm": "ha_gioi_pham_gioi"
@@ -286,7 +286,7 @@
       "properties": {
         "id": "CHL-TRUNG-THIEN",
         "name_vi": "Trung Thiên đại lục",
-        "name_hv": "中天大陆",
+        "name_hv": "Trung Thiên đại lục",
         "kind": "continent",
         "notes": "geo-shape-random seed 20260916"
       },
@@ -435,7 +435,7 @@
       "properties": {
         "id": "CHL-BAC-HUYEN",
         "name_vi": "Bắc Huyền đại lục",
-        "name_hv": "北玄大陆",
+        "name_hv": "Bắc Huyền đại lục",
         "kind": "continent",
         "notes": "geo-shape-random seed 20260916"
       },
@@ -560,7 +560,7 @@
       "properties": {
         "id": "CHL-DONG-HAI",
         "name_vi": "Đông Hải đại lục",
-        "name_hv": "东海大陆",
+        "name_hv": "Đông Hải đại lục",
         "kind": "continent",
         "visibility": "hidden_logic",
         "notes": "Đông nam tinh hà; geo-shape-random seed 20260917; expansion slot"

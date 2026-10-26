@@ -20,7 +20,7 @@
 - **FS-002** payoff (gió · sáng lờ · đường hầm phụ · Thượng hầm)
 - **FS-004** nurtured (nợ lán · một dòng sổ)
 - MC vô danh; LK sơ khai qua thân nhẹ hơn chút, vẫn yếu/đau/kiệt
-- **Huyền Khố Linh Mỏ** (玄窟灵矿) — một lần canon
+- **Huyền Khố Linh Mỏ** — một lần canon
 - Không pháp thoát; leo/bò vật lý; không cứu hộ epic
 - Không sửa logic/geo files
 

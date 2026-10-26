@@ -3,6 +3,7 @@
 **Lớp:** Foundation (Core) — không viết chương, không chốt theme/bi kịch nhân vật.  
 **Tham chiếu luật thế giới:** `foundation/core/02-world-laws-lore-core.md` (Linh khí, địa mạch, Thiên đạo, Nhân-Quả).  
 **Luật bản thể:** `foundation/logic/world/laws/00-index.md` (Đại Đạo → Thiên Đạo → tu sĩ; Hòa Thiên / Siêu Thoát / Phá Thiên).
+**Hệ chiến lực đa trục:** `foundation/logic/world/laws/05-chien-luc-index.md` (bản thể → kỹ pháp → ngoại vật → đạo luật → tâm–trí; đánh giá vượt cấp tại `05f-danh-gia-chien-luc-va-vuot-cap.md`).
 **Thần thông & công pháp:** `foundation/resources/09-shentong-va-cong-phap.md` · **Trận pháp (catalog):** `foundation/resources/08-tran-phap.md`.  
 **Power ceiling canon:** Chuỗi cảnh giới đầy đủ đến **Thánh Nhân** theo nguồn; arc **Linh Giới** ( lộ trình tới **Độ Kiếp / Phi Thăng** ) có thể kết tại phi thăng — tránh inflation trong phạm vi truyện bằng **khoảng cách đại cảnh giới** và **điểm nghẽn tài nguyên**, không bằng cách cắt bậc.
 
@@ -25,10 +26,10 @@
 
 | Cõi (Hán Việt)     | Chuỗi cảnh giới (trần điển hình)                                                                                                         | Môi trường năng lượng                         | Giới bích kề                                                                   |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------ |
-| **Phàm Giới** (凡界) | **Phàm Nhân** · **Luyện Thể** ( võ tu ) — **không** chân tu cư trú ( Luật 6a )                                                           | **Mạt pháp** — linh khí cực mỏng / vô linh    | **Phàm–Linh** — xuyên sang **Linh Giới** ( Logic `02-pham-linh-interface.md` ) |
-| **Linh Giới** (灵界) | **Luyện Khí** (12) → **Trúc Cơ** → **Kim Đan** → **Nguyên Anh** → **Hóa Thần** → **Luyện Hư** → **Hợp Thể** → **Đại Thừa** → **Độ Kiếp** | **Thiên Địa Linh Khí**; linh mạch, linh thạch | **Linh–Tiên** — **Phi Thăng** sau **Cửu Cửu** (81 )                            |
-| **Tiên Giới** (仙界) | **Chân Tiên** → **Kim Tiên** → **Thái Ất Kim Tiên** → **Đại La Kim Tiên** → **Tiên Vương** → **Tiên Đế**                                 | **Tiên Khí / Tiên Nguyên Lực**                | **Tiên–Thần** — sang **Thần Giới** ( đại kiếp / Thần giai )                    |
-| **Thần Giới** (神界) | **Thần giai** — trần **trong bộ bốn** trước **Thánh** *( nguồn primary chưa liệt kê bậc tên; Logic mở arc bổ sung )*                     | **Thần Khí**                                  | Không có giới tu “trên Thần” trong bộ bốn                                      |
+| **Phàm Giới** | **Phàm Nhân** · **Luyện Thể** ( võ tu ) — **không** chân tu cư trú ( Luật 6a )                                                           | **Mạt pháp** — linh khí cực mỏng / vô linh    | **Phàm–Linh** — xuyên sang **Linh Giới** ( Logic `02-pham-linh-interface.md` ) |
+| **Linh Giới** | **Luyện Khí** (12) → **Trúc Cơ** → **Kim Đan** → **Nguyên Anh** → **Hóa Thần** → **Luyện Hư** → **Hợp Thể** → **Đại Thừa** → **Độ Kiếp** | **Thiên Địa Linh Khí**; linh mạch, linh thạch | **Linh–Tiên** — **Phi Thăng** sau **Cửu Cửu** (81 )                            |
+| **Tiên Giới** | **Chân Tiên** → **Kim Tiên** → **Thái Ất Kim Tiên** → **Đại La Kim Tiên** → **Tiên Vương** → **Tiên Đế**                                 | **Tiên Khí / Tiên Nguyên Lực**                | **Tiên–Thần** — sang **Thần Giới** ( đại kiếp / Thần giai )                    |
+| **Thần Giới** | **Thần giai** — trần **trong bộ bốn** trước **Thánh** *( nguồn primary chưa liệt kê bậc tên; Logic mở arc bổ sung )*                     | **Thần Khí**                                  | Không có giới tu “trên Thần” trong bộ bốn                                      |
 | **Sau Thần giai** | **Hòa Thiên** hoặc ứng viên **Siêu Thoát**; danh xưng **Thánh Nhân** phải ghi rõ thuộc nhánh nào | Thiên Đạo Hải hoặc Hỗn Độn | Hòa Thiên mất dần bản ngã; Siêu Thoát giữ bản ngã và vượt Giới Tường |
 
 
@@ -39,8 +40,8 @@
 
 | Tên                                | Đặc trưng                                                                                                | Tuổi thọ (ước) | Năng lực chiến đấu                                                                    | Điều kiện đột phá                                                                          | Kiếp nạn / rủi ro                         |
 | ---------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------- | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------- |
-| **Phàm Nhân** (凡人)                 | Nhược thể tráng niên; **chưa Luyện Khí** ( vô căn hoặc hữu căn chưa khai ); đa số chưa cảm quan linh khí | 60–80 năm      | Sức 50–100 kg; vũ khí phàm; không chống phù/linh lực                                  | —                                                                                          | Bệnh tật, môi trường                      |
-| **Luyện Thể Kỳ** (炼体) — **9 tầng** | **1–3:** Sức Bì Phu (da thịt). **4–6:** Đ锻 Cốt Tủy (xương tủy). **7–9:** Thay Máu Đổi Khí (huyết mạch)   | ~100 năm       | Sức đấm đá **100 kg–2.000 kg**; tốc độ ×2–3 phàm nhân; **không** Thần Thức / Linh Lực | Bài tập khắc nghiệt; linh dược ngâm thân; đả thông **ngoại kinh** — **không** đòi linh căn | Chấn thương kinh mạch; lệ thuộc dược liệu |
+| **Phàm Nhân**                 | Nhược thể tráng niên; **chưa Luyện Khí** ( vô căn hoặc hữu căn chưa khai ); đa số chưa cảm quan linh khí | 60–80 năm      | Sức 50–100 kg; vũ khí phàm; không chống phù/linh lực                                  | —                                                                                          | Bệnh tật, môi trường                      |
+| **Luyện Thể Kỳ** — **9 tầng** | **1–3:** Sức Bì Phu (da thịt). **4–6:** ĐRèn Cốt Tủy (xương tủy). **7–9:** Thay Máu Đổi Khí (huyết mạch)   | ~100 năm       | Sức đấm đá **100 kg–2.000 kg**; tốc độ ×2–3 phàm nhân; **không** Thần Thức / Linh Lực | Bài tập khắc nghiệt; linh dược ngâm thân; đả thông **ngoại kinh** — **không** đòi linh căn | Chấn thương kinh mạch; lệ thuộc dược liệu |
 
 
 **Phàm nhân ≠ vô căn:** Đa số phàm **vô linh căn**; **hữu căn** là thiểu số — Logic `[03-demographics-pham-linh.md](../logic/03-demographics-pham-linh.md)` §1–§2.
@@ -52,7 +53,7 @@
 
 | Tên                                 | Đặc trưng                                                                                                                                                                                                | Tuổi thọ (ước) | Năng lực chiến đấu                                                                                                                | Điều kiện đột phá                                                               | Kiếp nạn / rủi ro                                                                       |
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| **Luyện Khí Kỳ** (炼气) — **12 tầng** | **1–3 (Sơ):** khai kinh mạch, dẫn khí vào Đan Điền. **4–6 (Trung):** khí hóa lỏng sơ bộ. **7–9 (Hậu):** linh lực tràn mạch, Thần Thức sơ khai. **10–12 (Viên Mãn):** 108 huyệt, chuẩn bị ép khí hóa lỏng | 120–150 năm    | **1–3:** bùa thấp, nhẹ như chim. **4–6:** ma pháp tiểu hình, Pháp Khí sơ cấp. **7–12:** ngự kiếm ngón tay; Thần Thức **10–100 m** | **Linh Căn**; **Thiên Địa Linh Khí Linh Giới**; **Tụ Khí Đan**, **Tẩy Tủy Đan** | Kinh mạch nứt; **Thiên phạt Phàm** nếu tu lâu trên Phàm; tẩu hỏa nhập ma nếu cưỡng công |
+| **Luyện Khí Kỳ** — **12 tầng** | **1–3 (Sơ):** khai kinh mạch, dẫn khí vào Đan Điền. **4–6 (Trung):** khí hóa lỏng sơ bộ. **7–9 (Hậu):** linh lực tràn mạch, Thần Thức sơ khai. **10–12 (Viên Mãn):** 108 huyệt, chuẩn bị ép khí hóa lỏng | 120–150 năm    | **1–3:** bùa thấp, nhẹ như chim. **4–6:** ma pháp tiểu hình, Pháp Khí sơ cấp. **7–12:** ngự kiếm ngón tay; Thần Thức **10–100 m** | **Linh Căn**; **Thiên Địa Linh Khí Linh Giới**; **Tụ Khí Đan**, **Tẩy Tủy Đan** | Kinh mạch nứt; **Thiên phạt Phàm** nếu tu lâu trên Phàm; tẩu hỏa nhập ma nếu cưỡng công |
 
 
 **Nhánh hội nhập:** Võ tu **Luyện Thể** qua bích → **Luyện Khí** ( Linh Căn ) → **Trúc Cơ**; Luyện Khí là đường chính thống trên **Linh Giới** ( Logic layer chốt từng phe ).
@@ -64,9 +65,9 @@
 
 | Tên                    | Tiểu cảnh giới                                                                           | Tuổi thọ (ước)  | Năng lực chiến đấu                                                                           | Điều kiện đột phá                                                                               | Kiếp nạn / rủi ro                                                                      |
 | ---------------------- | ---------------------------------------------------------------------------------------- | --------------- | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| **Trúc Cơ Kỳ** (筑基)    | Sơ → Trung → Hậu → **Đại Viên Mãn**                                                      | 200–300 năm     | Ngự kiếm phi hành xa; linh khí trung/cao cấp; Thần Thức **vài km**; phá hoại **đồi núi nhỏ** | Ép linh khí **khí → lỏng** (Linh Dịch) tại Đan Điền; **Trúc Cơ Đan** hoặc **Linh Mạch** dồi dào | Tỷ lệ thất bại cao nếu căn cơ yếu; đan độc / cơ bất toàn                               |
-| **Kim Đan Kỳ** (金丹)    | Sơ → Trung → Hậu → Đại Viên Mãn; **phẩm đan:** Hạ / Trung / Thượng / Cực / **Thiên Đan** | 500–800 năm     | Linh lực khó cạn; Cổ Bảo, Trận Đĩa trung cấp; **hủy thành trì nhỏ** nhanh                    | Cô đọng Linh Dịch → **Kim Đan** bất hoại                                                        | **Tâm Ma Kiếp** sơ cấp **hoặc** **3 luồng Lôi Kiếp** (nhẹ); vỡ đan                     |
-| **Nguyên Anh Kỳ** (元婴) | Sơ → Trung → Hậu → Đại Viên Mãn                                                          | 1.000–2.000 năm | Nguyên Anh xuất xác, **Thuấn Di** ngắn; xé không gian ngắn hạn; **phá hủy đại đô thị**       | Đập Kim Đan → Nguyên Anh (linh thai)                                                            | **Lục Cửu Thiên Kiếp** (6 đợt sấm) + **Tâm Ma Kiếp** khắc nghiệt; đoạt xá nếu thể diệt |
+| **Trúc Cơ Kỳ**    | Sơ → Trung → Hậu → **Đại Viên Mãn**                                                      | 200–300 năm     | Ngự kiếm phi hành xa; linh khí trung/cao cấp; Thần Thức **vài km**; phá hoại **đồi núi nhỏ** | Ép linh khí **khí → lỏng** (Linh Dịch) tại Đan Điền; **Trúc Cơ Đan** hoặc **Linh Mạch** dồi dào | Tỷ lệ thất bại cao nếu căn cơ yếu; đan độc / cơ bất toàn                               |
+| **Kim Đan Kỳ**    | Sơ → Trung → Hậu → Đại Viên Mãn; **phẩm đan:** Hạ / Trung / Thượng / Cực / **Thiên Đan** | 500–800 năm     | Linh lực khó cạn; Cổ Bảo, Trận Đĩa trung cấp; **hủy thành trì nhỏ** nhanh                    | Cô đọng Linh Dịch → **Kim Đan** bất hoại                                                        | **Tâm Ma Kiếp** sơ cấp **hoặc** **3 luồng Lôi Kiếp** (nhẹ); vỡ đan                     |
+| **Nguyên Anh Kỳ** | Sơ → Trung → Hậu → Đại Viên Mãn                                                          | 1.000–2.000 năm | Nguyên Anh xuất xác, **Thuấn Di** ngắn; xé không gian ngắn hạn; **phá hủy đại đô thị**       | Đập Kim Đan → Nguyên Anh (linh thai)                                                            | **Lục Cửu Thiên Kiếp** (6 đợt sấm) + **Tâm Ma Kiếp** khắc nghiệt; đoạt xá nếu thể diệt |
 
 
 **Sinh sản & hậu duệ (chân tu):** Trúc Cơ+ **khó sinh con** ( thân phi phàm ); gia tộc dùng đan / trận / khế — **hiếm, tốn tài nguyên**. Nguồn nhân lực tông **chủ yếu thu nạp từ phàm hữu căn** — Logic `[03-demographics-pham-linh.md](../logic/03-demographics-pham-linh.md)` §4–§5 ( **không** lặp tỉ lệ ở đây ).
@@ -86,7 +87,7 @@
 | **Năng lực**               | Mô tả **đặc trưng** + quy mô tương đối; không spam số km trong Interface.                                                                                                                                                                        |
 | **Giới diện / kết cục** | **Phàm Giới** ( §1.1 ) · **Linh Giới** ( §1.2–§1.3 đến **Độ Kiếp** ) · **Tiên Giới** ( **Chân Tiên+** ) · **Thần Giới** ( **Thần giai** ). Sau Thần giai, danh xưng **Thánh Nhân** phải chốt nhánh **Hòa Thiên** hoặc ứng viên **Siêu Thoát**. |
 | **Tài nguyên**             | **Linh Giới:** linh lực + **Thiên Địa Linh Khí** ( linh thạch ). **Phàm Giới:** mỏng, nhập khẩu. **Luyện Hư+:** quy luật trên nền linh khí ( trong **Linh Giới** ). **Tiên Giới:** **Tiên Nguyên** ( tiên thạch ) · **Thần Giới:** **Thần Khí**. |
-| **Tản Tiên** (散仙)          | **Trạng thái**, không phải đại cảnh giới: sống sót **Cửu Cửu** thất bại → tu luyện bị **lôi kiếp định kỳ** hành hạ; trần đột phá Kim Tiên+.                                                                                                      |
+| **Tản Tiên**          | **Trạng thái**, không phải đại cảnh giới: sống sót **Cửu Cửu** thất bại → tu luyện bị **lôi kiếp định kỳ** hành hạ; trần đột phá Kim Tiên+.                                                                                                      |
 
 
 **Khoảng cách đại cảnh giới:** Ổn định so với **đầu** đại cảnh giới liền dưới ≈ **10×–100×** hiệu quả (linh lực / quy tắc / phạm vi thần thức) — **logarit**, không tuyến tính vô hạn.
@@ -94,23 +95,23 @@
 
 | Tên                            | Cõi (song song)                                     | Tiểu cảnh giới                           | Tuổi thọ (ước)                                           | Năng lực chiến đấu                                                                                                                                                                                             | Điều kiện đột phá                                                                             | Kiếp nạn / rủi ro                                                                                                                               |
 | ------------------------------ | --------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Hóa Thần Kỳ / Thần Du** (化神) | **Linh Giới**                                       | Sơ → Trung → Hậu → Viên Mãn              | 3.000–5.000 năm                                          | **Đỉnh chiến lực thường gặp** trong **Linh Giới** ( trước Luyện Hư ); thần thức **một quốc gia / đại lục**; **điều động Linh Khí Thiên Địa** ( sức chiến không chỉ trữ lượng cá nhân ); thần thông / ý cảnh sơ | Nguyên Anh dung **Tinh Thần Lực**; cảm **Ý Cảnh / quy luật** sơ bộ; bế quan **hàng trăm năm** | Ngộ đạo sai → **tâm ma**; lộ khí → truy sát; chiến kéo dài **rút cạn linh mạch** (Luật 1–2)                                                     |
-| **Luyện Hư / Động Hư** (炼虚)    | **Linh Giới**                                       | Sơ → Trung → Hậu → Viên Mãn              | 8.000–10.000 năm                                         | **Thao túng lực lượng không gian**; giam đối thủ trong hư không; **Trọng Vực**; **Động Thiên** nhỏ trong thân hoặc gắn thần thức                                                                               | Luyện hóa **hư không**; dựng **không gian độc lập**                                           | **Hư không phản phệ**; tiêu hao cực đại; vỡ Động Thiên → tổn căn                                                                                |
-| **Hợp Thể Kỳ** (合体)            | **Linh Giới**                                       | Sơ → Trung → Hậu → Viên Mãn              | 12.000–16.000 năm                                        | Thần thức–thể xác–linh lực **đồng bộ**; pháp tắc vi mô trong một vùng; vượt xa Hóa Thần về **ổn định chiến dài**                                                                                               | Dung hợp **Thần Thức + Thể Xác + quy luật đã ngộ**; bắt đầu xóa khuyết phàm thể               | **Thân phân bất hòa** (thần–thể lệch); tâm ma hợp thể                                                                                           |
-| **Đại Thừa Kỳ** (大乘)           | **Linh Giới** · chuẩn bị **Linh→Tiên**              | Sơ → Trung → Hậu → Viên Mãn              | **20.000+** năm                                          | **Chưởng vỡ đại lục**, chuyển sông dời núi; toàn bộ linh lực **chuyển dần → Tiên Nguyên Lực** sơ cấp; sức **chuẩn Tiên Nhân** ( chưa qua **giới bích Linh–Tiên** )                                             | Hoàn tất Hợp Thể; **xóa khuyết điểm phàm thể**; tích lũy Tiên Nguyên                          | Tâm ma **Đại Thừa**; tranh **Tiên thạch / đan Tiên giai**; Ma đạo khó tới bậc này (Nghiệp)                                                      |
-| **Độ Kiếp Kỳ** (渡劫)            | **Linh Giới** · **giới bích Linh→Tiên**             | Sơ → Trung → Hậu → **Đột Phá Phi Thăng** | (chuẩn bị **Tiên thể**; không cộng thọ như cảnh thường)  | **Đỉnh Linh Giới**; đủ **phá giới bích** sang **Tiên Giới**; một đòn quy mô **Chân Tiên sơ nhập**                                                                                                              | Hoàn tất **Đại Thừa Viên Mãn**; ngưng tụ **Tiên thể**                                         | **Cửu Cửu Lôi Kiếp** (**81** đạo — mạnh nhất **Linh Giới** ); thất bại **sống sót** → **Tản Tiên**; thất bại chết → hồn tán / luân hồi tùy lore |
-| **Chân Tiên Kỳ** (真仙)          | **Tiên Giới**                                       | Sơ → Trung → Hậu → Viên Mãn              | Ngang **tiểu thế giới** (triệu năm)                      | **Tiên thể** ổn định; mọi chiến dùng **Tiên Nguyên Lực**; sinh tồn trong môi trường Tiên giới; pháp bảo **Tiên giai**                                                                                          | Vượt **giới bích Linh–Tiên**; rửa sạch phàm thể sau **Cửu Cửu**                               | **Tiên kiếp** sơ *(theo Thiên Đạo Tiên giới)*; yếu trước **Kim Tiên quy tắc**                                                                   |
-| **Kim Tiên Kỳ** (金仙)           | **Tiên Giới**                                       | Sơ → Trung → Hậu → Viên Mãn              | Bất tử trước đòn **dưới Kim Tiên**                       | Ngưng tụ **Kim Tiên Quy Tắc** (một hoặc vài quy tắc lõi); kháng sát thương **cấp quy tắc**; không bị Chân Tiên thuần lực nghiền                                                                                | Chân Tiên Viên Mãn + **ngộ quy tắc** + tài nguyên Tiên giai                                   | **Kim Tiên kiếp** / Thiên kiếp nặng; vỡ quy tắc → tàn phế vĩnh cửu                                                                              |
-| **Thái Ất Kim Tiên** (太乙金仙)    | **Tiên Giới** · đa giới                             | Sơ → Trung → Hậu                         | Thọ gắn **quy tắc đã chủ** (vượt triệu năm)              | Chủ **Thời Gian** *hoặc* **Không Gian** (một nhánh đại đạo); **du hành vạn giới**; đè Kim Tiên cùng hệ quy tắc                                                                                                 | Kim Tiên Viên Mãn; thâm nhập **đại đạo nhị nguyên** (Thời / Không)                            | **Thiên Đạo phản phệ** nếu cưỡng quy tắc ngoài phạm vi; `(bí mật)` tranh **địa mạch Tiên giới**                                                 |
-| **Đại La Kim Tiên** (大罗金仙)     | **Tiên Giới** · ngoài luân hồi                      | Sơ → Trung → Hậu → Viên Mãn              | **Đồng thọ Thiên Địa** (trong phạm vi một vũ trụ / giới) | **Thoát Ngũ Hành** (không bị khắc đơn thuần); **ngoài Luân Hồi** thông thường; ý niệm hủy **tinh hệ / giới** cỡ lớn *(plot ceiling trước Thánh)*                                                               | Thái Ất + **hợp nhất đa quy tắc**; chứng **Đại La đạo quả**                                   | **Đại kiếp** *(theo Thiên Đạo)*; hao tâm ma **vạn kiếp** tích lũy                                                                               |
-| **Tiên Vương Kỳ** (仙王)         | **Tiên Giới** · trung tâm quyền lực                 | Sơ → Trung → Hậu                         | Như Đại La+; gắn **phong vũ / giới vực**                 | **Chủ một phương Đại Đạo** (trong phạm vi lore); sáng tạo / hủy **tinh hà** bằng ý; điều phối **Tiên quân / giới luật**                                                                                        | Đại La Viên Mãn + **Thiên Mệnh / phong ấn giới** *(lore)*                                     | Tranh **Đế vị / quy tắc gốc**; thua → mất quy tắc, rớt cảnh                                                                                     |
-| **Tiên Đế Kỳ** (仙帝)            | **Tiên Giới** · đỉnh **bộ bốn** trước **Thần Giới** | Sơ → Trung → Hậu → Viên Mãn              | Gắn **một giới / vũ trụ lớn**                            | **Quy Luật Đại Đạo tối cao** *(trong phạm vi tác phẩm)*; một ý niệm định **sinh diệt tinh hà**                                                                                                                 | Tiên Vương đỉnh + **hợp Đế ấn / giới tâm**                                                    | **Đế kiếp**; `(bí mật)` liên **Thiên biến giới** (Luật 8)                                                                                       |
-| **Thánh Nhân** (混元圣人 / 圣人) | **Danh xưng hậu thế sau Thần giai; không tự xác định kết cục** | *(không chia tầng Interface)* | Tùy nhánh, không mặc định bất diệt tuyệt đối | Có thể **Hòa Thiên** thành công năng của Thiên Đạo Hải, hoặc thành ứng viên **Siêu Thoát** giữ bản ngã qua Giới Tường | Thần giai đỉnh + lựa chọn bản thể; cần Logic chốt nhánh | Hòa Thiên: mất dần cá nhân; Siêu Thoát: kiểm định cực hạn; Phá Thiên: bị Thiên Đạo ngăn tuyệt đối |
+| **Hóa Thần Kỳ / Thần Du** | **Linh Giới**                                       | Sơ → Trung → Hậu → Viên Mãn              | 3.000–5.000 năm                                          | **Đỉnh chiến lực thường gặp** trong **Linh Giới** ( trước Luyện Hư ); thần thức **một quốc gia / đại lục**; **điều động Linh Khí Thiên Địa** ( sức chiến không chỉ trữ lượng cá nhân ); thần thông / ý cảnh sơ | Nguyên Anh dung **Tinh Thần Lực**; cảm **Ý Cảnh / quy luật** sơ bộ; bế quan **hàng trăm năm** | Ngộ đạo sai → **tâm ma**; lộ khí → truy sát; chiến kéo dài **rút cạn linh mạch** (Luật 1–2)                                                     |
+| **Luyện Hư / Động Hư**    | **Linh Giới**                                       | Sơ → Trung → Hậu → Viên Mãn              | 8.000–10.000 năm                                         | **Thao túng lực lượng không gian**; giam đối thủ trong hư không; **Trọng Vực**; **Động Thiên** nhỏ trong thân hoặc gắn thần thức                                                                               | Luyện hóa **hư không**; dựng **không gian độc lập**                                           | **Hư không phản phệ**; tiêu hao cực đại; vỡ Động Thiên → tổn căn                                                                                |
+| **Hợp Thể Kỳ**            | **Linh Giới**                                       | Sơ → Trung → Hậu → Viên Mãn              | 12.000–16.000 năm                                        | Thần thức–thể xác–linh lực **đồng bộ**; pháp tắc vi mô trong một vùng; vượt xa Hóa Thần về **ổn định chiến dài**                                                                                               | Dung hợp **Thần Thức + Thể Xác + quy luật đã ngộ**; bắt đầu xóa khuyết phàm thể               | **Thân phân bất hòa** (thần–thể lệch); tâm ma hợp thể                                                                                           |
+| **Đại Thừa Kỳ**           | **Linh Giới** · chuẩn bị **Linh→Tiên**              | Sơ → Trung → Hậu → Viên Mãn              | **20.000+** năm                                          | **Chưởng vỡ đại lục**, chuyển sông dời núi; toàn bộ linh lực **chuyển dần → Tiên Nguyên Lực** sơ cấp; sức **chuẩn Tiên Nhân** ( chưa qua **giới bích Linh–Tiên** )                                             | Hoàn tất Hợp Thể; **xóa khuyết điểm phàm thể**; tích lũy Tiên Nguyên                          | Tâm ma **Đại Thừa**; tranh **Tiên thạch / đan Tiên giai**; Ma đạo khó tới bậc này (Nghiệp)                                                      |
+| **Độ Kiếp Kỳ**            | **Linh Giới** · **giới bích Linh→Tiên**             | Sơ → Trung → Hậu → **Đột Phá Phi Thăng** | (chuẩn bị **Tiên thể**; không cộng thọ như cảnh thường)  | **Đỉnh Linh Giới**; đủ **phá giới bích** sang **Tiên Giới**; một đòn quy mô **Chân Tiên sơ nhập**                                                                                                              | Hoàn tất **Đại Thừa Viên Mãn**; ngưng tụ **Tiên thể**                                         | **Cửu Cửu Lôi Kiếp** (**81** đạo — mạnh nhất **Linh Giới** ); thất bại **sống sót** → **Tản Tiên**; thất bại chết → hồn tán / luân hồi tùy lore |
+| **Chân Tiên Kỳ**          | **Tiên Giới**                                       | Sơ → Trung → Hậu → Viên Mãn              | Ngang **tiểu thế giới** (triệu năm)                      | **Tiên thể** ổn định; mọi chiến dùng **Tiên Nguyên Lực**; sinh tồn trong môi trường Tiên giới; pháp bảo **Tiên giai**                                                                                          | Vượt **giới bích Linh–Tiên**; rửa sạch phàm thể sau **Cửu Cửu**                               | **Tiên kiếp** sơ *(theo Thiên Đạo Tiên giới)*; yếu trước **Kim Tiên quy tắc**                                                                   |
+| **Kim Tiên Kỳ**           | **Tiên Giới**                                       | Sơ → Trung → Hậu → Viên Mãn              | Bất tử trước đòn **dưới Kim Tiên**                       | Ngưng tụ **Kim Tiên Quy Tắc** (một hoặc vài quy tắc lõi); kháng sát thương **cấp quy tắc**; không bị Chân Tiên thuần lực nghiền                                                                                | Chân Tiên Viên Mãn + **ngộ quy tắc** + tài nguyên Tiên giai                                   | **Kim Tiên kiếp** / Thiên kiếp nặng; vỡ quy tắc → tàn phế vĩnh cửu                                                                              |
+| **Thái Ất Kim Tiên**    | **Tiên Giới** · đa giới                             | Sơ → Trung → Hậu                         | Thọ gắn **quy tắc đã chủ** (vượt triệu năm)              | Chủ **Thời Gian** *hoặc* **Không Gian** (một nhánh đại đạo); **du hành vạn giới**; đè Kim Tiên cùng hệ quy tắc                                                                                                 | Kim Tiên Viên Mãn; thâm nhập **đại đạo nhị nguyên** (Thời / Không)                            | **Thiên Đạo phản phệ** nếu cưỡng quy tắc ngoài phạm vi; `(bí mật)` tranh **địa mạch Tiên giới**                                                 |
+| **Đại La Kim Tiên**     | **Tiên Giới** · ngoài luân hồi                      | Sơ → Trung → Hậu → Viên Mãn              | **Đồng thọ Thiên Địa** (trong phạm vi một vũ trụ / giới) | **Thoát Ngũ Hành** (không bị khắc đơn thuần); **ngoài Luân Hồi** thông thường; ý niệm hủy **tinh hệ / giới** cỡ lớn *(plot ceiling trước Thánh)*                                                               | Thái Ất + **hợp nhất đa quy tắc**; chứng **Đại La đạo quả**                                   | **Đại kiếp** *(theo Thiên Đạo)*; hao tâm ma **vạn kiếp** tích lũy                                                                               |
+| **Tiên Vương Kỳ**         | **Tiên Giới** · trung tâm quyền lực                 | Sơ → Trung → Hậu                         | Như Đại La+; gắn **phong vũ / giới vực**                 | **Chủ một phương Đại Đạo** (trong phạm vi lore); sáng tạo / hủy **tinh hà** bằng ý; điều phối **Tiên quân / giới luật**                                                                                        | Đại La Viên Mãn + **Thiên Mệnh / phong ấn giới** *(lore)*                                     | Tranh **Đế vị / quy tắc gốc**; thua → mất quy tắc, rớt cảnh                                                                                     |
+| **Tiên Đế Kỳ**            | **Tiên Giới** · đỉnh **bộ bốn** trước **Thần Giới** | Sơ → Trung → Hậu → Viên Mãn              | Gắn **một giới / vũ trụ lớn**                            | **Quy Luật Đại Đạo tối cao** *(trong phạm vi tác phẩm)*; một ý niệm định **sinh diệt tinh hà**                                                                                                                 | Tiên Vương đỉnh + **hợp Đế ấn / giới tâm**                                                    | **Đế kiếp**; `(bí mật)` liên **Thiên biến giới** (Luật 8)                                                                                       |
+| **Thánh Nhân** | **Danh xưng hậu thế sau Thần giai; không tự xác định kết cục** | *(không chia tầng Interface)* | Tùy nhánh, không mặc định bất diệt tuyệt đối | Có thể **Hòa Thiên** thành công năng của Thiên Đạo Hải, hoặc thành ứng viên **Siêu Thoát** giữ bản ngã qua Giới Tường | Thần giai đỉnh + lựa chọn bản thể; cần Logic chốt nhánh | Hòa Thiên: mất dần cá nhân; Siêu Thoát: kiểm định cực hạn; Phá Thiên: bị Thiên Đạo ngăn tuyệt đối |
 
 
 **Ghi chú agent**
 
-- **Hóa Thần** (化神) = **đỉnh chiến lực “thường gặp”** trong **Linh Giới** ( nhãn Hạ Giới ) — **không** đồng nghĩa **Thần Giới** ( **Thần Khí** ). **Luyện Hư–Độ Kiếp** vẫn tu trong **Linh Giới** cho tới **Cửu Cửu**; tránh MC tán tu chạm sớm nếu chưa payoff Logic.
+- **Hóa Thần** = **đỉnh chiến lực “thường gặp”** trong **Linh Giới** ( nhãn Hạ Giới ) — **không** đồng nghĩa **Thần Giới** ( **Thần Khí** ). **Luyện Hư–Độ Kiếp** vẫn tu trong **Linh Giới** cho tới **Cửu Cửu**; tránh MC tán tu chạm sớm nếu chưa payoff Logic.
 - **Thần thông đích thực** (quy tắc / thiên địa): từ **Hóa Thần+** — `09-shentong-va-cong-phap.md`.
 - **Pháp bảo trần:** Tiên bảo **Hóa Thần–Độ Kiếp**; Thần khí **Chân Tiên+** — §3.3.
 
@@ -119,6 +120,8 @@
 
 
 ## 2. Quy tắc chiến lực
+
+> **Chi tiết Logic:** [`foundation/logic/world/laws/05-chien-luc-index.md`](../logic/world/laws/05-chien-luc-index.md). Core giữ trần cảnh giới và giới hạn cứng; bộ `laws/05–05f` phân giải chiến lực thực tế theo năm trục và điều kiện trận.
 
 
 
@@ -138,7 +141,7 @@
 | ------------------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
 | **Pháp bảo cao hơn phẩm** | Nuôi bằng linh thạch; người dùng đủ linh lực (ước: ≥ Luyện Khí tầng 7 cho Pháp Khí mạnh) | Không vượt **một đại cảnh giới** ổn định; hao pháp lực / hồn phách                        |
 | **Đan / bạo pháp**        | Phệ huyết, Tục Mệnh, v.v. (§3.2)                                                         | Thời gian ngắn; tổn **Thọ Nguyên** hoặc gãy đan đạo                                       |
-| **Trận pháp (合阵)**        | ≥3 tu sĩ + Trận đĩa + linh thạch                                                         | ≈ cảnh giới cao nhất +1 bậc tiểu; phá **阵眼** — chi tiết `08-tran-phap.md`, luật trận §3.7 |
+| **Trận pháp (Hợp Trận — Tam Tài)**        | ≥3 tu sĩ + Trận đĩa + linh thạch                                                         | ≈ cảnh giới cao nhất +1 bậc tiểu; phá **TrậnNhãn** — chi tiết `08-tran-phap.md`, luật trận §3.7 |
 | **Huyết mạch / Cổ trận**  | Gia tộc / di tích Thượng cổ                                                              | Một lần hoặc hiến tế — `(bí mật)` lore                                                    |
 | **Địa lợi**               | Linh mạch, cấm địa                                                                       | Không mang theo                                                                           |
 
@@ -187,7 +190,7 @@
 ### 3.1b. Bạc phàm trên Linh Giới `(Luật 6b)`
 
 
-| Cõi           | Bạc phàm (凡银)                                                    | Linh thạch                                     |
+| Cõi           | Bạc phàm (Bạc phàm)                                                    | Linh thạch                                     |
 | ------------- | ---------------------------------------------------------------- | ---------------------------------------------- |
 | **Phàm Giới** | **Tiền sinh hoạt chính** — Mạt pháp, **không** chân tu cư trú    | Chủ yếu **nhập khẩu** từ Linh / crack          |
 | **Linh Giới** | **Lưu hành tầng phàm** — lương phu mỏ, thành phụ, dịch vụ thường | **Tiền tệ tu** — kho tông, tu luyện, đan, trận |
@@ -202,7 +205,7 @@
 | **Trung phẩm**      | Trung bình                                                             | Trúc Cơ, Kim Đan hàng ngày                                            | Trúc Cơ–Kim Đan                                                |
 | **Thượng phẩm**     | Cao                                                                    | Nguyên Anh; nuôi Linh khí / Cổ bảo                                    | Kim Đan–Nguyên Anh                                             |
 | **Cực phẩm**        | Rất cao                                                                | Hóa Thần+; chiến tranh giới hạn                                       | Hóa Thần–Luyện Hư                                              |
-| **Tiên thạch** (仙石) | **Tiên Giới**; di tích / lưu từ **Đại Thừa–Độ Kiếp** ( **Linh Giới** ) | Tu **Tiên Giới**; giao dịch cao cấp; chuẩn bị **giới bích Linh→Tiên** | **Đại Thừa+** ( tích lũy ) · **Chân Tiên+** ( tiêu thụ chính ) |
+| **Tiên thạch** | **Tiên Giới**; di tích / lưu từ **Đại Thừa–Độ Kiếp** ( **Linh Giới** ) | Tu **Tiên Giới**; giao dịch cao cấp; chuẩn bị **giới bích Linh→Tiên** | **Đại Thừa+** ( tích lũy ) · **Chân Tiên+** ( tiêu thụ chính ) |
 
 
 **Monopoly:** Tông môn & gia tộc khống chế **mỏ + linh mạch lõi** ( **Linh Giới** ); tán tu phụ thuộc nhiệm vụ, thương hội, hắc thị.
@@ -213,8 +216,8 @@
 | Năng lượng / tiền tệ                    | Cõi (song song)                                  | Ghi chú                                                                                        |
 | --------------------------------------- | ------------------------------------------------ | ---------------------------------------------------------------------------------------------- |
 | **Thiên Địa Linh Khí** · **linh thạch** | **Phàm Giới** ( mỏng ) · **Linh Giới** ( chính ) | Hạ phẩm → cực phẩm — §3.1 bảng trên                                                            |
-| **Tiên Nguyên Lực** (仙元)                | **Tiên Giới**                                    | Hấp thu sau phi thăng; **Đại Thừa** bắt đầu chuyển hóa sơ cấp trong **Linh Giới**              |
-| **Thần Khí** (神气)                       | **Thần Giới**                                    | Không thay linh thạch / tiên thạch ở giới khác; `(bí mật)` rút chéo giới → Nhân quả ( Luật 6 ) |
+| **Tiên Nguyên Lực**                | **Tiên Giới**                                    | Hấp thu sau phi thăng; **Đại Thừa** bắt đầu chuyển hóa sơ cấp trong **Linh Giới**              |
+| **Thần Khí**                       | **Thần Giới**                                    | Không thay linh thạch / tiên thạch ở giới khác; `(bí mật)` rút chéo giới → Nhân quả ( Luật 6 ) |
 
 
 
@@ -242,17 +245,17 @@
 
 | Phẩm                         | Tương ứng tu vi (ước)            | Hiếm     | Ghi chú                                                                                   |
 | ---------------------------- | -------------------------------- | -------- | ----------------------------------------------------------------------------------------- |
-| **Pháp khí** (法器)            | Luyện Khí–Trúc Cơ                | Thấp–TB  | Luyện Khí tầng 4–6 dùng sơ cấp                                                            |
-| **Linh khí** (灵器)            | Trúc Cơ–Kim Đan                  | TB       | Cần nuôi khí                                                                              |
-| **Cổ bảo** (古宝)              | Kim Đan–Nguyên Anh               | Cao      | Kim Đan dùng “Cổ Bảo, Trận Đĩa trung”                                                     |
-| **Tiên bảo** (仙宝)            | Hóa Thần–Độ Kiếp                 | Rất cao  | Liên quan phi thăng                                                                       |
-| **Thần khí** (神器)            | **Tiên Giới** sơ → **Thần Giới** | Cực hiếm | Nuôi bằng **Tiên Nguyên** / **Thần Khí** tùy phẩm — không dùng linh thạch hạ phẩm ổn định |
-| **Chí bảo Thiên Địa** (天地至宝) | Thượng cổ / plot                 | Một      | Điều kiện lore cứng                                                                       |
+| **Pháp khí**            | Luyện Khí–Trúc Cơ                | Thấp–TB  | Luyện Khí tầng 4–6 dùng sơ cấp                                                            |
+| **Linh khí**            | Trúc Cơ–Kim Đan                  | TB       | Cần nuôi khí                                                                              |
+| **Cổ bảo**              | Kim Đan–Nguyên Anh               | Cao      | Kim Đan dùng “Cổ Bảo, Trận Đĩa trung”                                                     |
+| **Tiên bảo**            | Hóa Thần–Độ Kiếp                 | Rất cao  | Liên quan phi thăng                                                                       |
+| **Thần khí**            | **Tiên Giới** sơ → **Thần Giới** | Cực hiếm | Nuôi bằng **Tiên Nguyên** / **Thần Khí** tùy phẩm — không dùng linh thạch hạ phẩm ổn định |
+| **Chí bảo Thiên Địa** | Thượng cổ / plot                 | Một      | Điều kiện lore cứng                                                                       |
 
 
 **Loại thường gặp:** phi kiếm, lò luyện đan, nhẫn/túi không gian, trận đĩa, bùa hộ mệnh.
 
-### 3.4. Yêu đan (妖丹)
+### 3.4. Yêu đan (Yêu đan)
 
 → Chi tiết: `[07-yeu-dan-va-vat-lieu.md](../resources/07-yeu-dan-va-vat-lieu.md)`
 
@@ -266,7 +269,7 @@
 
 
 
-### 3.5. Phù lục (符箓)
+### 3.5. Phù lục (Phù lục)
 
 → Catalog: `[06-phu-luc.md](../resources/06-phu-luc.md)`
 
@@ -281,7 +284,7 @@
 | **Trade-off** | Một lần / vài lần; không nuôi khí như pháp bảo; phù vượt cấp → **nứt hồn phách** nếu lạm dụng   |
 
 
-**Bí phổ phù gia tộc** (族符谱 · `[bổ sung sáng tác]`) `(invariant)` — catalog slot: `06-phu-luc.md` §9.1:
+**Bí phổ phù gia tộc** `(invariant)` — catalog slot: `06-phu-luc.md` §9.1:
 
 
 | Khía cạnh                    | Quy tắc                                                                                                                                                                |
@@ -301,7 +304,7 @@
 
 
 
-### 3.6. Đan phương (丹方)
+### 3.6. Đan phương (Đan)
 
 → Catalog: `[04-dan-phuong.md](../resources/04-dan-phuong.md)`
 
@@ -318,11 +321,11 @@
 
 
 
-### 3.7. Trận pháp (阵法)
+### 3.7. Trận pháp (Trận pháp)
 
 → Catalog: `[08-tran-phap.md](../resources/08-tran-phap.md)` · Chiến lực hợp trận: §2.2 · Thần thông (khác trận): `[09-shentong-va-cong-phap.md](../resources/09-shentong-va-cong-phap.md)`
 
-**Vai trò kinh tế:** Trận = **dự án tiêu hao** (linh thạch, trận kỳ, **linh mạch**, nhân trấn **阵眼**) — không thay đan đột phá. **Trận sư** (V2 §8) tranh cống hiến với Đan / Phù. **Hộ sơn đại trận** = tài sản tông gắn Động Thiên.
+**Vai trò kinh tế:** Trận = **dự án tiêu hao** — không thay đan đột phá. **Trận sư** (V2 §8) tranh cống hiến với Đan / Phù. **Hộ sơn đại trận** = tài sản tông gắn Động Thiên.
 
 
 | Khía cạnh        | Tóm tắt                                                                     |

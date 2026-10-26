@@ -23,7 +23,7 @@
       "properties": {
         "id": "CHL-XICH-HA",
         "name_vi": "Đại lục Xích Hạ",
-        "name_hv": "赤夏大陆",
+        "name_hv": "Đại lục Xích Hạ",
         "kind": "continent",
         "visibility": "public",
         "notes": "Silhouette CHL-XICH-HA từ 00-tinh-ha; parent SW [-23.0, 53.0]; hub LOC-XH-LAC-DUONG."
@@ -480,7 +480,7 @@
         "id": "REG-XH-NAM-HAI",
         "name_vi": "Nam Hải Quan",
         "kind": "polity",
-        "name_hv": "南海关",
+        "name_hv": "Nam Hải Quan",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
         "notes": "Kiểm soát nhập linh thạch"
@@ -771,7 +771,7 @@
         "id": "REG-XH-NAM-CAN",
         "name_vi": "Nam Cạn · nội địa khô",
         "kind": "wilderness",
-        "name_hv": "南旱",
+        "name_hv": "Nam Cạn",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public"
       }
@@ -1101,7 +1101,7 @@
         "id": "REG-XH-XICH-NGUYEN",
         "name_vi": "Xích Nguyên Bình",
         "kind": "wilderness",
-        "name_hv": "赤原平",
+        "name_hv": "Xích Nguyên Bình",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
         "notes": "Nông · võ lâm phàm"
@@ -1276,7 +1276,7 @@
         "id": "REG-XH-DE-DO",
         "name_vi": "Đế Đô Lạc Dương",
         "kind": "polity",
-        "name_hv": "洛阳帝都",
+        "name_hv": "Đế Đô Lạc Dương",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
         "notes": "Triều Xích Hạ"
@@ -1411,7 +1411,7 @@
         "id": "REG-XH-BAC-HAN",
         "name_vi": "Bắc Hạn · đại sa bắc",
         "kind": "wilderness",
-        "name_hv": "北旱",
+        "name_hv": "Bắc Hạn",
         "linh_khi_tier": "vô_lin",
         "visibility": "public"
       }
@@ -1569,7 +1569,7 @@
         "id": "REG-XH-HOANG-TAY",
         "name_vi": "Hoang Tây · biên quan",
         "kind": "wilderness",
-        "name_hv": "西荒",
+        "name_hv": "Hoang Tây",
         "linh_khi_tier": "vô_lin",
         "visibility": "public"
       }
@@ -1791,7 +1791,7 @@
         "id": "BRR-XH-HONG-LIEN",
         "name_vi": "Dãy Hồng Liên",
         "kind": "barrier",
-        "name_hv": "红莲岭",
+        "name_hv": "Dãy Hồng Liên",
         "linh_khi_tier": "manh_mach_rải"
       }
     },
@@ -2044,7 +2044,7 @@
         "id": "REG-XH-TAY-SON",
         "name_vi": "Tây Sơn Tự · sơn môn",
         "kind": "polity",
-        "name_hv": "西山寺",
+        "name_hv": "Tây Sơn Tự",
         "linh_khi_tier": "manh_mach_rải",
         "visibility": "public"
       }
@@ -2370,7 +2370,7 @@
         "id": "REG-XH-DONG-NOI",
         "name_vi": "Đông Nội · đồi phù sa",
         "kind": "wilderness",
-        "name_hv": "东内",
+        "name_hv": "Đông Nội",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "mc_phase1"
       }
@@ -2544,7 +2544,7 @@
         "id": "REG-XH-DONG-HAI",
         "name_vi": "Đông Hải An",
         "kind": "wilderness",
-        "name_hv": "东海岸",
+        "name_hv": "Đông Hải An",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public"
       }
@@ -2561,7 +2561,7 @@
       "properties": {
         "id": "LOC-XH-LAC-DUONG",
         "name_vi": "Lạc Dương · đế đô",
-        "name_hv": "洛阳",
+        "name_hv": "Lạc Dương",
         "kind": "hub",
         "visibility": "public"
       }
@@ -2772,7 +2772,7 @@
       "properties": {
         "id": "RIVER-XH-LAC-HA",
         "name_vi": "Lạc Hà",
-        "name_hv": "洛河",
+        "name_hv": "Lạc Hà",
         "kind": "route",
         "from_id": "REG-XH-DE-DO",
         "to_id": "REG-XH-NAM-HAI"
@@ -3020,7 +3020,7 @@
       "properties": {
         "id": "RIVER-XH-DONG-THUY",
         "name_vi": "Đông Thủy",
-        "name_hv": "东水",
+        "name_hv": "Đông Thủy",
         "kind": "route"
       }
     }

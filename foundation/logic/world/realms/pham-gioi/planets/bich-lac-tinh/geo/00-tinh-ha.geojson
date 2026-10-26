@@ -12,7 +12,7 @@
       "properties": {
         "id": "TINH-HA-REF",
         "name_vi": "Tinh hà Bích Lạc (tham chiếu)",
-        "name_hv": "碧落星河",
+        "name_hv": "Tinh hà Bích Lạc (tham chiếu)",
         "kind": "hub"
       },
       "geometry": {
@@ -28,7 +28,7 @@
       "properties": {
         "id": "CHL-HAN-PHUONG",
         "name_vi": "Đại lục Hàn Phương",
-        "name_hv": "寒方大陆",
+        "name_hv": "Đại lục Hàn Phương",
         "kind": "continent",
         "visibility": "public"
       },
@@ -157,7 +157,7 @@
       "properties": {
         "id": "CHL-TAM-NGUYEN",
         "name_vi": "Đại lục Tam Nguyên",
-        "name_hv": "三元大陆",
+        "name_hv": "Đại lục Tam Nguyên",
         "kind": "continent",
         "visibility": "public"
       },
@@ -298,7 +298,7 @@
       "properties": {
         "id": "CHL-PHU-TAO",
         "name_vi": "Đại lục Phù Tảo",
-        "name_hv": "浮沼大陆",
+        "name_hv": "Đại lục Phù Tảo",
         "kind": "continent",
         "visibility": "public"
       },
@@ -423,7 +423,7 @@
       "properties": {
         "id": "CHL-XICH-HA",
         "name_vi": "Đại lục Xích Hạ",
-        "name_hv": "赤夏大陆",
+        "name_hv": "Đại lục Xích Hạ",
         "kind": "continent",
         "visibility": "public"
       },
@@ -572,7 +572,7 @@
       "properties": {
         "id": "CHL-LO-HANG",
         "name_vi": "Đại lục Lô Hàng",
-        "name_hv": "螺航大陆",
+        "name_hv": "Đại lục Lô Hàng",
         "kind": "continent",
         "visibility": "public"
       },
@@ -705,7 +705,7 @@
       "properties": {
         "id": "CHL-TAN-MO",
         "name_vi": "Đại lục Tàn Mộ",
-        "name_hv": "残漠大陆",
+        "name_hv": "Đại lục Tàn Mộ",
         "kind": "continent",
         "visibility": "public"
       },

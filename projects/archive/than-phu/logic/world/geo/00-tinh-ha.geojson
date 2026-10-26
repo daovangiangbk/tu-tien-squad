@@ -11,7 +11,7 @@
       "properties": {
         "id": "TINH-HA-REF",
         "name_vi": "Phù Vi Tinh Hà (tham chiếu)",
-        "name_hv": "符微星河",
+        "name_hv": "Phù Vi Tinh Hà (tham chiếu)",
         "kind": "hub"
       },
       "geometry": {
@@ -27,7 +27,7 @@
       "properties": {
         "id": "CHL-TAY-DUOC",
         "name_vi": "Tây Dược đại lục",
-        "name_hv": "西药大陆",
+        "name_hv": "Tây Dược đại lục",
         "kind": "continent",
         "notes": "geo-shape-random seed 20260917; work than-phu"
       },
@@ -152,7 +152,7 @@
       "properties": {
         "id": "CHL-PHU-VIEN",
         "name_vi": "Phù Viên đại lục · Hạ Giới",
-        "name_hv": "符元大陆",
+        "name_hv": "Phù Viên đại lục",
         "kind": "continent",
         "notes": "geo-shape-random seed 20260917; work than-phu"
       },
@@ -285,7 +285,7 @@
       "properties": {
         "id": "CHL-BAC-LINH",
         "name_vi": "Bắc Linh đại lục",
-        "name_hv": "北灵大陆",
+        "name_hv": "Bắc Linh đại lục",
         "kind": "continent",
         "notes": "geo-shape-random seed 20260917; work than-phu"
       },
@@ -410,7 +410,7 @@
       "properties": {
         "id": "CHL-DONG-HAI-YUAN",
         "name_vi": "Đông Hải Nguyên lục",
-        "name_hv": "东海原陆",
+        "name_hv": "Đông Hải Nguyên lục",
         "kind": "continent",
         "notes": "geo-shape-random seed 20260917; work than-phu"
       },
@@ -543,7 +543,7 @@
       "properties": {
         "id": "CHL-NAM-MO",
         "name_vi": "Nam Mộ hoang lục",
-        "name_hv": "南漠荒陆",
+        "name_hv": "Nam Mộ hoang lục",
         "kind": "continent",
         "notes": "geo-shape-random seed 20260917; work than-phu"
       },

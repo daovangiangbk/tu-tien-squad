@@ -11,9 +11,9 @@ Canh Thìn — ù **không** tắt theo gió Mão; chỉ **mỏng** một tích,
 
 Tô Diêu **đứng** — chậm hơn đêm Sửu một nhịp — lòng bàn vẫn hướng trời, **không** úp sàn. Mắt sáng lại; trong đầu **không** còn hình môi *vì đại cục* như cuối Mão — chỉ **vết** còn **ấm** trên vai trái, chỗ tre chiều Thân từng ghi *ổn một canh* mà xương **chưa** đồng ý. Vết **cũ**; **không** lành; **không** cần tên để nhận kiểu trả **đang** đổi.
 
-Hành lang bắc **vắng**; tre đen trên thẻ vẫn *mười bảy*, vẫn *không hút*. Dòng tre phụ đêm Dần còn ướt mực: *Thìn · phụ mạch sổ rút · hỏi ổn không — không chữa trên **断***. Hắn **bước** theo — không đi trước lệnh; lệnh **đã** tới tre trước khi tới chân.
+Hành lang bắc **vắng**; tre đen trên thẻ vẫn *mười bảy*, vẫn *không hút*. Dòng tre phụ đêm Dần còn ướt mực: *Thìn · phụ mạch sổ rút · hỏi ổn không — không chữa trên **Đoạn***. Hắn **bước** theo — không đi trước lệnh; lệnh **đã** tới tre trước khi tới chân.
 
-Ngã ba sâu hơn nửa trượng so sáng Sửu. **断** mang Mộc mỏng; sương Thìn **không** vào Trung đúng đường — mỗi hơi thở kéo Mộc **lệch** một tích, **không** ngã. Phụ mạch **không** mang danh trên vách — chỉ áo xám, sổ mỏng, mắt **không** nhìn đan điền như đan sư; nhìn như chấp sự nhìn **cột** trên tre: *còn đi được không* trước, *còn sống không* sau.
+Ngã ba sâu hơn nửa trượng so sáng Sửu. **Đoạn** mang Mộc mỏng; sương Thìn **không** vào Trung đúng đường — mỗi hơi thở kéo Mộc **lệch** một tích, **không** ngã. Phụ mạch **không** mang danh trên vách — chỉ áo xám, sổ mỏng, mắt **không** nhìn đan điền như đan sư; nhìn như chấp sự nhìn **cột** trên tre: *còn đi được không* trước, *còn sống không* sau.
 
 — **Mười bảy**.
 
@@ -21,9 +21,9 @@ Ngã ba sâu hơn nửa trượng so sáng Sửu. **断** mang Mộc mỏng; sư
 
 — **Ổn** **không**.
 
-Hai chữ **ngắn** — **không** hứa đan; **không** mời úp tay; **không** treo tên trên bia. Phụ mạch **nhìn** thẻ *mười bảy* — **không** nhìn ngọc — như nhìn cột *còn đi được không* trên tre phụ. Hắn **mở** miệng — **không** nói *ổn* — nói *chưa* bằng cách **im** một tích rồi **gật** **mỏng**: còn đi; **chưa** khỏe; **chưa** chết. Phụ mạch **ghi** một nét sổ — hắn **không** đọc được chữ — rồi **rút** sâu hành lang, bước **không** quay lại. **Không** chữa trên **断**; **không** Tạ Hàm Nguyệt trong tiếng bước; chỉ tro cũ và nước ngầm **im**. Câu *ổn không* **treo** trên sổ phụ, **không** treo trên da — da vẫn run **dưới** *mười bảy không hút* **đúng** chữ.
+Hai chữ **ngắn** — **không** hứa đan; **không** mời úp tay; **không** treo tên trên bia. Phụ mạch **nhìn** thẻ *mười bảy* — **không** nhìn ngọc — như nhìn cột *còn đi được không* trên tre phụ. Hắn **mở** miệng — **không** nói *ổn* — nói *chưa* bằng cách **im** một tích rồi **gật** **mỏng**: còn đi; **chưa** khỏe; **chưa** chết. Phụ mạch **ghi** một nét sổ — hắn **không** đọc được chữ — rồi **rút** sâu hành lang, bước **không** quay lại. **Không** chữa trên **Đoạn**; **không** Tạ Hàm Nguyệt trong tiếng bước; chỉ tro cũ và nước ngầm **im**. Câu *ổn không* **treo** trên sổ phụ, **không** treo trên da — da vẫn run **dưới** *mười bảy không hút* **đúng** chữ.
 
-Vách đá **ướt** sương Thìn; tre đen **không** đổi số. Hắn **đứng** thêm một tích — cho ù **ổn** định sau Mão — rồi **quay** về ngã ba chính. Gió Thìn **mang** Mộc mỏng qua khe; Mộc **chạm** da **đúng** ngoài da, **sai** trong Trung — như tay sổ **đúng** cột, **sai** xương. Bước **không** nặng như bước Sửu; **nặng** theo kiểu **khác**: thần **mỏng** sau Mão, xương **nhớ** nhịp ù còn dính tai. Mạch sống **断** ngoài da **bình thường**; trong đan điền **không** có *bình thường* từ đêm Dậu. Tam Hệ **lệch** — Hỏa, Kim, Mộc **không** cùng một lần vào Trung — mỗi hơi **trả** thêm một tích treo.
+Vách đá **ướt** sương Thìn; tre đen **không** đổi số. Hắn **đứng** thêm một tích — cho ù **ổn** định sau Mão — rồi **quay** về ngã ba chính. Gió Thìn **mang** Mộc mỏng qua khe; Mộc **chạm** da **đúng** ngoài da, **sai** trong Trung — như tay sổ **đúng** cột, **sai** xương. Bước **không** nặng như bước Sửu; **nặng** theo kiểu **khác**: thần **mỏng** sau Mão, xương **nhớ** nhịp ù còn dính tai. Mạch sống **Đoạn** ngoài da **bình thường**; trong đan điền **không** có *bình thường* từ đêm Dậu. Tam Hệ **lệch** — Hỏa, Kim, Mộc **không** cùng một lần vào Trung — mỗi hơi **trả** thêm một tích treo.
 
 Hai sổ **cùng** một thân: đài ghi *mười bảy không hút*, ghi chung đội trinh sát, ghi *ổn một canh* nghiệp rìa; sổ trong xương ghi ngọc lệch, mảnh ù, khí kẹt, **không** cột *chữa*. Phụ mạch **hỏi** đúng loại câu chấp sự **hỏi** — sổ trước, người sau — **không** đan, **không** úp, **không** hứa khỏe. Hắn **trả lời** bằng *có* và *ổn không* bằng im lặng sau đó: **chưa** ổn, **chưa** chết — hai chữ phụ mạch **không** cần nghe; tre **đã** ghi *hỏi*.
 
@@ -31,7 +31,7 @@ Hai sổ **cùng** một thân: đài ghi *mười bảy không hút*, ghi chung
 
 Chấp sự đọc sổ — **không** đài, **không** giọng cao:
 
-— **断** · **ổn** **tam** **giác** **một** **canh** **Thìn** · **nghiệp** **ghi** **rìa** · **mười bảy** **không** **hút** — **khế** **vẫn** **ghi** **chung** **đội** **trinh** **sát**.
+— **Đoạn** · **ổn** **tam** **giác** **một** **canh** **Thìn** · **nghiệp** **ghi** **rìa** · **mười bảy** **không** **hút** — **khế** **vẫn** **ghi** **chung** **đội** **trinh** **sát**.
 
 — **Mạch** **khép** **một** **phần** **Tuất** — **tán** **thuê** **đợt** **một** **rút** **trước** **Tý** **mai** · **mười bảy** **trong** **danh** **rút** **về** **thành** **nếu** **còn** **bước** **khi** **khế** **hết** **hạn** **ca** **phế**.
 
@@ -43,17 +43,17 @@ Một tán tu thuê — **không** Bốn mươi lăm — ghé ngã ba:
 
 — Biết.
 
-— Biết mà vẫn ở **断** — vì gì?
+— Biết mà vẫn ở **Đoạn** — vì gì?
 
 Tô Diêu nhìn tre đen — **không** nhìn gã:
 
 — Vì chưa rút hết nợ trên sổ này.
 
-Gã **im**. Im đúng kinh tế phế — hỏi thêm = liên đới. Gã **đi**. Trên tre phụ, một dòng **không** tên người — chỉ số ca và *mười bảy* — mực khô nhanh như tro trên vách: ca **thay** người, **không** khắc danh lên vách. Hiệu trên thẻ; bia không tên ngoài khe — hắn **quen** kiểu ghi **断**: sống bằng cột, **không** bằng chữ mình.
+Gã **im**. Im đúng kinh tế phế — hỏi thêm = liên đới. Gã **đi**. Trên tre phụ, một dòng **không** tên người — chỉ số ca và *mười bảy* — mực khô nhanh như tro trên vách: ca **thay** người, **không** khắc danh lên vách. Hiệu trên thẻ; bia không tên ngoài khe — hắn **quen** kiểu ghi **Đoạn**: sống bằng cột, **không** bằng chữ mình.
 
 Túi bên hông **rỗng**. Không hạt mua canh tro; không đan canh trong kho. Tin Bách Hóa, phương lậu, hiệp hội chờ hạt — **treo** song song khế phế — **không** thành lộ trình trong ba trượng hành lang. Hắn **ngồi** góc cũ — lưng đá — **không** úp lòng bàn. Phế **im** trên sổ; vòng trong xương **mở** — **không** vá bằng mảnh; **không** khai mõ.
 
-Tre đen **đổi** ca giữa Thìn — **không** đổi người: vẫn *mười bảy*, vẫn *không hút*. Tiếng chấp sự **xa** hơn ngã ba — đọc cho hàng **khác** — **không** nhắc tên hắn; chỉ nhắc *danh rút* và *mạch khép một phần* như nhắc mưa **có thể** tới. Trên **断**, tin **đi** trước người; người **đi** sau khi tre **cho phép**. Hắn **nghe** *rút về thành* lần thứ hai trong một ngày — lần đầu trên miệng chấp sự, lần này trên tre phụ **khô** — **mầm** **hết** hạn ca phế, **chưa** hết nợ Bách Hóa; **cùng** một thân **lệch** **vẫn** **đi** **nếu** **còn** **bước**.
+Tre đen **đổi** ca giữa Thìn — **không** đổi người: vẫn *mười bảy*, vẫn *không hút*. Tiếng chấp sự **xa** hơn ngã ba — đọc cho hàng **khác** — **không** nhắc tên hắn; chỉ nhắc *danh rút* và *mạch khép một phần* như nhắc mưa **có thể** tới. Trên **Đoạn**, tin **đi** trước người; người **đi** sau khi tre **cho phép**. Hắn **nghe** *rút về thành* lần thứ hai trong một ngày — lần đầu trên miệng chấp sự, lần này trên tre phụ **khô** — **mầm** **hết** hạn ca phế, **chưa** hết nợ Bách Hóa; **cùng** một thân **lệch** **vẫn** **đi** **nếu** **còn** **bước**.
 
 ---
 
@@ -81,7 +81,7 @@ Thần thức **vỡ** nhịp một tích theo nhịp nhớ — Linh Dịch **d�
 
 Tâm ma **nhẹ** — **không** thắng — để lại mệt thần thêm một tầng. **Không** giải thương cũ; chỉ **chạm** rồi **treo**.
 
-Mảnh **không** sáng; **không** mở Cửu Huyền. Chỉ **lạnh** song song tro mới trên tre hang — nghiệp và mảnh **cùng** ghi rìa, **chưa** đối trọn đài. Ù trong tai và ù **trong** ý **chồng** nhau — **cùng** tần ngọc — hắn **không** phân được lúc nào là tai, lúc nào là tâm mầm — **断** thứ hai trong thân, sau miệng hố trên mõ.
+Mảnh **không** sáng; **không** mở Cửu Huyền. Chỉ **lạnh** song song tro mới trên tre hang — nghiệp và mảnh **cùng** ghi rìa, **chưa** đối trọn đài. Ù trong tai và ù **trong** ý **chồng** nhau — **cùng** tần ngọc — hắn **không** phân được lúc nào là tai, lúc nào là tâm mầm — **Đoạn** thứ hai trong thân, sau miệng hố trên mõ.
 
 Hắn **thử** vòng khí **nhỏ** hơn đêm Dậu — **ngắn** hơn lần Sửu. Khí **rê** nửa tích; Kim **cắn** Hỏa; Mộc **trượt**. **Không** vỡ đan điền; **không** ổn. Mỗi lần thử **thêm** hao — đa nghề quen đường cũ, thân **đã** không còn cũ. Hắn **dừng** trước khi ù thành mù.
 
@@ -93,9 +93,9 @@ Canh Ngọ — lệnh **mới** trên tre đen:
 
 Ca **bắt buộc** — **không** trinh sát sâu — vẫn **đa nghề** một nhịp: thần thức mỏng, mắt, sổ trong đầu, chân **nặng** hơn đầu canh Thìn. Linh Dịch **lệch** — khế **vẫn** buộc; **không** miễn vì phụ mạch đã hỏi *ổn không*.
 
-Hắn bước phụ tây — **断** mang tro còn vướng cổ gió phía nam; **không** nhìn. Xám trong tam giác **mỏng** ngoài cọc đen — cỏ vàng **veo** một đoạn — nghiệp mầm **không** nghỉ. Hắn **báo** lệch — **không** lan quá cọc — một vòng quét **ngắn** hơn đêm Dậu; thân **trả** bằng hao thay vì bằng hút.
+Hắn bước phụ tây — **Đoạn** mang tro còn vướng cổ gió phía nam; **không** nhìn. Xám trong tam giác **mỏng** ngoài cọc đen — cỏ vàng **veo** một đoạn — nghiệp mầm **không** nghỉ. Hắn **báo** lệch — **không** lan quá cọc — một vòng quét **ngắn** hơn đêm Dậu; thân **trả** bằng hao thay vì bằng hút.
 
-Tai **ù** hai tầng — ù ngọc và ù **trong** ý **cùng** độ sâu, **không** phân tách dễ. **Không** ngã. Ngã trên **断** = số mới trên bia không tên — vang trong ngực, **không** cần ai giải.
+Tai **ù** hai tầng — ù ngọc và ù **trong** ý **cùng** độ sâu, **không** phân tách dễ. **Không** ngã. Ngã trên **Đoạn** = số mới trên bia không tên — vang trong ngực, **không** cần ai giải.
 
 Thẻ vai **gõ** khi hắn **gần** muốn ghim khí như trinh sát — *trinh sát · không hút · không ký*. Hắn **thả**. **Không** ép khí sai — ép là mời khế cắn thêm, mời lệch **dày** thêm.
 
@@ -107,17 +107,17 @@ Báo **xong** một canh Ngọ — chấp sự **ghi** từ xa: *đủ · hao t�
 
 Canh Mùi — phụ mạch **không** quay lại; chỉ tre phụ **cập**:
 
-— **Mạch** **khép** **một** **phần** **chốt** **Thìn** — **ca** **cuối** **断** **treo** **trước** **rút** · **mười bảy** **Linh** **Dịch** **lệch** **vẫn** **trong** **sổ** **rút**.
+— **Mạch** **khép** **một** **phần** **chốt** **Thìn** — **ca** **cuối** **Đoạn** **treo** **trước** **rút** · **mười bảy** **Linh** **Dịch** **lệch** **vẫn** **trong** **sổ** **rút**.
 
 — **Thạch** **Lam** · **Bách** **Hóa** · **đan** **sư** **hoặc** **lậu** — **chọn** **sau** **khi** **qua** **cửa** **khế**.
 
-Hắn **gật** trong hành lang — **không** hỏi vé Thiên Sa; hỏi tốn nhịp. Khế hết hạn ca phế **mầm** trên tre — **rút về thành** **nếu** còn bước — **chưa** lệnh mở; **chưa** tên trên dòng rút. Tin mạch khép **một phần** **chốt** Thìn — tam giác **ổn** một canh trên sổ ngoài; trong xương **không** khép — Linh Dịch **vẫn** hệ ba miệng trả, **không** ai trên **断** **nghe** thấy.
+Hắn **gật** trong hành lang — **không** hỏi vé Thiên Sa; hỏi tốn nhịp. Khế hết hạn ca phế **mầm** trên tre — **rút về thành** **nếu** còn bước — **chưa** lệnh mở; **chưa** tên trên dòng rút. Tin mạch khép **một phần** **chốt** Thìn — tam giác **ổn** một canh trên sổ ngoài; trong xương **không** khép — Linh Dịch **vẫn** hệ ba miệng trả, **không** ai trên **Đoạn** **nghe** thấy.
 
-Một tán tu trong hành lang **ngủ** ngồi — thở đều — giấc **断** ngắn. Hắn **nghe** tiếng thở như nghe mạch ngoài da: **bình thường**, **không** lệch. So với trong xương, ngoài da **giả** yên. **Không** ghen; ghen tốn nhịp. Chỉ **ghi nhận**: chiều Mùi thân hắn vẫn là chỗ **断** thứ hai — chỗ thứ nhất vẫn miệng hố trên mõ.
+Một tán tu trong hành lang **ngủ** ngồi — thở đều — giấc **Đoạn** ngắn. Hắn **nghe** tiếng thở như nghe mạch ngoài da: **bình thường**, **không** lệch. So với trong xương, ngoài da **giả** yên. **Không** ghen; ghen tốn nhịp. Chỉ **ghi nhận**: chiều Mùi thân hắn vẫn là chỗ **Đoạn** thứ hai — chỗ thứ nhất vẫn miệng hố trên mõ.
 
 ---
 
-Canh Thân — **断** mang Mộc mỏng; phế **im** trên sổ ngoài.
+Canh Thân — **Đoạn** mang Mộc mỏng; phế **im** trên sổ ngoài.
 
 Hắn **ngồi** góc vách — lưng đá — Thuận Nghịch **không** cãi, quá mệt để cãi. *Cứu* chậm trên mõ; *hút* nhanh dưới hang; hắn **giữa** — đã trả suất mà ngọc vẫn lệch. **Không** chọn Ma canh Tỵ; **không** chọn Hữu đủ nhanh để vá Trung — **không** lành Trung; **không** ép đan điền.
 
@@ -127,7 +127,7 @@ So với đầu canh Thìn — sau ù Mão — thân **yếu** hơn: thần **ha
 
 ---
 
-Canh Tuất — hành lang **tối** sớm; **断** **im** như miệng hố đã khép một nửa trên tre — nửa còn lại **mở** trong xương.
+Canh Tuất — hành lang **tối** sớm; **Đoạn** **im** như miệng hố đã khép một nửa trên tre — nửa còn lại **mở** trong xương.
 
 Hắn **nghe** nước ngầm rơi một nhịp, rơi lại — đều, **không** lệch; trong đan điền **không** có nhịp đều như vậy. Tre phụ **đọc** *trừ suất* vẫn treo, tro *chưa đủ* trên tre phế, đài *ổn một canh* **không** vá ngọc trong đan điền. **Đúng** sổ — và **đau** sổ dù **không** úp tay.
 
@@ -147,21 +147,21 @@ Hắn **ngồi** im — **không** đi thêm trong đêm. Ca cuối **treo** tr�
 
 Canh Dậu — tre đen **đổi** dòng; mực **mới**:
 
-— **Mười bảy** · **Dậu** **mai** · **ca** **cuối** **断** — **một** **canh** **đa** **nghề** · **trinh** **sát** **rìa** **hoặc** **báo** **phụ** **hoặc** **vá** **tre** **nhỏ** · **chọn** **một** **trong** **ba** · **Linh** **Dịch** **lệch** **không** **miễn** · **hao** **tự** **chịu** · **không** **hút** · **không** **ký**.
+— **Mười bảy** · **Dậu** **mai** · **ca** **cuối** **Đoạn** — **một** **canh** **đa** **nghề** · **trinh** **sát** **rìa** **hoặc** **báo** **phụ** **hoặc** **vá** **tre** **nhỏ** · **chọn** **một** **trong** **ba** · **Linh** **Dịch** **lệch** **không** **miễn** · **hao** **tự** **chịu** · **không** **hút** · **không** **ký**.
 
-Ca **cuối** — **khế** **vẫn** **buộc** dù đan điền **run treo**; **không** lối thứ tư trên tre. Hắn **đọc** bằng mắt — **không** bám phế — báo, trinh sát, vá phụ: ba miệng **cùng** một thân **đã** **không** còn cũ; **mai** hao **sẽ** **đọc** **bằng** **thân** trên **断** **hoặc** hành lang **cuối**.
+Ca **cuối** — **khế** **vẫn** **buộc** dù đan điền **run treo**; **không** lối thứ tư trên tre. Hắn **đọc** bằng mắt — **không** bám phế — báo, trinh sát, vá phụ: ba miệng **cùng** một thân **đã** **không** còn cũ; **mai** hao **sẽ** **đọc** **bằng** **thân** trên **Đoạn** **hoặc** hành lang **cuối**.
 
 Khế **gõ** một nhịp — *trinh sát · không hút · không ký* — **cùng** dòng chiều Thân trên tre phụ. **Mười bảy** **còn** số; **còn** ca — **không** **ổn** — câu phụ mạch *ổn không* **không** có câu trả lời lành; chỉ **treo** đến Dậu mai, để sổ **đọc** trước, **người** sau.
 
-Gió Dậu **lùi** sâu hành lang; ù **không** tắt — **cùng** tần ngọc — **Tâm** **chưa** ma; Linh Dịch **vẫn** lệch. Hắn **ngồi** im — **không** vá thân, **không** ký — **đếm** ba lối tre **chọn** **một**: trinh sát rìa — thần **hao** như Ngọ; báo phụ — mắt **ù** thêm; vá tre nhỏ — tay **gần** đá, **dễ** nhầm úp. **Không** lối **miễn** lệch; **không** lối **không** trả. Khế **không** hỏi ý — chỉ **gõ** *không hút* khi hắn **gần** ghim khí. **Mười bảy** **còn** ca cuối trên **断**; **còn** danh **rút** trên tre hang — hai dòng **cùng** một thân **yếu** hơn đầu canh Thìn, **cùng** một ù **không** tách khỏi ngọc. Hắn **chờ** Dậu **mai** — canh **hao** **đa** **nghề** **bắt** **buộc** — để sổ **đọc** trước, **người** sau.
+Gió Dậu **lùi** sâu hành lang; ù **không** tắt — **cùng** tần ngọc — **Tâm** **chưa** ma; Linh Dịch **vẫn** lệch. Hắn **ngồi** im — **không** vá thân, **không** ký — **đếm** ba lối tre **chọn** **một**: trinh sát rìa — thần **hao** như Ngọ; báo phụ — mắt **ù** thêm; vá tre nhỏ — tay **gần** đá, **dễ** nhầm úp. **Không** lối **miễn** lệch; **không** lối **không** trả. Khế **không** hỏi ý — chỉ **gõ** *không hút* khi hắn **gần** ghim khí. **Mười bảy** **còn** ca cuối trên **Đoạn**; **còn** danh **rút** trên tre hang — hai dòng **cùng** một thân **yếu** hơn đầu canh Thìn, **cùng** một ù **không** tách khỏi ngọc. Hắn **chờ** Dậu **mai** — canh **hao** **đa** **nghề** **bắt** **buộc** — để sổ **đọc** trước, **người** sau.
 
 ---
 
 ## Ghi chú sáng tác
 
-- **Revise (REWRITE-66-112):** C-01 mảnh nhớ / nhịp nhớ; C-02 đường tắt Ma; C-03 bỏ meta số chương; M-01 kho → **断**.
+- **Revise (REWRITE-66-112):** C-01 mảnh nhớ / nhịp nhớ; C-02 đường tắt Ma; C-03 bỏ meta số chương; M-01 kho → **Đoạn**.
 - **Kiểm tra canon:** Đạt theo `logic/chapters/ch86-tam-ma-nhe-beat.md`.
-  - **Nối ch.85 r2:** Mở **sau** cliff **Canh Mão** (ù, FS-014 echo mầm); **Canh Thìn** gặp phụ mạch (*ổn không*, không chữa trên **断**); **không** scene Tạ Hàm Nguyệt dài.
+  - **Nối ch.85 r2:** Mở **sau** cliff **Canh Mão** (ù, FS-014 echo mầm); **Canh Thìn** gặp phụ mạch (*ổn không*, không chữa trên **Đoạn**); **không** scene Tạ Hàm Nguyệt dài.
   - **FS-014:** flash Thạch Lam bột / thương cũ / *vì đại cục* không tên; tâm ma nhẹ mời bỏ ca / úp / hút — từ chối bằng hành; **không** heal wound.
   - **FS-007:** lệch dày sau flash; Mộc sai một tích; mảnh lạnh + nửa nhịp.
   - **FS-011:** Hữu chậm vs Ma mời — không join Ma.

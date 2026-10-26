@@ -8,7 +8,7 @@ Giữa hạ, nắng gắt hơn; sườn **Bán Sơn Linh Ngư** nóng từ đá,
 
 Phương Thực đã nhắc sáng: “Sa Hoàng — mười nhịp ván, không hơn.” Hắn gật; đến gốc cây, mắt thấy đất nứt, quả cụp, và quên mười nhịp. Thói **trị thương** không cần linh lực vẫn chạy — thấy yếu là muốn bù, thấy khô là muốn đầy — như tay từng bù mạch, bù đan, bù kỳ tu. Điền dạy bù bằng đất; đất trả lời bằng nứt và vàng.
 
-Nơi **Sa Hoàng Quả** (沙黄果) cần ít ẩm, đất cát pha, thoát nhanh — sỏi lộ một phần, nắng đập trắng. Quả non trên cành thấp, vỏ còn xanh vàng, lông tơ mỏng; sổ treo cột ghi: tưới nhẹ, không như luống **Thanh Linh Thảo**. Gánh nghiêng; nước đổ mạnh hơn cần trước khi hắn kịp sửa thăng bằng.
+Nơi **Sa Hoàng Quả** cần ít ẩm, đất cát pha, thoát nhanh — sỏi lộ một phần, nắng đập trắng. Quả non trên cành thấp, vỏ còn xanh vàng, lông tơ mỏng; sổ treo cột ghi: tưới nhẹ, không như luống **Thanh Linh Thảo**. Gánh nghiêng; nước đổ mạnh hơn cần trước khi hắn kịp sửa thăng bằng.
 
 Hắn hạ **ván** trên **mương tưới**, nước chảy đều như tưới **Thanh Linh Thảo**: rãnh đầy, đất tối, ẩm sâu. Nước thấm nhanh ở cát; trong vài nhịp, mặt luống đen bóng. **Sa Hoàng** không cần ẩm sâu; cần uống mỏng, cần thở — rễ không chìm lâu, gốc không ngập. Hắn đứng nhìn, lẽ ra phải hạ ván sớm hơn; đã trễ một đoạn ngắn, đủ để đất nhớ.
 

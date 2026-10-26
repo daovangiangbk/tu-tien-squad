@@ -18,11 +18,11 @@
 
 ---
 
-## 1. Minh Giới (冥界)
+## 1. Minh Giới (Minh Giới)
 
 ### 1.1. Bản chất
 
-Minh Giới là **màng phụ** của chu kỳ **Luật 4 — Nhân quả & Luân hồi có sổ**: thu **vong hồn**, điều phối **Lục Đạo**, phát **âm khí** (冥气). Tu sĩ sống **không** “tu Minh” như bước thứ năm; cơ duyên **Minh pháp / âm tu** trên Phàm hoặc Linh là **mượn mạch** Minh, không đổi mô hình song song.
+Minh Giới là **màng phụ** của chu kỳ **Luật 4 — Nhân quả & Luân hồi có sổ**: thu **vong hồn**, điều phối **Lục Đạo**, phát **âm khí**. Tu sĩ sống **không** “tu Minh” như bước thứ năm; cơ duyên **Minh pháp / âm tu** trên Phàm hoặc Linh là **mượn mạch** Minh, không đổi mô hình song song.
 
 ### 1.2. Cổng & mạch âm (neo atlas)
 
@@ -46,7 +46,7 @@ Khi sinh mệnh kết thúc trong một giới host, **Thần thức / hồn ả
 
 ### 2.0. Ma Giới gốc (Thái Cổ — tier-00)
 
-**Ma Giới** (魔界) là **cõi Ma khí** mở ra khi **La Hầu bạo Ma Thân** (Đại chiến Đạo–Ma, Trảm Ma Tây Phương) — **song song** **Không gian Bàn Cổ**, phân tách bởi **giới bích Ma** ( riêng, **không** thay giới bích Phàm–Linh–Tiên–Thần ). Chi tiết prose + Logic: [`history/tier-00/01c-dai-chien-dao-ma.md`](history/tier-00/01c-dai-chien-dao-ma.md) ( Khúc 5 · Phụ lục Logic ).
+**Ma Giới** là **cõi Ma khí** mở ra khi **La Hầu bạo Ma Thân** (Đại chiến Đạo–Ma, Trảm Ma Tây Phương) — **song song** **Không gian Bàn Cổ**, phân tách bởi **giới bích Ma** ( riêng, **không** thay giới bích Phàm–Linh–Tiên–Thần ). Chi tiết prose + Logic: [`history/tier-00/01c-dai-chien-dao-ma.md`](history/tier-00/01c-dai-chien-dao-ma.md) ( Khúc 5 · Phụ lục Logic ).
 
 | Quy tắc | Ý |
 | --- | --- |
@@ -80,7 +80,7 @@ Khi sinh mệnh kết thúc trong một giới host, **Thần thức / hồn ả
 
 ---
 
-## 3. Vực Ngoại nội giới / hư không nội giới (域外 · 虚空)
+## 3. Vực Ngoại nội giới / hư không nội giới (VựcNgoại·HưKhông)
 
 ### 3.1. Bản chất `(invariant)`
 
@@ -122,7 +122,7 @@ Khi sinh mệnh kết thúc trong một giới host, **Thần thức / hồn ả
 
 ---
 
-## 4. Tiểu Thiên Thế Giới (小千世界)
+## 4. Tiểu Thiên Thế Giới (Tiểu Thiên Thế Giới)
 
 ### 4.1. Quy tắc host
 
@@ -146,7 +146,7 @@ Khi sinh mệnh kết thúc trong một giới host, **Thần thức / hồn ả
 
 ---
 
-## 5. Bí cảnh (秘境) — expansion slots (logic only)
+## 5. Bí cảnh (BíCảnh) — expansion slots (logic only)
 
 | Slot ID | Tầng | Host giới | Logic sẵn |
 | --- | --- | --- | --- |
@@ -159,7 +159,7 @@ Khi sinh mệnh kết thúc trong một giới host, **Thần thức / hồn ả
 
 ---
 
-## 6. Chư Thiên Vạn Giới (诸天万界) — expansion slots (logic only)
+## 6. Chư Thiên Vạn Giới (Chư Thiên Vạn Giới) — expansion slots (logic only)
 
 | Slot ID | Tầng | Logic sẵn |
 | --- | --- | --- |

@@ -34,7 +34,7 @@ child_index:
 
 ## 1. Hai tầng tiền tệ & quyền lực
 
-- **Bạc phàm (凡银):** lương phu mỏ, lương thực, dịch vụ phàm — **tách** khỏi quy đổi công khai với linh thạch tu (`Luật 6b` · social §4).
+- **Bạc phàm (Bạc phàm):** lương phu mỏ, lương thực, dịch vụ phàm — **tách** khỏi quy đổi công khai với linh thạch tu (`Luật 6b` · social §4).
 - **Linh thạch:** tu luyện, trận, đan, giao dịch tông — **monopoly** mỏ + **mạch lõi**; thuế mỏ tông **20–35%** (atlas §4), Thiên Quan **25–30%** trên đoạn đô thị Linh Hà (catalog exemplar).
 - **Linh thạch thượng / linh nguyên:** **khan hiếm** cận cổ — **gia tộc Trung Linh** + nhập **Kim Hà** (`E-LINH-NEIGHBOR-HA`); Cửu Khẩu **đốt** thượng phẩm theo chu kỳ (catalog Cửu Khẩu).
 - **Đan dược & công pháp:** **hàng chiến lược** — Ngọc Lâm xuất, Trung Linh tranh; **độc quyền phương** = chính trị tu.

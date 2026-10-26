@@ -35,7 +35,7 @@
 
 ### 3.1. Cõi & phạm vi truyện
 
-- **Cõi làm việc:** **Hạ Giới / Phàm giới** (下界) — tu sĩ phàm thể, linh khí mỏng hơn thượng giới; **bối cảnh hành động chính** nằm trên **Đại Hoang Lục địa** (`CHL-HA-GIOI-NAM`, **cực nam tinh hà**).
+- **Cõi làm việc:** **Hạ Giới / Phàm giới** — tu sĩ phàm thể, linh khí mỏng hơn thượng giới; **bối cảnh hành động chính** nằm trên **Đại Hoang Lục địa** (`CHL-HA-GIOI-NAM`, **cực nam tinh hà**).
 - **Tinh Hà (macro):** [`geo/00-tinh-ha.geojson`](geo/00-tinh-ha.geojson) — **năm đại lục** (hình random, không chồng lấn):
 
 | Hướng (tương đối) | ID | Tên | GeoJSON chau_luc | Ghi chú |
@@ -47,7 +47,7 @@
 | Đông | `CHL-DONG-HAI` | Đông Hải đại lục | *(chưa mở file)* | `hidden_logic` · seed 20260917 |
 
 - **Neo tinh hà → lục:** `parent_coordinates` **`[-34, -197]`**, scale k≈**6.19** (SW bbox `CHL-HA-GIOI-NAM` trên tinh hà).
-- **Đơn vị địa chính trị (trên Đại Hoang):** **Châu** (洲) — **Lan Sa Châu** cạn khí; **Thạch Lam Thành** **ngoài / biên bắc–đông bắc** châu (vào thành = bỏ Lan Sa phía sau).
+- **Đơn vị địa chính trị (trên Đại Hoang):** **Châu** — **Lan Sa Châu** cạn khí; **Thạch Lam Thành** **ngoài / biên bắc–đông bắc** châu (vào thành = bỏ Lan Sa phía sau).
 - **Tiên Giới / Ma Giới / giới bích:** tồn tại — **chưa** bối cảnh hành động chính; phi thăng = mục tiêu dài hạn.
 
 #### 3.1.1. Đại Hoang Lục địa (bản đồ châu lục — tóm lược)

@@ -28,7 +28,7 @@
 | W-02 | Cấu trúc & nhịp | major | Ch.112 milestone **Telegraphic** — ít sensuous detail, nhiều nhãn trạng thái | Viết lại 111–112 thành 1–2 cảnh (tu, phố, đèn) giữ ý FS-008, bỏ dòng kiểu checklist. |
 | W-03 | Interface / packaging | major | Khối **«Ghi chú sáng tác»** + canon check trong file chương (rộng từ ~48, 66+) phá immersion publish | Tách sang `chapter-view/` hoặc logic; reader-facing chỉ giữ header metadata tối thiểu nếu cần. |
 | W-04 | Hình ảnh & văn phong | minor | Đoạn **câu hỏi tu tự** cuối Arc 1 (ai lập Cửu Huyền…) giọng giải thích, lệch nhịp ch.48 trước cliff | Chuyển thành 1–2 cảnh quan sát/im lặng hoặc độc thoại ngắn gắn, bỏ chuỗi «Vì sao… Vì sao…». |
-| W-05 | Nhịp | minor | Arc 3 (89, 103): mật độ **quy tắc hội/điểm/断** cao — đúng theme nhưng dễ **mỏi** nếu đọc liên tục | Xen cảnh không-sổ (một nhân vật phụ, một chi tiết thân) mỗi 2–3 chương cao áp. |
+| W-05 | Nhịp | minor | Arc 3 (89, 103): mật độ **quy tắc hội/điểm/Đoạn** cao — đúng theme nhưng dễ **mỏi** nếu đọc liên tục | Xen cảnh không-sổ (một nhân vật phụ, một chi tiết thân) mỗi 2–3 chương cao áp. |
 | W-06 | POV | minor | Lặp công thức «nuốt / nén / **không** mở vết» — đúng tâm lý nhưng **sáo** qua chục chương | Giữ ý, đổi hình (hành động tay, vật, một câu thoại ngoài) thay cùng một động từ meta. |
 | W-07 | Thể loại | minor | Header chương (FS-ID, beat) hữu ích pipeline nhưng reader thuần có thể thấy **tooling** | Tuỳ kênh publish: ẩn block metadata khi xuất. |
 | W-08 | Cấu trúc | minor | Một số ch rewrite **tell** trade-off đa nghề bằng câu nhắc «đa nghề trả đúng chỗ» | Thay bằng một thao tác cụ thể (túi, tay, hơi thở) đã làm ở ch.103 — nhân rộng mẫu đó. |
@@ -70,7 +70,7 @@
 ## So với brief / theme *(đã đọc Core §1–2, brief v3)*
 
 - **Khớp:** Tán tu, tạp căn, trí + cơ duyên; chính nghĩa hành vi (ch.30, 70); phe xám (Thanh Sa, Bách Hóa, hội đan); tam giác/NC trì hoãn; «cái giá» linh thạch, khế, điểm.
-- **Lệch (có chủ ý hay vô ý):** Brief «Tru Tiên» — Arc 1 gần; **vô ý:** đoạn cuối phase và rewrite zone **ít tình cảnh tương sinh**, nhiều **ký hiệu hệ thống** (断, điểm, ca) — hợp Logic, cần cân lại Interface cho độc giả văn học.
+- **Lệch (có chủ ý hay vô ý):** Brief «Tru Tiên» — Arc 1 gần; **vô ý:** đoạn cuối phase và rewrite zone **ít tình cảnh tương sinh**, nhiều **ký hiệu hệ thống** — hợp Logic, cần cân lại Interface cho độc giả văn học.
 
 ## Human / orchestrator
 

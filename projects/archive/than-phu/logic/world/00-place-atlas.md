@@ -7,7 +7,7 @@
 
 | ID geo | Tên Việt | Hán | Ghi chú |
 | --- | --- | --- | --- |
-| `CHL-PHU-VIEN` | Phù Viên đại lục · Hạ Giới | 符元大陆 | Lục địa riêng work `than-phu`; không nhầm Hạ Giới Nam của `tap-linh-dieu-lo`. |
+| `CHL-PHU-VIEN` | Phù Viên đại lục · Hạ Giới | PhùNguyênĐạiLục | Lục địa riêng work `than-phu`; không nhầm Hạ Giới Nam của `tap-linh-dieu-lo`. |
 | `LOC-THACH-LAM` | *(hub ref trong geo)* | — | Neo bản đồ; **không** trùng **Thạch Lam Thành** (tác phẩm khác) trong prose — ở đây là hub tọa độ canvas. |
 
 ## Vùng & điểm (Arc 1 — Phù Lĩnh)
@@ -26,7 +26,7 @@
 | ID geo | Tên canon | Arc | Vai trò cốt |
 | --- | --- | --- | --- |
 | `CHAU-THANH-PHU-VIEN` | Châu thành phù · **Thanh Phù Thành** | 2 | Điều tra **U Huyết Các**; bắt cóc trẻ. |
-| `LOC-THANH-PLACEHOLDER` | **Thanh Phù Thành** (青符城) | 2 | ID geo giữ slug cũ; **name_vi** đã canon. |
+| `LOC-THANH-PLACEHOLDER` | **Thanh Phù Thành** | 2 | ID geo giữ slug cũ; **name_vi** đã canon. |
 | `LOC-U-NGO` | **U Ngõ · Thanh Phù** | 2 | Hắc thị; micro [`arc-02-u-ngo.geojson`](geo/micro/arc-02-u-ngo.geojson) · **TC-TP-004**. |
 
 ## Nam hoang (Arc 3)

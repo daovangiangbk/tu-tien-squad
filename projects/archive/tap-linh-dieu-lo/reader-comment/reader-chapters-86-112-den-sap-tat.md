@@ -23,7 +23,7 @@
 
 ## Chương 87: Hao Thần
 
-**Cảm nhận:** Ca cuối **断**: MC chọn **vá tre**, trả **hao thần** từng tích. Phụ mạch: *chữa hoặc chết — sổ Thạch Lam khác sổ phế*. Chiều bước cổng tây, về thành.
+**Cảm nhận:** Ca cuối **Đoạn**: MC chọn **vá tre**, trả **hao thần** từng tích. Phụ mạch: *chữa hoặc chết — sổ Thạch Lam khác sổ phế*. Chiều bước cổng tây, về thành.
 
 **Cuốn / muốn đọc tiếp:** Thạch Lam, đan sư, giá chữa lệch.
 
@@ -57,7 +57,7 @@
 
 ## Chương 89: Cửa Đan Hội
 
-**Cảm nhận:** Vào **Đan Hội Phường** — điểm thay hạt, lao tro; tên **Ất Vô**, *điểm khởi không*. **断** vẫn nặng trên lao; Thiên Sa đã nhận cọc, hàng dài, không vé.
+**Cảm nhận:** Vào **Đan Hội Phường** — điểm thay hạt, lao tro; tên **Ất Vô**, *điểm khởi không*. **Đoạn** vẫn nặng trên lao; Thiên Sa đã nhận cọc, hàng dài, không vé.
 
 **Cuốn / muốn đọc tiếp:** Lệ phí cống hiến + khế lao.
 
@@ -176,7 +176,7 @@
 
 ## Chương 96: Định Linh Tán
 
-**Cảm nhận:** **Canh Ngọ** đối bia: chính **36** hết lô; lậu ~**18** *断* mạch. Tre **Trúc Cơ Hậu** lò phụ — ép có giá, chưa đột phá trong ch.
+**Cảm nhận:** **Canh Ngọ** đối bia: chính **36** hết lô; lậu ~**18** *Đoạn* mạch. Tre **Trúc Cơ Hậu** lò phụ — ép có giá, chưa đột phá trong ch.
 
 **Cuốn / muốn đọc tiếp:** Ép Hậu trước khi lò ăn tên.
 
@@ -244,7 +244,7 @@
 
 ## Chương 100: Thuê Nộp
 
-**Cảm nhận:** **Mão** thuê nộp công khai; **Phương Ngự Hàn** một cảnh *không hòa*, **断**. **Dậu** ca **Kiến Sa** 3 ngày, 10 điểm, *đan sư xám*.
+**Cảm nhận:** **Mão** thuê nộp công khai; **Phương Ngự Hàn** một cảnh *không hòa*, **Đoạn**. **Dậu** ca **Kiến Sa** 3 ngày, 10 điểm, *đan sư xám*.
 
 **Cuốn / muốn đọc tiếp:** Ca phế; ai đi cùng (Trầm).
 
@@ -261,7 +261,7 @@
 
 ## Chương 101: Đan Sư Xám
 
-**Cảm nhận:** Tập ca **Kiến Sa**: **Trầm Hội Sa** — *vì đại cục dược*, chết không bia. Ba ngày hái tạp căn phế; **断** cấm hút.
+**Cảm nhận:** Tập ca **Kiến Sa**: **Trầm Hội Sa** — *vì đại cục dược*, chết không bia. Ba ngày hái tạp căn phế; **Đoạn** cấm hút.
 
 **Cuốn / muốn đọc tiếp:** Đất phế thở; ca mới.
 
@@ -467,4 +467,4 @@
 
 - **Tiếp tục đọc:** có *(nếu có chương 113+)* — bản 112 kết **mở**, không chán dừng  
 - **Ấn tượng mạnh nhất:** Arc **86–87** rút phế → **Thạch Lam**; arc **88–99** **Luyện Đan Hội** (điểm, lao, gian, tranh lò) như “Đan Sa phiên bản thành”; **100–103** ca phế **Kiến Sa** + rung/mảnh; **105–106** chọn **Thuận** vs Ma/shortcut; **107–112** ép **Hậu → Đại Viên Mãn** nhưng **Linh Dịch gốc lệch**, **Thiên Sa** vẫn ngoài tầm hạt, **đèn sắp tắt** mầm kỳ  
-- **Điều cần tác giả làm rõ sớm (nếu có):** Chữa **gốc lệch** (Bách Hóa / phương sâu / bí cảnh?); **Thiên Sa** MC có vào không; **Cửu Huyền** + phế **断**; **Phương Ngự Hàn** còn vai gì; nợ **Bách Hóa** khi nào đòi
+- **Điều cần tác giả làm rõ sớm (nếu có):** Chữa **gốc lệch** (Bách Hóa / phương sâu / bí cảnh?); **Thiên Sa** MC có vào không; **Cửu Huyền** + phế **Đoạn**; **Phương Ngự Hàn** còn vai gì; nợ **Bách Hóa** khi nào đòi

@@ -63,6 +63,8 @@ Mỗi đối tượng active có sáu miền đúng tên:
 
 Mỗi miền chỉ có **5–10 gạch đầu dòng cấp cao**, kèm nguồn, trạng thái, `parent` và `children`. Không viết bách khoa toàn thư. Chi tiết chỉ được mở khi arc cần.
 
+**Khung điền mẫu (5 tầng tu tiên → sáu miền):** [`_templates/README.md`](_templates/README.md) và [`_templates/object/`](_templates/object/README.md).
+
 ## 4. Quy tắc liên kết xuống
 
 - Realm link tới planet hoặc system.

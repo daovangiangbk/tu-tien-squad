@@ -15,8 +15,7 @@ child_index:
     path: ../../../../geo/chau-luc/chl-bang-phong.geojson
 ---
 
-# Băng Tinh quan · 冰星关
-
+# Băng Tinh quan · BăngTinhQuan
 **parent:** [`CHL-BANG-PHONG`](../../00-overview.md) · **GeoJSON:** [`chl-bang-phong.geojson`](../../../../geo/chau-luc/chl-bang-phong.geojson)
 
 ## Hợp đồng kế thừa

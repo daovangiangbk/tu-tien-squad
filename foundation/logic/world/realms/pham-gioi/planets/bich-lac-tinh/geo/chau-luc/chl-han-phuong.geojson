@@ -23,7 +23,7 @@
       "properties": {
         "id": "CHL-HAN-PHUONG",
         "name_vi": "Đại lục Hàn Phương",
-        "name_hv": "寒方大陆",
+        "name_hv": "Đại lục Hàn Phương",
         "kind": "continent",
         "visibility": "public",
         "notes": "Silhouette CHL-HAN-PHUONG từ 00-tinh-ha; parent SW [-356.0, -32.0]; hub LOC-HP-HAN-TINH."
@@ -652,7 +652,7 @@
         "id": "REG-HP-NAM-CAN",
         "name_vi": "Nam Cạn · rìa ấm",
         "kind": "wilderness",
-        "name_hv": "南旱",
+        "name_hv": "Nam Cạn",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
         "notes": "Biên giới Nam · giao thương hiếm"
@@ -895,7 +895,7 @@
         "id": "REG-HP-BANG-HA",
         "name_vi": "Băng Hà · ven sông đóng",
         "kind": "wilderness",
-        "name_hv": "冰河",
+        "name_hv": "Băng Hà",
         "linh_khi_tier": "vô_lin",
         "visibility": "public"
       }
@@ -1117,7 +1117,7 @@
         "id": "REG-HP-TUYET-LAM",
         "name_vi": "Tuyết Lâm · rừng băng",
         "kind": "wilderness",
-        "name_hv": "雪林",
+        "name_hv": "Tuyết Lâm",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public"
       }
@@ -1475,7 +1475,7 @@
         "id": "REG-HP-PHONG-MO",
         "name_vi": "Phong Mộ Cốc",
         "kind": "dungeon",
-        "name_hv": "封墓谷",
+        "name_hv": "Phong Mộ Cốc",
         "linh_khi_tier": "manh_mach_rải",
         "visibility": "hidden_logic",
         "notes": "Di tích phong ấn · vong hồn Linh"
@@ -1822,7 +1822,7 @@
         "id": "REG-HP-BANG-YUAN",
         "name_vi": "Băng Nguyên · mạch kiệt",
         "kind": "wilderness",
-        "name_hv": "冰原",
+        "name_hv": "Băng Nguyên",
         "linh_khi_tier": "vô_lin",
         "visibility": "public",
         "notes": "Mạch băng cạn · Luyện Thể"
@@ -2009,7 +2009,7 @@
         "id": "REG-HP-HAN-TINH",
         "name_vi": "Hàn Tinh Quan · thành cực bắc",
         "kind": "polity",
-        "name_hv": "寒星关",
+        "name_hv": "Hàn Tinh Quan",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
         "notes": "Phàm quốc · tu luyện thể chất"
@@ -2108,7 +2108,7 @@
         "id": "REG-HP-BAC-HUYEN",
         "name_vi": "Bắc Huyền · đại vực băng",
         "kind": "wilderness",
-        "name_hv": "北玄",
+        "name_hv": "Bắc Huyền",
         "linh_khi_tier": "vô_lin",
         "visibility": "public"
       }
@@ -2290,7 +2290,7 @@
         "id": "REG-HP-TAY-PHONG",
         "name_vi": "Tây Phong · biên tây",
         "kind": "wilderness",
-        "name_hv": "西风",
+        "name_hv": "Tây Phong",
         "linh_khi_tier": "vô_lin",
         "visibility": "public"
       }
@@ -2600,7 +2600,7 @@
         "id": "BRR-HP-HAN-SON",
         "name_vi": "Dãy Hàn Sơn",
         "kind": "barrier",
-        "name_hv": "寒山",
+        "name_hv": "Dãy Hàn Sơn",
         "linh_khi_tier": "manh_mach_rải"
       }
     },
@@ -2805,7 +2805,7 @@
         "id": "REG-HP-DONG-HUYEN",
         "name_vi": "Đông Huyền · địa đông",
         "kind": "wilderness",
-        "name_hv": "东玄",
+        "name_hv": "Đông Huyền",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "mc_phase1"
       }
@@ -3031,7 +3031,7 @@
         "id": "REG-HP-NOI-DIA",
         "name_vi": "Nội Địa · đồng băng nam",
         "kind": "wilderness",
-        "name_hv": "内甸",
+        "name_hv": "Nội Địa",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public"
       }
@@ -3048,7 +3048,7 @@
       "properties": {
         "id": "LOC-HP-HAN-TINH",
         "name_vi": "Hàn Tinh Quan · thành chính",
-        "name_hv": "寒星关",
+        "name_hv": "Hàn Tinh Quan",
         "kind": "hub",
         "visibility": "public"
       }
@@ -3065,7 +3065,7 @@
       "properties": {
         "id": "LOC-HP-PHONG-MO",
         "name_vi": "Phong Mộ · cửa cốc",
-        "name_hv": "封墓",
+        "name_hv": "Phong Mộ",
         "kind": "settlement",
         "visibility": "hidden_logic"
       }
@@ -3312,7 +3312,7 @@
       "properties": {
         "id": "RIVER-HP-BANG-HA",
         "name_vi": "Băng Hà",
-        "name_hv": "冰河",
+        "name_hv": "Băng Hà",
         "kind": "route",
         "from_id": "REG-HP-BANG-YUAN",
         "to_id": "REG-HP-NAM-CAN"
@@ -3552,7 +3552,7 @@
       "properties": {
         "id": "RIVER-HP-HAN-MACH",
         "name_vi": "Hàn Mạch",
-        "name_hv": "寒脉",
+        "name_hv": "Hàn Mạch",
         "kind": "route"
       }
     }

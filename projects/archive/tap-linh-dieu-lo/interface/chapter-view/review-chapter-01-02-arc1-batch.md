@@ -11,7 +11,7 @@
 
 ## Tóm tắt
 
-- Ngôn ngữ: không tiếng Anh trong prose; Hán Việt/Hán tự (*存*, *蘇遙*).
+- Ngôn ngữ: không tiếng Anh trong prose; Hán Việt/Hán tự (*Tồn*, *Tô Diêu*).
 - Canon: Tô Diêu, Tam Hệ Tạp Linh Căn, LK tầng 3, không đột phá.
 - FS: 001, 002, 012, 014 (ch.1); 002 sâu + mầm kinh tế (ch.2).
 - Continuity ch1→ch2: chạy, cột cát, mảnh, Đan Điền, vết tay — khớp.

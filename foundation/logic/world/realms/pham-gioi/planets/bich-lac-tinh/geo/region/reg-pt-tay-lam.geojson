@@ -56,7 +56,7 @@
       "properties": {
         "id": "LOC-PT-TAY-LAM-RUNG",
         "name_vi": "Tây Lâm · rừng đầm",
-        "name_hv": "西林",
+        "name_hv": "Tây Lâm",
         "kind": "hub",
         "visibility": "public"
       },
@@ -73,7 +73,7 @@
       "properties": {
         "id": "LOC-PT-TAY-LAM-TRAM",
         "name_vi": "Trạm biên · nam",
-        "name_hv": "驿站",
+        "name_hv": "Trạm biên",
         "kind": "settlement",
         "visibility": "public"
       },
@@ -90,7 +90,7 @@
       "properties": {
         "id": "LOC-PT-TAY-LAM-CANH",
         "name_vi": "Tháp canh · đông",
-        "name_hv": "望塔",
+        "name_hv": "Tháp canh",
         "kind": "settlement",
         "visibility": "public"
       },
@@ -107,7 +107,7 @@
       "properties": {
         "id": "BRR-PT-TAY-LAM-RIM",
         "name_vi": "Vành địa · rìa",
-        "name_hv": "缘障",
+        "name_hv": "Vành địa",
         "kind": "barrier",
         "visibility": "public"
       },
@@ -144,7 +144,7 @@
       "properties": {
         "id": "LOC-PT-KHE-U",
         "name_vi": "Khe U",
-        "name_hv": "幽谷",
+        "name_hv": "Khe U",
         "kind": "hub",
         "visibility": "public",
         "notes": "Shared id; parent chl (280.0, 560.0)."

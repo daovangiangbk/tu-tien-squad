@@ -14,10 +14,10 @@
 
 | Trục work | Nghĩa trong truyện | Khác epic `01` |
 | --- | --- | --- |
-| **Yên bình** (静) | **Plot engine:** muốn **cuộc sống tĩnh** — cảnh, mùa, việc tay; linh thảo **sống chung**, không **săn lạ** | Không tranh, không chứng minh |
-| **Sinh trưởng** (成长) | Cây **chậm hơn** nhịp tu MC — **kỳ dài**, **đảo ngược** nếu sai kỳ / thiên / **sai tay** | “Growth” = **kiên nhẫn + kỹ năng điền** |
+| **Yên bình** | **Plot engine:** muốn **cuộc sống tĩnh** — cảnh, mùa, việc tay; linh thảo **sống chung**, không **săn lạ** | Không tranh, không chứng minh |
+| **Sinh trưởng** | Cây **chậm hơn** nhịp tu MC — **kỳ dài**, **đảo ngược** nếu sai kỳ / thiên / **sai tay** | “Growth” = **kiên nhẫn + kỹ năng điền** |
 | **Thiếu kinh nghiệm** | **Bón dư**, trồng nhầm, **linh lực thúc** cây vô vọng, **sốt** hái sớm | Biến cố **dạy**, không drama phe |
-| **Nhàm** (厌) | Chán tranh đấu, chán **flex**; **chọn** điền thay vì săn cơ duyên | Không bi kịch Tru Tiên bắt buộc |
+| **Nhàm** | Chán tranh đấu, chán **flex**; **chọn** điền thay vì săn cơ duyên | Không bi kịch Tru Tiên bắt buộc |
 
 **Câu hỏi mở (nhẹ, không bắt kết arc):** Khi đã có thể **chưởng vỡ đại lục** mà **một mùa** vẫn **chưa** đủ lá Cửu Diệp — **chậm** có **đáng ở lại** khi **không dùng lực ép**?
 

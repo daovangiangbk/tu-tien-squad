@@ -17,11 +17,11 @@ def main() -> int:
     out = Path(__file__).resolve().parents[1] / "geo" / "00-tinh-ha.geojson"
     seed = 20260917
     specs = [
-        ("CHL-TAY-DUOC", "Tây Dược đại lục", "西药大陆", (-235, 25), 175, 185, 26, 0.41),
-        ("CHL-PHU-VIEN", "Phù Viên đại lục · Hạ Giới", "符元大陆", (48, -118), 215, 138, 28, 0.37),
-        ("CHL-BAC-LINH", "Bắc Linh đại lục", "北灵大陆", (15, 175), 205, 128, 26, 0.39),
-        ("CHL-DONG-HAI-YUAN", "Đông Hải Nguyên lục", "东海原陆", (228, -15), 182, 148, 28, 0.34),
-        ("CHL-NAM-MO", "Nam Mộ hoang lục", "南漠荒陆", (72, -275), 195, 95, 24, 0.43),
+        ("CHL-TAY-DUOC", "Tây Dược đại lục", "TâyDượcĐạiLục", (-235, 25), 175, 185, 26, 0.41),
+        ("CHL-PHU-VIEN", "Phù Viên đại lục · Hạ Giới", "PhùNguyênĐạiLục", (48, -118), 215, 138, 28, 0.37),
+        ("CHL-BAC-LINH", "Bắc Linh đại lục", "BắcLinhĐạiLục", (15, 175), 205, 128, 26, 0.39),
+        ("CHL-DONG-HAI-YUAN", "Đông Hải Nguyên lục", "ĐôngHảiNguyênLục", (228, -15), 182, 148, 28, 0.34),
+        ("CHL-NAM-MO", "Nam Mộ hoang lục", "NamMạcHoangLục", (72, -275), 195, 95, 24, 0.43),
     ]
     rng = random.Random(seed)
     placed: list[tuple[int, int, int, int]] = []
@@ -31,7 +31,7 @@ def main() -> int:
             "properties": {
                 "id": "TINH-HA-REF",
                 "name_vi": "Phù Vi Tinh Hà (tham chiếu)",
-                "name_hv": "符微星河",
+                "name_hv": "Phù Vi Tinh Hà",
                 "kind": "hub",
             },
             "geometry": {"type": "Point", "coordinates": [0, 0]},

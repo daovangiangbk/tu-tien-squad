@@ -13,8 +13,15 @@
     {
       "id": "REG-DA-LUC-NEN",
       "name": "Lô Hàng · nền đại lục",
-      "dimensions": { "width": 1000, "length": 1000 },
-      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "dimensions": {
+        "width": 1000,
+        "length": 1000
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 0,
+        "y": 0
+      },
       "properties": {
         "kind": "wilderness",
         "visibility": "hidden_logic",
@@ -26,10 +33,17 @@
     {
       "id": "REG-LH-NAM-HAI",
       "name": "Nam Hải · vực phía nam",
-      "dimensions": { "width": 720, "length": 76 },
-      "anchor": { "type": "absolute", "x": 140, "y": 24 },
+      "dimensions": {
+        "width": 720,
+        "length": 76
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 140,
+        "y": 24
+      },
       "properties": {
-        "name_hv": "南海",
+        "name_hv": "Nam Hải",
         "kind": "wilderness",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
@@ -39,10 +53,18 @@
     {
       "id": "REG-LH-CANG-TIEN",
       "name": "Cảng Tiên Sa",
-      "dimensions": { "width": 300, "length": 140 },
-      "anchor": { "type": "relative", "ref_id": "REG-LH-NAM-HAI", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 300,
+        "length": 140
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-LH-NAM-HAI",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "仙沙港",
+        "name_hv": "Cảng Tiên Sa",
         "kind": "polity",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
@@ -52,10 +74,18 @@
     {
       "id": "REG-LH-TRUNG-DAO",
       "name": "Trung Đảo · đảo chính",
-      "dimensions": { "width": 380, "length": 220 },
-      "anchor": { "type": "relative", "ref_id": "REG-LH-CANG-TIEN", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 380,
+        "length": 220
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-LH-CANG-TIEN",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "中岛",
+        "name_hv": "Trung Đảo",
         "kind": "wilderness",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public"
@@ -64,10 +94,18 @@
     {
       "id": "REG-LH-QUAN-DAO",
       "name": "Quần Đảo Lô",
-      "dimensions": { "width": 200, "length": 360 },
-      "anchor": { "type": "relative", "ref_id": "REG-LH-CANG-TIEN", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 200,
+        "length": 360
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-LH-CANG-TIEN",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "络群岛",
+        "name_hv": "Quần Đảo Lô",
         "kind": "wilderness",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
@@ -77,10 +115,17 @@
     {
       "id": "REG-LH-HAI-PHONG",
       "name": "Hải Phong · phong ấn cổ",
-      "dimensions": { "width": 200, "length": 480 },
-      "anchor": { "type": "absolute", "x": 24, "y": 96 },
+      "dimensions": {
+        "width": 200,
+        "length": 480
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 24,
+        "y": 96
+      },
       "properties": {
-        "name_hv": "海封",
+        "name_hv": "Hải Phong",
         "kind": "dungeon",
         "linh_khi_tier": "manh_mach_rải",
         "visibility": "mc_phase1",
@@ -90,10 +135,18 @@
     {
       "id": "REG-LH-TAY-AN",
       "name": "Tây An · hải vực yên",
-      "dimensions": { "width": 160, "length": 280 },
-      "anchor": { "type": "relative", "ref_id": "REG-LH-HAI-PHONG", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 160,
+        "length": 280
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-LH-HAI-PHONG",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "西安",
+        "name_hv": "Tây An",
         "kind": "wilderness",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public"
@@ -102,10 +155,18 @@
     {
       "id": "REG-LH-BAC-HAI",
       "name": "Bắc Hải · cửa bắc",
-      "dimensions": { "width": 560, "length": 72 },
-      "anchor": { "type": "relative", "ref_id": "REG-LH-TRUNG-DAO", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 560,
+        "length": 72
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-LH-TRUNG-DAO",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "北海",
+        "name_hv": "Bắc Hải",
         "kind": "wilderness",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
@@ -115,10 +176,17 @@
     {
       "id": "BRR-LH-LONG-QUY",
       "name": "Dãy Long Quy",
-      "dimensions": { "width": 44, "length": 380 },
-      "anchor": { "type": "absolute", "x": 320, "y": 420 },
+      "dimensions": {
+        "width": 44,
+        "length": 380
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 320,
+        "y": 420
+      },
       "properties": {
-        "name_hv": "龙脊",
+        "name_hv": "Dãy Long Quy",
         "kind": "barrier",
         "linh_khi_tier": "manh_mach_rải"
       }
@@ -126,10 +194,18 @@
     {
       "id": "REG-LH-DONG-LUU",
       "name": "Đông Lưu · hành lang thương",
-      "dimensions": { "width": 120, "length": 480 },
-      "anchor": { "type": "relative", "ref_id": "REG-LH-QUAN-DAO", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 120,
+        "length": 480
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-LH-QUAN-DAO",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "东流",
+        "name_hv": "Đông Lưu",
         "kind": "polity",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
@@ -139,10 +215,18 @@
     {
       "id": "REG-LH-LO-QUAN",
       "name": "Lô Quan · nội cảng",
-      "dimensions": { "width": 200, "length": 160 },
-      "anchor": { "type": "relative", "ref_id": "BRR-LH-LONG-QUY", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 200,
+        "length": 160
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "BRR-LH-LONG-QUY",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "络关",
+        "name_hv": "Lô Quan",
         "kind": "polity",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
@@ -155,27 +239,60 @@
       "id": "LOC-LH-CANG-TIEN",
       "name": "Tiên Sa · cảng chính",
       "type": "point",
-      "coordinates": { "x": 290, "y": 220 },
-      "properties": { "name_hv": "仙沙", "kind": "hub", "visibility": "public" }
+      "coordinates": {
+        "x": 290,
+        "y": 220
+      },
+      "properties": {
+        "name_hv": "Tiên Sa",
+        "kind": "hub",
+        "visibility": "public"
+      }
     },
     {
       "id": "LOC-LH-THUONG-HOI",
       "name": "Thương hội · điếm trung",
       "type": "point",
-      "coordinates": { "x": 520, "y": 380 },
-      "properties": { "name_hv": "商会", "kind": "hub", "visibility": "mc_phase1" }
+      "coordinates": {
+        "x": 520,
+        "y": 380
+      },
+      "properties": {
+        "name_hv": "Thương hội",
+        "kind": "hub",
+        "visibility": "mc_phase1"
+      }
     },
     {
       "id": "RIVER-LH-THUONG-LUU",
       "name": "Thương Lưu",
       "type": "river",
-      "properties": { "name_hv": "商流", "kind": "route", "notes": "Hải lưu thương · không uống được" },
+      "properties": {
+        "name_hv": "Thương Lưu",
+        "kind": "route",
+        "notes": "Hải lưu thương · không uống được"
+      },
       "control_points": [
-        { "x": 880, "y": 520 },
-        { "x": 720, "y": 420 },
-        { "x": 560, "y": 320 },
-        { "x": 400, "y": 180 },
-        { "x": 280, "y": 120 }
+        {
+          "x": 880,
+          "y": 520
+        },
+        {
+          "x": 720,
+          "y": 420
+        },
+        {
+          "x": 560,
+          "y": 320
+        },
+        {
+          "x": 400,
+          "y": 180
+        },
+        {
+          "x": 280,
+          "y": 120
+        }
       ],
       "roughness": "high"
     },
@@ -183,12 +300,27 @@
       "id": "RIVER-LH-NAM-LUU",
       "name": "Nam Lưu",
       "type": "river",
-      "properties": { "name_hv": "南流", "kind": "route" },
+      "properties": {
+        "name_hv": "Nam Lưu",
+        "kind": "route"
+      },
       "control_points": [
-        { "x": 600, "y": 680 },
-        { "x": 480, "y": 520 },
-        { "x": 360, "y": 360 },
-        { "x": 320, "y": 200 }
+        {
+          "x": 600,
+          "y": 680
+        },
+        {
+          "x": 480,
+          "y": 520
+        },
+        {
+          "x": 360,
+          "y": 360
+        },
+        {
+          "x": 320,
+          "y": 200
+        }
       ],
       "roughness": "medium"
     }

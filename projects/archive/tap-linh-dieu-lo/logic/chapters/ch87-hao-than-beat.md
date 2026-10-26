@@ -6,7 +6,7 @@
 
 ## Mở
 
-- Nối **cliff ch.86:** MC **mang** **Linh** **Dịch** **lệch** **vào** **một** **ca** **bắt** **buộc** — **trinh** **sát** **/ báo** **/ vá** **phụ** **(prose** **chọn** **một)** **trên** **断** **hoặc** **hành** **lang** **cuối**.
+- Nối **cliff ch.86:** MC **mang** **Linh** **Dịch** **lệch** **vào** **một** **ca** **bắt** **buộc** — **trinh** **sát** **/ báo** **/ vá** **phụ** **(prose** **chọn** **một)** **trên** **Đoạn** **hoặc** **hành** **lang** **cuối**.
 - **Thân:** **Hao** **tích** **lũy** **từ** **Beat** **7–8** **+** **đêm** **Linh** **Dịch** — **đầu** **ch.87** **đã** **mỏng**.
 
 ## Giữa

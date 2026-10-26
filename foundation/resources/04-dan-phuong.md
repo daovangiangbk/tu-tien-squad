@@ -1,4 +1,4 @@
-# Đan phương (丹方)
+# Đan phương (Đan)
 
 **Cột:** Tên phương | Thành phần chính | Đan ra | Điều kiện luyện | Monopoly | Nguồn ghi chú
 

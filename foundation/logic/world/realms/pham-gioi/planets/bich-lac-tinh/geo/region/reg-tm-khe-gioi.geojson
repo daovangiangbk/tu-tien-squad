@@ -19,7 +19,7 @@
       "properties": {
         "id": "REG-TM-KHE-GIOI-AREA",
         "name_vi": "Phạm vi Khe Giới",
-        "name_hv": "界隙域",
+        "name_hv": "Phạm vi Khe Giới",
         "kind": "barrier",
         "visibility": "hidden_logic",
         "linh_khi_tier": "manh_mach_rải",
@@ -110,7 +110,7 @@
       "properties": {
         "id": "LOC-TM-KHE-GIOI",
         "name_vi": "Khe Giới · cửa vết nứt",
-        "name_hv": "界隙",
+        "name_hv": "Khe Giới",
         "kind": "hub",
         "visibility": "hidden_logic",
         "notes": "Hub vùng; E-PHAM-CRACK-LINH; Minh rò âm gián tiếp khi khe dao động (06-subsidiary-realms)."
@@ -128,7 +128,7 @@
       "properties": {
         "id": "BRR-TM-BICH-VACH",
         "name_vi": "Bích vạch · thân khe",
-        "name_hv": "壁缝",
+        "name_hv": "Bích vạch",
         "kind": "barrier",
         "visibility": "hidden_logic",
         "linh_khi_tier": "manh_mach_rải",
@@ -175,7 +175,7 @@
       "properties": {
         "id": "LOC-TM-KHE-QUAN",
         "name_vi": "Giới quan · trạm kiểm",
-        "name_hv": "界关",
+        "name_hv": "Giới quan",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Đông nam khe",
@@ -195,7 +195,7 @@
       "properties": {
         "id": "LOC-TM-KHE-THAP",
         "name_vi": "Tháp giám · phía bắc khe",
-        "name_hv": "界塔",
+        "name_hv": "Tháp giám",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Bắc",
@@ -214,7 +214,7 @@
       "properties": {
         "id": "LOC-TM-MANH-RAN",
         "name_vi": "Manh mạch rải · sát bích",
-        "name_hv": "散脉",
+        "name_hv": "Manh mạch rải",
         "kind": "resource",
         "visibility": "hidden_logic",
         "direction_label": "Tây sát vách",
@@ -234,7 +234,7 @@
       "properties": {
         "id": "LOC-TM-MA-VET",
         "name_vi": "Vệt Ma · cửa tây khe",
-        "name_hv": "魔迹",
+        "name_hv": "Vệt Ma",
         "kind": "wilderness",
         "visibility": "hidden_logic",
         "direction_label": "Tây nam",
@@ -253,7 +253,7 @@
       "properties": {
         "id": "LOC-TM-LINH-BAN",
         "name_vi": "Linh bán · ngưỡng crack",
-        "name_hv": "灵半",
+        "name_hv": "Linh bán",
         "kind": "dungeon",
         "visibility": "hidden_logic",
         "direction_label": "Đáy khe",
@@ -272,7 +272,7 @@
       "properties": {
         "id": "LOC-TM-SA-HAI-CUA",
         "name_vi": "Cửa Sa Hải · lối đông",
-        "name_hv": "沙海口",
+        "name_hv": "Cửa Sa Hải",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Đông",
@@ -291,7 +291,7 @@
       "properties": {
         "id": "LOC-TM-CO-TU",
         "name_vi": "Cổ Tu · trung tâm di tích",
-        "name_hv": "古墟",
+        "name_hv": "Cổ Tu",
         "kind": "hub",
         "visibility": "public",
         "direction_label": "Đông bắc · mép region",
@@ -310,7 +310,7 @@
       "properties": {
         "id": "BRR-TM-KHE-CAT",
         "name_vi": "Cát phong · rìa đông",
-        "name_hv": "界沙",
+        "name_hv": "Cát phong",
         "kind": "barrier",
         "visibility": "public",
         "notes": "Cát cuốn; che tầm nhìn Sa Hải."
@@ -348,7 +348,7 @@
       "properties": {
         "id": "ROUTE-TM-KHE-SA-HAI",
         "name_vi": "Lối Sa Hải",
-        "name_hv": "沙海道",
+        "name_hv": "Lối Sa Hải",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-KHE-GIOI",
@@ -387,7 +387,7 @@
       "properties": {
         "id": "ROUTE-TM-KHE-CO-TU",
         "name_vi": "Đạo Cổ Tu",
-        "name_hv": "古墟道",
+        "name_hv": "Đạo Cổ Tu",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-KHE-GIOI",
@@ -426,7 +426,7 @@
       "properties": {
         "id": "ROUTE-TM-KHE-TAY-MA",
         "name_vi": "Biên đạo Tây Ma",
-        "name_hv": "西魔界",
+        "name_hv": "Biên đạo Tây Ma",
         "kind": "route",
         "visibility": "hidden_logic",
         "from_id": "LOC-TM-KHE-GIOI",
@@ -457,7 +457,7 @@
       "properties": {
         "id": "RIVER-TM-KHE-CAN",
         "name_vi": "Khe cạn · cố đô khô",
-        "name_hv": "涸溪",
+        "name_hv": "Khe cạn",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-KHE-QUAN",

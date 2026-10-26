@@ -23,7 +23,7 @@
       "properties": {
         "id": "CHL-KIEM-LOI",
         "name_vi": "Kiếm Lôi đại lục",
-        "name_hv": "剑雷大陆",
+        "name_hv": "Kiếm Lôi đại lục",
         "kind": "continent",
         "visibility": "public",
         "notes": "Silhouette CHL-KIEM-LOI từ 00-tinh-ha; parent SW [114.0, 158.0]; hub LOC-KL-LOI-DINH."
@@ -628,7 +628,7 @@
         "id": "REG-KL-NAM-VAN",
         "name_vi": "Nam Vân cửa",
         "kind": "wilderness",
-        "name_hv": "南云关",
+        "name_hv": "Nam Vân cửa",
         "than_khi_tier": "nặng_ổn_định",
         "visibility": "public",
         "notes": "Thương lộ lôi mây — thuế thần kiếp 10–18%"
@@ -963,7 +963,7 @@
         "id": "REG-KL-LOI-DINH",
         "name_vi": "Lôi Đình",
         "kind": "polity",
-        "name_hv": "雷庭",
+        "name_hv": "Lôi Đình",
         "than_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Thử Thần kiếp ngoài trời · hub LOC-KL-LOI-DINH"
@@ -1078,7 +1078,7 @@
         "id": "REG-KL-KIEM-TAN",
         "name_vi": "Kiếm Tán",
         "kind": "resource",
-        "name_hv": "剑坛",
+        "name_hv": "Kiếm Tán",
         "than_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Kiếm mạch công cộng — tranh kiếm ý"
@@ -1277,7 +1277,7 @@
         "id": "REG-KL-TRUNG-LOI",
         "name_vi": "Trung Lôi đài",
         "kind": "polity",
-        "name_hv": "中雷台",
+        "name_hv": "Trung Lôi đài",
         "than_khi_tier": "rất_nặng",
         "visibility": "public",
         "notes": "Hội thương lôi tinh thần"
@@ -1540,7 +1540,7 @@
         "id": "REG-KL-BAC-HAN",
         "name_vi": "Bắc Hàn uyên",
         "kind": "wilderness",
-        "name_hv": "北寒苑",
+        "name_hv": "Bắc Hàn uyên",
         "than_khi_tier": "mach_rải",
         "visibility": "public",
         "notes": "Hoang lôi — biên REG-HC-DONG-LAM · Huyền Băng"
@@ -1719,7 +1719,7 @@
         "id": "REG-KL-TAY-KIEM",
         "name_vi": "Tây Kiếm quan",
         "kind": "wilderness",
-        "name_hv": "西剑关",
+        "name_hv": "Tây Kiếm quan",
         "than_khi_tier": "nặng_ổn_định",
         "visibility": "public",
         "notes": "Biên REG-RT-BAC-LINH — Kiếm–Hồn chiến cổ vệt"
@@ -1950,7 +1950,7 @@
         "id": "BRR-KL-LOI-SON",
         "name_vi": "Dãy Lôi Sơn",
         "kind": "barrier",
-        "name_hv": "雷山",
+        "name_hv": "Dãy Lôi Sơn",
         "than_khi_tier": "mach_rải_cao",
         "visibility": "public",
         "notes": "Barrier lôi mạch — Thần kiếp nặng khi vượt"
@@ -2225,7 +2225,7 @@
         "id": "REG-KL-LOI-VUC",
         "name_vi": "Lôi Vực",
         "kind": "dungeon",
-        "name_hv": "雷域",
+        "name_hv": "Lôi Vực",
         "than_khi_tier": "mach_T2_T3",
         "visibility": "mc_phase1",
         "notes": "Thần phủ kiếm–lôi T2–T3"
@@ -2243,7 +2243,7 @@
       "properties": {
         "id": "LOC-KL-LOI-DINH",
         "name_vi": "Lôi Đình · kiếm lôi",
-        "name_hv": "雷庭",
+        "name_hv": "Lôi Đình",
         "kind": "hub",
         "visibility": "public",
         "than_khi_tier": "mach_chủ"
@@ -2267,7 +2267,7 @@
       "properties": {
         "id": "ROUTE-KL-TAY-TRUNG-THAN",
         "name_vi": "Kiếm quan tây",
-        "name_hv": "西剑路",
+        "name_hv": "Kiếm quan tây",
         "kind": "route",
         "from_id": "REG-KL-TAY-KIEM",
         "to_id": "REG-RT-BAC-LINH",
@@ -2608,7 +2608,7 @@
       "properties": {
         "id": "RIVER-KL-LOI-HE",
         "name_vi": "Lôi Hà",
-        "name_hv": "雷河",
+        "name_hv": "Lôi Hà",
         "kind": "route",
         "from_id": "REG-KL-BAC-HAN",
         "to_id": "REG-KL-NAM-VAN"

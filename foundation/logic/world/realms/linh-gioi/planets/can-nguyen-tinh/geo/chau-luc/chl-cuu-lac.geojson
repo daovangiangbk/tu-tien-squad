@@ -6,7 +6,7 @@
       "properties": {
         "id": "CHL-CUU-LAC",
         "name_vi": "Cửu Lạc đại lục",
-        "name_hv": "九洛大陆",
+        "name_hv": "Cửu Lạc đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -954,7 +954,7 @@
         "id": "REG-CL-NAM-HAI",
         "name_vi": "Nam Hải đài",
         "kind": "wilderness",
-        "name_hv": "南海台",
+        "name_hv": "Nam Hải đài",
         "linh_khi_tier": "dày",
         "visibility": "public",
         "notes": "Cửa biển đông nam — phi thuyền từ Vân Hải"
@@ -1097,7 +1097,7 @@
         "id": "REG-CL-PHAM-KHE",
         "name_vi": "Phàm Khe",
         "kind": "dungeon",
-        "name_hv": "凡隙",
+        "name_hv": "Phàm Khe",
         "linh_khi_tier": "lệch_mỏng",
         "visibility": "mc_phase1",
         "notes": "Crack Phàm–Linh (slot E-LINH-PHAM-CRACK) — linh khí mỏng cục bộ; có thể gap coastline"
@@ -1392,7 +1392,7 @@
         "id": "REG-CL-LAC-HE",
         "name_vi": "Lạc Hà hội",
         "kind": "wilderness",
-        "name_hv": "洛河汇",
+        "name_hv": "Lạc Hà hội",
         "linh_khi_tier": "rất_dày",
         "visibility": "public",
         "notes": "Cửu sông hội — mạch công cộng Cửu Lạc"
@@ -1667,7 +1667,7 @@
         "id": "REG-CL-LAC-TAM",
         "name_vi": "Lạc Tam trì",
         "kind": "resource",
-        "name_hv": "洛三池",
+        "name_hv": "Lạc Tam trì",
         "linh_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Trì linh trung tâm — nuôi đan dược hạng cao"
@@ -1930,7 +1930,7 @@
         "id": "REG-CL-CUU-KHAU",
         "name_vi": "Cửu Khẩu đài",
         "kind": "polity",
-        "name_hv": "九口台",
+        "name_hv": "Cửu Khẩu đài",
         "linh_khi_tier": "dong_phu_T3",
         "visibility": "public",
         "notes": "Phi thăng lore (slot E-LINH-ASCENSION-GATE) — Cửu Cửu chu kỳ; hub LOC-CL-CUU-KHAU"
@@ -2101,7 +2101,7 @@
         "id": "REG-CL-TAN-TIEN",
         "name_vi": "Tàn Tiên đài",
         "kind": "dungeon",
-        "name_hv": "残仙台",
+        "name_hv": "Tàn Tiên đài",
         "linh_khi_tier": "tiên_khí_vệt",
         "visibility": "hidden_logic",
         "notes": "Tản Tiên di tích — vệt Tiên khí, không phải Tiên Giới"
@@ -2192,7 +2192,7 @@
         "id": "REG-CL-DONG-LAC",
         "name_vi": "Đông Lạc · đảo phía đông",
         "kind": "wilderness",
-        "name_hv": "东洛",
+        "name_hv": "Đông Lạc",
         "linh_khi_tier": "dày",
         "visibility": "public"
       }
@@ -2326,7 +2326,7 @@
         "id": "REG-CL-TAY-DAO",
         "name_vi": "Tây Đảo · liên đảo",
         "kind": "wilderness",
-        "name_hv": "西岛",
+        "name_hv": "Tây Đảo",
         "linh_khi_tier": "dày",
         "visibility": "public",
         "notes": "Đảo nhỏ tây — yêu thú biên"
@@ -2509,7 +2509,7 @@
         "id": "BRR-CL-CUU-SON",
         "name_vi": "Dãy Cửu Sơn",
         "kind": "barrier",
-        "name_hv": "九山",
+        "name_hv": "Dãy Cửu Sơn",
         "linh_khi_tier": "mach_rải_cao",
         "visibility": "public"
       }
@@ -2731,7 +2731,7 @@
         "id": "REG-CL-BAC-PHONG",
         "name_vi": "Bắc Phong · đài gió",
         "kind": "wilderness",
-        "name_hv": "北风",
+        "name_hv": "Bắc Phong",
         "linh_khi_tier": "dày",
         "visibility": "public",
         "notes": "Hướng Ngọc Lâm — gió linh mạnh"
@@ -2749,7 +2749,7 @@
       "properties": {
         "id": "LOC-CL-CUU-KHAU",
         "name_vi": "Cửu Khẩu · phi thăng",
-        "name_hv": "九口",
+        "name_hv": "Cửu Khẩu",
         "kind": "hub",
         "visibility": "public",
         "linh_khi_tier": "dong_phu_T3"
@@ -2973,7 +2973,7 @@
       "properties": {
         "id": "RIVER-CL-CUU-LAC",
         "name_vi": "Cửu Lạc hà",
-        "name_hv": "九洛河",
+        "name_hv": "Cửu Lạc hà",
         "kind": "route",
         "from_id": "REG-CL-CUU-KHAU",
         "to_id": "REG-CL-NAM-HAI",
@@ -3234,7 +3234,7 @@
       "properties": {
         "id": "RIVER-CL-LAC-CHI",
         "name_vi": "Lạc Chi nhánh",
-        "name_hv": "洛支",
+        "name_hv": "Lạc Chi nhánh",
         "kind": "route",
         "from_id": "REG-CL-LAC-TAM",
         "to_id": "REG-CL-TAN-TIEN"

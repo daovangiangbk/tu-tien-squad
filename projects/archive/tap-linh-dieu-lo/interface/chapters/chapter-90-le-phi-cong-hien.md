@@ -11,7 +11,7 @@ Tre **Sửu** còn đen một phần — cửa phụ **Thạch Lam Luyện Đan 
 
 Ba hạt lẻ trong túi **mười bảy** — **không** đủ miệng trả Bách Hóa — **không** đủ cọc **Thiên Sa** xa phía tây — hắn **không** quay nhìn cột; nhìn là thấy hàng người khác đếm hạt, thấy vé người khác mua. Cột **đã** mở nhận cọc — tin treo nền — cơ duyên lớn **không** chạm túi rỗng.
 
-Trong ngực — **Linh Dịch lệch** — **Trúc Cơ Trung** — **ù** khi hít sương sớm — **không** Viên Mãn — **không** ai veo cứu riêng — chỉ cửa mở bằng **điểm** treo trên vách, **không** mở bằng hạt mình có. Khế Bách Hóa **im** — cùng thân **mười bảy** **断** — chấp sự **Thìn** **đã** đọc sổ mạch trước khi cho xem bảng; **Sửu** là bước **ký** — **lệ phí cống hiến** — **ký khế lao** — trả bằng canh trên sổ hội.
+Trong ngực — **Linh Dịch lệch** — **Trúc Cơ Trung** — **ù** khi hít sương sớm — **không** Viên Mãn — **không** ai veo cứu riêng — chỉ cửa mở bằng **điểm** treo trên vách, **không** mở bằng hạt mình có. Khế Bách Hóa **im** — cùng thân **mười bảy** **Đoạn** — chấp sự **Thìn** **đã** đọc sổ mạch trước khi cho xem bảng; **Sửu** là bước **ký** — **lệ phí cống hiến** — **ký khế lao** — trả bằng canh trên sổ hội.
 
 Hàng đợi **mỏng** — năm tán tu — áo tro — tay rát — **không** ai cười. Một người gãy răng trước — hỏi chấp sự:
 
@@ -25,11 +25,11 @@ Gã gật — **không** tranh — bước vào. Hắn **theo** — Linh Dịch 
 
 Bàn đăng ký — chấp sự **khác** chiều hôm qua — mặt bình — đọc quy trình **không** giảng:
 
-— **Lệ phí cống hiến** — một lần — **không** hạt — hai canh làm sạch sân dược thảo hoặc một canh giữ cổng phụ — ký tên trên sổ tạm · **断** đọc mạch trước ký — thêm một canh cảnh giá kho nếu chọn sân — **không** tam giác.
+— **Lệ phí cống hiến** — một lần — **không** hạt — hai canh làm sạch sân dược thảo hoặc một canh giữ cổng phụ — ký tên trên sổ tạm · **Đoạn** đọc mạch trước ký — thêm một canh cảnh giá kho nếu chọn sân — **không** tam giác.
 
 Hắn đưa cổ tay — **không** lộ linh lực — chấp sự **không** chạm da — chỉ để một tấm biển đồng mỏng lên mạch:
 
-— **断** — đọc — **không** nói to.
+— **Đoạn** — đọc — **không** nói to.
 
 Kim loại **lạnh** — một tích — số **mười bảy** hiện trên biển — **không** tên — chỉ mạch liên sổ Bách Hóa — liên nợ hoãn — liên *rút phế* — chấp sự gật:
 
@@ -53,7 +53,7 @@ Tán tu **không** tên — **không** bia — chỉ biên lai tre và số trê
 
 Chấp sự đưa biên lai — **không** dấu hội đầy — **chỉ** một chữ *tạm* và dòng *điểm khởi: không*:
 
-— Xong ký — đem cho Tổ phụ sân — đừng dẫm luống đan — dẫm — trừ điểm **chưa** có — **断** vi phạm tam giác — trừ sạch tuần.
+— Xong ký — đem cho Tổ phụ sân — đừng dẫm luống đan — dẫm — trừ điểm **chưa** có — **Đoạn** vi phạm tam giác — trừ sạch tuần.
 
 Hắn ký — nét gãy — **không** phù — ký là khế lao **khác** khế Bách Hóa — **không** hỏi chưởng quỹ có cộng nợ — hỏi là nhận thêm một loại lãi. Một tiếng gõ nhỏ trong ngực — khế kia **dội** nhẹ — hoãn hạt **không** hoãn canh — Sát **chưa** tới — đủ sống để trả hoặc chết có sổ — **cùng** thân hai miệng.
 
@@ -67,9 +67,9 @@ Dược thảo **mỏng** mùi — **không** thơm như đan thành phẩm — 
 
 Tổ phụ sân — giọng khàn — **không** nhìn mặt — chỉ luống:
 
-— **断** — đừng hút dư khí dược thảo — hút — ghi sổ mạch — hội **không** cứu — Bách Hóa cứu bằng hạt — họ **cũng** **không** cứu túi rỗng.
+— **Đoạn** — đừng hút dư khí dược thảo — hút — ghi sổ mạch — hội **không** cứu — Bách Hóa cứu bằng hạt — họ **cũng** **không** cứu túi rỗng.
 
-Câu khế **vang** lại — **không** to — nợ **vẫn** nặng ngoài sân. Hắn gom lá — rửa đá — **không** hút — Linh Dịch **ù** một tích khi cúi sâu — lệch **không** lành — **không** cố tu vòng đầy — tu là hao thêm — phù che đã hao trên **断** — trận đã hao ngoài phế — đan **chưa** đổi được một liều — **chưa** một nét trên biên lai ngoài *tạm*.
+Câu khế **vang** lại — **không** to — nợ **vẫn** nặng ngoài sân. Hắn gom lá — rửa đá — **không** hút — Linh Dịch **ù** một tích khi cúi sâu — lệch **không** lành — **không** cố tu vòng đầy — tu là hao thêm — phù che đã hao trên **Đoạn** — trận đã hao ngoài phế — đan **chưa** đổi được một liều — **chưa** một nét trên biên lai ngoài *tạm*.
 
 Canh giữa — tán tu *Giáp Thất* — điểm cao trên bảng tre sân — mang bao tro ngang — **không** chào:
 
@@ -77,19 +77,19 @@ Canh giữa — tán tu *Giáp Thất* — điểm cao trên bảng tre sân —
 
 Hắn gật — **không** hỏi *oan* là gì — hỏi **sau** — *oan* là số trên biên lai người ta cầm — hệ thống **không** chỉ cộng — còn **trừ**.
 
-Một tích — Tổ phụ đi qua kho tre — *canh đêm bốn điểm* · *断 cấm tam giác* — hắn **nhìn** — **không** vào — vào là ký thêm trước hết **Sửu** — ký là khế lao **khác**.
+Một tích — Tổ phụ đi qua kho tre — *canh đêm bốn điểm* · *Đoạn cấm tam giác* — hắn **nhìn** — **không** vào — vào là ký thêm trước hết **Sửu** — ký là khế lao **khác**.
 
 ---
 
 Canh Mão — sương tan — nắng **mỏng** trên lá.
 
-Hai canh **xong** sân — tay **nứt** nhẹ — **không** máu — **không** thuốc hội cho — thuốc đổi điểm — **chưa** có điểm. Tổ phụ ghi biên lai — **một** điểm lệ phí cống hiến — **không** hai — vì **断** làm chậm một tích cuối:
+Hai canh **xong** sân — tay **nứt** nhẹ — **không** máu — **không** thuốc hội cho — thuốc đổi điểm — **chưa** có điểm. Tổ phụ ghi biên lai — **một** điểm lệ phí cống hiến — **không** hai — vì **Đoạn** làm chậm một tích cuối:
 
 — Một điểm — cống hiến tạm — **chưa** đủ lao đổi phương — chiều đọc bảng luật — hiểu — rồi chọn canh tiếp — **không** veo phù che lệch trong sân — che là hao thần — hao thần **cũng** là nợ — **không** ghi vách — ghi trong thân.
 
 Biên lai đổi — *Ất Vô* — **không** Tô Diêu — **không** mười bảy trên vách — chỉ trong sổ chấp sự — liên mạch — liên nợ Bách Hóa — cùng thành — khác miệng.
 
-Hắn **tính** thầm: một điểm — chín điểm nữa tới mười — mười điểm một liều phụ ổn khí một tầng — **không** **Định Linh Tán** — tên đó Bách Hóa giữ — hội chỉ bán phụ — hàng thứ hai — cùng lò khác giá — độc quyền phương **giống** độc quyền vé trên cột xa — **giống** độc quyền mạch trên sổ **断** — ai **không** vào hàng — **không** có miệng.
+Hắn **tính** thầm: một điểm — chín điểm nữa tới mười — mười điểm một liều phụ ổn khí một tầng — **không** **Định Linh Tán** — tên đó Bách Hóa giữ — hội chỉ bán phụ — hàng thứ hai — cùng lò khác giá — độc quyền phương **giống** độc quyền vé trên cột xa — **giống** độc quyền mạch trên sổ **Đoạn** — ai **không** vào hàng — **không** có miệng.
 
 Ba hạt trên bàn gỗ trong đầu — **không** mua cơm đủ — **không** cọc — **không** một phần nợ hạt. Điểm trên giấy — **không** ăn — **chỉ** mở cửa sâu hơn vào **Thạch Lam Luyện Đan Hội**.
 
@@ -101,7 +101,7 @@ Bảng luật điểm — tre dài — chữ mảnh:
 
 **Cộng:** lao theo bảng · cứu lò · hiến dược thảo đúng chủng · canh đêm · lọc linh sa đúng tích.
 
-**Trừ:** hủy lò oan · dẫm luống · hút sai · **断** vi phạm tam giác · mượn điểm · lao chậm quá nửa canh.
+**Trừ:** hủy lò oan · dẫm luống · hút sai · **Đoạn** vi phạm tam giác · mượn điểm · lao chậm quá nửa canh.
 
 **Đổi:** mười điểm — phương phụ ổn khí một tầng — duyệt trưởng phòng — **không** **Định Linh Tán** — phương chính danh — chỉ đổi sau mười lăm điểm — hoặc cống hiến hiếm — **không** bán lẻ.
 
@@ -179,9 +179,9 @@ Gió ngõ mang mùi tro — đèn phố **chưa** tắt — **chưa** ai gọi t
 
 ## Ghi chú sáng tác
 
-- **Rewrite campaign REWRITE-66-112:** Full replace draft ngắn (~87 dòng) · nối cliff ch.89 **Dậu → Sửu** · đăng ký **lệ phí cống hiến** · **断** đọc mạch trước ký · **điểm khởi không** · lao hai canh sân · *Ất Vô* · cliff **Mùi điểm danh hội** + đăng ký tro **Mão** (suất/thứ tự) → ch.91 `diem-dan-hoi`.
+- **Rewrite campaign REWRITE-66-112:** Full replace draft ngắn (~87 dòng) · nối cliff ch.89 **Dậu → Sửu** · đăng ký **lệ phí cống hiến** · **Đoạn** đọc mạch trước ký · **điểm khởi không** · lao hai canh sân · *Ất Vô* · cliff **Mùi điểm danh hội** + đăng ký tro **Mão** (suất/thứ tự) → ch.91 `diem-dan-hoi`.
 - **FS:** FS-004 khế vang ký lao; FS-007 nurture kinh tế thay hạt; FS-009 độc quyền phương/danh/vé vang; FS-012 hao phù/trận/đan show — Trung không lành.
 - **Revise r1 review:** C-01 · C-02 · C-03 · M-01 · M-02 (2026-09-09).
-- **Canon check:** Pass — Trúc Cơ Trung lệch; ~3 hạt; khế **mười bảy** **断**; Thiên Sa xa; **không** NC đan sư · **không** Định Linh Tán hội · **không** FS-008.
+- **Canon check:** Pass — Trúc Cơ Trung lệch; ~3 hạt; khế **mười bảy** **Đoạn**; Thiên Sa xa; **không** NC đan sư · **không** Định Linh Tán hội · **không** FS-008.
 - **Hook ch.91:** Bảng điểm công khai cập **Mùi**; tro lò **Mão** thứ chín; luật lọc *tạm* vs vách.
 - **Số chữ thân (prose):** ~2.540 từ (ước, trừ metadata & ghi chú).

@@ -6,11 +6,11 @@
 
 | Hạng (Hán) | Mật độ linh khí (ước) | Chuẩn hóa | Công dụng chính | Cảnh giới tiêu thụ |
 | --- | --- | --- | --- | --- |
-| **Hạ phẩm linh thạch** (下品灵石) | Thấp | 1 đơn vị | Tu Luyện Khí; trận hạ; phù mực thường | Luyện Khí, ngoại môn |
-| **Trung phẩm** (中品) | TB | 1 trung ≈ **100** hạ `[bổ sung sáng tác]` | Trúc Cơ–Kim Đan hàng ngày; nuôi Linh khí | Trúc Cơ–Kim Đan |
-| **Thượng phẩm** (上品) | Cao | 1 thượng ≈ **100** trung | Nguyên Anh; Cổ bảo sơ | Kim Đan–Nguyên Anh |
-| **Cực phẩm** (极品) | Rất cao | 1 cực ≈ **100** thượng | Hóa Thần+; chiến tranh giới | Hóa Thần–Luyện Hư |
-| **Tiên thạch** (仙石) | Tiên khí | Không quy đổi cố định với Hạ Giới | Tiên Giới; chuẩn bị Phi thăng | Độ Kiếp+ / di tích |
+| **Hạ phẩm linh thạch** | Thấp | 1 đơn vị | Tu Luyện Khí; trận hạ; phù mực thường | Luyện Khí, ngoại môn |
+| **Trung phẩm** | TB | 1 trung ≈ **100** hạ `[bổ sung sáng tác]` | Trúc Cơ–Kim Đan hàng ngày; nuôi Linh khí | Trúc Cơ–Kim Đan |
+| **Thượng phẩm** | Cao | 1 thượng ≈ **100** trung | Nguyên Anh; Cổ bảo sơ | Kim Đan–Nguyên Anh |
+| **Cực phẩm** | Rất cao | 1 cực ≈ **100** thượng | Hóa Thần+; chiến tranh giới | Hóa Thần–Luyện Hư |
+| **Tiên thạch** | Tiên khí | Không quy đổi cố định với Hạ Giới | Tiên Giới; chuẩn bị Phi thăng | Độ Kiếp+ / di tích |
 
 **Trade-off:** Linh thạch hấp thu trực tiếp nhanh nhưng **tạp chất tích lũy** nếu lạm dụng — tu thuần trên linh mạch vẫn ưu tiên chính đạo (Luật 2).
 

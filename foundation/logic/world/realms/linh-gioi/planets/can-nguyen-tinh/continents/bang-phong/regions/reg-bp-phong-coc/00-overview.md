@@ -13,8 +13,7 @@ canon_source:
 child_index: []
 ---
 
-# Phong Cốc · 风谷
-
+# Phong Cốc · PhongCốc
 **parent:** [`CHL-BANG-PHONG`](../../00-overview.md) · **GeoJSON:** [`chl-bang-phong.geojson`](../../../../geo/chau-luc/chl-bang-phong.geojson)
 
 ## Hợp đồng kế thừa

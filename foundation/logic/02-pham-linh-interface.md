@@ -49,8 +49,8 @@
 | Bước | Mô tả logic | Payoff gợi ý |
 | --- | --- | --- |
 | **Đỉnh Luyện Thể** | Huyết khí / thể chất **chạm trần Phàm** — không thành linh lực ổn định trên Phàm | MC arc Phàm: tranh tài nguyên thân, không tranh “mạch tu tiên” |
-| **Phá Toái Hư Không** (破碎虚空) | Võ cực **nứt không gian** tại **điểm yếu bích** — thường cần **Cổ Khí / ý chí / thân thể** đủ; **một chiều** hoặc **có giá** thọ / huyết | Beat “đập vỡ” trần Phàm — **không** miễn Thiên phạt trước khi qua nếu đã tích linh lực lén |
-| **Thần Lộ cổ** (古神路) | **Lối cố định** ( di tích, truyền thuyết ) nối Phàm–Linh — **khế**, **sổ điểm danh**, phe canh | Arc Tàn Mộ / Cửu Lạc: **REG-TM-KHE-GIOI** · **REG-CL-PHAM-KHE** — chi tiết địa lý ở atlas, **điều kiện qua** ở đây |
+| **Phá Toái Hư Không** | Võ cực **nứt không gian** tại **điểm yếu bích** — thường cần **Cổ Khí / ý chí / thân thể** đủ; **một chiều** hoặc **có giá** thọ / huyết | Beat “đập vỡ” trần Phàm — **không** miễn Thiên phạt trước khi qua nếu đã tích linh lực lén |
+| **Thần Lộ cổ** | **Lối cố định** ( di tích, truyền thuyết ) nối Phàm–Linh — **khế**, **sổ điểm danh**, phe canh | Arc Tàn Mộ / Cửu Lạc: **REG-TM-KHE-GIOI** · **REG-CL-PHAM-KHE** — chi tiết địa lý ở atlas, **điều kiện qua** ở đây |
 
 **Sau khi qua bích:** **Khai mạch / Luyện Khí** trên **Linh** ( hoặc đã có linh căn kích khi qua ) — sync Power §1.1 nhánh hội nhập Trúc Cơ.
 
@@ -70,8 +70,8 @@
 
 | Cơ chế | Phía Linh → Phàm | Phía Phàm → Linh | Giới hạn `(invariant)` |
 | --- | --- | --- | --- |
-| **Pháp bảo tiếp dẫn** (接引法宝) | Linh khí / **ấn** kích **một lần** — dẫn hồn thân qua crack, **không** mang full tu vi ổn định xuống Phàm lâu | Vật phàm **gửi** qua thương nhân / khe — **không** thay tu sĩ sang Linh | Hao bảo; lộ = truy sát; **không** teleport vô hạn |
-| **Thần niệm mộng** (神念梦) | **Thần thức** gửi **ảnh / chỉ dẫn** vào mộng phàm nhân / võ tu | Võ tu **không** đáp thần niệm lên Linh trừ cơ duyên `(bí mật)` | **Không** truyền công pháp đủ tu đến Trúc Cơ chỉ bằng mộng — cần **vào Linh** hoặc **sư trực diện** trên Linh |
+| **Pháp bảo tiếp dẫn** | Linh khí / **ấn** kích **một lần** — dẫn hồn thân qua crack, **không** mang full tu vi ổn định xuống Phàm lâu | Vật phàm **gửi** qua thương nhân / khe — **không** thay tu sĩ sang Linh | Hao bảo; lộ = truy sát; **không** teleport vô hạn |
+| **Thần niệm mộng** | **Thần thức** gửi **ảnh / chỉ dẫn** vào mộng phàm nhân / võ tu | Võ tu **không** đáp thần niệm lên Linh trừ cơ duyên `(bí mật)` | **Không** truyền công pháp đủ tu đến Trúc Cơ chỉ bằng mộng — cần **vào Linh** hoặc **sư trực diện** trên Linh |
 | **Thương mại linh thạch** | Nguồn **nhập khẩu** Phàm | Hàng hóa Linh | Phàm dùng **tiêu hao** / lễ — **không** nuôi cư trú Luyện Khí |
 | **Tiểu Thiên Thế Giới** (`E-PHAM-POCKET`) | Tông cổ **nuôi đệ** trong pocket | — | Pocket **≠** Linh; rò khí → vẫn **Thiên phạt** host Phàm ( Luật 6a ) |
 

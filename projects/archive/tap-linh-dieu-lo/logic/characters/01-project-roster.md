@@ -5,7 +5,7 @@
 
 ---
 
-## CHAR-001 — Tô Diêu (苏遥)
+## CHAR-001 — Tô Diêu (Tô Diêu)
 
 - **Vai trò dài hạn:** MC; tán tu **Lan Sa**; tiêu diêu **trong khung khế** (không vô pháp toàn bộ); chính nghĩa = **hành vi**, không gắn nhãn Chính/Ma.
 - **Khí chất & Ngoại hình:** Thân hình gầy, da rám **Kiến Sa**; y phục tân tu vá, không màu tông; tay có chai sạn linh sa. Mắt **tỉnh**, hay nhìn **giá** trước khi nhìn người — không oai nghiêm, không hèn. Về sau mang khí **Trúc Cơ** nhưng vẫn giữ dáng tán tu (không áo tông). *Nguồn: prose Arc 1–3.*
@@ -16,7 +16,7 @@
   - **Tam Hệ Lệch Khí Ngọc** — lõi lệch Linh Dịch; mang theo, không bán hết.
   - **Hộ Thân Thanh Phù**, **Tụ Linh Vi Trận Đĩa**, **Thanh Phong Phi Liên** (Arc 1); **Phong Bộ Thiểm Bộ** (thoát encircle, hao thể).
   - **Mẩu khế thành** (FS-004) — cộng hưởng điều khoản **ứng cử / thế thân**; ký khế **Đan Sa / hộ mạch**.
-  - **Ất Vô** (乙无) — danh hội, **không** tên tre công khai (Arc 3).
+  - **Ất Vô** — danh hội, **không** tên tre công khai (Arc 3).
   - **Trade-off:** mỗi buff đa nghề = **mệt thần**, thiếu hạt, hoặc **lộ khí lệch** nếu lạm dụng.
 - **Cảnh giới tu vi & Vị trí trong thế giới:** Phase 1 kết **Trúc Cơ Đại Viên Mãn**; **Linh Dịch lệch** (che, không heal đan thường). Vị trí: tán tu **Lan Sa → Thạch Lam**; **không** đệ tử tông; band **~29 điểm** hội (trừ sáng) + **3 hạt lẻ**; nợ **Bách Hóa 500 hạt** hoãn trong khế.
 - **Duyên cơ & Khuyết điểm:** Wound gốc — người thân chết *vì đại cục*, **bia không tên** (parallel FS-006). **Blind spot:** vẫn trả giá cứu yếu dù biết trước; **tin** đồng đội một nửa (Phương Ngự Hàn). **Không** giỏi “nằm trong hệ thống điểm danh” — phải học luật hội bằng canh.
@@ -32,7 +32,7 @@
 
 ---
 
-## CHAR-002 — Lục Thanh Phong (陆清风)
+## CHAR-002 — Lục Thanh Phong (Lục Thanh Phong)
 
 - **Vai trò dài hạn:** **Mirror wound** (tán tu Trúc Cơ bị hy sinh *đại cục*); payoff **FS-006** — bia không tên; **đã chết** Arc 2 (ch.71–72) nhưng **ảnh hưởng** tâm MC xuyên Arc 3.
 - **Khí chất & Ngoại hình:** Trung niên gầy, áo xám vá; dao ngắn cũ; giọng **ổn**, không khoe cảnh giới. *Nguồn: Arc 2 prose band.*
@@ -47,7 +47,7 @@
 
 ---
 
-## CHAR-003 — Phương Ngự Hàn (方御寒)
+## CHAR-003 — Phương Ngự Hàn (Phương Ngự Hàn)
 
 - **Vai trò dài hạn:** **NC trì hoãn** / đồng minh tạm; mirror **tin–lợi** (bán tin đường); **không reconciliation** sớm Phase 1.
 - **Khí chất & Ngoại hình:** Thanh niên lạnh mặt; y phục sạch hơn tán tu phế; **Phương mỗi** — giữ khoảng cách.

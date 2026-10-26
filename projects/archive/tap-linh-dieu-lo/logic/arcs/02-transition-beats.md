@@ -36,7 +36,7 @@
 
 ## Đại cục arc — Transition *(ch.49–54)*
 
-- **Bản đồ:** **Thạch Lam Thành** (石岚城) — **ngoài ranh giới** bắc–đông bắc **Lan Sa Châu**; **Hạ Thành** (tán tu nghèo, vách luật) / **Trung Thành** (đấu giá, **Bách Hóa**); **Tây** — **U Ngõ**, **Sát Thủ Các**, cổng **Thiên Sa** (cột **treo tin vé**, **>> 3 hạt** + điểm/danh — MC chưa đủ); **Đông nam** — **Đan Sa Phụ Mạch #7** (**2–3 ngày** xe). **TC-004**, **TC-005**.
+- **Bản đồ:** **Thạch Lam Thành** — **ngoài ranh giới** bắc–đông bắc **Lan Sa Châu**; **Hạ Thành** (tán tu nghèo, vách luật) / **Trung Thành** (đấu giá, **Bách Hóa**); **Tây** — **U Ngõ**, **Sát Thủ Các**, cổng **Thiên Sa** (cột **treo tin vé**, **>> 3 hạt** + điểm/danh — MC chưa đủ); **Đông nam** — **Đan Sa Phụ Mạch #7** (**2–3 ngày** xe). **TC-004**, **TC-005**.
 - **Chính trị:** Danh nghĩa thành chủ che; thực quyền **Bách Hóa + Thanh Sa + Sát Thủ Các + khế**; **Mạc Lão / Thanh Sa** truy lan trên bảng — MC phải **vào có danh** hoặc sống ngoài luật. **Tống Minh Vi** — công cụ phe (**FS-003**), không hòa giải.
 - **Kinh tế (region, arc T):** Truy nã **500 hạt**; **Trúc Cơ Đan** **hàng trăm hạt**+ (đấu giá / khế trả góp); **Thanh Sa** phí trung gian / truy nguyên hàng **Lan Sa**; **Định Linh Tán** plant (bán hết trước đột phá — Arc 3); thuê hộ mạch = khế + **Trúc Cơ Đan** gói (region: chết = tịch thu). MC sau đổi loot: **thiếu** mua đan thẳng; vé **Thiên Sa** **treo** — tin cũng là hàng (**FS-005**).
 - **Roadmap MC:** **Thành công** = lưu thành, đổi loot, nhận **một lộ Trúc Cơ Đan** (nợ khế), ký **FS-004**, rời thành hướng mạch; **thất bại** = đoạn mạch / thế thân / trục xuất — phẩm chất: **ký khế biết giá** vs chạy vô ích.

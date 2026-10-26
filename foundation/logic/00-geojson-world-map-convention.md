@@ -18,7 +18,7 @@ Tinh Hà (00)  →  Châu lục (chau-luc/*)  →  Region (region/*)  →  Micro
 | # | Scope | File / thư mục | Nội dung | Markdown |
 | --- | --- | --- | --- | --- |
 | **1** | `tinh_ha` | `<geo-root>/00-tinh-ha.geojson` | **Toàn Tinh Hà:** châu lục nào tồn tại, **vị trí tương đối**; phe/thế lực cấp giới (deferred); **không** phố, không beat | `00-world-atlas.md` (tóm lược + mục lục châu lục) |
-| **2** | `chau_luc` | `<geo-root>/chau-luc/<slug>.geojson` | **Một châu lục / đại lục** (`CHL-*`): châu (洲), mạch, thành cấp lục; neo trong tinh hà | `00-world-atlas.md` (link từng file) |
+| **2** | `chau_luc` | `<geo-root>/chau-luc/<slug>.geojson` | **Một châu lục / đại lục** (`CHL-*`): châu , mạch, thành cấp lục; neo trong tinh hà | `00-world-atlas.md` (link từng file) |
 | **3** | `region` | `<geo-root>/region/<slug>.geojson` | **Một phần** của châu lục — vùng làm việc (vd. Thạch Lam · Lan Sa); tuyến, bàn cờ | `01-region-active.md` (hoặc md theo vùng MC) |
 | **4** | `micro` | `<geo-root>/micro/*.geojson` | **Một phần** của region — tiểu cục / địa điểm chi tiết | `02-tieu-cuc-index.md` |
 
@@ -112,7 +112,7 @@ Trong **micro**, tọa độ **sâu xuống** (vd. `y` âm trong lòng uyên) c�
 | `region` | `Point`, `LineString`, `Polygon` vùng làm việc | Phòng, hang từng cảnh |
 | `micro` | `Point`, `LineString`, `Polygon` cảnh | Đổi vị trí châu lục |
 
-**ID gợi ý:** `CHL-*` (châu lục / đại lục), `CHAU-*` hoặc `REG-*` (châu 洲 / vùng trong lục), `LOC-*`, `ROUTE-*`.
+**ID gợi ý:** `CHL-*` (châu lục / đại lục), `CHAU-*` hoặc `REG-*` (châu Châu / vùng trong lục), `LOC-*`, `ROUTE-*`.
 
 ---
 
@@ -175,4 +175,3 @@ Micro: link từ `02-tieu-cuc-index.md`.
 ---
 
 *2026-09-16 · v2.2 (chau_luc lưới 1000; phân vùng khép kín; núi polygon; sông uốn)*
-

@@ -73,7 +73,7 @@ add_region(
                 {
                     "id": "REG-TM-NAM-QUAN-AREA",
                     "name_vi": "Phạm vi Nam Quan",
-                    "name_hv": "南关域",
+                    "name_hv": "NamQuanVực",
                     "kind": "polity",
                     "visibility": "public",
                     "linh_khi_tier": "cực_mỏng",
@@ -93,7 +93,7 @@ add_region(
                 {
                     "id": "LOC-TM-NAM-QUAN",
                     "name_vi": "Nam Quan · ải chính",
-                    "name_hv": "南关",
+                    "name_hv": "NamQuan",
                     "kind": "hub",
                     "visibility": "public",
                     "faction": "Quan ải Tàn Mộ",
@@ -105,7 +105,7 @@ add_region(
                 {
                     "id": "LOC-TM-NAM-TRAM",
                     "name_vi": "Trạm lữ · phía nam",
-                    "name_hv": "旅站",
+                    "name_hv": "LữTrạm",
                     "kind": "settlement",
                     "visibility": "public",
                     "direction_label": "Nam",
@@ -116,7 +116,7 @@ add_region(
                 {
                     "id": "LOC-TM-NAM-THAP",
                     "name_vi": "Tháp canh · đông bắc",
-                    "name_hv": "南关塔",
+                    "name_hv": "NamQuanTháp",
                     "kind": "settlement",
                     "visibility": "public",
                     "direction_label": "Đông bắc",
@@ -127,7 +127,7 @@ add_region(
                 {
                     "id": "LOC-TM-NAM-GIENG",
                     "name_vi": "Giếng mặn · hiếm",
-                    "name_hv": "咸井",
+                    "name_hv": "HàmTỉnh",
                     "kind": "resource",
                     "visibility": "public",
                     "direction_label": "Tây",
@@ -140,7 +140,7 @@ add_region(
                 {
                     "id": "BRR-TM-NAM-LO",
                     "name_vi": "Ải lộ · đèo nam",
-                    "name_hv": "南隘",
+                    "name_hv": "NamẢi",
                     "kind": "barrier",
                     "visibility": "public",
                 },
@@ -150,7 +150,7 @@ add_region(
                 {
                     "id": "LOC-TM-SA-HAI-RIM-S",
                     "name_vi": "Rìa Sa Hải · phía bắc ải",
-                    "name_hv": "沙海南缘",
+                    "name_hv": "SaHảiNamViên",
                     "kind": "settlement",
                     "visibility": "public",
                     "direction_label": "Bắc",
@@ -162,7 +162,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-NAM-SA-HAI",
                     "name_vi": "Đạo vào Sa Hải",
-                    "name_hv": "入沙海道",
+                    "name_hv": "SaHảiĐạo",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-NAM-QUAN",
@@ -176,7 +176,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-NAM-NGOAI",
                     "name_vi": "Lộ phía nam · ra khỏi lục",
-                    "name_hv": "南外道",
+                    "name_hv": "NamNgoạiĐạo",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-NAM-TRAM",
@@ -190,7 +190,7 @@ add_region(
                 {
                     "id": "LOC-TM-NAM-PHU",
                     "name_vi": "Phụ ải · tây",
-                    "name_hv": "西关",
+                    "name_hv": "TâyQuan",
                     "kind": "settlement",
                     "visibility": "mc_phase1",
                     "direction_label": "Tây",
@@ -202,7 +202,7 @@ add_region(
                 {
                     "id": "LOC-TM-NAM-MANH",
                     "name_vi": "Manh mạch · dưới ải",
-                    "name_hv": "关下脉",
+                    "name_hv": "QuanHạMạch",
                     "kind": "resource",
                     "visibility": "hidden_logic",
                     "linh_khi_tier": "manh_mach_rải",
@@ -214,7 +214,7 @@ add_region(
                 {
                     "id": "RIVER-TM-NAM-CAN",
                     "name_vi": "Khe khô · cố đô nam",
-                    "name_hv": "涸溪",
+                    "name_hv": "Khe khô",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-NAM-GIENG",
@@ -227,7 +227,7 @@ add_region(
                 {
                     "id": "LOC-TM-NAM-SO",
                     "name_vi": "Sổ ải · kho quan",
-                    "name_hv": "关册",
+                    "name_hv": "Quan",
                     "kind": "dungeon",
                     "visibility": "hidden_logic",
                     "notes": "Danh sách tu sĩ qua ải — đồng bộ Khe Giới.",
@@ -238,7 +238,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-NAM-DONG-OA",
                     "name_vi": "Biên đạo đông · tới Oa",
-                    "name_hv": "东洼道",
+                    "name_hv": "ĐôngĐạo",
                     "kind": "route",
                     "visibility": "mc_phase1",
                     "from_id": "LOC-TM-NAM-THAP",
@@ -274,7 +274,7 @@ add_region(
                 {
                     "id": "REG-TM-SA-HAI-AREA",
                     "name_vi": "Phạm vi Sa Hải",
-                    "name_hv": "沙海域",
+                    "name_hv": "SaHảiVực",
                     "kind": "wilderness",
                     "visibility": "public",
                     "linh_khi_tier": "cực_mỏng",
@@ -294,7 +294,7 @@ add_region(
                 {
                     "id": "LOC-TM-SA-HAI-TAM",
                     "name_vi": "Sa Hải · trung tâm cát",
-                    "name_hv": "沙海心",
+                    "name_hv": "SaHải",
                     "kind": "hub",
                     "visibility": "public",
                     "notes": "Hub vùng; không có thành — chỉ mốc cát.",
@@ -305,7 +305,7 @@ add_region(
                 {
                     "id": "LOC-TM-SA-HAI-CUA",
                     "name_vi": "Cửa Sa Hải · lối đông",
-                    "name_hv": "沙海口",
+                    "name_hv": "SaHảiKhẩu",
                     "kind": "settlement",
                     "visibility": "public",
                     "direction_label": "Đông · mép Khe",
@@ -317,7 +317,7 @@ add_region(
                 {
                     "id": "LOC-TM-CO-TU",
                     "name_vi": "Cổ Tu · trung tâm di tích",
-                    "name_hv": "古墟",
+                    "name_hv": "CổHư",
                     "kind": "hub",
                     "visibility": "public",
                     "direction_label": "Đông bắc",
@@ -329,7 +329,7 @@ add_region(
                 {
                     "id": "LOC-TM-SA-CO-KHI",
                     "name_vi": "Mỏ cổ khí · dune",
-                    "name_hv": "古器丘",
+                    "name_hv": "CổKhíCâu",
                     "kind": "resource",
                     "visibility": "public",
                     "direction_label": "Tây nam",
@@ -341,7 +341,7 @@ add_region(
                 {
                     "id": "LOC-TM-SA-LUU",
                     "name_vi": "Lữ trại đoàn · nam",
-                    "name_hv": "商队营",
+                    "name_hv": "Doanh",
                     "kind": "settlement",
                     "visibility": "public",
                     "direction_label": "Nam",
@@ -353,7 +353,7 @@ add_region(
                 {
                     "id": "LOC-TM-SA-MA-RIM",
                     "name_vi": "Rìa Ma uyên · tây",
-                    "name_hv": "魔渊缘",
+                    "name_hv": "MaUyênViên",
                     "kind": "wilderness",
                     "visibility": "hidden_logic",
                     "direction_label": "Tây",
@@ -365,7 +365,7 @@ add_region(
                 {
                     "id": "BRR-TM-SA-DUNE",
                     "name_vi": "Cồn cát · hố lún",
-                    "name_hv": "流沙丘",
+                    "name_hv": "SaCâu",
                     "kind": "barrier",
                     "visibility": "public",
                 },
@@ -375,7 +375,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-SA-KHE",
                     "name_vi": "Lối Khe Giới",
-                    "name_hv": "界隙道",
+                    "name_hv": "GiớiĐạo",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-SA-HAI-TAM",
@@ -389,7 +389,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-SA-CO-TU",
                     "name_vi": "Đạo Cổ Tu",
-                    "name_hv": "古墟道",
+                    "name_hv": "CổHưĐạo",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-SA-HAI-TAM",
@@ -403,7 +403,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-SA-NAM",
                     "name_vi": "Lối Nam Quan",
-                    "name_hv": "南关道",
+                    "name_hv": "NamQuanĐạo",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-SA-LUU",
@@ -418,7 +418,7 @@ add_region(
                 {
                     "id": "LOC-TM-SA-MANH",
                     "name_vi": "Manh mạch cát · ẩn",
-                    "name_hv": "沙脉",
+                    "name_hv": "SaMạch",
                     "kind": "resource",
                     "visibility": "hidden_logic",
                     "linh_khi_tier": "manh_mach_rải",
@@ -429,7 +429,7 @@ add_region(
                 {
                     "id": "LOC-TM-KHE-GIOI",
                     "name_vi": "Khe Giới · cửa vết nứt",
-                    "name_hv": "界隙",
+                    "name_hv": "Giới",
                     "kind": "hub",
                     "visibility": "hidden_logic",
                     "direction_label": "Tây · qua cửa",
@@ -441,7 +441,7 @@ add_region(
                 {
                     "id": "RIVER-TM-SA-CAN",
                     "name_vi": "Rãnh cổ · khô",
-                    "name_hv": "古涸",
+                    "name_hv": "Cổ",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-SA-CO-KHI",
@@ -468,7 +468,7 @@ add_region(
                 {
                     "id": "REG-TM-TAY-MA-AREA",
                     "name_vi": "Phạm vi Tây Ma",
-                    "name_hv": "西魔域",
+                    "name_hv": "TâyMaVực",
                     "kind": "wilderness",
                     "visibility": "hidden_logic",
                     "linh_khi_tier": "ma_khi_vệt",
@@ -480,7 +480,7 @@ add_region(
                 {
                     "id": "LOC-TM-MA-UUYEN",
                     "name_vi": "Ma Uyên · lõi vệt",
-                    "name_hv": "魔渊",
+                    "name_hv": "MaUyên",
                     "kind": "hub",
                     "visibility": "hidden_logic",
                     "notes": "Hub vùng; SUB-PATCH-MA-TAN-MO.",
@@ -491,7 +491,7 @@ add_region(
                 {
                     "id": "LOC-TM-MA-PHONG",
                     "name_vi": "Phong ấn · đá nứt",
-                    "name_hv": "魔封",
+                    "name_hv": "Ma",
                     "kind": "dungeon",
                     "visibility": "hidden_logic",
                     "direction_label": "Trung tâm",
@@ -502,7 +502,7 @@ add_region(
                 {
                     "id": "LOC-TM-MA-CANH",
                     "name_vi": "Trạm canh · nam",
-                    "name_hv": "魔哨",
+                    "name_hv": "Ma",
                     "kind": "settlement",
                     "visibility": "public",
                     "faction": "Quan ải Tàn Mộ",
@@ -514,7 +514,7 @@ add_region(
                 {
                     "id": "LOC-TM-KHE-GIOI",
                     "name_vi": "Khe Giới · cửa vết nứt",
-                    "name_hv": "界隙",
+                    "name_hv": "Giới",
                     "kind": "hub",
                     "visibility": "hidden_logic",
                     "notes": "Shared id; parent (76,340).",
@@ -525,7 +525,7 @@ add_region(
                 {
                     "id": "LOC-TM-MA-VET-LINK",
                     "name_vi": "Vệt Ma · sát khe",
-                    "name_hv": "魔迹",
+                    "name_hv": "Ma",
                     "kind": "wilderness",
                     "visibility": "hidden_logic",
                     "notes": "Neo logic LOC-TM-MA-VET trên Khe Giới; cùng patch.",
@@ -536,7 +536,7 @@ add_region(
                 {
                     "id": "BRR-TM-MA-BICH",
                     "name_vi": "Bích đá · tây",
-                    "name_hv": "魔壁",
+                    "name_hv": "MaBích",
                     "kind": "barrier",
                     "visibility": "public",
                 },
@@ -546,7 +546,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-TAY-KHE",
                     "name_vi": "Biên đạo Khe Giới",
-                    "name_hv": "界隙魔道",
+                    "name_hv": "GiớiMaĐạo",
                     "kind": "route",
                     "visibility": "hidden_logic",
                     "from_id": "LOC-TM-MA-UUYEN",
@@ -560,7 +560,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-TAY-CO-TU",
                     "name_vi": "Rìa Cổ Tu",
-                    "name_hv": "古墟魔缘",
+                    "name_hv": "CổHưMaViên",
                     "kind": "route",
                     "visibility": "hidden_logic",
                     "from_id": "LOC-TM-MA-UUYEN",
@@ -574,7 +574,7 @@ add_region(
                 {
                     "id": "LOC-TM-CO-TU",
                     "name_vi": "Cổ Tu · trung tâm di tích",
-                    "name_hv": "古墟",
+                    "name_hv": "CổHư",
                     "kind": "hub",
                     "visibility": "public",
                     "notes": "Shared id; parent (350,620).",
@@ -585,7 +585,7 @@ add_region(
                 {
                     "id": "LOC-TM-MA-DAN",
                     "name_vi": "Mỏ ma sa · lộ",
-                    "name_hv": "魔砂",
+                    "name_hv": "Ma",
                     "kind": "resource",
                     "visibility": "hidden_logic",
                     "notes": "Ma tu thu gom — Thiên oán.",
@@ -596,7 +596,7 @@ add_region(
                 {
                     "id": "LOC-TM-MA-TU",
                     "name_vi": "Am tu · tàn dư",
-                    "name_hv": "魔庵",
+                    "name_hv": "Ma",
                     "kind": "settlement",
                     "visibility": "hidden_logic",
                     "faction": "Ma tu lẻ",
@@ -607,7 +607,7 @@ add_region(
                 {
                     "id": "RIVER-TM-MA-CAN",
                     "name_vi": "Khe khô · rìa ma",
-                    "name_hv": "魔涸",
+                    "name_hv": "Ma",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-MA-CANH",
@@ -620,7 +620,7 @@ add_region(
                 {
                     "id": "LOC-TM-SA-HAI-RIM-W",
                     "name_vi": "Rìa Sa Hải · tây",
-                    "name_hv": "沙海西缘",
+                    "name_hv": "SaHảiTâyViên",
                     "kind": "settlement",
                     "visibility": "public",
                     "direction_label": "Đông",
@@ -631,7 +631,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-TAY-SA",
                     "name_vi": "Biên Sa Hải",
-                    "name_hv": "沙海魔界",
+                    "name_hv": "SaHảiMaGiới",
                     "kind": "route",
                     "visibility": "mc_phase1",
                     "from_id": "LOC-TM-MA-UUYEN",
@@ -659,7 +659,7 @@ add_region(
                 {
                     "id": "REG-TM-BAC-HAN-AREA",
                     "name_vi": "Phạm vi Bắc Hạn",
-                    "name_hv": "北旱域",
+                    "name_hv": "BắcVực",
                     "kind": "wilderness",
                     "visibility": "public",
                     "linh_khi_tier": "cực_mỏng",
@@ -670,7 +670,7 @@ add_region(
                 {
                     "id": "LOC-TM-BAC-HAN-RIM",
                     "name_vi": "Rìa Bắc Hạn · cửa nam",
-                    "name_hv": "北旱口",
+                    "name_hv": "BắcKhẩu",
                     "kind": "hub",
                     "visibility": "public",
                     "notes": "Hub vùng; lối xuống Cổ Tu / Hạn Cốc.",
@@ -681,7 +681,7 @@ add_region(
                 {
                     "id": "LOC-TM-BAC-TRAM",
                     "name_vi": "Trạm gió · bắc",
-                    "name_hv": "风站",
+                    "name_hv": "PhongTrạm",
                     "kind": "settlement",
                     "visibility": "public",
                     "direction_label": "Bắc",
@@ -692,7 +692,7 @@ add_region(
                 {
                     "id": "LOC-TM-BAC-CO",
                     "name_vi": "Cổ tháp · đông",
-                    "name_hv": "北塔",
+                    "name_hv": "BắcTháp",
                     "kind": "dungeon",
                     "visibility": "public",
                     "direction_label": "Đông",
@@ -703,7 +703,7 @@ add_region(
                 {
                     "id": "LOC-TM-CO-TU",
                     "name_vi": "Cổ Tu · trung tâm di tích",
-                    "name_hv": "古墟",
+                    "name_hv": "CổHư",
                     "kind": "hub",
                     "visibility": "public",
                     "notes": "Shared id; parent (350,620).",
@@ -714,7 +714,7 @@ add_region(
                 {
                     "id": "LOC-TM-HAN-COC-MOUTH",
                     "name_vi": "Cửa Hạn Cốc · tây",
-                    "name_hv": "旱谷口",
+                    "name_hv": "CốcKhẩu",
                     "kind": "settlement",
                     "visibility": "public",
                     "direction_label": "Tây",
@@ -726,7 +726,7 @@ add_region(
                 {
                     "id": "BRR-TM-BAC-GIO",
                     "name_vi": "Vành gió · bắc",
-                    "name_hv": "北风环",
+                    "name_hv": "BắcPhong",
                     "kind": "barrier",
                     "visibility": "public",
                 },
@@ -736,7 +736,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-BAC-CO-TU",
                     "name_vi": "Đạo Cổ Tu",
-                    "name_hv": "北墟道",
+                    "name_hv": "BắcHưĐạo",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-BAC-HAN-RIM",
@@ -750,7 +750,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-BAC-HAN-COC",
                     "name_vi": "Lối Hạn Cốc",
-                    "name_hv": "旱谷道",
+                    "name_hv": "CốcĐạo",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-BAC-HAN-RIM",
@@ -764,7 +764,7 @@ add_region(
                 {
                     "id": "LOC-TM-OA-TUYEN",
                     "name_vi": "Oa Tuyền · giếng đông",
-                    "name_hv": "洼泉",
+                    "name_hv": "Oa Tuyền",
                     "kind": "hub",
                     "visibility": "public",
                     "direction_label": "Đông",
@@ -776,7 +776,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-BAC-DONG-OA",
                     "name_vi": "Biên đạo Oa Tuyền",
-                    "name_hv": "洼泉北道",
+                    "name_hv": "BắcĐạo",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-BAC-CO",
@@ -790,7 +790,7 @@ add_region(
                 {
                     "id": "LOC-TM-BAC-MANH",
                     "name_vi": "Manh mạch · đá lạnh",
-                    "name_hv": "寒脉",
+                    "name_hv": "HànMạch",
                     "kind": "resource",
                     "visibility": "hidden_logic",
                     "linh_khi_tier": "manh_mach_rải",
@@ -801,7 +801,7 @@ add_region(
                 {
                     "id": "LOC-TM-BAC-PHU",
                     "name_vi": "Phế trại · tây bắc",
-                    "name_hv": "北废营",
+                    "name_hv": "BắcDoanh",
                     "kind": "settlement",
                     "visibility": "mc_phase1",
                     "direction_label": "Tây bắc",
@@ -812,7 +812,7 @@ add_region(
                 {
                     "id": "RIVER-TM-BAC-CAN",
                     "name_vi": "Rãnh băng khô",
-                    "name_hv": "涸冰",
+                    "name_hv": "Băng",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-BAC-TRAM",
@@ -839,7 +839,7 @@ add_region(
                 {
                     "id": "REG-TM-DONG-OA-AREA",
                     "name_vi": "Phạm vi Đông Oa",
-                    "name_hv": "东洼域",
+                    "name_hv": "ĐôngVực",
                     "kind": "polity",
                     "visibility": "public",
                     "linh_khi_tier": "cực_mỏng",
@@ -851,7 +851,7 @@ add_region(
                 {
                     "id": "LOC-TM-OA-TUYEN",
                     "name_vi": "Oa Tuyền · giếng đông",
-                    "name_hv": "洼泉",
+                    "name_hv": "Oa Tuyền",
                     "kind": "hub",
                     "visibility": "public",
                     "notes": "Hub vùng; nước hiếm — thu phí.",
@@ -862,7 +862,7 @@ add_region(
                 {
                     "id": "LOC-TM-OA-CHOD",
                     "name_vi": "Chợ Oa · thu gom",
-                    "name_hv": "洼市",
+                    "name_hv": "Chợ Oa",
                     "kind": "settlement",
                     "visibility": "public",
                     "faction": "Liên bang thu gom",
@@ -874,7 +874,7 @@ add_region(
                 {
                     "id": "LOC-TM-OA-KHO",
                     "name_vi": "Kho đông · phe",
-                    "name_hv": "洼库",
+                    "name_hv": "Kho đông",
                     "kind": "resource",
                     "visibility": "mc_phase1",
                     "direction_label": "Đông",
@@ -885,7 +885,7 @@ add_region(
                 {
                     "id": "LOC-TM-CO-TA-RIM",
                     "name_vi": "Rìa Cổ Ta · nam",
-                    "name_hv": "古塔缘",
+                    "name_hv": "CổThápViên",
                     "kind": "settlement",
                     "visibility": "public",
                     "direction_label": "Nam",
@@ -897,7 +897,7 @@ add_region(
                 {
                     "id": "LOC-TM-BAC-HAN-RIM",
                     "name_vi": "Rìa Bắc Hạn · cửa nam",
-                    "name_hv": "北旱口",
+                    "name_hv": "BắcKhẩu",
                     "kind": "hub",
                     "visibility": "public",
                     "direction_label": "Tây bắc",
@@ -909,7 +909,7 @@ add_region(
                 {
                     "id": "BRR-TM-OA-CAT",
                     "name_vi": "Vành cát · đông",
-                    "name_hv": "东沙环",
+                    "name_hv": "ĐôngSa",
                     "kind": "barrier",
                     "visibility": "public",
                 },
@@ -919,7 +919,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-OA-CO-TA",
                     "name_vi": "Lối Cổ Ta",
-                    "name_hv": "古塔道",
+                    "name_hv": "CổThápĐạo",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-OA-TUYEN",
@@ -933,7 +933,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-OA-BAC",
                     "name_vi": "Đạo Bắc Hạn",
-                    "name_hv": "北旱洼道",
+                    "name_hv": "BắcĐạo",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-OA-TUYEN",
@@ -947,7 +947,7 @@ add_region(
                 {
                     "id": "LOC-TM-OA-MANH",
                     "name_vi": "Manh mạch · dưới giếng",
-                    "name_hv": "泉脉",
+                    "name_hv": "Mạch",
                     "kind": "resource",
                     "visibility": "hidden_logic",
                     "linh_khi_tier": "manh_mach_rải",
@@ -958,7 +958,7 @@ add_region(
                 {
                     "id": "LOC-TM-OA-HAI",
                     "name_vi": "Mép đông · biển cát",
-                    "name_hv": "东漠",
+                    "name_hv": "Đông",
                     "kind": "wilderness",
                     "visibility": "public",
                     "direction_label": "Đông",
@@ -969,7 +969,7 @@ add_region(
                 {
                     "id": "RIVER-TM-OA-LUU",
                     "name_vi": "Oa lưu · cố đô khô",
-                    "name_hv": "洼流",
+                    "name_hv": "Oa lưu",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-OA-TUYEN",
@@ -983,7 +983,7 @@ add_region(
                 {
                     "id": "LOC-TM-CO-TU",
                     "name_vi": "Cổ Tu · trung tâm di tích",
-                    "name_hv": "古墟",
+                    "name_hv": "CổHư",
                     "kind": "hub",
                     "visibility": "public",
                     "notes": "Shared id; parent (350,620).",
@@ -994,7 +994,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-OA-CO-TU",
                     "name_vi": "Đường vòng Cổ Tu",
-                    "name_hv": "古墟洼道",
+                    "name_hv": "CổHưĐạo",
                     "kind": "route",
                     "visibility": "mc_phase1",
                     "from_id": "LOC-TM-OA-TUYEN",
@@ -1008,7 +1008,7 @@ add_region(
                 {
                     "id": "LOC-TM-OA-AN",
                     "name_vi": "Hầm thu · ẩn",
-                    "name_hv": "洼暗仓",
+                    "name_hv": "Hầm thu",
                     "kind": "dungeon",
                     "visibility": "hidden_logic",
                     "notes": "Cổ khí không qua chợ.",
@@ -1033,7 +1033,7 @@ add_region(
                 {
                     "id": "REG-TM-CO-TA-AREA",
                     "name_vi": "Phạm vi Cổ Ta",
-                    "name_hv": "古塔域",
+                    "name_hv": "CổThápVực",
                     "kind": "wilderness",
                     "visibility": "public",
                     "linh_khi_tier": "cực_mỏng",
@@ -1044,7 +1044,7 @@ add_region(
                 {
                     "id": "LOC-TM-CO-TA-TAP",
                     "name_vi": "Cổ Ta · trại tháp",
-                    "name_hv": "古塔营",
+                    "name_hv": "CổThápDoanh",
                     "kind": "hub",
                     "visibility": "public",
                     "notes": "Hub vùng; tháp đổ xếp hàng.",
@@ -1055,7 +1055,7 @@ add_region(
                 {
                     "id": "LOC-TM-CO-TA-1",
                     "name_vi": "Tháp một · nghiêng",
-                    "name_hv": "古塔一",
+                    "name_hv": "CổTháp",
                     "kind": "dungeon",
                     "visibility": "public",
                     "direction_label": "Bắc",
@@ -1066,7 +1066,7 @@ add_region(
                 {
                     "id": "LOC-TM-CO-TA-2",
                     "name_vi": "Tháp hai · vỡ nửa",
-                    "name_hv": "古塔二",
+                    "name_hv": "CổTháp",
                     "kind": "dungeon",
                     "visibility": "public",
                     "direction_label": "Đông",
@@ -1077,7 +1077,7 @@ add_region(
                 {
                     "id": "LOC-TM-OA-TUYEN",
                     "name_vi": "Oa Tuyền · giếng đông",
-                    "name_hv": "洼泉",
+                    "name_hv": "Oa Tuyền",
                     "kind": "hub",
                     "visibility": "public",
                     "direction_label": "Bắc",
@@ -1089,7 +1089,7 @@ add_region(
                 {
                     "id": "LOC-TM-CO-TU",
                     "name_vi": "Cổ Tu · trung tâm di tích",
-                    "name_hv": "古墟",
+                    "name_hv": "CổHư",
                     "kind": "hub",
                     "visibility": "public",
                     "notes": "Shared id; parent (350,620).",
@@ -1100,7 +1100,7 @@ add_region(
                 {
                     "id": "LOC-TM-CO-TA-KHI",
                     "name_vi": "Đống cổ khí · nam",
-                    "name_hv": "塔器堆",
+                    "name_hv": "ThápKhí",
                     "kind": "resource",
                     "visibility": "public",
                     "direction_label": "Nam",
@@ -1111,7 +1111,7 @@ add_region(
                 {
                     "id": "BRR-TM-CO-TA-VO",
                     "name_vi": "Tường tháp · vòng",
-                    "name_hv": "塔墙",
+                    "name_hv": "Tháp",
                     "kind": "barrier",
                     "visibility": "public",
                 },
@@ -1121,7 +1121,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-CO-TA-OA",
                     "name_vi": "Lối Oa Tuyền",
-                    "name_hv": "洼泉塔道",
+                    "name_hv": "ThápĐạo",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-CO-TA-TAP",
@@ -1135,7 +1135,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-CO-TA-CO-TU",
                     "name_vi": "Đạo Cổ Tu",
-                    "name_hv": "古墟塔道",
+                    "name_hv": "CổHưThápĐạo",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-CO-TA-TAP",
@@ -1149,7 +1149,7 @@ add_region(
                 {
                     "id": "LOC-TM-CO-TA-LUU",
                     "name_vi": "Lữ khách · tây",
-                    "name_hv": "塔旅",
+                    "name_hv": "ThápLữ",
                     "kind": "settlement",
                     "visibility": "public",
                     "direction_label": "Tây",
@@ -1160,7 +1160,7 @@ add_region(
                 {
                     "id": "LOC-TM-SA-HAI-RIM-E",
                     "name_vi": "Rìa Sa Hải · đông",
-                    "name_hv": "沙海东缘",
+                    "name_hv": "SaHảiĐôngViên",
                     "kind": "settlement",
                     "visibility": "public",
                     "direction_label": "Tây nam",
@@ -1171,7 +1171,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-CO-TA-SA",
                     "name_vi": "Biên Sa Hải",
-                    "name_hv": "沙海塔道",
+                    "name_hv": "SaHảiThápĐạo",
                     "kind": "route",
                     "visibility": "mc_phase1",
                     "from_id": "LOC-TM-CO-TA-TAP",
@@ -1185,7 +1185,7 @@ add_region(
                 {
                     "id": "LOC-TM-CO-TA-MANH",
                     "name_vi": "Manh mạch · tháp gãy",
-                    "name_hv": "塔脉",
+                    "name_hv": "ThápMạch",
                     "kind": "resource",
                     "visibility": "hidden_logic",
                     "linh_khi_tier": "manh_mach_rải",
@@ -1196,7 +1196,7 @@ add_region(
                 {
                     "id": "RIVER-TM-CO-TA-CAN",
                     "name_vi": "Rãnh khô · giữa tháp",
-                    "name_hv": "塔涸",
+                    "name_hv": "Tháp",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-CO-TA-1",
@@ -1223,7 +1223,7 @@ add_region(
                 {
                     "id": "REG-TM-HAN-COC-AREA",
                     "name_vi": "Phạm vi Hạn Cốc",
-                    "name_hv": "旱谷域",
+                    "name_hv": "CốcVực",
                     "kind": "wilderness",
                     "visibility": "public",
                     "linh_khi_tier": "vô_lin",
@@ -1235,7 +1235,7 @@ add_region(
                 {
                     "id": "LOC-TM-HAN-COC-DHE",
                     "name_vi": "Hạn Cốc · đáy khô",
-                    "name_hv": "旱谷底",
+                    "name_hv": "Cốc",
                     "kind": "hub",
                     "visibility": "public",
                     "notes": "Hub vùng; gió nóng ban ngày.",
@@ -1246,7 +1246,7 @@ add_region(
                 {
                     "id": "LOC-TM-HAN-COC-MOUTH",
                     "name_vi": "Cửa Hạn Cốc · đông",
-                    "name_hv": "旱谷口",
+                    "name_hv": "CốcKhẩu",
                     "kind": "settlement",
                     "visibility": "public",
                     "direction_label": "Đông",
@@ -1258,7 +1258,7 @@ add_region(
                 {
                     "id": "LOC-TM-CO-TU",
                     "name_vi": "Cổ Tu · trung tâm di tích",
-                    "name_hv": "古墟",
+                    "name_hv": "CổHư",
                     "kind": "hub",
                     "visibility": "public",
                     "notes": "Shared id; parent (350,620).",
@@ -1269,7 +1269,7 @@ add_region(
                 {
                     "id": "LOC-TM-BAC-HAN-RIM",
                     "name_vi": "Rìa Bắc Hạn · cửa nam",
-                    "name_hv": "北旱口",
+                    "name_hv": "BắcKhẩu",
                     "kind": "hub",
                     "visibility": "public",
                     "direction_label": "Bắc",
@@ -1281,7 +1281,7 @@ add_region(
                 {
                     "id": "BRR-TM-HAN-Than",
                     "name_vi": "Vách cốc · hai bên",
-                    "name_hv": "谷壁",
+                    "name_hv": "CốcBích",
                     "kind": "barrier",
                     "visibility": "public",
                 },
@@ -1291,7 +1291,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-HAN-CO-TU",
                     "name_vi": "Lối lên Cổ Tu",
-                    "name_hv": "谷墟道",
+                    "name_hv": "CốcHưĐạo",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-HAN-COC-DHE",
@@ -1305,7 +1305,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-HAN-BAC",
                     "name_vi": "Lối Bắc Hạn",
-                    "name_hv": "谷北道",
+                    "name_hv": "CốcBắcĐạo",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-HAN-COC-DHE",
@@ -1319,7 +1319,7 @@ add_region(
                 {
                     "id": "LOC-TM-HAN-XAC",
                     "name_vi": "Xác cát · phế",
-                    "name_hv": "谷骸",
+                    "name_hv": "Cốc",
                     "kind": "dungeon",
                     "visibility": "mc_phase1",
                     "direction_label": "Tây",
@@ -1330,7 +1330,7 @@ add_region(
                 {
                     "id": "LOC-TM-HAN-TRAM",
                     "name_vi": "Trạm nước · nam (hết)",
-                    "name_hv": "谷站",
+                    "name_hv": "CốcTrạm",
                     "kind": "settlement",
                     "visibility": "public",
                     "direction_label": "Nam",
@@ -1341,7 +1341,7 @@ add_region(
                 {
                     "id": "LOC-TM-KHE-GIOI",
                     "name_vi": "Khe Giới · cửa vết nứt",
-                    "name_hv": "界隙",
+                    "name_hv": "Giới",
                     "kind": "hub",
                     "visibility": "hidden_logic",
                     "notes": "Shared id; parent (76,340).",
@@ -1352,7 +1352,7 @@ add_region(
                 {
                     "id": "ROUTE-TM-HAN-KHE",
                     "name_vi": "Đường vòng Khe",
-                    "name_hv": "谷界道",
+                    "name_hv": "CốcGiớiĐạo",
                     "kind": "route",
                     "visibility": "hidden_logic",
                     "from_id": "LOC-TM-HAN-COC-DHE",
@@ -1366,7 +1366,7 @@ add_region(
                 {
                     "id": "LOC-TM-HAN-CO",
                     "name_vi": "Cổ mộ khô · đáy",
-                    "name_hv": "谷墓",
+                    "name_hv": "Cốc",
                     "kind": "resource",
                     "visibility": "hidden_logic",
                     "notes": "Cổ khí không linh — chỉ vật lý.",
@@ -1377,7 +1377,7 @@ add_region(
                 {
                     "id": "RIVER-TM-HAN-CAN",
                     "name_vi": "Rãnh cốc · khô",
-                    "name_hv": "谷涸",
+                    "name_hv": "Cốc",
                     "kind": "route",
                     "visibility": "public",
                     "from_id": "LOC-TM-HAN-COC-MOUTH",
@@ -1390,7 +1390,7 @@ add_region(
                 {
                     "id": "LOC-TM-OA-TUYEN",
                     "name_vi": "Oa Tuyền · giếng đông",
-                    "name_hv": "洼泉",
+                    "name_hv": "Oa Tuyền",
                     "kind": "hub",
                     "visibility": "public",
                     "direction_label": "Đông nam",

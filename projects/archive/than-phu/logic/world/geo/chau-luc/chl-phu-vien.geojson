@@ -23,7 +23,7 @@
       "properties": {
         "id": "CHL-PHU-VIEN",
         "name_vi": "Phù Viên đại lục · Hạ Giới",
-        "name_hv": "符元大陆",
+        "name_hv": "Phù Viên đại lục",
         "kind": "continent",
         "notes": "Vỏ lục = silhouette CHL-PHU-VIEN từ 00-tinh-ha; parent SW [-25, -172]; k≈5.89; hub LOC-GIA-TOC-HUB (312,318)"
       },
@@ -679,7 +679,7 @@
         "id": "REG-GIA-TOC-PHU-GIAU",
         "name_vi": "Địa phận Thẩm thị · Phù Lĩnh phú",
         "kind": "polity",
-        "name_hv": "符富域",
+        "name_hv": "Địa phận Thẩm thị",
         "linh_khi_tier": "trung_cao",
         "event_scale": "II-III",
         "visibility": "public",
@@ -811,7 +811,7 @@
         "id": "REG-TAY-LAM",
         "name_vi": "Tây Lam · rừng biên phù gia",
         "kind": "wilderness",
-        "name_hv": "西林",
+        "name_hv": "Tây Lam",
         "visibility": "mc_phase1",
         "notes": "Tuyến thoát / phế tích sau biến cố"
       }
@@ -1009,7 +1009,7 @@
         "id": "BRR-PHU-LINH",
         "name_vi": "Phù Lĩnh · long mạch phù",
         "kind": "barrier",
-        "name_hv": "符岭",
+        "name_hv": "Phù Lĩnh",
         "notes": "Rào cản; cửu địch từng đè từ phía đông bắc"
       }
     },
@@ -1230,7 +1230,7 @@
         "id": "CHAU-THANH-PHU-VIEN",
         "name_vi": "Châu thành phù · Thanh Phù Thành",
         "kind": "polity",
-        "name_hv": "符城洲",
+        "name_hv": "Châu thành phù",
         "linh_khi_tier": "trung_bình",
         "event_scale": "III",
         "visibility": "public",
@@ -1318,7 +1318,7 @@
         "id": "REG-BIEN-CUU-DICH",
         "name_vi": "Biên cửu địch · áp lực bắc",
         "kind": "wilderness",
-        "name_hv": "仇敌边",
+        "name_hv": "Biên cửu địch",
         "event_scale": "III-IV",
         "visibility": "mc_phase1",
         "notes": "Silhouette cửu địch; không lộ danh trên atlas"
@@ -1553,7 +1553,7 @@
         "id": "REG-NAM-HOANG-DUONG",
         "name_vi": "Nam hoang · đường vào giang hồ",
         "kind": "wilderness",
-        "name_hv": "南荒道",
+        "name_hv": "Nam hoang",
         "linh_khi_tier": "thấp",
         "visibility": "public",
         "notes": "Tuyến MC sau biến cố — giang hồ rộng hơn"
@@ -1588,7 +1588,7 @@
         "id": "REG-DONG-HAI-RONG",
         "name_vi": "Đông Hải dung · cửa biển",
         "kind": "wilderness",
-        "name_hv": "东海容",
+        "name_hv": "Đông Hải dung",
         "visibility": "hidden_logic",
         "notes": "Thương nhân · linh vật nhập; expansion"
       }
@@ -1742,7 +1742,7 @@
         "id": "REG-NOI-DONG",
         "name_vi": "Nội đông · mạch trung bình",
         "kind": "wilderness",
-        "name_hv": "内东",
+        "name_hv": "Nội đông",
         "linh_khi_tier": "trung_bình",
         "visibility": "hidden_logic",
         "notes": "Gia tộc vừa · slot arc 3 giang hồ"
@@ -2006,7 +2006,7 @@
       "properties": {
         "id": "RIVER-PHU-JIANG",
         "name_vi": "Phù Giang",
-        "name_hv": "符江",
+        "name_hv": "Phù Giang",
         "kind": "route"
       }
     },
@@ -2022,7 +2022,7 @@
       "properties": {
         "id": "LOC-GIA-TOC-HUB",
         "name_vi": "Thẩm gia · Phù Lĩnh Lệnh",
-        "name_hv": "族令",
+        "name_hv": "Thẩm gia",
         "kind": "hub",
         "event_scale": "III",
         "notes": "Neo region reg-gia-toc-phu-vuc; trước thảm sát"
@@ -2039,8 +2039,8 @@
       },
       "properties": {
         "id": "LOC-THANH-PLACEHOLDER",
-        "name_vi": "Thanh Phù Thành (青符城)",
-        "name_hv": "城",
+        "name_vi": "Thanh Phù Thành",
+        "name_hv": "Thanh Phù Thành",
         "kind": "hub",
         "event_scale": "III",
         "notes": "Arc 2 ma tu đô thị; region chi tiết deferred micro"

@@ -59,8 +59,7 @@ child_index:
     visibility: public
 ---
 
-# Xích Hạ · 赤夏大陆
-
+# Xích Hạ · ĐạiLục
 Châu lục khô nóng ở đông bắc Bích Lạc Tinh, lấy Đế Đô Lạc Dương làm trung tâm quyền lực phàm và các mỏ cạn làm trục tài nguyên.
 
 **parent:** [`Bích Lạc Tinh`](../../00-overview.md) · **GeoJSON:** [`chl-xich-ha.geojson`](../../geo/chau-luc/chl-xich-ha.geojson)

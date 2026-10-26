@@ -13,7 +13,7 @@ Sương mỏng chưa phủ kín lối về — canh thứ hai của ca phế b�
 
 Giọng Trầm không cao; cao là Sát trên thành nghe được qua gió. Hai tán tu kia xuất hiện sau lưng trưởng ca — mắt sương, bao nhẹ hơn hắn một nửa vì đêm qua gác canh luân phiên, không vì kẻ yếu được thư. Trưởng ca — tên tắt trên sổ tay, không đọc to — chỉ luống mới: gai mọc dày hơn một tích so với cột **Kiến Sa** hôm qua, vẫn rìa, vẫn vàng xám, vẫn loại đất đã từng ăn linh khí lệch.
 
-Tô Diêu bước theo hàng. Chữ **断** trong đầu nặng hơn giấy ca treo trên cổ — **mười** điểm nếu về đủ khay, trừ hết nếu thiếu mã; **hai** điểm công khai trên sổ Ất Vô nhẹ hơn trên giấy nhưng không nhẹ hơn trên thân: Bách Hóa và hội cùng một loại miệng, khác canh đọc. Trúc Cơ Hậu kỳ mầm trong đan điền căng sáng sớm; Linh Dịch lệch ở gốc — phương hội đã cho **ổn một tầng** — mỏng lại trước mùi phế quen, ù thêm một nhịp, không sạch. Hắn nén thở nông; không úp lòng bàn; không hút khí đậm veo quanh cổ tay.
+Tô Diêu bước theo hàng. Chữ **Đoạn** trong đầu nặng hơn giấy ca treo trên cổ — **mười** điểm nếu về đủ khay, trừ hết nếu thiếu mã; **hai** điểm công khai trên sổ Ất Vô nhẹ hơn trên giấy nhưng không nhẹ hơn trên thân: Bách Hóa và hội cùng một loại miệng, khác canh đọc. Trúc Cơ Hậu kỳ mầm trong đan điền căng sáng sớm; Linh Dịch lệch ở gốc — phương hội đã cho **ổn một tầng** — mỏng lại trước mùi phế quen, ù thêm một nhịp, không sạch. Hắn nén thở nông; không úp lòng bàn; không hút khí đậm veo quanh cổ tay.
 
 Hái mở — tay vào luống — gai cắn chỗ da đã nứt — đau quen, không lành. Mồ hôi lạnh rơi xuống lá tạp căn; hắn lau bằng tay trái, không dùng phù: phù để đêm gió nếu cần, không để sương sớm; đa nghề trả đúng chỗ, hao thần còn phải gánh ba canh sau nếu đường về Thạch Lam dài hơn trong đầu.
 
@@ -31,7 +31,7 @@ Giữa sáng — gió từ phía sâu hơn mang một mùi tro khác — không 
 
 Trầm Hội Sa dừng hàng — không nhìn sâu — nhìn sổ:
 
-— Gió — **không** lý do vào — vào — Sát đọc **断** — anh **không** hút — ta ghi — **vì đại cục** dược — **không** vì anh.
+— Gió — **không** lý do vào — vào — Sát đọc **Đoạn** — anh **không** hút — ta ghi — **vì đại cục** dược — **không** vì anh.
 
 Câu cuối không chọc — chọc tốn sổ. Hắn gật — hái tiếp — **mười** điểm trong giấy ca nặng hơn bao — **hai** điểm sống nhẹ hơn — cân trong đan điền mầm: lao thêm tuần này nếu chết sớm; sống hết ba ngày nếu mã đủ.
 
@@ -41,7 +41,7 @@ Canh Ngọ sớm — mặt trời lên cao — gai khô nhanh — da nứt căng
 
 Trưa — nghỉ mạn — Trầm không cho lửa to.
 
-— Lửa to — dụ khí phế — **断** đọc hút nếu thần bám — anh **không** bám — ta tin khay — **không** tin miệng.
+— Lửa to — dụ khí phế — **Đoạn** đọc hút nếu thần bám — anh **không** bám — ta tin khay — **không** tin miệng.
 
 Hai tán tu kia cãi ai gánh nước — không đánh; hắn gánh một nửa — không tranh trưởng. Trưởng ca ghi canh trên sổ tay — **mười** nếu về — **không** nếu thiếu mã. Tro trong bao đã nặng một tầng; tay rát thêm; vết ù mỏng trên da — **không** lành — chỉ khô đi trước gió.
 
@@ -55,7 +55,7 @@ Chiều — luống cắt qua một mảnh đá lở — không tam giác — đ
 
 — Trước hội — tán tu đào — chết — **không** bia — sau hội — sổ — **mười** — cùng đá — khác miệng.
 
-Trầm Hội Sa chỉ mép đá — rễ đen mọc trong khe — đúng mẫu khay — **không** đào sâu — hái bề mặt — tay hắn vào khe — ngọc lệch ù một nhịp — mảnh lạnh chớp — **không** sáng trận — chỉ phế nhớ mùi kim loại cũ dưới tro. Hắn rút tay — **không** hút — **断** đọc trong xương.
+Trầm Hội Sa chỉ mép đá — rễ đen mọc trong khe — đúng mẫu khay — **không** đào sâu — hái bề mặt — tay hắn vào khe — ngọc lệch ù một nhịp — mảnh lạnh chớp — **không** sáng trận — chỉ phế nhớ mùi kim loại cũ dưới tro. Hắn rút tay — **không** hút — **Đoạn** đọc trong xương.
 
 — *Ất Vô* — thân lệch — đúng — **không** thêm điểm ảo — ảo ăn tre.
 
@@ -73,11 +73,11 @@ Hắn buộc dây bao — dây cũ cọ vào cổ tay nứt — đau một tích
 
 Đêm canh hai — lửa mạn thấp — Trầm không cho cao. Hai tán tu kia im; trưởng ca gác đầu; hắn gác giữa — **không** ngủ sâu — ngủ sâu là gai ăn bao. Phía sâu hơn một dập, đất thở đêm qua — hôm nay thở lại — **không** rung lớn — chỉ mầm — phế nhớ — manh cũ — chưa vén — chưa trả cổ phong — chỉ hơi lạnh dưới gót khi đi tiểu rìa lửa.
 
-Trong ngực lệch, hắn đếm: **mười** điểm ca, **hai** điểm sống, **ba** hạt im trong túi ngoài — giữ cho thành, không đốt trên phế. Khế thành im — **断** trên tre vách hội vẫn đọc được trong đầu dù đang nằm ngoài thành — miệng tre không xa miệng phế, chỉ xa canh. Mảnh im. Ngọc lệch ù một nhịp rồi thôi — như hôm qua canh cuối trên rìa — **không** sáng — **không** mở — chỉ lạnh.
+Trong ngực lệch, hắn đếm: **mười** điểm ca, **hai** điểm sống, **ba** hạt im trong túi ngoài — giữ cho thành, không đốt trên phế. Khế thành im — **Đoạn** trên tre vách hội vẫn đọc được trong đầu dù đang nằm ngoài thành — miệng tre không xa miệng phế, chỉ xa canh. Mảnh im. Ngọc lệch ù một nhịp rồi thôi — như hôm qua canh cuối trên rìa — **không** sáng — **không** mở — chỉ lạnh.
 
 Một tầng Phương Ngự Hàn không hòa trên thành; manh phòng phương sâu treo trong đầu như tre trên vách — **không** hòa giải — **không** cần; chỉ cần **không** dính oan lò khi về. Một tên **Trầm Hội Sa** trên sổ không trên bia; một cột **Kiến Sa** đã qua — ca không còn chỉ là giấy trên vách hội — là tro dưới móng và gai trên tay.
 
-Trầm Hội Sa ngồi cách lửa một trượng — sổ mở — không viết — chỉ kiểm **断** trên tay áo từng người dưới ánh lửa thấp. Hắn đưa tay — Trầm nhìn — gật — **không** nói thân lệch — thân lệch đã nằm trong dòng *Ất Vô* từ cổng tây. Im lâu — trưởng ca ngáy nhẹ — Trầm thì thầm, chỉ hắn nghe:
+Trầm Hội Sa ngồi cách lửa một trượng — sổ mở — không viết — chỉ kiểm **Đoạn** trên tay áo từng người dưới ánh lửa thấp. Hắn đưa tay — Trầm nhìn — gật — **không** nói thân lệch — thân lệch đã nằm trong dòng *Ất Vô* từ cổng tây. Im lâu — trưởng ca ngáy nhẹ — Trầm thì thầm, chỉ hắn nghe:
 
 — Mai — thu — **không** tham — tham — **mười** mất — **hai** mất — cùng lúc — Bách Hóa **không** chia.
 
@@ -91,11 +91,11 @@ Sáng canh ba — mưa mỏng — không dông.
 
 Trầm Hội Sa phân luống cuối trước thu:
 
-— Ngày ba — đủ mã — **không** tham tầng hai — tham — tam giác — Sát — **断** — anh **rẻ** — rẻ **không** miễn chết.
+— Ngày ba — đủ mã — **không** tham tầng hai — tham — tam giác — Sát — **Đoạn** — anh **rẻ** — rẻ **không** miễn chết.
 
-Hái trong mưa — lạnh — Mộc yếu sau **断** — hắn dùng phù cũ che một canh gió — **một lần** — hao thần — **không** lần hai; đêm nay còn đường về. Phù cũ dán lại từ lò phụ — nếp gấp nhăn — linh lực mỏng nhưng đủ giữ tay không tê; tê là hái chậm, chậm là thiếu mã, thiếu mã là **mười** điểm treo trên cổ gãy cùng **hai** điểm sống. Hắn không vẽ trận — trận hao thần gấp phù — phù đã trả một lần; đa nghề ở phế là biết thứ tự trả, không phải mang hết bùa vào đất cũ.
+Hái trong mưa — lạnh — Mộc yếu sau **Đoạn** — hắn dùng phù cũ che một canh gió — **một lần** — hao thần — **không** lần hai; đêm nay còn đường về. Phù cũ dán lại từ lò phụ — nếp gấp nhăn — linh lực mỏng nhưng đủ giữ tay không tê; tê là hái chậm, chậm là thiếu mã, thiếu mã là **mười** điểm treo trên cổ gãy cùng **hai** điểm sống. Hắn không vẽ trận — trận hao thần gấp phù — phù đã trả một lần; đa nghề ở phế là biết thứ tự trả, không phải mang hết bùa vào đất cũ.
 
-Tro phủ áo mỏng; **断** trên tay áo tan thêm — Thạch Lam ghi canh — phế ghi máu — cùng loại tạp căn — khác miệng trả khi cổng tây đọc khay. Mưa rửa máu cũ trên đá lở — **không** rửa được manh dưới lớp — manh vẫn nằm — phế vẫn nhớ — hắn **không** cúi nhìn sâu — cúi là thần bám — bám là hút — hút là tre trên thành đọc **断** thành phế tà.
+Tro phủ áo mỏng; **Đoạn** trên tay áo tan thêm — Thạch Lam ghi canh — phế ghi máu — cùng loại tạp căn — khác miệng trả khi cổng tây đọc khay. Mưa rửa máu cũ trên đá lở — **không** rửa được manh dưới lớp — manh vẫn nằm — phế vẫn nhớ — hắn **không** cúi nhìn sâu — cúi là thần bám — bám là hút — hút là tre trên thành đọc **Đoạn** thành phế tà.
 
 Hai tán tu kia thiếu một nắm rễ — trưởng ca chia từ bao hắn — **không** khen — khen là điểm ảo; chia là giữ **mười** điểm chung trên giấy ca, **không** chia **hai** điểm công khai. Hắn nhận — im — im rẻ hơn tranh trên thành.
 
@@ -105,7 +105,7 @@ Trưa ngày ba — Trầm đối khay lần cuối trên rìa — lá úp, rễ 
 
 Hàng quay — Thạch Lam phía sau chưa thấy — chỉ đường tro cũ. Bao nặng đúng nhịp trưởng ca — phù trong túi cọ đùi — nhắc còn **không** dùng hết. Gió đổi — mưa tan — mùi phế lên lại mạnh hơn lúc xuất cổng sáng ngày một ca — như đất nhận ra chân quen.
 
-Đi về không phải chạy — chạy là hút — là **断** trên thành có thể đọc dù chưa về. Họ bước đều — bốn bao — một nhịp — trưởng ca không nói chuyện phiếm; nói phiếm tốn thần, tốn thần dễ bám khí phế lẫn trong đường. Tô Diêu nghe tiếng giày và tiếng dây bao — tiếng sổ Trầm lật một trang — **không** xem — xem là tò mò điểm ảo. Trên sườn đồi xa, thành Thạch Lam chỉ là một đường khói mỏng — hội đan — lò — tre thuê nộp — **mười lăm** sàn — **Định Linh Tán** đã bán hết trên bia — đường thay thế vẫn là ca phế và **hai** điểm sống.
+Đi về không phải chạy — chạy là hút — là **Đoạn** trên thành có thể đọc dù chưa về. Họ bước đều — bốn bao — một nhịp — trưởng ca không nói chuyện phiếm; nói phiếm tốn thần, tốn thần dễ bám khí phế lẫn trong đường. Tô Diêu nghe tiếng giày và tiếng dây bao — tiếng sổ Trầm lật một trang — **không** xem — xem là tò mò điểm ảo. Trên sườn đồi xa, thành Thạch Lam chỉ là một đường khói mỏng — hội đan — lò — tre thuê nộp — **mười lăm** sàn — **Định Linh Tán** đã bán hết trên bia — đường thay thế vẫn là ca phế và **hai** điểm sống.
 
 Một tán tu kia vấp đá — bao lệch — Trầm dừng hàng — **không** mắng — mở bao — đối nhanh — đúng mã — buộc lại:
 
@@ -129,13 +129,13 @@ Chạng tối — đường cắt qua ruộng tro cũ lần hai — cọc gỗ s
 
 Lửa mạn sắp dựng — trưởng ca nhìn trời — **không** nói sấm — nói sổ:
 
-— Đêm nay — ngủ một canh — sáng mai — cổng — **không** trễ — trễ — Sát đọc **断** thành bỏ ca.
+— Đêm nay — ngủ một canh — sáng mai — cổng — **không** trễ — trễ — Sát đọc **Đoạn** thành bỏ ca.
 
 Hắn gác canh cuối — mưa đã hết — sao mỏng. Hai tán tu kia ngủ gật; trưởng ca gác đầu; Trầm Hội Sa không ngủ — sổ trong lòng, mắt nửa nhắm — đan sư xám kiểu lò phụ: thân có thể gãy, khay **không** được lẫn mã.
 
-Tô Diêu ngồi cạnh lửa thấp — **không** hút — đếm hơi — đếm **断**. Tro ruộng cũ dưới gót đã nguội; chỉ còn tro lửa mạn và tro trong bao — hai loại tro, một loại điểm. Mảnh im lâu — đến canh Tý — lạnh thêm — **không** ấm — ngọc lệch ù cùng nhịp — như hai vật cùng nghe một tiếng chưa tới.
+Tô Diêu ngồi cạnh lửa thấp — **không** hút — đếm hơi — đếm **Đoạn**. Tro ruộng cũ dưới gót đã nguội; chỉ còn tro lửa mạn và tro trong bao — hai loại tro, một loại điểm. Mảnh im lâu — đến canh Tý — lạnh thêm — **không** ấm — ngọc lệch ù cùng nhịp — như hai vật cùng nghe một tiếng chưa tới.
 
-Tiếng đó tới — **không** to — đất rung nhẹ dưới gót — **không** lan ra ruộng — chỉ một nhịp — lớp dưới thở — tạp căn trong thân trồi một tích — Linh Dịch lệch thêm — hắn nén — **không** hút — hút là **断** trên thành đọc — hút là dư âm đường Ma ngoài thành hắn đã từ chối bằng miệng hội chậm.
+Tiếng đó tới — **không** to — đất rung nhẹ dưới gót — **không** lan ra ruộng — chỉ một nhịp — lớp dưới thở — tạp căn trong thân trồi một tích — Linh Dịch lệch thêm — hắn nén — **không** hút — hút là **Đoạn** trên thành đọc — hút là dư âm đường Ma ngoài thành hắn đã từ chối bằng miệng hội chậm.
 
 Rung **ré** trong xương — **không** sập — **không** tam giác — vẫn rìa — vẫn đúng ca — sai là **mười** điểm mất cùng **hai** điểm sống. Mầm tranh manh — **không** ai phong ấn hiện — **không** Thượng cổ mở — chỉ hai vật trong ngực cùng lạnh một nhịp — mảnh và ngọc — phản ứng nhẹ như kim gõ kim — rồi im — để lại hơi lạnh dưới lòng bàn hắn **không** được úp.
 
@@ -151,22 +151,22 @@ Sáng mai cổng tây — khay — **mười** — **hai** — **ba** hạt im �
 
 Hắn nhìn lửa mạn — tro bay thấp — không che rung trong xương. Trầm ghi một nét xanh cạnh *Ất Vô* — **không** giải — giải là bài giảng. Hai tán tu kia quay lưng lửa — **không** nói rung — nói rung tốn canh ngủ — canh ngủ tốn **mười** điểm sáng mai. Trưởng ca nhắm mắt — tay vẫn trên dây bao — thói quen gác — phế không cho phép ngủ trọn.
 
-Hắn đếm hơi lần nữa — **断** — **mười** — **hai** — mầm dưới đất thở lại — nhẹ — chờ — như ruộng tro giữ hơi chờ bước chân kế tiếp. Rung lần một đã qua — sổ Trầm **không** ghi rung — ghi rung là mời Sát đọc **断** trước ca — chỉ xương ghi — và ca phế chưa khép cho đến khi cổng tây đọc khay sống.
+Hắn đếm hơi lần nữa — **Đoạn** — **mười** — **hai** — mầm dưới đất thở lại — nhẹ — chờ — như ruộng tro giữ hơi chờ bước chân kế tiếp. Rung lần một đã qua — sổ Trầm **không** ghi rung — ghi rung là mời Sát đọc **Đoạn** trước ca — chỉ xương ghi — và ca phế chưa khép cho đến khi cổng tây đọc khay sống.
 
 ---
 
 ## Ghi chú sáng tác
 
-- **Handoff ch.101:** Canh 2–3 trên rìa Kiến Sa; **không** mở hành quân ba ngày; ngày 1 hái đã khép trên sổ tập; tiếp Trầm Hội Sa · **mười** điểm giấy ca · **hai** điểm sống · **断** · Mộ/dư âm *vì đại cục* qua Trầm.
+- **Handoff ch.101:** Canh 2–3 trên rìa Kiến Sa; **không** mở hành quân ba ngày; ngày 1 hái đã khép trên sổ tập; tiếp Trầm Hội Sa · **mười** điểm giấy ca · **hai** điểm sống · **Đoạn** · Mộ/dư âm *vì đại cục* qua Trầm.
 - **Beat 6 (mở):** Event III mầm — rung nhẹ · lớp dưới thở · tranh manh — **không** payoff ai phong ấn; thu thập dược + lọc manh xám rìa (không tin lậu ngoài ca).
 - **FS-015:** Nurture phế nhớ / lớp dưới / rung ré — không reveal phong ấn đầy.
 - **FS-001:** Mảnh + ngọc lệch phản ứng nhẹ một nhịp (canh Tý) — không sáng trận, không trả nợ Thượng cổ.
 - **FS-012:** Phù cũ **một lần** ngày 3 mưa; gác canh / không spam phù-trận.
 - **FS-006 / FS-011:** Dư âm bia không tên · cọc ruộng tro; manh phương xám = lọc mã, không miệng hố.
-- **FS-004:** Khế im · **断** · không hút.
+- **FS-004:** Khế im · **Đoạn** · không hút.
 - **Revise note (r1 · C-01–C-04):** `reconciliation` → **hòa giải**; `echo` → **dư âm** (tin lậu · đường Ma); `fix` → **chữa**; mốc xuất cổng chiều ngày ba → **sáng ngày một ca** (handoff ch.101 Sửu, không «hôm qua»).
 - **Revise note (trước):** Gỡ «FS» trong thoại Trầm (stub cũ) — prose sạch meta.
-- **Tên cần chốt (`xianxia-naming-specialist`):** **Trầm Hội Sa** (沉灰砂) — đồng bộ sổ ch.103 nếu đổi.
+- **Tên cần chốt (`xianxia-naming-specialist`):** **Trầm Hội Sa** — đồng bộ sổ ch.103 nếu đổi.
 - **Canon check:** Pass — Trúc Cơ Hậu mầm; Linh Dịch lệch · ổn một tầng mỏng; **không** heal wound; **không** NC/romance đan sư; **không** solo Kim Đan; **không** power creep; **không** payoff Cửu Huyền đầy; **không** tam giác / không sâu phế.
 - **Hook ch.103 `re-rung`:** Rung canh Tý đã một nhịp — đất im giữ hơi · mai cổng tây / đường gần thành — rung lần hai · tranh manh dày · mảnh–ngọc có thể phản ứng lại.
 - **Số chữ thân (ước):** ~3.060 từ (prose liên tục; trừ metadata & phụ lục).

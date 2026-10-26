@@ -11,7 +11,7 @@ Ngọ sáng — ngày sau bảng Dậu — sương trên sân Thạch Lam Luyệ
 
 Trúc Cơ Hậu kỳ mầm nặng trong đan điền, mỏng hơn canh phòng tĩnh đêm Dậu, nhưng chưa viên. Linh Dịch vẫn lệch ở gốc; phương hội bán **ổn một tầng** chỉ che được trước mặt chấp sự — uống xong đã mỏng lại, rồi ù khi mệt, như nước lấp vết nứt mà không lành. Tay nứt khô, không bọc; vết ù mỏng hơn đau một tích, không phải lành.
 
-Khế thành im trong ngực. Chữ **断** trên tre vách bắc và trên sổ mạch vẫn đọc được — không miễn, chỉ hoãn thêm một canh nếu hắn không dính oan.
+Khế thành im trong ngực. Chữ **Đoạn** trên tre vách bắc và trên sổ mạch vẫn đọc được — không miễn, chỉ hoãn thêm một canh nếu hắn không dính oan.
 
 Sáng Ngọ không trong như sáng Canh Ngọ trên bia Bách Hóa — trong ở chỗ tro đặt, mùi dược đặt, tiếng bút gõ sổ đặt. Gió từ cửa lò chính đẩy khói mỏng sang phía bắc; khói không che bảng suất, chỉ làm chữ **mười lăm** như nặng thêm một tích trên giấy. Tô Diêu đứng trong bóng vách phụ — không phải trốn, trốn cũng ghi mạch nếu ai nhìn lâu — chỉ là chỗ đủ thấy Hàn mà chưa đủ để Hàn buộc phải nhìn lại.
 
@@ -19,7 +19,7 @@ Sáng Ngọ không trong như sáng Canh Ngọ trên bia Bách Hóa — trong �
 
 Sân chính dựng bàn dài, mực tươi, hai nửa: bắc treo suất lò, tây treo phòng phương. Chấp sự đọc lịch Ngọ — không giảng, chỉ canh:
 
-— Tranh suất lò chính tuần này — mười chỗ — điểm sàn mười lăm — phòng phương sâu do **Hàn Tử Ngư** ký duyệt — **断** — bắt đầu.
+— Tranh suất lò chính tuần này — mười chỗ — điểm sàn mười lăm — phòng phương sâu do **Hàn Tử Ngư** ký duyệt — **Đoạn** — bắt đầu.
 
 Hàn Tử Ngư bước ra từ cửa sâu hơn Mộ Dục Thanh một tầng tre. Áo sạch tro, tay không dính lửa; mắt phẳng như sổ đã đọc trước khi mở miệng. Hắn không xuống sân tro — chỉ đứng trên bậc, cầm quyển sổ, bút đã chấm mực.
 
@@ -39,7 +39,7 @@ Một lão tán tu chen lên trước — Trung kỳ, điểm mười ba — b�
 
 ---
 
-Bên vách hội, bia đá tro nóng thêm một dòng mới — không tên, chỉ canh và chữ *vì đại cục lò*. Đan sư tuần trước gục bên lò chính; điểm âm trên bảng công khai, không dựng bia danh. Tô Diêu đọc một lượt — không cầu, không vái; cầu cũng không nằm trong bảng lao. Tro trên đá còn nặng hơn mộng mỏng trong đầu hắn: lò chết, người chết, sổ vẫn sạch — **cùng cấu trúc** câu hắn nghe trên phế, trên tre **断**, trên miệng Mộ Dục Thanh canh Thìn.
+Bên vách hội, bia đá tro nóng thêm một dòng mới — không tên, chỉ canh và chữ *vì đại cục lò*. Đan sư tuần trước gục bên lò chính; điểm âm trên bảng công khai, không dựng bia danh. Tô Diêu đọc một lượt — không cầu, không vái; cầu cũng không nằm trong bảng lao. Tro trên đá còn nặng hơn mộng mỏng trong đầu hắn: lò chết, người chết, sổ vẫn sạch — **cùng cấu trúc** câu hắn nghe trên phế, trên tre **Đoạn**, trên miệng Mộ Dục Thanh canh Thìn.
 
 Hàn đọc thêm, vẫn không giảng:
 
@@ -59,7 +59,7 @@ Hắn không đáp. Một vòng sân — tai thu thêm: đan sư trẻ khóc im,
 
 ---
 
-Ngọ giữa — tranh suất lò nóng hơn tro. Hai đan sư tranh một chỗ thứ bảy; chấp sự đọc điểm sàn — mười lăm — một người mười sáu, một người mười bốn kèm manh lọc tro đúng mã tuần Canh Mùi. Hàn không xuống phân xử — chỉ gõ sổ: manh đúng mã cộng một tích nội bộ, không cộng miệng công khai; mười bốn vẫn thiếu sàn. Người mười sáu giữ suất; người mười bốn trừ thêm một — *chen tranh sai luật* — **断** tre vách đã nói: Hậu mầm đủ giữ lò phụ, Trung chen vẫn ăn điểm ảo nếu mạch in sai canh.
+Ngọ giữa — tranh suất lò nóng hơn tro. Hai đan sư tranh một chỗ thứ bảy; chấp sự đọc điểm sàn — mười lăm — một người mười sáu, một người mười bốn kèm manh lọc tro đúng mã tuần Canh Mùi. Hàn không xuống phân xử — chỉ gõ sổ: manh đúng mã cộng một tích nội bộ, không cộng miệng công khai; mười bốn vẫn thiếu sàn. Người mười sáu giữ suất; người mười bốn trừ thêm một — *chen tranh sai luật* — **Đoạn** tre vách đã nói: Hậu mầm đủ giữ lò phụ, Trung chen vẫn ăn điểm ảo nếu mạch in sai canh.
 
 Tô Diêu lùi nửa bước — ù nhẹ — che đủ, không chen giúp; giúp là dính tên, tên ăn Mão tuần sau.
 
@@ -67,9 +67,9 @@ Phía tây, bảng phương: tên **Hàn Tử Ngư** treo đầu dòng phòng ph
 
 Mộ Dục Thanh đi ngang sân phụ — tay tro — **không** chen vào bàn suất. Hắn gặp mắt Tô Diêu một tích — không gật — quay lại lò phụ Hạ: làm việc của mình, đừng dính tranh không cần. Nghĩa xám, không cần thoại.
 
-Hắn theo Mộ về phía lò phụ. Sân phụ cách sân chính một vách — vách không cách tiếng, tiếng tranh vẫn xuyên qua như dao cùng mã tre cắt không kín. Lò yếu nửa nhịp so với lò chính; **断** cấm hút khí sân — hút ghi sổ mạch, cùng kinh tế Bách Hóa, khác miệng tre. Canh này hắn nhận ca **sa lọc** trong ngày tranh — không nhận suất chính, không lặp nghĩa vụ lao Ngọ đã chốt trên tre hôm qua. Tro nặng, linh lực mỏng sau phương nông, hao thần chồng hao thần; nắp lò phụ vẫn dán phù cũ — dán lại tốn thêm, hôm nay chỉ giữ nhiệt, không vẽ trận hội.
+Hắn theo Mộ về phía lò phụ. Sân phụ cách sân chính một vách — vách không cách tiếng, tiếng tranh vẫn xuyên qua như dao cùng mã tre cắt không kín. Lò yếu nửa nhịp so với lò chính; **Đoạn** cấm hút khí sân — hút ghi sổ mạch, cùng kinh tế Bách Hóa, khác miệng tre. Canh này hắn nhận ca **sa lọc** trong ngày tranh — không nhận suất chính, không lặp nghĩa vụ lao Ngọ đã chốt trên tre hôm qua. Tro nặng, linh lực mỏng sau phương nông, hao thần chồng hao thần; nắp lò phụ vẫn dán phù cũ — dán lại tốn thêm, hôm nay chỉ giữ nhiệt, không vẽ trận hội.
 
-Khay sa mở — tro mịn, mã lò khớp tre hội — không giấy mỏng bên khay kế, không đối chiếu phương sâu một tầng ở đây; ở đây chỉ có sa sai là oan dược, oan dược trừ gấp. Hắn lọc từng nắm, tai vẫn nghe nhịp Hàn hỏi bên sân chính — mắt không nhìn qua vách. Mồ hôi rơi xuống khay — một tích — hắn lau bằng tay nứt, không để giọt lẫn mã; lẫn mã là ăn điểm ảo kiểu khay kế, ảo ăn tre thuê nộp, tre ăn suất Hàn tuần sau. Tạp căn kéo ba hướng: Mộc yếu sau **断**, Kim gắt một tích, Hỏa im — đa nghề có giá đa nghề; không nhảy cấp vô luật, chỉ đổi mồ hôi lấy không oan lò.
+Khay sa mở — tro mịn, mã lò khớp tre hội — không giấy mỏng bên khay kế, không đối chiếu phương sâu một tầng ở đây; ở đây chỉ có sa sai là oan dược, oan dược trừ gấp. Hắn lọc từng nắm, tai vẫn nghe nhịp Hàn hỏi bên sân chính — mắt không nhìn qua vách. Mồ hôi rơi xuống khay — một tích — hắn lau bằng tay nứt, không để giọt lẫn mã; lẫn mã là ăn điểm ảo kiểu khay kế, ảo ăn tre thuê nộp, tre ăn suất Hàn tuần sau. Tạp căn kéo ba hướng: Mộc yếu sau **Đoạn**, Kim gắt một tích, Hỏa im — đa nghề có giá đa nghề; không nhảy cấp vô luật, chỉ đổi mồ hôi lấy không oan lò.
 
 Một canh — tro đúng mã — Mộ đi ngang, gật một tích, không mở biên lai trên sân tranh; **hai** điểm trên Ất Vô giữ nguyên — nợ tầng thứ hai treo bán bằng mười lăm hoặc bằng giấy mỏng khay kế hắn chưa chạm vẫn chưa trả.
 
@@ -111,7 +111,7 @@ Kim Đan vẫn treo trên đỉnh xa như cột Thiên Sa treo vé — hắn ch�
 
 **Dậu** — vách nam hội — chấp sự dán bảng mới, mực đậm hơn bảng tranh Ngọ:
 
-*Thuê nộp công khai — đăng ký **Mão** mai — chủ sổ **bắt** có mặt — không có mặt trừ gấp **đôi** — suất lò phụ / phương phụ chấp nhận — **断** — **Hàn Tử Ngư** ký.*
+*Thuê nộp công khai — đăng ký **Mão** mai — chủ sổ **bắt** có mặt — không có mặt trừ gấp **đôi** — suất lò phụ / phương phụ chấp nhận — **Đoạn** — **Hàn Tử Ngư** ký.*
 
 Dưới dòng, ba tên treo sẵn — điểm sàn lao thuê, không hạt — một tên gạch đỏ *chủ sổ vắng Thìn* — cùng cấu trúc phạt buổi Thìn, siết thêm một tầng: **mai** chủ sổ phải đứng trong sân, không thì người thuê ăn gấp.
 
@@ -128,11 +128,11 @@ Hắn bước vào ngõ — không quay lại bảng — tro chiều nặng hơn
 ## Ghi chú sáng tác
 
 - **Revise (review ch.99):** C-01 — *power creep* → *không nhảy cấp vô luật*; C-02 — mở ghi lao Ngọ/tích xanh **đã khép ch.98**, ca Ngọ chỉ **sa lọc** + Mộ gật (không tích xanh lặp); M-01 — Mùi rút khung Bách Hóa/ch.98, nhấn tin Phương Ngự Hàn **sau tranh suất**; **M-02 r2** — Ngọ cuối bỏ *đổi lấy tích xanh* (tích đã cộng ch.98; ca này chỉ gật sa lọc).
-- **Handoff ch.98:** Trúc Cơ Hậu · Linh Dịch lệch · ổn một tầng hội (phương nông năm điểm) · **không** heal · **Ất Vô còn hai điểm** · ~3 hạt · khế/**断** · gian lận lộ một tầng (khay Mão echo) · bảng Dậu mười suất / sàn mười lăm / tranh Ngọ — ch.99 thực hiện tranh Ngọ, tre thuê nộp siết chủ sổ → Mão (hook ch.100).
+- **Handoff ch.98:** Trúc Cơ Hậu · Linh Dịch lệch · ổn một tầng hội (phương nông năm điểm) · **không** heal · **Ất Vô còn hai điểm** · ~3 hạt · khế/**Đoạn** · gian lận lộ một tầng (khay Mão echo) · bảng Dậu mười suất / sàn mười lăm / tranh Ngọ — ch.99 thực hiện tranh Ngọ, tre thuê nộp siết chủ sổ → Mão (hook ch.100).
 - **FS-006:** Bia hội không tên · điểm âm · *vì đại cục lò* · echo Lục Thanh Phong / Arc 1.
 - **FS-012:** Ca lò phụ — phù giữ nhiệt, không trận hội / không đan mua · hao thần chồng sau phương nông · tạp căn trade-off.
 - **FS-016:** Tin Phương Ngự Hàn liên hội — không hòa · không reconciliation · một câu quán rìa.
-- **FS-004:** Khế im · **断** echo; không payoff Cửu Huyền (mảnh một nhịp tắt).
+- **FS-004:** Khế im · **Đoạn** echo; không payoff Cửu Huyền (mảnh một nhịp tắt).
 - **Canon check:** Pass — không heal wound/Linh Dịch viên mãn; không NC đan sư; không solo Kim Đan; Hàn Tử Ngư sổ/ký xám; Mộ Dục Thanh lò phụ; MC mảnh ghép tán tu thuê (chưa đăng ký thuê nộp).
 - **Hook ch.100 `thue-nop`:** Bảng Dậu · đăng ký **Mão** · chủ sổ bắt có mặt · trừ gấp đôi nếu vắng · MC **hai** điểm / chưa tên trên tre thuê — quyết định thuê hay canh tro.
 - **Số chữ thân (ước):** ~2.724 từ (prose liên tục, trừ metadata & phụ lục; đơn vị tách khoảng trắng).

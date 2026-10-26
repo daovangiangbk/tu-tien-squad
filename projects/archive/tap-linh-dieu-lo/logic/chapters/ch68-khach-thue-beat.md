@@ -12,7 +12,7 @@
 ## Giữa
 
 - **FS-003 payoff một tầng:** Reader biết (MC **nghe / đọc sổ / phong thư công bố một phần**):
-  - **Tống Minh Vi** (宋明微) — **không** phải khách lạ hoàn toàn; **con cháu / nhánh phe** cần **mạch phụ** cho **thánh tử / đệ tử ưu tiên** (không nói **Tạ Minh Huy** tên đầy đủ nếu chưa Beat 5).
+  - **Tống Minh Vi** — **không** phải khách lạ hoàn toàn; **con cháu / nhánh phe** cần **mạch phụ** cho **thánh tử / đệ tử ưu tiên** (không nói **Tạ Minh Huy** tên đầy đủ nếu chưa Beat 5).
   - Trả **phí Sát Thủ Các** để **dọn** tán tu cản leo / vi phạm khế — **Cường giả vi tôn** đóng gói hợp đồng.
 - MC **nhận ra** mình cũng là **mảnh ghép** trên bàn — thuê bảo vệ mạch = phe trung gian; **không** đồng minh.
 - **Lục Thanh Phong** phản ứng xám — tin phe, không tin *vì đại cục*; **FS-016** distrust đội thuê sâu hơn.

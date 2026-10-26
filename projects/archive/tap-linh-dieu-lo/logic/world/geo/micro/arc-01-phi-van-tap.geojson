@@ -7,7 +7,10 @@
   "world:parent_scope": "region",
   "world:parent_feature_id": "LOC-PHI-VAN-TAP",
   "world:parent_file": "region/reg-lan-sa-chau.geojson",
-  "world:parent_coordinates": [0, 0],
+  "world:parent_coordinates": [
+    0,
+    0
+  ],
   "world:tieu_cuc_id": "TC-002",
   "world:coordinateNote": "Tiểu cục Phi Vân Tập · Arc 1; gốc trung tập chợ; x=Đông, y=Bắc; la bàn khớp 01-arc1-phu-luc.md.",
   "features": [
@@ -16,7 +19,7 @@
       "properties": {
         "id": "LOC-PHI-VAN-TAP",
         "name_vi": "Trung tập · Phi Vân Tập",
-        "name_hv": "飞云集",
+        "name_hv": "Trung tập",
         "kind": "hub",
         "visibility": "public",
         "parent_id": "LOC-PHI-VAN-TAP",
@@ -24,7 +27,13 @@
         "faction": "Hứa thị · Thanh Sa · tán tu",
         "notes": "Lều, quầy, giàn đèn; không tường thành"
       },
-      "geometry": { "type": "Point", "coordinates": [0, 0] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -38,7 +47,13 @@
         "parent_id": "LOC-PHI-VAN-TAP",
         "notes": "Rau, thuê xe; vào tập tránh dòng tán tu (ch.2)"
       },
-      "geometry": { "type": "Point", "coordinates": [-42, -4] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -42,
+          -4
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -53,7 +68,13 @@
         "faction": "Hứa thị",
         "notes": "Canh suất; 1 hạt/lượt; gói 3 hạt (ch.4, 13–14)"
       },
-      "geometry": { "type": "Point", "coordinates": [-28, 0] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28,
+          0
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -67,7 +88,13 @@
         "parent_id": "LOC-PHI-VAN-TAP",
         "notes": "Người có suất / ghi danh (ch.4)"
       },
-      "geometry": { "type": "Point", "coordinates": [18, 2] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18,
+          2
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -82,7 +109,13 @@
         "faction": "Thanh Sa Thương Hội",
         "notes": "Bảng tin uyên; đèn thứ 9; xe xanh (ch.15–16)"
       },
-      "geometry": { "type": "Point", "coordinates": [22, -6] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22,
+          -6
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -96,7 +129,13 @@
         "parent_id": "LOC-PHI-VAN-TAP",
         "notes": "Lò, phơi da; tin Thanh Sa mua lò/mương/vực cát (ch.15–17)"
       },
-      "geometry": { "type": "Point", "coordinates": [6, 22] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          22
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -110,7 +149,13 @@
         "parent_id": "LOC-PHI-VAN-TAP",
         "notes": "Ngõ bắc nội tập ≠ hướng Sa Điêu (trại rìa Kiến Sa · ch.17)"
       },
-      "geometry": { "type": "Point", "coordinates": [10, 28] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10,
+          28
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -124,14 +169,20 @@
         "parent_id": "LOC-PHI-VAN-TAP",
         "notes": "Hẹn Hợp Đội Lệnh / đội uyên · giờ Sửu (ch.16–17)"
       },
-      "geometry": { "type": "Point", "coordinates": [12, 36] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12,
+          36
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-SA-DIEU-DO",
         "name_vi": "Sa Điêu Đổ",
-        "name_hv": "沙雕垛",
+        "name_hv": "Sa Điêu Đổ",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Đông bắc · rìa Kiến Sa",
@@ -140,7 +191,13 @@
         "travel_days_walk": "0.25-0.5",
         "notes": "Lửa trại hình chim sát bãi Kiến Sa; suất đêm phế (ch.4–8)"
       },
-      "geometry": { "type": "Point", "coordinates": [-7, -6] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7,
+          -6
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -155,7 +212,13 @@
         "travel_days_walk": "+~1 canh vs thẳng",
         "notes": "Vòng tránh trạm Sa Điêu → Kiến Sa (ch.4)"
       },
-      "geometry": { "type": "Point", "coordinates": [-55, 12] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55,
+          12
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -170,14 +233,20 @@
         "faction": "Hứa thị",
         "notes": "Săn hạ nam; khác giếng ngõ bắc nội bộ (ch.6–7, phụ lục §3)"
       },
-      "geometry": { "type": "Point", "coordinates": [-5, -68] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5,
+          -68
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-CUU-HUYEN-PHE",
         "name_vi": "Kiến Sa · Cửu Huyền Phế Trận",
-        "name_hv": "九玄废阵",
+        "name_hv": "Kiến Sa",
         "kind": "dungeon",
         "visibility": "public",
         "direction_label": "Đông bắc · sau ngõ",
@@ -185,14 +254,20 @@
         "travel_days_walk": "1-2",
         "notes": "Đường thẳng từ ngõ; suất đêm phế (ch.4)"
       },
-      "geometry": { "type": "Point", "coordinates": [-12, -14] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12,
+          -14
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-LINH-SA-UYEN",
         "name_vi": "Linh Sa Uyên (hướng convoy)",
-        "name_hv": "灵沙渊",
+        "name_hv": "Linh Sa Uyên (hướng convoy)",
         "kind": "dungeon",
         "visibility": "public",
         "direction_label": "Tây nam · xa",
@@ -200,7 +275,13 @@
         "travel_days_cart": "0.5-1",
         "notes": "Tin / xe cát Thanh Sa; neo meso [-35,-70]; chi tiết → arc-01-linh-sa-uyen.geojson"
       },
-      "geometry": { "type": "Point", "coordinates": [-27, -22] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27,
+          -22
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -218,12 +299,30 @@
         "type": "Polygon",
         "coordinates": [
           [
-            [-32, -18],
-            [28, -18],
-            [32, 24],
-            [-8, 32],
-            [-32, 18],
-            [-32, -18]
+            [
+              -32,
+              -18
+            ],
+            [
+              28,
+              -18
+            ],
+            [
+              32,
+              24
+            ],
+            [
+              -8,
+              32
+            ],
+            [
+              -32,
+              18
+            ],
+            [
+              -32,
+              -18
+            ]
           ]
         ]
       }
@@ -245,9 +344,18 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [-28, 0],
-          [-18, -8],
-          [-12, -14]
+          [
+            -28,
+            0
+          ],
+          [
+            -18,
+            -8
+          ],
+          [
+            -12,
+            -14
+          ]
         ]
       }
     },
@@ -267,9 +375,18 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [-28, 0],
-          [-16, -4],
-          [-7, -6]
+          [
+            -28,
+            0
+          ],
+          [
+            -16,
+            -4
+          ],
+          [
+            -7,
+            -6
+          ]
         ]
       }
     },
@@ -290,9 +407,18 @@
       "geometry": {
         "type": "LineString",
         "coordinates": [
-          [12, 36],
-          [-8, 8],
-          [-27, -22]
+          [
+            12,
+            36
+          ],
+          [
+            -8,
+            8
+          ],
+          [
+            -27,
+            -22
+          ]
         ]
       }
     }

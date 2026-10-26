@@ -19,7 +19,7 @@
       "properties": {
         "id": "REG-TM-HAN-COC-AREA",
         "name_vi": "Phạm vi Hạn Cốc",
-        "name_hv": "旱谷域",
+        "name_hv": "Phạm vi Hạn Cốc",
         "kind": "wilderness",
         "visibility": "public",
         "linh_khi_tier": "vô_lin",
@@ -58,7 +58,7 @@
       "properties": {
         "id": "LOC-TM-HAN-COC-DHE",
         "name_vi": "Hạn Cốc · đáy khô",
-        "name_hv": "旱谷底",
+        "name_hv": "Hạn Cốc",
         "kind": "hub",
         "visibility": "public",
         "notes": "Hub vùng; gió nóng ban ngày."
@@ -76,7 +76,7 @@
       "properties": {
         "id": "LOC-TM-HAN-COC-MOUTH",
         "name_vi": "Cửa Hạn Cốc · đông",
-        "name_hv": "旱谷口",
+        "name_hv": "Cửa Hạn Cốc",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Đông",
@@ -95,7 +95,7 @@
       "properties": {
         "id": "LOC-TM-CO-TU",
         "name_vi": "Cổ Tu · trung tâm di tích",
-        "name_hv": "古墟",
+        "name_hv": "Cổ Tu",
         "kind": "hub",
         "visibility": "public",
         "notes": "Shared id; parent (350,620)."
@@ -113,7 +113,7 @@
       "properties": {
         "id": "LOC-TM-BAC-HAN-RIM",
         "name_vi": "Rìa Bắc Hạn · cửa nam",
-        "name_hv": "北旱口",
+        "name_hv": "Rìa Bắc Hạn",
         "kind": "hub",
         "visibility": "public",
         "direction_label": "Bắc",
@@ -132,7 +132,7 @@
       "properties": {
         "id": "BRR-TM-HAN-VACH",
         "name_vi": "Vách cốc · hai bên",
-        "name_hv": "谷壁",
+        "name_hv": "Vách cốc",
         "kind": "barrier",
         "visibility": "public"
       },
@@ -169,7 +169,7 @@
       "properties": {
         "id": "ROUTE-TM-HAN-CO-TU",
         "name_vi": "Lối lên Cổ Tu",
-        "name_hv": "谷墟道",
+        "name_hv": "Lối lên Cổ Tu",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-HAN-COC-DHE",
@@ -200,7 +200,7 @@
       "properties": {
         "id": "ROUTE-TM-HAN-BAC",
         "name_vi": "Lối Bắc Hạn",
-        "name_hv": "谷北道",
+        "name_hv": "Lối Bắc Hạn",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-HAN-COC-DHE",
@@ -231,7 +231,7 @@
       "properties": {
         "id": "LOC-TM-HAN-XAC",
         "name_vi": "Xác cát · phế",
-        "name_hv": "谷骸",
+        "name_hv": "Xác cát",
         "kind": "dungeon",
         "visibility": "mc_phase1",
         "direction_label": "Tây"
@@ -249,7 +249,7 @@
       "properties": {
         "id": "LOC-TM-HAN-TRAM",
         "name_vi": "Trạm nước · nam (hết)",
-        "name_hv": "谷站",
+        "name_hv": "Trạm nước",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Nam"
@@ -267,7 +267,7 @@
       "properties": {
         "id": "LOC-TM-KHE-GIOI",
         "name_vi": "Khe Giới · cửa vết nứt",
-        "name_hv": "界隙",
+        "name_hv": "Khe Giới",
         "kind": "hub",
         "visibility": "hidden_logic",
         "notes": "Shared id; parent (76,340)."
@@ -285,7 +285,7 @@
       "properties": {
         "id": "ROUTE-TM-HAN-KHE",
         "name_vi": "Đường vòng Khe",
-        "name_hv": "谷界道",
+        "name_hv": "Đường vòng Khe",
         "kind": "route",
         "visibility": "hidden_logic",
         "from_id": "LOC-TM-HAN-COC-DHE",
@@ -320,7 +320,7 @@
       "properties": {
         "id": "LOC-TM-HAN-CO",
         "name_vi": "Cổ mộ khô · đáy",
-        "name_hv": "谷墓",
+        "name_hv": "Cổ mộ khô",
         "kind": "resource",
         "visibility": "hidden_logic",
         "notes": "Cổ khí không linh — chỉ vật lý."
@@ -338,7 +338,7 @@
       "properties": {
         "id": "RIVER-TM-HAN-CAN",
         "name_vi": "Rãnh cốc · khô",
-        "name_hv": "谷涸",
+        "name_hv": "Rãnh cốc",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-HAN-COC-MOUTH",
@@ -368,7 +368,7 @@
       "properties": {
         "id": "LOC-TM-OA-TUYEN",
         "name_vi": "Oa Tuyền · giếng đông",
-        "name_hv": "洼泉",
+        "name_hv": "Oa Tuyền",
         "kind": "hub",
         "visibility": "public",
         "direction_label": "Đông nam",

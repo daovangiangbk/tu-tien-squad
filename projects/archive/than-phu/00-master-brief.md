@@ -6,7 +6,7 @@
 
 | Trường              | Giá trị                                       |
 | ------------------- | --------------------------------------------- |
-| **work_title**      | **Thần Phù** (神符)                            |
+| **work_title**      | **Thần Phù**                            |
 | **work_title_short**| *Thần Phù* — rút gọn khi cần                  |
 | **work_slug**       | `than-phu`                                    |
 | **work_root**       | `projects/than-phu/`                          |
@@ -141,9 +141,9 @@ Tiểu thuyết tiên hiệp dài, tone **Tru Tiên** (triết lý xám, bi kị
 
 | # | Chủ đề | Trạng thái | Ghi chú |
 | --- | --- | --- | --- |
-| 1 | **Tên MC** | **Chốt** | **Thẩm Vô Ngọc** (沈无玉) — registry |
+| 1 | **Tên MC** | **Chốt** | **Thẩm Vô Ngọc** — registry |
 | 2 | **Tên gia tộc tu tiên** | **Chốt** | **Thẩm thị · Phù Lĩnh** — **Phù Lĩnh Lệnh** |
-| 3 | **Tên thành trì (arc ma tu / luyện huyết)** | **Chốt** | **Thanh Phù Thành** (青符城) |
+| 3 | **Tên thành trì (arc ma tu / luyện huyết)** | **Chốt** | **Thanh Phù Thành** |
 | 4 | **Danh tính / tên cửu địch** | **Silhouette** | Liên minh **Hàn Diệp Liên** — **đầu não chưa tên** (arc 2+) |
 | 5 | **Quan hệ tình (NC)** | **Chốt trì hoãn** | Không NC arc 1; có thể gài đồng minh xám arc 2+ — **không** tam giác sớm |
 | 6 | **Công thức phù — cấp tối đa phase 1** | **Chốt** | **Huyền phẩm band** (`03` §3.5 + CP-001); **không** mở Địa phase 1 trừ RP riêng |

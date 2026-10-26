@@ -12,11 +12,11 @@
 
 | Cấp | Tên (Hán Việt gợi ý) | Phạm vi không gian | Thời gian điển hình | Số phe / chủ thể | Trần cảnh giới tham gia `(invariant)` | Ghi chú Foundation |
 | --- | --- | --- | --- | --- | --- | --- |
-| **I** | **Vi mô / Nội tông** (内门·微观) | Một sơn môn, điện các, linh điền nội bộ, phòng tu | Ngày → vài tháng | 1 tông (nội–ngoại môn) | **Luyện Khí → Trúc Cơ**; trưởng lão **Kim Đan** giám sát, hiếm **Nguyên Anh** can thiệp trực tiếp | Luật 9 (linh căn); cống hiến `10` |
-| **II** | **Cơ duyên / Hoang dã** (机缘·野域) | Hoang sơn, bí cảnh tự nhiên chu kỳ, phế địa nhỏ, thành trì một vùng | Tuần → 1–3 năm (mở bí cảnh) | 1–3 nhóm (tán tu, đội ngoại môn, gia tộc nhỏ) | **Luyện Khí → Kim Đan**; đỉnh điểm **Nguyên Anh** (hộ vệ / tranh loot) | Luật 7; bí cảnh hữu hạn (Luật 1) |
-| **III** | **Khu vực / Đa tông** (区域·争脉) | Một linh mạch phụ, mỏ, linh điền tranh chấp; **bí cảnh chung**; thành trì + hắc thị vùng | Tháng → vài chục năm | **2–5+** tông / gia tộc / thương hội | **Trúc Cơ → Nguyên Anh**; **Hóa Thần** hành động gián tiếp hoặc **một đòn** rồi rút (Luật 8) | Luật 3, 7; ước **Hóa Thần+** đại chiến mở `[02` §4 timeline] |
-| **IV** | **Đại cục / Giới hạn thế giới con** (大局·界战) | Một **thế giới con** trên **Linh Giới** ( hoặc stakes **Phàm Giới** khi plot chạm Mạt pháp — Luật 6 ): đại lục / liên minh; Ma–Chính, Nhân–Yêu; Sát Thủ Các hợp đồng cấp cao | Năm → trăm năm | **Phe** (Chính, Ma, Yêu, trung lập) | **Kim Đan → Hóa Thần** mặt trận; **Hóa Thần+** hạn chế công khai `(invariant)` theo ước giới hạn `[02` §4] | Nhân-Quả cả vùng; tài nguyên mạch mẹ |
-| **V** | **Giới / Thiên biến** (界变·天劫) | **Giới bích** giữa **vũ trụ song song** ( Linh→Tiên phi thăng; Phàm–Linh xuyên giới; vỡ bích / Thiên biến ); dị khí vận **Chư Thiên Vạn Giới** | Thế kỷ+ | Cả giới / Thiên đạo phản hồi | **Hóa Thần → Độ Kiếp**; **Cửu Cửu**, Thiên biến không chọn phe | Luật 5–6, 8; `(bí mật)` xóa sử payoff |
+| **I** | **Vi mô / Nội tông** | Một sơn môn, điện các, linh điền nội bộ, phòng tu | Ngày → vài tháng | 1 tông (nội–ngoại môn) | **Luyện Khí → Trúc Cơ**; trưởng lão **Kim Đan** giám sát, hiếm **Nguyên Anh** can thiệp trực tiếp | Luật 9 (linh căn); cống hiến `10` |
+| **II** | **Cơ duyên / Hoang dã** | Hoang sơn, bí cảnh tự nhiên chu kỳ, phế địa nhỏ, thành trì một vùng | Tuần → 1–3 năm (mở bí cảnh) | 1–3 nhóm (tán tu, đội ngoại môn, gia tộc nhỏ) | **Luyện Khí → Kim Đan**; đỉnh điểm **Nguyên Anh** (hộ vệ / tranh loot) | Luật 7; bí cảnh hữu hạn (Luật 1) |
+| **III** | **Khu vực / Đa tông** | Một linh mạch phụ, mỏ, linh điền tranh chấp; **bí cảnh chung**; thành trì + hắc thị vùng | Tháng → vài chục năm | **2–5+** tông / gia tộc / thương hội | **Trúc Cơ → Nguyên Anh**; **Hóa Thần** hành động gián tiếp hoặc **một đòn** rồi rút (Luật 8) | Luật 3, 7; ước **Hóa Thần+** đại chiến mở `[02` §4 timeline] |
+| **IV** | **Đại cục / Giới hạn thế giới con** | Một **thế giới con** trên **Linh Giới** ( hoặc stakes **Phàm Giới** khi plot chạm Mạt pháp — Luật 6 ): đại lục / liên minh; Ma–Chính, Nhân–Yêu; Sát Thủ Các hợp đồng cấp cao | Năm → trăm năm | **Phe** (Chính, Ma, Yêu, trung lập) | **Kim Đan → Hóa Thần** mặt trận; **Hóa Thần+** hạn chế công khai `(invariant)` theo ước giới hạn `[02` §4] | Nhân-Quả cả vùng; tài nguyên mạch mẹ |
+| **V** | **Giới / Thiên biến** | **Giới bích** giữa **vũ trụ song song** ( Linh→Tiên phi thăng; Phàm–Linh xuyên giới; vỡ bích / Thiên biến ); dị khí vận **Chư Thiên Vạn Giới** | Thế kỷ+ | Cả giới / Thiên đạo phản hồi | **Hóa Thần → Độ Kiếp**; **Cửu Cửu**, Thiên biến không chọn phe | Luật 5–6, 8; `(bí mật)` xóa sử payoff |
 
 **Quy tắc leo thang:** Cấp cao hơn **không bỏ qua** chi phí cấp thấp — tranh mạch (III) vẫn bắt nguồn từ nhiệm vụ / cống hiến (I) và cơ duyên (II). Theme: mọi cấp đều có **cái giá** (`01`).
 
@@ -49,7 +49,7 @@
 
 ---
 
-## §3. Taxonomy bí cảnh (Bí cảnh · 秘境)
+## §3. Taxonomy bí cảnh (Bí cảnh · BíCảnh)
 
 | Loại | Ai mở / ai vào | Luật & ràng buộc | Loot điển hình | Rủi ro | Quy mô sự kiện |
 | --- | --- | --- | --- | --- | --- |

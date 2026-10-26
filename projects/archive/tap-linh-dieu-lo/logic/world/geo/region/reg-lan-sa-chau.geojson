@@ -8,7 +8,10 @@
   "world:parent_feature_id": "CHL-HA-GIOI-NAM",
   "world:region_id": "REG-LAN-SA-CHAU",
   "world:parent_file": "chau-luc/chl-ha-gioi-nam.geojson",
-  "world:parent_coordinates": [350, 285],
+  "world:parent_coordinates": [
+    350,
+    285
+  ],
   "world:coordinateNote": "Lan Sa Châu · gốc Phi Vân Tập [0,0]; x=Đông y=Bắc. Ba neo MC giữ nguyên. Chi tiết chợ/uyên → micro. Tuyến sa ↔ Thạch Lam chỉ reg-thach-lam.",
   "features": [
     {
@@ -16,7 +19,7 @@
       "properties": {
         "id": "LOC-PHI-VAN-TAP",
         "name_vi": "Phi Vân Tập",
-        "name_hv": "飞云集",
+        "name_hv": "Phi Vân Tập",
         "kind": "hub",
         "visibility": "public",
         "direction_label": "Trung châu",
@@ -24,7 +27,13 @@
         "faction": "Hứa thị · Thanh Sa · tán tu",
         "notes": "Chợ tán tu; micro → arc-01-phi-van-tap.geojson"
       },
-      "geometry": { "type": "Point", "coordinates": [0, 0] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -38,41 +47,59 @@
         "faction": "Hứa thị",
         "notes": "Vào tập từ tây; rau, thuê xe (ch.2–4)"
       },
-      "geometry": { "type": "Point", "coordinates": [-20, 2] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20,
+          2
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-THANH-SA-DOC-BIEN",
         "name_vi": "Trạm Thanh Sa · đối biên",
-        "name_hv": "青沙对边",
+        "name_hv": "Trạm Thanh Sa",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Đông",
         "faction": "Thanh Sa Thương Hội",
         "notes": "Giàn đèn, xe convoy uyên; tin bí cảnh (ch.15–16)"
       },
-      "geometry": { "type": "Point", "coordinates": [42, 4] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42,
+          4
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-TAN-LINH-SA-QUANG",
         "name_vi": "Bãi nhặt Tàn Linh Sa · Kiến Sa",
-        "name_hv": "残灵沙",
+        "name_hv": "Bãi nhặt Tàn Linh Sa",
         "kind": "resource",
         "visibility": "public",
         "direction_label": "Đông bắc · cát xám Kiến Sa",
         "notes": "Nhặt tại bãi phế; đổi ~20 hạt ≈ 1 hạt thạch ở quầy Phi Vân (ch.4)"
       },
-      "geometry": { "type": "Point", "coordinates": [-17, -10] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17,
+          -10
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-SA-DIEU-DO",
         "name_vi": "Sa Điêu Đổ",
-        "name_hv": "沙雕垛",
+        "name_hv": "Sa Điêu Đổ",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Đông bắc · rìa Kiến Sa",
@@ -80,68 +107,98 @@
         "travel_days_walk": "0.25-0.5",
         "notes": "Trại lửa hình chim; khóa canh · suất đêm Kiến Sa (ch.4); chi tiết micro"
       },
-      "geometry": { "type": "Point", "coordinates": [-7, -6] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7,
+          -6
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-PHONG-XA-BAC",
         "name_vi": "Phong Xa Bạc",
-        "name_hv": "风峡白",
+        "name_hv": "Phong Xa Bạc",
         "kind": "wilderness",
         "visibility": "public",
         "direction_label": "Rìa Kiến Sa",
         "hazard": "gió cát; mất dấu",
         "notes": "Hẻm gió trắng trước bãi Kiến Sa; né khi cát cuộn"
       },
-      "geometry": { "type": "Point", "coordinates": [-5, -7] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5,
+          -7
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-HAN-SA-CO",
         "name_vi": "Hàn Sa Cố",
-        "name_hv": "寒沙坞",
+        "name_hv": "Hàn Sa Cố",
         "kind": "dungeon",
         "visibility": "public",
         "direction_label": "Tây bắc",
         "notes": "Phế đồn muối Thượng cổ; tin lẻ, không quan binh"
       },
-      "geometry": { "type": "Point", "coordinates": [-48, 32] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48,
+          32
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-U-SA-VUC",
         "name_vi": "U Sa Vực",
-        "name_hv": "幽沙窟",
+        "name_hv": "U Sa Vực",
         "kind": "wilderness",
         "visibility": "public",
         "direction_label": "Tây",
         "hazard": "cát đen; linh khí loạn",
         "notes": "Bồn cát đen; vòng tránh ngõ tây → Kiến Sa (ch.4)"
       },
-      "geometry": { "type": "Point", "coordinates": [-36, 8] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36,
+          8
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-KIEN-SA",
         "name_vi": "Kiến Sa Địa · bãi cửa phế",
-        "name_hv": "建沙",
+        "name_hv": "Kiến Sa Địa",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Tây nam · sau ngõ",
         "notes": "Bãi vọng; cửa vào Cửu Huyền; cùng vực micro Kiến Sa"
       },
-      "geometry": { "type": "Point", "coordinates": [-14, -9] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -14,
+          -9
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-CUU-HUYEN-PHE",
         "name_vi": "Cửu Huyền Phế Trận",
-        "name_hv": "九玄废阵",
+        "name_hv": "Cửu Huyền Phế Trận",
         "kind": "dungeon",
         "visibility": "public",
         "direction_label": "Tây nam · sau ngõ",
@@ -149,28 +206,40 @@
         "event_scale": "II-III",
         "notes": "Phế địa gốc; Mạc Lão slot; quay phế đan điền"
       },
-      "geometry": { "type": "Point", "coordinates": [-12, -14] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12,
+          -14
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-HUYET-SA-DAM",
         "name_vi": "Huyết Sa Đám",
-        "name_hv": "血沙潭",
+        "name_hv": "Huyết Sa Đám",
         "kind": "resource",
         "visibility": "hidden_logic",
         "direction_label": "Nam phế nhánh",
         "faction": "Huyết Sa Đạo",
         "notes": "Phế nhánh sau cắt mạch; Ma hút linh (01-region-active §3)"
       },
-      "geometry": { "type": "Point", "coordinates": [-22, -28] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22,
+          -28
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-LINH-SA-UYEN",
         "name_vi": "Linh Sa Uyên",
-        "name_hv": "灵沙渊",
+        "name_hv": "Linh Sa Uyên",
         "kind": "dungeon",
         "visibility": "public",
         "direction_label": "Tây nam · cạnh phế",
@@ -178,33 +247,51 @@
         "faction": "Thanh Sa Thương Hội",
         "notes": "Bí cảnh II; micro → arc-01-linh-sa-uyen.geojson"
       },
-      "geometry": { "type": "Point", "coordinates": [-27, -22] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -27,
+          -22
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-LAN-SA-TAM",
         "name_vi": "Lan Sa Tâm · cực khí",
-        "name_hv": "灵沙心",
+        "name_hv": "Lan Sa Tâm",
         "kind": "wilderness",
         "visibility": "public",
         "direction_label": "Nam tây · sâu châu",
         "notes": "Điểm khí mỏng nhất châu; không trụ lâu dài"
       },
-      "geometry": { "type": "Point", "coordinates": [-55, -38] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -55,
+          -38
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-DONG-HAI-LU-HAU",
         "name_vi": "Lữ hậu · đường Đông Hải",
-        "name_hv": "东海旅",
+        "name_hv": "Lữ hậu",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Đông nam",
         "notes": "Caravan muối · thương nhân từ REG-DONG-HAI-AN; không vào Thạch Lam trực tiếp"
       },
-      "geometry": { "type": "Point", "coordinates": [58, -12] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58,
+          -12
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -221,7 +308,20 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [[0, 0], [-8, 8], [-27, -22]]
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -8,
+            8
+          ],
+          [
+            -27,
+            -22
+          ]
+        ]
       }
     },
     {
@@ -239,7 +339,20 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [[0, 0], [-4, -3], [-7, -6]]
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -4,
+            -3
+          ],
+          [
+            -7,
+            -6
+          ]
+        ]
       }
     },
     {
@@ -256,7 +369,20 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [[-7, -6], [-11, -8], [-14, -9]]
+        "coordinates": [
+          [
+            -7,
+            -6
+          ],
+          [
+            -11,
+            -8
+          ],
+          [
+            -14,
+            -9
+          ]
+        ]
       }
     },
     {
@@ -274,7 +400,24 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [[-20, 2], [-28, 4], [-36, 8], [-14, -9]]
+        "coordinates": [
+          [
+            -20,
+            2
+          ],
+          [
+            -28,
+            4
+          ],
+          [
+            -36,
+            8
+          ],
+          [
+            -14,
+            -9
+          ]
+        ]
       }
     },
     {
@@ -293,7 +436,20 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [[-14, -9], [-13, -11], [-12, -14]]
+        "coordinates": [
+          [
+            -14,
+            -9
+          ],
+          [
+            -13,
+            -11
+          ],
+          [
+            -12,
+            -14
+          ]
+        ]
       }
     },
     {
@@ -301,7 +457,7 @@
       "properties": {
         "id": "ROUTE-CUU-UYEN-KHE",
         "name_vi": "Khê khô Cửu Uyên",
-        "name_hv": "九渊溪",
+        "name_hv": "Khê khô Cửu Uyên",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-CUU-HUYEN-PHE",
@@ -311,7 +467,24 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [[-12, -14], [-18, -18], [-22, -28], [-27, -22]]
+        "coordinates": [
+          [
+            -12,
+            -14
+          ],
+          [
+            -18,
+            -18
+          ],
+          [
+            -22,
+            -28
+          ],
+          [
+            -27,
+            -22
+          ]
+        ]
       }
     }
   ]

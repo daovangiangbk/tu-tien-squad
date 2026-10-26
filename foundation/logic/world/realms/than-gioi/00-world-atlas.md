@@ -1,6 +1,6 @@
 # Thần Giới — Tinh hà Huyền Cự (Foundation Canon)
 
-> **work_slug:** `foundation-canon` · **Giới:** Thần (神界) — Luật 6 · **Convention:** [`../../00-geojson-world-map-convention.md`](../../00-geojson-world-map-convention.md)
+> **work_slug:** `foundation-canon` · **Giới:** Thần (Thần Giới) — Luật 6 · **Convention:** [`../../00-geojson-world-map-convention.md`](../../00-geojson-world-map-convention.md)
 
 **GeoJSON (main):** [`geo/00-tinh-ha.geojson`](geo/00-tinh-ha.geojson) · **7/7** [`geo/chau-luc/`](geo/chau-luc/) · exemplar [`geo/region/reg-rt-than-quan.geojson`](geo/region/reg-rt-than-quan.geojson) · [`geo/region/reg-vp-phap-dien.geojson`](geo/region/reg-vp-phap-dien.geojson)
 
@@ -12,20 +12,20 @@
 
 ## 1. Cụm tinh hà trong Hư Không Thần
 
-**Thần Giới** là giới diện vật chất cao nhất trong bốn giới diện song song thuộc Nhân Giới, cùng nằm trong Không gian Bàn Cổ. Năng lượng đặc trưng là **Thần Khí**; lộ trình tu đạt **Thần giai**. **Thánh Nhân** (混元圣人) là danh xưng sau Thần giai, phải chốt thuộc nhánh **Hòa Thiên** vào Thiên Đạo Hải hoặc ứng viên **Siêu Thoát** qua Giới Tường; không đặt một cõi Thánh riêng trên atlas.
+**Thần Giới** là giới diện vật chất cao nhất trong bốn giới diện song song thuộc Nhân Giới, cùng nằm trong Không gian Bàn Cổ. Năng lượng đặc trưng là **Thần Khí**; lộ trình tu đạt **Thần giai**. **Thánh Nhân** là danh xưng sau Thần giai, phải chốt thuộc nhánh **Hòa Thiên** vào Thiên Đạo Hải hoặc ứng viên **Siêu Thoát** qua Giới Tường; không đặt một cõi Thánh riêng trên atlas.
 
 | ID | Tên (Việt · Hán) | Vai trò | Vị trí so với main | Quy mô (story) | Profile thần khí |
 | --- | --- | --- | --- | --- | --- |
-| **`TH-THAN-HUYEN-CUC`** | **Tinh hà Huyền Cự** · 玄极神域 | **Chủ** — sự kiện, `CHL-*`, geo | Hub cụm **bắc–tây trung tâm** Hư Không Thần (khác Tiên **nam–tây**, Linh **bắc–đông**, Phàm **nam–tây** cụm Phàm) | **7** đại lục; bbox grid ~ x∈[−250,+228], y∈[−217,+244] | **Ổn định–nặng**; thần mạch công cộng + tranh **Thần phủ / Thần nguyên** |
-| `TH-THAN-TICH-MINH` | Tinh hà Tịch Minh · 寂明神域 | Láng giềng — tịnh tu thần | **Tây** (~5–7 vạn hư không lore) | 4–5 lục (chưa geo) | **Tịnh** — thần khí loãng nhưng **sạch**; ít tranh sát |
-| `TH-THAN-DO-DU` | Tinh hà Độ Du · 渡游神域 | Láng giềng — mạch du hành | **Nam** (~4–6 vạn) | 5–6 lục (chưa geo) | **Trung hòa** — thuế **mạch hư không thần** |
-| `TH-THAN-LOI-HANH` | Tinh hà Lôi Hành · 雷行神域 | Láng giềng — đại kiếp | **Đông** (~3–5 vạn) | 5–7 lục (chưa geo) | **Lôi thịnh** — **Thần kiếp** ngoài trời dày |
-| `TH-THAN-HON-NGUYEN` | Tinh hà Hồn Nguyên · 混元神域 | Láng giềng — hỗn độn manh | **Bắc** (~4–5 vạn) | 6 lục (chưa geo) | **Hỗn nguyên manh** — Thánh lore treo `(không geo Thánh)` |
-| `TH-THAN-PHUC-MENH` | Tinh hà Phục Mệnh · 复命神域 | Láng giềng — sinh diệt | **Tây nam** (~6–8 vạn) | 4–5 lục (chưa geo) | **Dao động** — tái sinh / diệt mệnh tranh **Thần lệ** |
-| `TH-THAN-VAN-TU` | Tinh hà Vạn Tự · 万序神域 | Láng giềng — trật tự luật | **Đông bắc** (~5–7 vạn) | 6 lục (chưa geo) | **Luật thần** — khế **Vạn Tự** ràng mạch |
-| `TH-THAN-DOAN-MACH` | Tinh hà Đoạn Mạch · 断脉神域 | Láng giềng — suy mạch | **Nam tây** (~7–9 vạn) | 3–4 lục (chưa geo) | **Nghèo cục bộ** — mạch đứt; **Thần khí** nhập từ Huyền Cự |
-| `TH-THAN-HU-VI` | Tinh hà Hư Vi · 虚无神域 | Láng giềng — mép void | **Tây bắc xa** (~9–12 vạn) | 2–3 lục (chưa geo) | **Loãng–lạnh** — Vực Ngoại treo; dị thú |
-| `TH-THAN-THAI-SO` | Tinh hà Thái Sơ · 太初神域 | Láng giềng — di tích cổ thần | **Đông nam xa** (~8–10 vạn) | 5–6 lục (chưa geo) | **Cổ khí + thần khí** — di tích **Thần giai** sơ khai |
+| **`TH-THAN-HUYEN-CUC`** | **Tinh hà Huyền Cự** · Tinh hà Huyền Cự | **Chủ** — sự kiện, `CHL-*`, geo | Hub cụm **bắc–tây trung tâm** Hư Không Thần (khác Tiên **nam–tây**, Linh **bắc–đông**, Phàm **nam–tây** cụm Phàm) | **7** đại lục; bbox grid ~ x∈[−250,+228], y∈[−217,+244] | **Ổn định–nặng**; thần mạch công cộng + tranh **Thần phủ / Thần nguyên** |
+| `TH-THAN-TICH-MINH` | Tinh hà Tịch Minh · Tịch Minh thần vực | Láng giềng — tịnh tu thần | **Tây** (~5–7 vạn hư không lore) | 4–5 lục (chưa geo) | **Tịnh** — thần khí loãng nhưng **sạch**; ít tranh sát |
+| `TH-THAN-DO-DU` | Tinh hà Độ Du · Độ Du thần vực | Láng giềng — mạch du hành | **Nam** (~4–6 vạn) | 5–6 lục (chưa geo) | **Trung hòa** — thuế **mạch hư không thần** |
+| `TH-THAN-LOI-HANH` | Tinh hà Lôi Hành · Lôi Hành thần vực | Láng giềng — đại kiếp | **Đông** (~3–5 vạn) | 5–7 lục (chưa geo) | **Lôi thịnh** — **Thần kiếp** ngoài trời dày |
+| `TH-THAN-HON-NGUYEN` | Tinh hà Hồn Nguyên · HồnNguyênThầnVực | Láng giềng — hỗn độn manh | **Bắc** (~4–5 vạn) | 6 lục (chưa geo) | **Hỗn nguyên manh** — Thánh lore treo `(không geo Thánh)` |
+| `TH-THAN-PHUC-MENH` | Tinh hà Phục Mệnh · Phục Mệnh thần vực | Láng giềng — sinh diệt | **Tây nam** (~6–8 vạn) | 4–5 lục (chưa geo) | **Dao động** — tái sinh / diệt mệnh tranh **Thần lệ** |
+| `TH-THAN-VAN-TU` | Tinh hà Vạn Tự · Vạn Tự thần vực | Láng giềng — trật tự luật | **Đông bắc** (~5–7 vạn) | 6 lục (chưa geo) | **Luật thần** — khế **Vạn Tự** ràng mạch |
+| `TH-THAN-DOAN-MACH` | Tinh hà Đoạn Mạch · ĐoạnMạchThầnVực | Láng giềng — suy mạch | **Nam tây** (~7–9 vạn) | 3–4 lục (chưa geo) | **Nghèo cục bộ** — mạch đứt; **Thần khí** nhập từ Huyền Cự |
+| `TH-THAN-HU-VI` | Tinh hà Hư Vi · HưVôThầnVực | Láng giềng — mép void | **Tây bắc xa** (~9–12 vạn) | 2–3 lục (chưa geo) | **Loãng–lạnh** — Vực Ngoại treo; dị thú |
+| `TH-THAN-THAI-SO` | Tinh hà Thái Sơ · Thái Sơ thần vực | Láng giềng — di tích cổ thần | **Đông nam xa** (~8–10 vạn) | 5–6 lục (chưa geo) | **Cổ khí + thần khí** — di tích **Thần giai** sơ khai |
 
 **Tinh hà count:** **10** (1 main + **9** neighbor). Láng giềng **không** có file `00-tinh-ha` riêng trong Phase 4a — chỉ atlas.
 
@@ -36,7 +36,7 @@
 | Trường | Giá trị |
 | --- | --- |
 | **ID** | `TH-THAN-HUYEN-CUC` |
-| **Tên** | **Tinh hà Huyền Cự** (玄极神域) |
+| **Tên** | **Tinh hà Huyền Cự** |
 | **Vị trí trong Hư Không Thần** | Cụm **bắc–tây trung tâm** đã khảo sát; hub `TINH-HA-REF` ≈ **giao thần mạch** Trung Thần — không phải tâm vật lý tuyệt đối. Giới bích Tiên–Thần **không** nằm trên bản đồ này. |
 | **Thang lưới** | Story grid: **x = Đông (+), y = Bắc (+)**; một đơn vị ≈ **một ngày hành thần** (Thần giai sơ, không phù). Bán kính hành trình tinh hà: **~900–1000** đơn vị tới mép lục xa. |
 | **Quy mô vật lý (tóm)** | **7** đại lục (`CHL-*`) + **Hải thần khí** / đảo hư (chưa vẽ chi tiết); polygon **không chồng** trên `tinh_ha`. |
@@ -60,13 +60,13 @@
 
 | ID | Tên (Việt · Hán) | Vị trí (hub grid) | Quy mô bbox (Đ×B) | Thần khí / đặc điểm |
 | --- | --- | --- | --- | --- |
-| `CHL-TRUNG-THAN` | Trung Thần · 中神大陆 | Trung tâm cụm | ~165 × 130 | **Mạch chủ** — thần triều, thành thần; tranh **Thần phủ** |
-| `CHL-VAN-PHAP` | Vạn Pháp · 万法大陆 | Đông | ~128 × 108 | **Luật–Pháp**; thần công pháp, **Vạn Tự** khế treo |
-| `CHL-KIEM-LOI` | Kiếm Lôi · 剑雷大陆 | Đông bắc | ~118 × 95 | **Lôi–Kiếm**; **Thần kiếp** ngoài trời; liên Lôi Hành (lore) |
-| `CHL-HON-VUC` | Hồn Vực · 魂域大陆 | Tây | ~135 × 115 | **Hồn–Mệnh**; luân hồi treo `(Phase 5)` — **không** Minh hub |
-| `CHL-SINH-TIEU` | Sinh Tiêu · 生灭大陆 | Nam | ~142 × 98 | **Sinh–Diệt**; Phục Mệnh nhập **Thần lệ** |
-| `CHL-HUYEN-BANG` | Huyền Băng · 玄冰大陆 | Tây bắc | ~105 × 78 | **Huyền–Băng**; mép **Tiên–Thần** `(bí mật)` |
-| `CHL-CUU-PHONG` | Cửu Phong · 九峰大陆 | Đông nam | ~112 × 88 | **Cửu phong** — đan thần, phong ấn cổ |
+| `CHL-TRUNG-THAN` | Trung Thần · TrungThầnĐạiLục | Trung tâm cụm | ~165 × 130 | **Mạch chủ** — thần triều, thành thần; tranh **Thần phủ** |
+| `CHL-VAN-PHAP` | Vạn Pháp · VạnPhápĐạiLục | Đông | ~128 × 108 | **Luật–Pháp**; thần công pháp, **Vạn Tự** khế treo |
+| `CHL-KIEM-LOI` | Kiếm Lôi · Kiếm Lôi đại lục | Đông bắc | ~118 × 95 | **Lôi–Kiếm**; **Thần kiếp** ngoài trời; liên Lôi Hành (lore) |
+| `CHL-HON-VUC` | Hồn Vực · Hồn Vực đại lục | Tây | ~135 × 115 | **Hồn–Mệnh**; luân hồi treo `(Phase 5)` — **không** Minh hub |
+| `CHL-SINH-TIEU` | Sinh Tiêu · Sinh Tiêu đại lục | Nam | ~142 × 98 | **Sinh–Diệt**; Phục Mệnh nhập **Thần lệ** |
+| `CHL-HUYEN-BANG` | Huyền Băng · HuyềnBăngĐạiLục | Tây bắc | ~105 × 78 | **Huyền–Băng**; mép **Tiên–Thần** `(bí mật)` |
+| `CHL-CUU-PHONG` | Cửu Phong · Cửu Phong đại lục | Đông nam | ~112 × 88 | **Cửu phong** — đan thần, phong ấn cổ |
 
 ### 2.1. Châu lục deep (Phase 4b + 4b-ext ✓ — **7/7**)
 

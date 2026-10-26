@@ -15,8 +15,7 @@ child_index:
     path: ../../../../geo/chau-luc/chl-bang-phong.geojson
 ---
 
-# Linh Băng hồ · 灵冰湖
-
+# Linh Băng hồ · LinhBăng
 **parent:** [`CHL-BANG-PHONG`](../../00-overview.md) · **GeoJSON:** [`chl-bang-phong.geojson`](../../../../geo/chau-luc/chl-bang-phong.geojson)
 
 ## Hợp đồng kế thừa

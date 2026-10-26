@@ -23,7 +23,7 @@
       "properties": {
         "id": "CHL-TRAN-LAC",
         "name_vi": "Trần Lạc đại lục",
-        "name_hv": "尘落大陆",
+        "name_hv": "Trần Lạc đại lục",
         "kind": "continent",
         "visibility": "public",
         "notes": "Silhouette CHL-TRAN-LAC từ 00-tinh-ha; parent SW [-123.0, -192.0]; k≈7.11; hub LOC-TL-TRAN-DINH."
@@ -760,7 +760,7 @@
         "id": "REG-TL-NAM-VI",
         "name_vi": "Nam Vi · cực nam",
         "kind": "wilderness",
-        "name_hv": "南微",
+        "name_hv": "Nam Vi",
         "tien_khi_tier": "loãng",
         "visibility": "public",
         "notes": "Trần khí dày — tiên khí loãng ven biên"
@@ -951,7 +951,7 @@
         "id": "REG-TL-TRAN-DINH",
         "name_vi": "Trần Đình",
         "kind": "polity",
-        "name_hv": "尘庭",
+        "name_hv": "Trần Đình",
         "tien_khi_tier": "mach_rải",
         "visibility": "public",
         "notes": "Tản Tiên tụ · hub LOC-TL-TRAN-DINH"
@@ -1114,7 +1114,7 @@
         "id": "REG-TL-LAC-HE",
         "name_vi": "Lạc Hà hội",
         "kind": "polity",
-        "name_hv": "落河会",
+        "name_hv": "Lạc Hà hội",
         "tien_khi_tier": "loãng",
         "visibility": "public",
         "notes": "Sông trần khí — hội Tản Tiên thương nghị"
@@ -1337,7 +1337,7 @@
         "id": "REG-TL-HA-TIEN",
         "name_vi": "Hạ Tiên đài",
         "kind": "polity",
-        "name_hv": "下仙台",
+        "name_hv": "Hạ Tiên đài",
         "tien_khi_tier": "mach_rải",
         "visibility": "public",
         "notes": "Khu Hạ tiên mới phi thăng — chưa mạch"
@@ -1524,7 +1524,7 @@
         "id": "REG-TL-TAN-TIEN",
         "name_vi": "Tản Tiên đài",
         "kind": "wilderness",
-        "name_hv": "散仙台",
+        "name_hv": "Tản Tiên đài",
         "tien_khi_tier": "loãng",
         "visibility": "public",
         "notes": "Di tích phi thăng đợt đầu — tranh di cổ"
@@ -1727,7 +1727,7 @@
         "id": "REG-TL-PHAM-VESTIGE",
         "name_vi": "Linh vestige",
         "kind": "dungeon",
-        "name_hv": "灵遗迹",
+        "name_hv": "Linh vestige",
         "tien_khi_tier": "linh_vệt",
         "visibility": "mc_phase1",
         "expansion_slot": "E-TIEN-LINH-VESTIGE",
@@ -1903,7 +1903,7 @@
         "id": "REG-TL-TAY-KHE",
         "name_vi": "Tây Khe · rìa tây",
         "kind": "wilderness",
-        "name_hv": "西溪",
+        "name_hv": "Tây Khe",
         "tien_khi_tier": "loãng",
         "visibility": "public"
       }
@@ -2165,7 +2165,7 @@
         "id": "BRR-TL-TRAN-SON",
         "name_vi": "Dãy Trần Sơn",
         "kind": "barrier",
-        "name_hv": "尘山",
+        "name_hv": "Dãy Trần Sơn",
         "tien_khi_tier": "mach_rải",
         "visibility": "public",
         "notes": "Trần khí đọng — Ma patch đáy `(E-TIEN-MA-PATCH-TL)`"
@@ -2324,7 +2324,7 @@
         "id": "REG-TL-MA-PIT",
         "name_vi": "Ma khí đáy trần",
         "kind": "dungeon",
-        "name_hv": "魔渊",
+        "name_hv": "Ma khí đáy trần",
         "tien_khi_tier": "ma_vệt",
         "visibility": "hidden_logic",
         "expansion_slot": "E-TIEN-MA-PATCH-TL",
@@ -2552,7 +2552,7 @@
         "id": "REG-TL-BAC-VAN",
         "name_vi": "Bắc Vân · biên Trung Tiên",
         "kind": "wilderness",
-        "name_hv": "北云",
+        "name_hv": "Bắc Vân",
         "tien_khi_tier": "dồi_vệt",
         "visibility": "public",
         "notes": "Liên Trung Tiên nam — REG-TT-NAM-VAN hướng bắc"
@@ -2767,7 +2767,7 @@
         "id": "REG-TL-DONG-LAC",
         "name_vi": "Đông Lạc · uyên đông",
         "kind": "wilderness",
-        "name_hv": "东落",
+        "name_hv": "Đông Lạc",
         "tien_khi_tier": "loãng",
         "visibility": "public"
       }
@@ -2784,7 +2784,7 @@
       "properties": {
         "id": "LOC-TL-TRAN-DINH",
         "name_vi": "Trần Đình · trung tâm",
-        "name_hv": "尘庭",
+        "name_hv": "Trần Đình",
         "kind": "hub",
         "visibility": "public",
         "tien_khi_tier": "mach_rải"
@@ -3124,7 +3124,7 @@
       "properties": {
         "id": "RIVER-TL-TRAN-LAC",
         "name_vi": "Trần Lạc hà",
-        "name_hv": "尘落河",
+        "name_hv": "Trần Lạc hà",
         "kind": "route",
         "from_id": "REG-TL-BAC-VAN",
         "to_id": "REG-TL-NAM-VI"
@@ -3240,7 +3240,7 @@
       "properties": {
         "id": "ROUTE-TL-BAC-NAM-VAN",
         "name_vi": "Thương lộ bắc vân",
-        "name_hv": "北云路",
+        "name_hv": "Thương lộ bắc vân",
         "kind": "route",
         "from_id": "REG-TL-BAC-VAN",
         "to_id": "REG-TT-NAM-VAN",

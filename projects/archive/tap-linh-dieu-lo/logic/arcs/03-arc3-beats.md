@@ -11,7 +11,7 @@
 ## Ràng buộc world (tóm tắt)
 
 - **Tiểu cục chính:** **TC-009** **Thạch Lam Luyện Đan Hội** / **Đan Hội Phường** (đông Thạch Lam, cạnh **Bách Hóa**); **TC-010** quay **Cửu Huyền Phế Trận · Kiến Sa** (2–3 ngày qua sa biên); **TC-007** **Thiên Sa Công Uyên** (cổng tây) — **treo vé / countdown / tin**; **TC-008** echo **Huyết Sa Đạo** / **Sa Hồng Phàm** trên phế nhánh.
-- **Danh hội:** **Ất Vô** (乙无) trên sổ hội — **không** tên thật tre công khai; band cuối arc **~29 điểm** (trừ phiếu / đổi chợ trong ch.112).
+- **Danh hội:** **Ất Vô** trên sổ hội — **không** tên thật tre công khai; band cuối arc **~29 điểm** (trừ phiếu / đổi chợ trong ch.112).
 - **Kinh tế arc:** **3 hạt lẻ** (vé **Thiên Sa >> 3 hạt** + điểm/danh); lao canh đổi **phế thảo** / quyền lò; **Định Linh Tán** bia **hết** (ch.88); **Trúc Cơ Đan** hàng trăm hạt+ — ngoài tầm mua thẳng.
 - **Thiên Sa:** Prose ch.110–111 — MC **đứng ngoài cột**, **không vào** bí cảnh; ch.112 echo cột treo — **khớp** `01-region-active.md` (**chưa vào** phase 1).
 - **Payoff giới hạn:** **FS-008** đèn phàm **plant** ch.112; **Cửu Huyền Cổ Phong** / phong ấn **không** payoff đầy — **FS-001/015** partial only.
@@ -23,7 +23,7 @@
 | Mục | Canon prose / beat |
 | --- | --- |
 | **Thân** | **Trúc Cơ Trung kỳ**, **Linh Dịch lệch** (tạp căn + ngọc lệch + mảnh trận); **hao thần** tích lũy (**FS-012**) |
-| **Kinh tế** | **~3 hạt** lẻ; **Định Linh Tán** (定灵散) đấu giá **bán hết** — MC **không mua được** (**FS-007** mở) |
+| **Kinh tế** | **~3 hạt** lẻ; **Định Linh Tán** đấu giá **bán hết** — MC **không mua được** (**FS-007** mở) |
 | **Khế / nợ** | Khế **Đan Sa Phụ Mạch** / thành (**FS-004**) còn; leo cọc mạch **đã trả bằng thân lệch** |
 | **Treo** | **Thiên Sa Công Uyên** đếm ngược trên cột tây (**FS-005**); tin **lậu phương rẻ — rủi ro** (**FS-011**) |
 | **Chưa** | **FS-008** (đèn sắp tắt) **chưa plant** đầy; **không** Viên Mãn; **không** heal wound |
@@ -84,7 +84,7 @@
 
 - **Không gian:** Bảng *đối chiếu* hội vs tre lậu **U Ngõ** / chợ; **Bách Hóa** bia **Định Linh Tán** hết.
 - **Phe & âm mưu:** **Hàn Tử Ngư** (chưa scene đầy) — phương lậu nội bộ mầm; tin **Huyết Sa** / lậu *nhanh* song song hội *chậm*.
-- **Kinh tế cục:** **Định Linh Tán** — không mua; lậu rẻ hơn **>>** nhưng **nghiệp** / **断** rủi ro; **FS-011** ép Hữu vs Vô.
+- **Kinh tế cục:** **Định Linh Tán** — không mua; lậu rẻ hơn **>>** nhưng **nghiệp** / **Đoạn** rủi ro; **FS-011** ép Hữu vs Vô.
 - **Mục tiêu MC cục:** So sánh giá **không** gia Ma; giữ **3 hạt** cho canh / mượn phòng.
 - **Thành công =** chọn *chậm có sổ* · **Thất bại =** mua lậu một liều — nghiệp mầm (**FS-010**).
 - **Ràng buộc Power/world:** Monopoly đan vùng; **WM-001** — phương không sửa gốc tạp căn sạch.
@@ -113,14 +113,14 @@
 - **Phe & âm mưu:** Tranh manh xám hợp pháp hội; **không** reveal ai phong ấn; mảnh trận + ngọc **cộng hưởng** — không sáng full.
 - **Kinh tế cục:** Manh vào **bao hội** / khay leo phương phụ; tro trả bằng canh; **không** tin lậu ngoài ca.
 - **Mục tiêu MC cục:** Loot phế **III** mầm + về đủ khay; **FS-015** nurture.
-- **Thành công =** manh + dược **không** Ma · **Thất bại =** hút khí đậm phế / **断** đọc sớm.
+- **Thành công =** manh + dược **không** Ma · **Thất bại =** hút khí đậm phế / **Đoạn** đọc sớm.
 - **Ràng buộc Power/world:** Phế **đè cảnh giới** — Trúc Cơ không solo Kim Đan; **Mạc Lão** không payoff phong ấn; 2–3 ngày từ Thạch Lam (atlas).
 
 ### Beat 7 — Shortcut Ma tái ngộ (ch.105–106) · **TC-008** echo
 
 - **Không gian:** Ngoài vách hội / hướng **cổng tây**; dư âm **Sa Hồng Phàm** (áo sa đỏ mờ); **không** vào doanh địa Ma.
 - **Phe & âm mưu:** **Huyết Sa Đạo** — *cứu vùng ngắn* / hút phế; mirror **Tạ Hàm Nguyệt** logic; MC **từ chối recruit**.
-- **Kinh tế cục:** *Nhanh* = không cần canh **Ất Vô** nhưng **nghiệp** + **断**; hội *chậm* = điểm + tro.
+- **Kinh tế cục:** *Nhanh* = không cần canh **Ất Vô** nhưng **nghiệp** + **Đoạn**; hội *chậm* = điểm + tro.
 - **Mục tiêu MC cục:** Nghe đề xuất **không** ký; giữ nhân tính xám.
 - **Thành công =** từ chối + hiểu giá song song · **Thất bại =** nhận liều Ma / vào nhánh phế một mình.
 - **Ràng buộc Power/world:** **TC-008** nhánh phế Đan Sa — không flood Kim Đan; leader Ma tier **Trúc Cơ**–**Kim Đan** gián tiếp.
@@ -149,7 +149,7 @@
 - **Phe & âm mưu:** **Hàn** không scene — trừ qua sổ; **Mộ** gật *biết* che một tầng **không** bảo hành; **Bách Hóa** nợ hoãn.
 - **Kinh tế cục:** Trừ phiếu nghỉ + đổi điểm chợ — **không** còn **29 nguyên**; **3 hạt** im; **vé >> 3 hạt**.
 - **Mục tiêu MC cục:** **Trúc Cơ Đại Viên Mãn** (vòng khép **không sạch**); plant **đèn phàm**; stub **Kim Đan**.
-- **Thành công =** VM + FS-008 + vẫn lệch + **断** · **Thất bại =** (prose đã chốt thành công xám — Logic: không heal / không vào Thiên Sa).
+- **Thành công =** VM + FS-008 + vẫn lệch + **Đoạn** · **Thất bại =** (prose đã chốt thành công xám — Logic: không heal / không vào Thiên Sa).
 - **Ràng buộc Power/world:** **Đại Viên Mãn** band cuối ch.112; **Linh Dịch** gốc lệch; phase 2 **Kim Đan** chưa kiếp.
 
 ---
@@ -168,14 +168,14 @@
 
 | Thực thể | Vai trò Logic | Tiểu cục |
 | --- | --- | --- |
-| **Thạch Lam Luyện Đan Hội** (石岚丹会) | Antagonist **hệ thống** xám; monopoly phương + **điểm Ất Vô** | **TC-009** |
-| **Mộ Dục Thanh** (墨玉清) | Kiểm điểm *vì đại cục*; **không** NC | **TC-009** |
-| **Hàn Tử Ngư** (韩子渔) | Phương lậu / trừ điểm; gian lận leo thang | **TC-009** |
-| **Định Linh Tán** (定灵散) | Phụ Trúc Cơ lệch — đấu giá **hết** ch.88 | Hub **TC-004** echo |
+| **Thạch Lam Luyện Đan Hội** | Antagonist **hệ thống** xám; monopoly phương + **điểm Ất Vô** | **TC-009** |
+| **Mộ Dục Thanh** | Kiểm điểm *vì đại cục*; **không** NC | **TC-009** |
+| **Hàn Tử Ngư** | Phương lậu / trừ điểm; gian lận leo thang | **TC-009** |
+| **Định Linh Tán** | Phụ Trúc Cơ lệch — đấu giá **hết** ch.88 | Hub **TC-004** echo |
 | **Bách Hóa Đường · Thạch Lam** | Nợ hoãn; **500 hạt** truy nã nền | **TC-004** |
 | **Huyết Sa Đạo / Sa Hồng Phàm** | Mirror shortcut; **không** recruit MC | **TC-008** |
 | **Phương Ngự Hàn** | Tin / lợi ích; **FS-016** | Thành **TC-004** |
-| **Thiên Sa Công Uyên** (天砂共渊) | Vé treo; MC **chưa vào** phase 1 | **TC-007** |
+| **Thiên Sa Công Uyên** | Vé treo; MC **chưa vào** phase 1 | **TC-007** |
 | **Cửu Huyền Phế Trận / Kiến Sa** | Quay vòng **FS-015**; mảnh + ngọc | **TC-010** |
 
 ---
@@ -210,7 +210,7 @@
 | --- | --- | --- |
 | **FS-001** | 4, 6 | Mảnh trận + tạp căn — partial payoff **TC-010** |
 | **FS-002** | 3, 7 | Thuận/Nghịch — hội vs lậu vs Ma |
-| **FS-004** | 1 | Khế **断** / thành echo |
+| **FS-004** | 1 | Khế **Đoạn** / thành echo |
 | **FS-005** | 9–10 | **Thiên Sa** tin — **không** vào MC |
 | **FS-006** | 5, 9 | Bia không tên — echo **Lục Thanh Phong** |
 | **FS-007** | 1–4, 8, 10 | Linh Dịch — **treo** Kim Đan |

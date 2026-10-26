@@ -13,8 +13,15 @@
     {
       "id": "REG-DA-LUC-NEN",
       "name": "Trần Lạc · nền đại lục",
-      "dimensions": { "width": 1000, "length": 1000 },
-      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "dimensions": {
+        "width": 1000,
+        "length": 1000
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 0,
+        "y": 0
+      },
       "properties": {
         "kind": "wilderness",
         "visibility": "hidden_logic",
@@ -26,10 +33,17 @@
     {
       "id": "REG-TL-NAM-VI",
       "name": "Nam Vi · cực nam",
-      "dimensions": { "width": 560, "length": 80 },
-      "anchor": { "type": "absolute", "x": 220, "y": 24 },
+      "dimensions": {
+        "width": 560,
+        "length": 80
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 220,
+        "y": 24
+      },
       "properties": {
-        "name_hv": "南微",
+        "name_hv": "Nam Vi",
         "kind": "wilderness",
         "tien_khi_tier": "loãng",
         "visibility": "public",
@@ -39,10 +53,18 @@
     {
       "id": "REG-TL-TRAN-DINH",
       "name": "Trần Đình",
-      "dimensions": { "width": 320, "length": 160 },
-      "anchor": { "type": "relative", "ref_id": "REG-TL-NAM-VI", "edge": "top", "align": "center" },
+      "dimensions": {
+        "width": 320,
+        "length": 160
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-TL-NAM-VI",
+        "edge": "top",
+        "align": "center"
+      },
       "properties": {
-        "name_hv": "尘庭",
+        "name_hv": "Trần Đình",
         "kind": "polity",
         "tien_khi_tier": "mach_rải",
         "visibility": "public",
@@ -52,10 +74,18 @@
     {
       "id": "REG-TL-LAC-HE",
       "name": "Lạc Hà hội",
-      "dimensions": { "width": 280, "length": 140 },
-      "anchor": { "type": "relative", "ref_id": "REG-TL-TRAN-DINH", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 280,
+        "length": 140
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-TL-TRAN-DINH",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "落河会",
+        "name_hv": "Lạc Hà hội",
         "kind": "polity",
         "tien_khi_tier": "loãng",
         "visibility": "public",
@@ -65,10 +95,18 @@
     {
       "id": "REG-TL-HA-TIEN",
       "name": "Hạ Tiên đài",
-      "dimensions": { "width": 240, "length": 120 },
-      "anchor": { "type": "relative", "ref_id": "REG-TL-TRAN-DINH", "edge": "left", "align": "top" },
+      "dimensions": {
+        "width": 240,
+        "length": 120
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-TL-TRAN-DINH",
+        "edge": "left",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "下仙台",
+        "name_hv": "Hạ Tiên đài",
         "kind": "polity",
         "tien_khi_tier": "mach_rải",
         "visibility": "public",
@@ -78,10 +116,18 @@
     {
       "id": "REG-TL-TAN-TIEN",
       "name": "Tản Tiên đài",
-      "dimensions": { "width": 360, "length": 160 },
-      "anchor": { "type": "relative", "ref_id": "REG-TL-TRAN-DINH", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 360,
+        "length": 160
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-TL-TRAN-DINH",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "散仙台",
+        "name_hv": "Tản Tiên đài",
         "kind": "wilderness",
         "tien_khi_tier": "loãng",
         "visibility": "public",
@@ -91,10 +137,18 @@
     {
       "id": "REG-TL-PHAM-VESTIGE",
       "name": "Linh vestige",
-      "dimensions": { "width": 200, "length": 200 },
-      "anchor": { "type": "relative", "ref_id": "REG-TL-HA-TIEN", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 200,
+        "length": 200
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-TL-HA-TIEN",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "灵遗迹",
+        "name_hv": "Linh vestige",
         "kind": "dungeon",
         "tien_khi_tier": "linh_vệt",
         "visibility": "mc_phase1",
@@ -105,10 +159,17 @@
     {
       "id": "REG-TL-TAY-KHE",
       "name": "Tây Khe · rìa tây",
-      "dimensions": { "width": 180, "length": 560 },
-      "anchor": { "type": "absolute", "x": 24, "y": 88 },
+      "dimensions": {
+        "width": 180,
+        "length": 560
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 24,
+        "y": 88
+      },
       "properties": {
-        "name_hv": "西溪",
+        "name_hv": "Tây Khe",
         "kind": "wilderness",
         "tien_khi_tier": "loãng",
         "visibility": "public"
@@ -117,10 +178,17 @@
     {
       "id": "BRR-TL-TRAN-SON",
       "name": "Dãy Trần Sơn",
-      "dimensions": { "width": 48, "length": 440 },
-      "anchor": { "type": "absolute", "x": 204, "y": 100 },
+      "dimensions": {
+        "width": 48,
+        "length": 440
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 204,
+        "y": 100
+      },
       "properties": {
-        "name_hv": "尘山",
+        "name_hv": "Dãy Trần Sơn",
         "kind": "barrier",
         "tien_khi_tier": "mach_rải",
         "visibility": "public",
@@ -130,10 +198,18 @@
     {
       "id": "REG-TL-MA-PIT",
       "name": "Ma khí đáy trần",
-      "dimensions": { "width": 200, "length": 240 },
-      "anchor": { "type": "relative", "ref_id": "BRR-TL-TRAN-SON", "edge": "right", "align": "bottom" },
+      "dimensions": {
+        "width": 200,
+        "length": 240
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "BRR-TL-TRAN-SON",
+        "edge": "right",
+        "align": "bottom"
+      },
       "properties": {
-        "name_hv": "魔渊",
+        "name_hv": "Ma khí đáy trần",
         "kind": "dungeon",
         "tien_khi_tier": "ma_vệt",
         "visibility": "hidden_logic",
@@ -144,10 +220,18 @@
     {
       "id": "REG-TL-BAC-VAN",
       "name": "Bắc Vân · biên Trung Tiên",
-      "dimensions": { "width": 680, "length": 88 },
-      "anchor": { "type": "relative", "ref_id": "REG-TL-TAN-TIEN", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 680,
+        "length": 88
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-TL-TAN-TIEN",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "北云",
+        "name_hv": "Bắc Vân",
         "kind": "wilderness",
         "tien_khi_tier": "dồi_vệt",
         "visibility": "public",
@@ -157,10 +241,17 @@
     {
       "id": "REG-TL-DONG-LAC",
       "name": "Đông Lạc · uyên đông",
-      "dimensions": { "width": 120, "length": 360 },
-      "anchor": { "type": "absolute", "x": 540, "y": 100 },
+      "dimensions": {
+        "width": 120,
+        "length": 360
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 540,
+        "y": 100
+      },
       "properties": {
-        "name_hv": "东落",
+        "name_hv": "Đông Lạc",
         "kind": "wilderness",
         "tien_khi_tier": "loãng",
         "visibility": "public"
@@ -172,9 +263,12 @@
       "id": "LOC-TL-TRAN-DINH",
       "name": "Trần Đình · trung tâm",
       "type": "point",
-      "coordinates": { "x": 400, "y": 280 },
+      "coordinates": {
+        "x": 400,
+        "y": 280
+      },
       "properties": {
-        "name_hv": "尘庭",
+        "name_hv": "Trần Đình",
         "kind": "hub",
         "visibility": "public",
         "tien_khi_tier": "mach_rải"
@@ -185,17 +279,32 @@
       "name": "Trần Lạc hà",
       "type": "river",
       "properties": {
-        "name_hv": "尘落河",
+        "name_hv": "Trần Lạc hà",
         "kind": "route",
         "from_id": "REG-TL-BAC-VAN",
         "to_id": "REG-TL-NAM-VI"
       },
       "control_points": [
-        { "x": 380, "y": 560 },
-        { "x": 400, "y": 440 },
-        { "x": 420, "y": 360 },
-        { "x": 440, "y": 200 },
-        { "x": 460, "y": 80 }
+        {
+          "x": 380,
+          "y": 560
+        },
+        {
+          "x": 400,
+          "y": 440
+        },
+        {
+          "x": 420,
+          "y": 360
+        },
+        {
+          "x": 440,
+          "y": 200
+        },
+        {
+          "x": 460,
+          "y": 80
+        }
       ],
       "roughness": "high"
     },
@@ -204,16 +313,25 @@
       "name": "Thương lộ bắc vân",
       "type": "river",
       "properties": {
-        "name_hv": "北云路",
+        "name_hv": "Thương lộ bắc vân",
         "kind": "route",
         "from_id": "REG-TL-BAC-VAN",
         "to_id": "REG-TT-NAM-VAN",
         "hazard": "trần_khi"
       },
       "control_points": [
-        { "x": 480, "y": 520 },
-        { "x": 500, "y": 580 },
-        { "x": 520, "y": 620 }
+        {
+          "x": 480,
+          "y": 520
+        },
+        {
+          "x": 500,
+          "y": 580
+        },
+        {
+          "x": 520,
+          "y": 620
+        }
       ],
       "roughness": "medium"
     }

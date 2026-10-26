@@ -1,6 +1,6 @@
-# Phù lục (符箓)
+# Phù lục (Phù lục)
 
-**Phụ nghề:** Phù sư (符师) — `[nguồn V2]` §8 · hub `10-phu-nghe-tu-tien.md`.  
+**Phụ nghề:** Phù sư (Phù sư) — `[nguồn V2]` §8 · hub `10-phu-nghe-tu-tien.md`.  
 **Luật thế giới:** Ngũ Hành Âm Dương (`../core/02-world-laws-lore-core.md` Luật 2); Nhân-Quả / Nghiệp với Ma phù (`Luật 4`).  
 **Chiến lực & kinh tế:** `../core/03-power-system-economy-core.md` §2–4 · thần thông liên quan `09-shentong-va-cong-phap.md`.  
 **Phân biệt:** Trận = **bố trí + duy trì** (`08-tran-phap.md`); phù = **vật mang một (hoặc vài) hiệu ứng**, kích tại chỗ hoặc mang theo.
@@ -17,7 +17,7 @@
 | **Kích phát, không «nạp pin miễn phí»** | Phù **Hạ–Thượng** (và hầu hết phù tán tu): mỗi lần **kích phát** hiệu lực → người dùng hao **linh lực + thần thức** (thường thần thức nặng hơn); phù **hao mòn** (nứt, mỏi, tro). **Không** mô hình «kích một lần, sau đó bật không trả giá». |
 | **Thiên Phù / phong ấn dài hạn** | Có thể **khởi linh** phức tạp hơn (nhiều bước, linh thạch, trận phù); vẫn có **giới hạn lần** hoặc **thời hạn** — không vô hạn Arc Hạ Giới. |
 | **Chế tạo ≠ chiến đấu** | Phù sư hao **vật liệu + linh lực + thần thức** khi **vẽ**; tu sĩ hao **thần thức chủ yếu** khi **kích phát** (trừ phù tự hủy một lần). |
-| **Monopoly công thức** | **Ấn pháp** (印法) + **mực phù** + **hình phù** cao phẩm — tông / Phù các; tán tu: mua đúc sẵn, bản tàn, hoặc tự vẽ hạ phẩm (trade-off cao). |
+| **Monopoly công thức** | **Ấn pháp** + **mực phù** + **hình phù** cao phẩm — tông / Phù các; tán tu: mua đúc sẵn, bản tàn, hoặc tự vẽ hạ phẩm (trade-off cao). |
 
 ---
 
@@ -36,14 +36,14 @@
 ## 2. Vòng đời phù: tạo → kích phát → hao
 
 ```text
-[Vật liệu] → Vẽ (制符) → Phù tiềm (符胚) → Kích phát (激活/启符) → Hiệu lực (效)
+[Vật liệu] → Vẽ (Phù) → Phù tiềm (Phù) → Kích phát (/Phù) → Hiệu lực 
                 ↑                              ↓
            Ấn pháp + mực + hình            Hao thần / hao phù
                 ↑                              ↓
-           Phù sư hoặc tự vẽ                 Nứt · mỏi · tro (废)
+           Phù sư hoặc tự vẽ                 Nứt · mỏi · tro 
 ```
 
-### 2.1. Vẽ (制符) — «làm phù»
+### 2.1. Vẽ (Phù) — «làm phù»
 
 | Khía cạnh | Nội dung `(invariant)` |
 | --- | --- |
@@ -54,7 +54,7 @@
 | **Ai vẽ** | Phù sư (ổn định); tu sĩ không phù sư (tỷ lệ thấp, phù **hạ / lệch chuẩn** — hook tạp căn / đa hành Logic). |
 | **Thời gian** | Đúc sẵn: sản xuất hàng loạt. Tự vẽ: từ **vài nhịp thở** (hạ, một lá) đến **canh giờ** (Trung+). |
 
-### 2.2. Kích phát (启符 / 激活) — «kích phù» `(invariant)` — **Hướng 2**
+### 2.2. Kích phát (Phù/) — «kích phù» `(invariant)` — **Hướng 2**
 
 | Khía cạnh | Nội dung |
 | --- | --- |
@@ -78,16 +78,16 @@
 
 ## 3. Vật liệu & công cụ
 
-### 3.1. Mặt mang (符材)
+### 3.1. Mặt mang (Phù)
 
 | Loại | Phẩm thường gặp | Ghi chú |
 | --- | --- | --- |
-| **Giấy phù** (符纸) | Hạ–Trung | Rẻ, ẩm dễ hỏng; đúc sẵn Phi Vân-type |
-| **Da yêu thú** (妖兽皮) | Hạ–Trung | Giữ khí tốt hơn giấy; cần cạo mỡ, khóa mép mực |
-| **Ngọc phù / trúc phù** (玉符) | Trung–Thiên | Đắt, bền; ấn khắc sâu |
+| **Giấy phù** | Hạ–Trung | Rẻ, ẩm dễ hỏng; đúc sẵn Phi Vân-type |
+| **Da yêu thú** | Hạ–Trung | Giữ khí tốt hơn giấy; cần cạo mỡ, khóa mép mực |
+| **Ngọc phù / trúc phù** | Trung–Thiên | Đắt, bền; ấn khắc sâu |
 | **Lá / gỗ linh** `[bổ sung sáng tác]` | Hạ | Tán tu, thay thế tạm |
 
-### 3.2. Mực phù (符墨 / 灵墨)
+### 3.2. Mực phù (Phù/Linh)
 
 | Phẩm | Thành phần gợi ý | Phù thích hợp |
 | --- | --- | --- |
@@ -101,8 +101,8 @@
 
 | Thành phần | Vai trò |
 | --- | --- |
-| **Phù mẫu / phù đồ** (符图) | Hình **nét phù** hoàn chỉnh (Hộ Thân: trụ + nhánh ôm **điểm mực**). |
-| **Ấn pháp** (印法) | Cách **đi linh khí** theo nét; có thể từ **ngọc giản tàn** (chỉ ba nét + nửa khép — không đủ mọi loại phù). |
+| **Phù mẫu / phù đồ** | Hình **nét phù** hoàn chỉnh (Hộ Thân: trụ + nhánh ôm **điểm mực**). |
+| **Ấn pháp** | Cách **đi linh khí** theo nét; có thể từ **ngọc giản tàn** (chỉ ba nét + nửa khép — không đủ mọi loại phù). |
 | **Bút phù / que linh** | Dẫn mực; que tre hạ phẩm tán tu. |
 
 ---
@@ -164,7 +164,7 @@
 | --- | --- | --- |
 | **Quy mô** | Một hiệu ứng, một người (chủ yếu) | Nhiều người, địa hình, linh thạch liên tục |
 | **Chi phí combat** | Thần + **hao vật** (lá cháy) | Linh thạch + trấn nhãn + thần |
-| **Dùng chung** | **Trận phù** (阵符) trên đĩa; **phù kích** mở một **biến** trận (Logic cao cấp) | Trận sư |
+| **Dùng chung** | **Trận phù** trên đĩa; **phù kích** mở một **biến** trận (Logic cao cấp) | Trận sư |
 
 ---
 
@@ -173,7 +173,7 @@
 **Phân cấp phù:** Hạ → Trung → Thượng → Cực → **Thiên Phù** (song song công pháp Hoàng→Thiên của phù sư).  
 **Cột «Dùng»:** số lần **kích phát** hiệu lực **tối đa** (ước) trước phế — **mỗi lần vẫn hao thần người dùng**.
 
-### 9.1. Khung bí phổ phù gia tộc (族符谱)
+### 9.1. Khung bí phổ phù gia tộc (Bí phổ phù gia tộc)
 
 **Invariant:** `../core/03-power-system-economy-core.md` §3.5 · **cấm ngoại truyền**; không thay một **đại cảnh giới**. Vật liệu mực / linh sa: `07-yeu-dan-va-vat-lieu.md` ( không nhân bản bảng vật liệu ở đây ).
 
@@ -187,25 +187,25 @@
 
 | Tên | Cấp | Nguồn | Công dụng | Dùng | Cảnh giới |
 | --- | --- | --- | --- | --- | --- |
-| **Hỏa Cầu Phù** (火球符) `[bổ sung sáng tác]` | Hạ | Phù sư / đúc sẵn | Hỏa cầu cơ bản | 1 lần | LK 1–6 |
-| **Thanh Phong Phù** (轻风符) `[bổ sung sáng tác]` | Hạ | Phù sư | Giảm trọng lượng, nhảy xa | 1 lần | LK 1–9 |
-| **Kim Cang Phù** (金刚符) `[bổ sung sáng tác]` | Trung | Đúc sẵn thương thành | Cứng da vài breath | 1 lần | LK 7–Trúc Cơ |
-| **Linh Thuẫn Phù** (灵盾符) `[bổ sung sáng tác]` | Trung | Vẽ tại chỗ | Khiên linh lực | 1–2 lần | Trúc Cơ |
-| **Thuấn Thiên Phù** (遁天符) sketch `[bổ sung sáng tác]` | Thượng | Nội môn tông | Thuấn di ngắn | 1 lần | Trúc Cơ–Kim Đan |
-| **Băng Giáp Phù** (冰甲符) `[bổ sung sáng tác]` | Trung | Băng Tinh Thảo mực | Giáp băng | 1 lần | LK–Trúc Cơ |
-| **Lôi Phù** (雷符) `[bổ sung sáng tác]` | Thượng | Lôi Tằm mực | Sét đánh | 1 lần | Kim Đan sơ |
-| **Phong Phù** (风符) `[bổ sung sáng tác]` | Trung | Phong Linh Thảo | Gió lưỡi | 1 lần | LK–Trúc Cơ |
-| **Địa Ngục Hỏa Phù** (地火符) `[bổ sung sáng tác]` | Thượng | Vẽ tại chỗ | Hỏa từ địa mạch | 1 lần | Trúc Cơ+ (cần địa lợi) |
-| **Tĩnh Tâm Phù** (静心符) `[bổ sung sáng tác]` | Trung | Long Não mực | Giảm tâm ma sơ | 3 lần | Mọi tầng |
-| **Nguyệt Hoa Phù** (月华符) `[bổ sung sáng tác]` | Thượng | Nguyệt Nhũ Linh Trúc | Tăng Thần thức tạm | 1 lần | Kim Đan |
-| **Huyết Sát Phù** (血煞符) `[bổ sung sáng tác]` | Cực (Ma) | Hắc thị | Bạo sát thương | 1 lần | Trúc Cơ–Kim Đan | **Nghiệp** |
-| **U Minh Phù** (幽冥符) `[bổ sung sáng tác]` | Thượng Ma | U Linh Thảo | Triệu quỷ hỗ trợ | 1 lần | Kim Đan Ma | **Nghiệp** |
-| **Truyền Âm Phù** (传音符) `[bổ sung sáng tác]` | Hạ | Thương hội | Nhắn tin ngắn | 1 lần | LK+ |
-| **Phong Ấn Phù** (封印符) `[bổ sung sáng tác]` | Cực | Phù sư cao | Phong tu vi / vật | 1 lần (dài hạn) | Kim Đan+ |
-| **Thiên Lôi Phù** (天雷符) `[bổ sung sáng tác]` | Thiên Phù hạ | Đan các / phù tông | Mô phỏng lôi kiếp nhẹ | 1 lần | Nguyên Anh (đối thủ) |
-| **Hộ Thân Thanh Phù** (护身清符) `[bổ sung sáng tác]` | Hạ–Trung | Đúc sẵn / **tự vẽ** (da+mực+ấn) | Màn giảm sát thương | 1–3 lần kích | LK–Trúc Cơ |
-| **Hộ Thân Phù** (护身符) `[nguồn V2]` (nhóm) | Trung–Thượng | Sư phụ / đúc | Giảm sát thương (chuẩn hơn Thanh) | 1–3 lần | LK–Trúc Cơ |
-| **Đoạt Hồn Phù** (夺魂符) `[bổ sung sáng tác]` | Cấm | Ma | Tấn công thần thức | 1 lần | Kim Đan+ | **Nhân-Quả** |
+| **Hỏa Cầu Phù** `[bổ sung sáng tác]` | Hạ | Phù sư / đúc sẵn | Hỏa cầu cơ bản | 1 lần | LK 1–6 |
+| **Thanh Phong Phù** `[bổ sung sáng tác]` | Hạ | Phù sư | Giảm trọng lượng, nhảy xa | 1 lần | LK 1–9 |
+| **Kim Cang Phù** `[bổ sung sáng tác]` | Trung | Đúc sẵn thương thành | Cứng da vài breath | 1 lần | LK 7–Trúc Cơ |
+| **Linh Thuẫn Phù** `[bổ sung sáng tác]` | Trung | Vẽ tại chỗ | Khiên linh lực | 1–2 lần | Trúc Cơ |
+| **Thuấn Thiên Phù** sketch `[bổ sung sáng tác]` | Thượng | Nội môn tông | Thuấn di ngắn | 1 lần | Trúc Cơ–Kim Đan |
+| **Băng Giáp Phù** `[bổ sung sáng tác]` | Trung | Băng Tinh Thảo mực | Giáp băng | 1 lần | LK–Trúc Cơ |
+| **Lôi Phù** `[bổ sung sáng tác]` | Thượng | Lôi Tằm mực | Sét đánh | 1 lần | Kim Đan sơ |
+| **Phong Phù** `[bổ sung sáng tác]` | Trung | Phong Linh Thảo | Gió lưỡi | 1 lần | LK–Trúc Cơ |
+| **Địa Ngục Hỏa Phù** `[bổ sung sáng tác]` | Thượng | Vẽ tại chỗ | Hỏa từ địa mạch | 1 lần | Trúc Cơ+ (cần địa lợi) |
+| **Tĩnh Tâm Phù** `[bổ sung sáng tác]` | Trung | Long Não mực | Giảm tâm ma sơ | 3 lần | Mọi tầng |
+| **Nguyệt Hoa Phù** `[bổ sung sáng tác]` | Thượng | Nguyệt Nhũ Linh Trúc | Tăng Thần thức tạm | 1 lần | Kim Đan |
+| **Huyết Sát Phù** `[bổ sung sáng tác]` | Cực (Ma) | Hắc thị | Bạo sát thương | 1 lần | Trúc Cơ–Kim Đan | **Nghiệp** |
+| **U Minh Phù** `[bổ sung sáng tác]` | Thượng Ma | U Linh Thảo | Triệu quỷ hỗ trợ | 1 lần | Kim Đan Ma | **Nghiệp** |
+| **Truyền Âm Phù** `[bổ sung sáng tác]` | Hạ | Thương hội | Nhắn tin ngắn | 1 lần | LK+ |
+| **Phong Ấn Phù** `[bổ sung sáng tác]` | Cực | Phù sư cao | Phong tu vi / vật | 1 lần (dài hạn) | Kim Đan+ |
+| **Thiên Lôi Phù** `[bổ sung sáng tác]` | Thiên Phù hạ | Đan các / phù tông | Mô phỏng lôi kiếp nhẹ | 1 lần | Nguyên Anh (đối thủ) |
+| **Hộ Thân Thanh Phù** `[bổ sung sáng tác]` | Hạ–Trung | Đúc sẵn / **tự vẽ** (da+mực+ấn) | Màn giảm sát thương | 1–3 lần kích | LK–Trúc Cơ |
+| **Hộ Thân Phù** `[nguồn V2]` (nhóm) | Trung–Thượng | Sư phụ / đúc | Giảm sát thương (chuẩn hơn Thanh) | 1–3 lần | LK–Trúc Cơ |
+| **Đoạt Hồn Phù** `[bổ sung sáng tác]` | Cấm | Ma | Tấn công thần thức | 1 lần | Kim Đan+ | **Nhân-Quả** |
 
 **Ghi chú Hộ Thân Thanh Phù:** Tự vẽ trên **da hẹp** = cùng **loại** Hạ; có thể **mạnh lệch** hoặc **nứt sớm** nếu ấn đa hệ / thiếu phù mẫu — chỉ Logic/Interface, không đổi §0 invariant.
 

@@ -7,7 +7,7 @@
 ## Mở
 
 - Nối ch.62: **ca chiều** · ô **mười chín** *hậu phương*; MC **Trúc Cơ Sơ kỳ**, giọt **Linh Dịch lệch mỏng**; thần thức còn ù sau đột phá.
-- Bảng tin trên cột kho đồn **đầy chữ** — lần đầu MC **đọc hết** thông cáo **Thiên Sa Công Uyên** (天砂共渊): bí cảnh **chung**, vé **hạn**, chưa mở ngày cụ thể.
+- Bảng tin trên cột kho đồn **đầy chữ** — lần đầu MC **đọc hết** thông cáo **Thiên Sa Công Uyên**: bí cảnh **chung**, vé **hạn**, chưa mở ngày cụ thể.
 
 ## Giữa
 

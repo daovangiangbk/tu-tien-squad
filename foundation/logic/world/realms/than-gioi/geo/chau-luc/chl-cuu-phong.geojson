@@ -23,7 +23,7 @@
       "properties": {
         "id": "CHL-CUU-PHONG",
         "name_vi": "Cửu Phong đại lục",
-        "name_hv": "九峰大陆",
+        "name_hv": "Cửu Phong đại lục",
         "kind": "continent",
         "visibility": "public",
         "notes": "Silhouette CHL-CUU-PHONG từ 00-tinh-ha; parent SW [50.0, -188.0]; hub LOC-CP-CUU-MEN."
@@ -680,7 +680,7 @@
         "id": "REG-CP-NAM-HAI",
         "name_vi": "Nam Hải cửa",
         "kind": "wilderness",
-        "name_hv": "南海关",
+        "name_hv": "Nam Hải cửa",
         "than_khi_tier": "rất_nặng",
         "visibility": "public",
         "notes": "Thương lộ đan thần — thuế 16–22%"
@@ -987,7 +987,7 @@
         "id": "REG-CP-CUU-MEN",
         "name_vi": "Cửu Môn",
         "kind": "polity",
-        "name_hv": "九门",
+        "name_hv": "Cửu Môn",
         "than_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Cửu phong thần · hub LOC-CP-CUU-MEN"
@@ -1126,7 +1126,7 @@
         "id": "REG-CP-PHONG-COC",
         "name_vi": "Phong Cốc",
         "kind": "dungeon",
-        "name_hv": "封谷",
+        "name_hv": "Phong Cốc",
         "than_khi_tier": "mach_T2_T3",
         "visibility": "mc_phase1",
         "notes": "Đan thần · phong ấn cổ — di tích Tiên Đế"
@@ -1301,7 +1301,7 @@
         "id": "REG-CP-TRUNG-DAN",
         "name_vi": "Trung Đan đài",
         "kind": "polity",
-        "name_hv": "中丹台",
+        "name_hv": "Trung Đan đài",
         "than_khi_tier": "rất_nặng",
         "visibility": "public",
         "notes": "Thần đan các — monopoly hội thương"
@@ -1444,7 +1444,7 @@
         "id": "REG-CP-BAC-PHONG",
         "name_vi": "Bắc Phong uyên",
         "kind": "wilderness",
-        "name_hv": "北封苑",
+        "name_hv": "Bắc Phong uyên",
         "than_khi_tier": "nặng_ổn_định",
         "visibility": "public",
         "notes": "Phong ấn cổ rải — biên REG-KL-DONG-HAI"
@@ -1647,7 +1647,7 @@
         "id": "REG-CP-TAY-CUU",
         "name_vi": "Tây Cửu quan",
         "kind": "wilderness",
-        "name_hv": "西九关",
+        "name_hv": "Tây Cửu quan",
         "than_khi_tier": "nặng_ổn_định",
         "visibility": "public",
         "notes": "Hướng REG-ST-DONG-PHUC — sinh–phong tranh"
@@ -1890,7 +1890,7 @@
         "id": "BRR-CP-CUU-SON",
         "name_vi": "Dãy Cửu Sơn",
         "kind": "barrier",
-        "name_hv": "九山",
+        "name_hv": "Dãy Cửu Sơn",
         "than_khi_tier": "mach_rải_cao",
         "visibility": "public",
         "notes": "Cửu phong barrier — phong ấn còn hoạt"
@@ -2149,7 +2149,7 @@
         "id": "REG-CP-DONG-LAM",
         "name_vi": "Đông Lam",
         "kind": "resource",
-        "name_hv": "东林",
+        "name_hv": "Đông Lam",
         "than_khi_tier": "rất_nặng",
         "visibility": "public",
         "notes": "Thần thảo cổ — Thái Sơ vệt (lore)"
@@ -2348,7 +2348,7 @@
         "id": "REG-CP-DONG-HAI",
         "name_vi": "Đông Hải bình",
         "kind": "wilderness",
-        "name_hv": "东海坪",
+        "name_hv": "Đông Hải bình",
         "than_khi_tier": "rất_nặng",
         "visibility": "public",
         "notes": "Liên REG-VP-DONG-HAI · REG-KL-DONG-HAI"
@@ -2366,7 +2366,7 @@
       "properties": {
         "id": "LOC-CP-CUU-MEN",
         "name_vi": "Cửu Môn · phong đan",
-        "name_hv": "九门",
+        "name_hv": "Cửu Môn",
         "kind": "hub",
         "visibility": "public",
         "than_khi_tier": "mach_chủ"
@@ -2482,7 +2482,7 @@
       "properties": {
         "id": "ROUTE-CP-BAC-KIEM-LOI",
         "name_vi": "Phong quan bắc",
-        "name_hv": "北封路",
+        "name_hv": "Phong quan bắc",
         "kind": "route",
         "from_id": "REG-CP-BAC-PHONG",
         "to_id": "REG-KL-DONG-HAI",
@@ -2827,7 +2827,7 @@
       "properties": {
         "id": "RIVER-CP-CUU-HE",
         "name_vi": "Cửu Hà",
-        "name_hv": "九河",
+        "name_hv": "Cửu Hà",
         "kind": "route",
         "from_id": "REG-CP-BAC-PHONG",
         "to_id": "REG-CP-NAM-HAI"

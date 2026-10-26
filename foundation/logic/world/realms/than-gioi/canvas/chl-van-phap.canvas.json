@@ -13,8 +13,15 @@
     {
       "id": "REG-DA-LUC-NEN",
       "name": "Vạn Pháp · nền đại lục",
-      "dimensions": { "width": 1000, "length": 1000 },
-      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "dimensions": {
+        "width": 1000,
+        "length": 1000
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 0,
+        "y": 0
+      },
       "properties": {
         "kind": "wilderness",
         "visibility": "hidden_logic",
@@ -26,10 +33,17 @@
     {
       "id": "REG-VP-NAM-HAI",
       "name": "Nam Hải bình",
-      "dimensions": { "width": 460, "length": 76 },
-      "anchor": { "type": "absolute", "x": 270, "y": 30 },
+      "dimensions": {
+        "width": 460,
+        "length": 76
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 270,
+        "y": 30
+      },
       "properties": {
-        "name_hv": "南海坪",
+        "name_hv": "Nam Hải bình",
         "kind": "wilderness",
         "than_khi_tier": "rất_dồi",
         "visibility": "public",
@@ -39,10 +53,18 @@
     {
       "id": "REG-VP-PHAP-DIEN",
       "name": "Pháp Điện thành",
-      "dimensions": { "width": 320, "length": 156 },
-      "anchor": { "type": "relative", "ref_id": "REG-VP-NAM-HAI", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 320,
+        "length": 156
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-VP-NAM-HAI",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "法殿城",
+        "name_hv": "Pháp Điện thành",
         "kind": "polity",
         "than_khi_tier": "mach_chủ",
         "visibility": "public",
@@ -52,10 +74,18 @@
     {
       "id": "REG-VP-VAN-KY",
       "name": "Vạn Ký các",
-      "dimensions": { "width": 300, "length": 128 },
-      "anchor": { "type": "relative", "ref_id": "REG-VP-PHAP-DIEN", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 300,
+        "length": 128
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-VP-PHAP-DIEN",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "万记阁",
+        "name_hv": "Vạn Ký các",
         "kind": "polity",
         "than_khi_tier": "rất_dồi",
         "visibility": "public",
@@ -65,10 +95,18 @@
     {
       "id": "REG-VP-TRUNG-LUAT",
       "name": "Trung Luật đài",
-      "dimensions": { "width": 280, "length": 112 },
-      "anchor": { "type": "relative", "ref_id": "REG-VP-PHAP-DIEN", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 280,
+        "length": 112
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-VP-PHAP-DIEN",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "中律台",
+        "name_hv": "Trung Luật đài",
         "kind": "polity",
         "than_khi_tier": "rất_dồi",
         "visibility": "public",
@@ -78,10 +116,18 @@
     {
       "id": "REG-VP-BAC-VAN",
       "name": "Bắc Vạn uyên",
-      "dimensions": { "width": 320, "length": 100 },
-      "anchor": { "type": "relative", "ref_id": "REG-VP-VAN-KY", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 320,
+        "length": 100
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-VP-VAN-KY",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "北万苑",
+        "name_hv": "Bắc Vạn uyên",
         "kind": "wilderness",
         "than_khi_tier": "dồi",
         "visibility": "public",
@@ -91,10 +137,17 @@
     {
       "id": "REG-VP-TAY-LUAT",
       "name": "Tây Luật uyên",
-      "dimensions": { "width": 200, "length": 460 },
-      "anchor": { "type": "absolute", "x": 28, "y": 104 },
+      "dimensions": {
+        "width": 200,
+        "length": 460
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 28,
+        "y": 104
+      },
       "properties": {
-        "name_hv": "西律苑",
+        "name_hv": "Tây Luật uyên",
         "kind": "wilderness",
         "than_khi_tier": "dồi",
         "visibility": "public",
@@ -104,10 +157,17 @@
     {
       "id": "BRR-VP-PHAP-SON",
       "name": "Dãy Pháp Sơn",
-      "dimensions": { "width": 50, "length": 440 },
-      "anchor": { "type": "absolute", "x": 228, "y": 112 },
+      "dimensions": {
+        "width": 50,
+        "length": 440
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 228,
+        "y": 112
+      },
       "properties": {
-        "name_hv": "法山",
+        "name_hv": "Dãy Pháp Sơn",
         "kind": "barrier",
         "than_khi_tier": "mach_rải_cao",
         "visibility": "public",
@@ -117,10 +177,18 @@
     {
       "id": "REG-VP-TAY-HAI",
       "name": "Tây Hải cửa",
-      "dimensions": { "width": 180, "length": 280 },
-      "anchor": { "type": "relative", "ref_id": "BRR-VP-PHAP-SON", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 180,
+        "length": 280
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "BRR-VP-PHAP-SON",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "西海关",
+        "name_hv": "Tây Hải cửa",
         "kind": "wilderness",
         "than_khi_tier": "dồi",
         "visibility": "public",
@@ -130,10 +198,18 @@
     {
       "id": "REG-VP-DONG-HAI",
       "name": "Đông Hải bình",
-      "dimensions": { "width": 200, "length": 320 },
-      "anchor": { "type": "relative", "ref_id": "REG-VP-TRUNG-LUAT", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 200,
+        "length": 320
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-VP-TRUNG-LUAT",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "东海坪",
+        "name_hv": "Đông Hải bình",
         "kind": "wilderness",
         "than_khi_tier": "rất_dồi",
         "visibility": "public",
@@ -143,10 +219,18 @@
     {
       "id": "REG-VP-NAM-PHAP",
       "name": "Nam Pháp đảo",
-      "dimensions": { "width": 140, "length": 64 },
-      "anchor": { "type": "relative", "ref_id": "REG-VP-NAM-HAI", "edge": "right", "align": "start" },
+      "dimensions": {
+        "width": 140,
+        "length": 64
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-VP-NAM-HAI",
+        "edge": "right",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "南法岛",
+        "name_hv": "Nam Pháp đảo",
         "kind": "resource",
         "than_khi_tier": "mach_rải",
         "visibility": "public",
@@ -159,9 +243,12 @@
       "id": "LOC-VP-PHAP-DIEN",
       "name": "Pháp Điện · luật thần",
       "type": "point",
-      "coordinates": { "x": 430, "y": 370 },
+      "coordinates": {
+        "x": 430,
+        "y": 370
+      },
       "properties": {
-        "name_hv": "法殿",
+        "name_hv": "Pháp Điện",
         "kind": "hub",
         "visibility": "public",
         "than_khi_tier": "mach_chủ"
@@ -172,19 +259,37 @@
       "name": "Vạn Hà",
       "type": "river",
       "properties": {
-        "name_hv": "万河",
+        "name_hv": "Vạn Hà",
         "kind": "route",
         "from_id": "REG-VP-VAN-KY",
         "to_id": "REG-VP-NAM-HAI",
         "hazard": "khế_vạn_tự"
       },
       "control_points": [
-        { "x": 400, "y": 500 },
-        { "x": 430, "y": 420 },
-        { "x": 410, "y": 340 },
-        { "x": 440, "y": 260 },
-        { "x": 420, "y": 180 },
-        { "x": 390, "y": 110 }
+        {
+          "x": 400,
+          "y": 500
+        },
+        {
+          "x": 430,
+          "y": 420
+        },
+        {
+          "x": 410,
+          "y": 340
+        },
+        {
+          "x": 440,
+          "y": 260
+        },
+        {
+          "x": 420,
+          "y": 180
+        },
+        {
+          "x": 390,
+          "y": 110
+        }
       ],
       "roughness": "medium"
     }

@@ -6,7 +6,7 @@
       "properties": {
         "id": "CHL-TRUNG-LINH",
         "name_vi": "Trung Linh đại lục",
-        "name_hv": "中灵大陆",
+        "name_hv": "Trung Linh đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -542,7 +542,7 @@
         "id": "REG-TL-NAM-VAN",
         "name_vi": "Nam Vân · cửa mây nam",
         "kind": "wilderness",
-        "name_hv": "南云",
+        "name_hv": "Nam Vân",
         "linh_khi_tier": "dày",
         "visibility": "public",
         "notes": "Thương lộ Vân Hải — linh khí ổn định ven biển mây"
@@ -801,7 +801,7 @@
         "id": "REG-TL-LINH-HA",
         "name_vi": "Linh Hà bình",
         "kind": "wilderness",
-        "name_hv": "灵河平",
+        "name_hv": "Linh Hà bình",
         "linh_khi_tier": "rất_dày",
         "visibility": "public",
         "notes": "Linh mạch công cộng — nhánh nuôi thành; thuế mạch 25–30%"
@@ -1084,7 +1084,7 @@
         "id": "REG-TL-THIEN-QUAN",
         "name_vi": "Thiên Quan thành",
         "kind": "polity",
-        "name_hv": "天关城",
+        "name_hv": "Thiên Quan thành",
         "linh_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Trung ương tông — động phủ T1–T2 gia tộc; hub LOC-TL-THIEN-QUAN"
@@ -1367,7 +1367,7 @@
         "id": "REG-TL-TAM-TONG",
         "name_vi": "Tam Tông đài",
         "kind": "polity",
-        "name_hv": "三宗台",
+        "name_hv": "Tam Tông đài",
         "linh_khi_tier": "rất_dày",
         "visibility": "public",
         "notes": "Tam tông chia mạch — chính trị tu giới; tranh Động Thiên Phúc Địa"
@@ -1702,7 +1702,7 @@
         "id": "REG-TL-BAC-LINH",
         "name_vi": "Bắc Linh · đại vực bắc",
         "kind": "wilderness",
-        "name_hv": "北灵",
+        "name_hv": "Bắc Linh",
         "linh_khi_tier": "dày",
         "visibility": "public",
         "notes": "Biên Băng Phong — kiếp nạn ngoài trời nặng hơn khi vượt núi"
@@ -1837,7 +1837,7 @@
         "id": "REG-TL-TAY-MACH",
         "name_vi": "Tây Mạch · biên quan",
         "kind": "wilderness",
-        "name_hv": "西脉",
+        "name_hv": "Tây Mạch",
         "linh_khi_tier": "dày",
         "visibility": "public",
         "notes": "Ma khí vệt từ Hỏa Diễm — yêu thú hóa hình dày"
@@ -2040,7 +2040,7 @@
         "id": "BRR-TL-THIEN-LAM",
         "name_vi": "Dãy Thiên Lam",
         "kind": "barrier",
-        "name_hv": "天岚岭",
+        "name_hv": "Dãy Thiên Lam",
         "linh_khi_tier": "mach_rải_cao",
         "visibility": "public",
         "notes": "Barrier polygon — mạch rải; không lộn núi lên vùng khác"
@@ -2203,7 +2203,7 @@
         "id": "REG-TL-PHUC-DIA",
         "name_vi": "Phúc Địa cốc",
         "kind": "dungeon",
-        "name_hv": "福地谷",
+        "name_hv": "Phúc Địa cốc",
         "linh_khi_tier": "dong_phu_T2",
         "visibility": "mc_phase1",
         "notes": "Động phủ tranh chấp — T2–T3; tông chiếm mạch gốc"
@@ -2566,7 +2566,7 @@
         "id": "REG-TL-DONG-LAM",
         "name_vi": "Đông Lam · rừng linh đông",
         "kind": "wilderness",
-        "name_hv": "东林",
+        "name_hv": "Đông Lam",
         "linh_khi_tier": "rất_dày",
         "visibility": "public",
         "notes": "Long mạch vệt (mach_gốc_vệt) — đụng = Nhân quả phe"
@@ -2789,7 +2789,7 @@
         "id": "REG-TL-BAC-DONG",
         "name_vi": "Bắc Đông uyên",
         "kind": "wilderness",
-        "name_hv": "北东苑",
+        "name_hv": "Bắc Đông uyên",
         "linh_khi_tier": "dày",
         "visibility": "public"
       }
@@ -2955,7 +2955,7 @@
         "id": "REG-TL-DONG-HAI",
         "name_vi": "Đông Hải linh cảng",
         "kind": "polity",
-        "name_hv": "东海灵港",
+        "name_hv": "Đông Hải linh cảng",
         "linh_khi_tier": "rất_dày",
         "visibility": "public",
         "notes": "Phi thuyền Ngọc Lâm · Vân Hải — thuế linh thạch hạng thượng"
@@ -2973,7 +2973,7 @@
       "properties": {
         "id": "LOC-TL-THIEN-QUAN",
         "name_vi": "Thiên Quan · trung ương",
-        "name_hv": "天关",
+        "name_hv": "Thiên Quan",
         "kind": "hub",
         "visibility": "public",
         "linh_khi_tier": "mach_chủ"
@@ -3201,7 +3201,7 @@
       "properties": {
         "id": "RIVER-TL-LINH-HA",
         "name_vi": "Linh Hà",
-        "name_hv": "灵河",
+        "name_hv": "Linh Hà",
         "kind": "route",
         "from_id": "REG-TL-TAM-TONG",
         "to_id": "REG-TL-NAM-VAN",
@@ -3542,7 +3542,7 @@
       "properties": {
         "id": "RIVER-TL-DONG-LUU",
         "name_vi": "Đông Lưu linh thủy",
-        "name_hv": "东流",
+        "name_hv": "Đông Lưu linh thủy",
         "kind": "route",
         "from_id": "REG-TL-PHUC-DIA",
         "to_id": "REG-TL-DONG-HAI"

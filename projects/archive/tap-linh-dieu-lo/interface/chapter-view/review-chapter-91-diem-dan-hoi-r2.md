@@ -19,4 +19,4 @@
 | M-01 | |
 | M-02 | |
 
-*(Nối ch.90 · hook ch.92: một→tám điểm · Ất Vô · **断** · tin **Mộ Dục Thanh** Thứ Năm · manh điểm ảo/thuê nộp — khớp `gian-lan-diem`; không mục critical timeline/canon.)*
+*(Nối ch.90 · hook ch.92: một→tám điểm · Ất Vô · **Đoạn** · tin **Mộ Dục Thanh** Thứ Năm · manh điểm ảo/thuê nộp — khớp `gian-lan-diem`; không mục critical timeline/canon.)*

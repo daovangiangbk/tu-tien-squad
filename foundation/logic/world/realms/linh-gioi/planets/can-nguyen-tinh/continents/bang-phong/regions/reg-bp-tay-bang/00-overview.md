@@ -13,8 +13,7 @@ canon_source:
 child_index: []
 ---
 
-# Tây Băng · 西冰
-
+# Tây Băng · TâyBăng
 **parent:** [`CHL-BANG-PHONG`](../../00-overview.md) · **GeoJSON:** [`chl-bang-phong.geojson`](../../../../geo/chau-luc/chl-bang-phong.geojson)
 
 ## Hợp đồng kế thừa

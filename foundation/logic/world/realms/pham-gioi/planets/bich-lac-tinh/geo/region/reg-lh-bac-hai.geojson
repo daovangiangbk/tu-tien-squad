@@ -56,7 +56,7 @@
       "properties": {
         "id": "LOC-LH-BAC-HAI-LUU",
         "name_vi": "Bắc Hải · hành lang bắc",
-        "name_hv": "北海",
+        "name_hv": "Bắc Hải",
         "kind": "hub",
         "visibility": "public"
       },
@@ -73,7 +73,7 @@
       "properties": {
         "id": "LOC-LH-BAC-HAI-TRAM",
         "name_vi": "Trạm biên · nam",
-        "name_hv": "驿站",
+        "name_hv": "Trạm biên",
         "kind": "settlement",
         "visibility": "public"
       },
@@ -90,7 +90,7 @@
       "properties": {
         "id": "LOC-LH-BAC-HAI-CANH",
         "name_vi": "Tháp canh · đông",
-        "name_hv": "望塔",
+        "name_hv": "Tháp canh",
         "kind": "settlement",
         "visibility": "public"
       },
@@ -107,7 +107,7 @@
       "properties": {
         "id": "BRR-LH-BAC-HAI-RIM",
         "name_vi": "Vành địa · rìa",
-        "name_hv": "缘障",
+        "name_hv": "Vành địa",
         "kind": "barrier",
         "visibility": "public"
       },
@@ -144,7 +144,7 @@
       "properties": {
         "id": "LOC-LH-CANG-TIEN",
         "name_vi": "Cảng Tiên Sa",
-        "name_hv": "仙沙港",
+        "name_hv": "Cảng Tiên Sa",
         "kind": "hub",
         "visibility": "public",
         "notes": "Shared id; parent chl (290.0, 220.0)."
@@ -162,7 +162,7 @@
       "properties": {
         "id": "LOC-LH-THUONG-HOI",
         "name_vi": "Thương hội · trạm",
-        "name_hv": "商会",
+        "name_hv": "Thương hội",
         "kind": "hub",
         "visibility": "public",
         "notes": "Shared id; parent chl (520.0, 380.0)."
@@ -180,7 +180,7 @@
       "properties": {
         "id": "LOC-LH-XICH-HA-RIM",
         "name_vi": "Rìa Xích Hạ · hải bắc",
-        "name_hv": "赤夏缘",
+        "name_hv": "Rìa Xích Hạ",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Bắc",
@@ -199,7 +199,7 @@
       "properties": {
         "id": "ROUTE-LH-BAC-XICH",
         "name_vi": "Hành lang hải · Xích Hạ",
-        "name_hv": "赤夏海道",
+        "name_hv": "Hành lang hải",
         "kind": "route",
         "visibility": "mc_phase1",
         "from_id": "LOC-LH-BAC-HAI-LUU",

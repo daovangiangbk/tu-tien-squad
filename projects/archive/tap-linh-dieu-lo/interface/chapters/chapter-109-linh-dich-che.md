@@ -9,7 +9,7 @@
 
 Canh Tuất — sân phụ đã thắp góc trận trước khi tre gõ ca — Tô Diêu giữ nhiệt khay bằng linh khí loãng và thần mỏi, vì khói tro chiều còn bám cổ và uống giữa khói là làm phương lệch trên lưỡi, lệch trên lưỡi là lộ trên khay tuần sau, lộ là Hàn trừ, trừ là canh mất trước khi hắn kịp nuốt đủ leo. Nắp lọ phương phụ vẫn đậy trong túi áo — đậy là một canh treo từ trưa Bách Hóa — canh này trả bằng thân ngày tám nếu sổ đúng — trả bằng mắt trên khay — trả bằng lệch **không** biến mất.
 
-Manh trận trên sàn phụ sáng mờ — không ép mạch — chỉ giữ nhiệt khay như tay giữ bát nước sắp sôi — sôi là lò — lò là **断** — **断** là hai mươi chín điểm nếu *Ất Vô* không trừ đêm nay. Khói lò chính qua khe vách — thẳng một đoạn — gãy — gãy là gió sổ — gió không đọc điểm — điểm nằm trong ngực lệch và trong tre công khai im, không ghi canh tâm ma, nặng nằm trong ngực như một đoạn gấp đỉnh Hậu còn lại sau bốn ngày tro và ba đêm không hạt.
+Manh trận trên sàn phụ sáng mờ — không ép mạch — chỉ giữ nhiệt khay như tay giữ bát nước sắp sôi — sôi là lò — lò là **Đoạn** — **Đoạn** là hai mươi chín điểm nếu *Ất Vô* không trừ đêm nay. Khói lò chính qua khe vách — thẳng một đoạn — gãy — gãy là gió sổ — gió không đọc điểm — điểm nằm trong ngực lệch và trong tre công khai im, không ghi canh tâm ma, nặng nằm trong ngực như một đoạn gấp đỉnh Hậu còn lại sau bốn ngày tro và ba đêm không hạt.
 
 Mộ Dục Thanh đếm góc — **không** vào trận — vào là điểm ảo kiểu cứu — cứu **không** bảo hành liều:
 
@@ -21,7 +21,7 @@ Mộ Dục Thanh đếm góc — **không** vào trận — vào là điểm ả
 
 Hắn gật — gật trong nhịp trận — thần run trong khay — run ngoài sàn — đủ — Mộ đi — tro phường trả bằng canh — trận trả bằng mỏi — mỏi vẫn giữ nhiệt đến khi khay ổn một tích không rơi.
 
-Canh Tuất giữa — Tổ phụ lò chính gõ nắp một cái — tiếng như võng — hắn **không** nhìn qua khe — nhìn là thần phân — phân là nhiệt rơi — rơi là tro ngày tám mất canh — manh trận thu một ly — nới một ly — như thở của lò phụ — lò phụ **không** biết Viên Mãn — lò phụ chỉ biết khay và khói và người quét **không** ngất. Một tán tu trẻ đi ngang cổng phụ — nhìn tay nứt hắn — **không** hỏi — hỏi là điểm ảo — lẩm bẩm *chậm vẫn bẩn tay* — giọng giống đan sư già sáng ngày bảy — **không** ai đặt tên — hắn nghe — nghe **không** hết — nghe hết là hao thần — chỉ biết cột *chậm* vẫn là tro và Mộ và **断**.
+Canh Tuất giữa — Tổ phụ lò chính gõ nắp một cái — tiếng như võng — hắn **không** nhìn qua khe — nhìn là thần phân — phân là nhiệt rơi — rơi là tro ngày tám mất canh — manh trận thu một ly — nới một ly — như thở của lò phụ — lò phụ **không** biết Viên Mãn — lò phụ chỉ biết khay và khói và người quét **không** ngất. Một tán tu trẻ đi ngang cổng phụ — nhìn tay nứt hắn — **không** hỏi — hỏi là điểm ảo — lẩm bẩm *chậm vẫn bẩn tay* — giọng giống đan sư già sáng ngày bảy — **không** ai đặt tên — hắn nghe — nghe **không** hết — nghe hết là hao thần — chỉ biết cột *chậm* vẫn là tro và Mộ và **Đoạn**.
 
 Canh Hợi — tre gõ hết ca — khói tro phụ tan mỏng — hắn ngồi góc trận — lấy lọ — bình sứ mỏng — tro bám mu — **không** **Định Linh Tán** — tự mua bằng điểm và mỏi và ca không hạt — Mộ từng nói: phương phụ một tầng — lệch vẫn lệch — che **không** sạch — đừng tưởng che là gom. Hắn tuột nắp — mùi đắng pha tro phường — **không** thơm danh — **không** bia hội — uống một ngụm — nóng — rồi lạnh — lạnh chạy dọc huyệt Hỏa Kim Mộc như nước đổ vào khe nứt **không** vá bằng gỗ — chỉ phủ sương mỏng.
 
@@ -31,7 +31,7 @@ Thân **không** run trên sàn — run trong khay — run trong xương — run
 
 Mộ quay lại — nhìn mắt vàng — nhìn tay nứt — **không** khen — ghi trong sổ phụ một dòng thấp:
 
-— *Uống sau trận · ổn một tầng · gốc lệch · **断** không hút · không bảo hành liều.*
+— *Uống sau trận · ổn một tầng · gốc lệch · **Đoạn** không hút · không bảo hành liều.*
 
 — Mai ca lò — **không** nghỉ — nghỉ — điểm đông — **không** an ủi — an ủi **không** xóa lệch.
 
@@ -51,7 +51,7 @@ Canh Sửu — tiếng gõ tre xa — sáng mai đến trước giấc — hắn
 
 Hắn quét — run giữ trong khay — chiều sẽ phù nếu khói gãy — chiều sẽ trận nếu lò lệch — ban ngày chỉ tro và thân — đan phù trận cùng một thân trả — **không** leo miễn phí — hao chồng hao — một thân — ba nghề — một sổ.
 
-Canh Dần — nước rửa mặt đục — tro một hạt xám trên cổ tay — rơi chậu — cùng tro phường — khác giá: hôm qua trả bằng liều che — hôm nay trả bằng ca tro và mắt. Khế thành im — **断** mờ trên áo — **không** vì nghĩ Ma — vì nghĩ Hàn soi khay — soi là điểm — điểm leo vẫn chậm — chậm vẫn máu. Mộ đếm góc — **không** nói thêm — chỉ chỉ lọ rỗng trong túi hắn bằng mắt — **không** cấm — **không** khuyên — khuyên là bảo hành — hội **không** bảo hành gốc lệch.
+Canh Dần — nước rửa mặt đục — tro một hạt xám trên cổ tay — rơi chậu — cùng tro phường — khác giá: hôm qua trả bằng liều che — hôm nay trả bằng ca tro và mắt. Khế thành im — **Đoạn** mờ trên áo — **không** vì nghĩ Ma — vì nghĩ Hàn soi khay — soi là điểm — điểm leo vẫn chậm — chậm vẫn máu. Mộ đếm góc — **không** nói thêm — chỉ chỉ lọ rỗng trong túi hắn bằng mắt — **không** cấm — **không** khuyên — khuyên là bảo hành — hội **không** bảo hành gốc lệch.
 
 Canh Thìn — phù một tờ dán lại nếp khói lò phụ — hao thần vào đầu ngón — đan ban ngày là tro — phù ban ngày là khói — trận ban ngày là nhiệt — cùng một thân — mu bàn tay ù — vết ù **không** lành — quản lý. Dao gỗ trong trí cắt ảo chậm hơn hôm qua nửa tích — che một tầng **không** mua lại thần đã mất — chỉ mua ù mỏng — ù mỏng **không** đủ che tâm dày — tâm dày vẫn nằm trong ngực như lớp tro thứ hai dưới lớp sương.
 
@@ -59,7 +59,7 @@ Trưa mỏng — **Hàn Tử Ngư** xuống bảng phương — lần thứ ba t
 
 — Tuần sau — soi khay — lò — tro — liều che — **không** ghi sạch — ghi *ổn một tầng* — Thuận giả — ta đọc — đọc sai — trừ — lậu trong hội — trừ thêm — tro đúng mã — giữ — **không** Sát — vì đại cục.
 
-Một câu — rồi đi — lạnh như đếm phương sâu. Hắn **không** đáp — đáp là điểm — trong ngực, ngọc lệch ù một tích — ù báo che **có thể** không đủ một tuần — **không** gom gốc — chỉ còn tro — tro và **断** và leo chậm — leo vẫn là cách sống trong sổ — **không** cách sống hết.
+Một câu — rồi đi — lạnh như đếm phương sâu. Hắn **không** đáp — đáp là điểm — trong ngực, ngọc lệch ù một tích — ù báo che **có thể** không đủ một tuần — **không** gom gốc — chỉ còn tro — tro và **Đoạn** và leo chậm — leo vẫn là cách sống trong sổ — **không** cách sống hết.
 
 Canh Ngọ — ca lọc sa nhẹ — **không** hút — khói tro đặc hơn quét — mắt trả — cổ họng trả — phù treo chiều nếu gãy — trận treo chiều nếu lệch nhiệt — ban trưa chỉ giữ che — giữ **không** run ra cửa chính. Một tán tu trẻ ngất nhiệt — **không** chết — đưa ra cổng — trừ điểm — **không** bia — hắn nhìn — **không** nhận ca dư — nhận là điểm ảo — cùng thành **Thạch Lam** — khác cột.
 
@@ -79,18 +79,18 @@ Canh Mùi — ca tro chiều — tro ngày tám đặc như tro ngày bảy — 
 
 Canh Dậu — hắn đi một vòng thành — **không** tu — tu thêm lệch — thành thở — thành **không** ngủ sâu — ai cũng đếm sổ — ai cũng đếm canh — ai có hạt — ai có khế — ai chỉ có thân như hắn. Trong trí, quả cứu phế gom tro — quả Ma từ chối — quả hội canh — quả gian nghe — quả liều che — **không** ghép thành bài — **không** giải Thiên Đạo — chỉ **tích** — tích nặng hơn tro một ngày — nặng hơn ù một tầng — nặng đủ để bước tiếp — **không** đủ nhẹ để quên vết ù — **không** đủ sạch để mua hết miệng trả.
 
-Hắn ngang sân lò — ngang **Bách Hóa** — **không** vào — nợ im — hoãn còn — **断** trên sổ mạch — hai mươi chín điểm nếu đêm **không** trừ — **không** đủ mua hết cách sống — đủ mua thêm canh — Trúc Cơ đỉnh Hậu **mầm** — Viên Mãn **hướng** — Kim Đan **xa** — Linh Dịch che — gốc lệch — **không** sạch — chỉ còn leo chậm và lò **không** dừng.
+Hắn ngang sân lò — ngang **Bách Hóa** — **không** vào — nợ im — hoãn còn — **Đoạn** trên sổ mạch — hai mươi chín điểm nếu đêm **không** trừ — **không** đủ mua hết cách sống — đủ mua thêm canh — Trúc Cơ đỉnh Hậu **mầm** — Viên Mãn **hướng** — Kim Đan **xa** — Linh Dịch che — gốc lệch — **không** sạch — chỉ còn leo chậm và lò **không** dừng.
 
-Canh Tuất — phòng thuê — **không** thắp đèn — ngồi mạn — **không** úp tay — câu hỏi **không** phải *thắng gốc lệch* — mà *trả tiếp bằng gì* — khi quả đã tích trên thành như tro trên tay — khi thân đủ mạnh để bị vướng sổ — **chưa** đủ để mua hết miệng trả. Gió ngõ — vọng xa cổng tây — im — mai là đi bộ nghe thành nói — mai là bia — mai là đếm — **không** giải — chỉ bước — **không** lành vết — **không** dừng thở — lò đã gõ canh mới — hắn biết mình sẽ xuống sân trước tre — như mọi ngày tro — như mọi ngày **断** — như mọi ngày nhân quả **nặng** hơn hơi thở một chút.
+Canh Tuất — phòng thuê — **không** thắp đèn — ngồi mạn — **không** úp tay — câu hỏi **không** phải *thắng gốc lệch* — mà *trả tiếp bằng gì* — khi quả đã tích trên thành như tro trên tay — khi thân đủ mạnh để bị vướng sổ — **chưa** đủ để mua hết miệng trả. Gió ngõ — vọng xa cổng tây — im — mai là đi bộ nghe thành nói — mai là bia — mai là đếm — **không** giải — chỉ bước — **không** lành vết — **không** dừng thở — lò đã gõ canh mới — hắn biết mình sẽ xuống sân trước tre — như mọi ngày tro — như mọi ngày **Đoạn** — như mọi ngày nhân quả **nặng** hơn hơi thở một chút.
 
 ---
 
 ## Ghi chú sáng tác
 
-- **Handoff ch.108:** Canh Tuất ca trận · uống sau trận · nắp lọ mở Canh Hợi · ~29 điểm · Hàn soi tuần sau · tâm ma dày · Linh Dịch che một tầng · gốc lệch · đỉnh Hậu mầm chưa VM/KĐ · khế **断** · hub Thạch Lam · không lành vết.
+- **Handoff ch.108:** Canh Tuất ca trận · uống sau trận · nắp lọ mở Canh Hợi · ~29 điểm · Hàn soi tuần sau · tâm ma dày · Linh Dịch che một tầng · gốc lệch · đỉnh Hậu mầm chưa VM/KĐ · khế **Đoạn** · hub Thạch Lam · không lành vết.
 - **Beat 8 khép:** Liều phương phụ che một tầng (FS-007 nurture · không fix hết); trade-off tro/phù/trận/liều một thân (FS-012 payoff một tầng show); tâm mầm + vết ù quản lý (FS-014 echo · không heal).
 - **Hook ch.110 `nhan-qua-tich`:** Quả tích trên thành · thành thở đếm · bia/vòng nhân quả setup Beat 9 — không giải Thiên Đạo trong ch.109.
 - **Cấm giữ:** không NC đan sư; không solo Kim Đan; không Viên Mãn/KĐ breakthrough; không Cửu Huyền payoff đầy; không tiếng Anh/meta trong thân.
-- **Canon check:** Pass — Thạch Lam Luyện Đan Hội · Mộ Dục Thanh · Hàn Tử Ngư · Định Linh Tán (bia hết) · **Thiên Sa** treo · **断** khế.
+- **Canon check:** Pass — Thạch Lam Luyện Đan Hội · Mộ Dục Thanh · Hàn Tử Ngư · Định Linh Tán (bia hết) · **Thiên Sa** treo · **Đoạn** khế.
 - **Tên cần chốt:** không.
 - **Số chữ thân (ước):** ~2.527 từ (prose liên tục; trừ metadata & phụ lục; đếm token theo khoảng trắng như ch.107–108).

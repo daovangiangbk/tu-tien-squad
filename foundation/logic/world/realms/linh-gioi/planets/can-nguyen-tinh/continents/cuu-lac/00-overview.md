@@ -21,8 +21,7 @@ child_index:
   - path: economy/00-overview.md
 ---
 
-# Cửu Lạc · 九洛大陆
-
+# Cửu Lạc · CửuLạcĐạiLục
 **parent:** [`../../00-overview.md`](../../00-overview.md) · **GeoJSON:** [`chl-cuu-lac.geojson`](../../geo/chau-luc/chl-cuu-lac.geojson) · **Hub:** `LOC-CL-CUU-KHAU` · **Catalog REG:** [`../../../../01-region-catalog.md`](../../../../01-region-catalog.md) § CHL-CUU-LAC
 
 Cửu Lạc nằm **đông nam biển** cụm Càn Nguyên — **Cửu sông hội** (`RIVER-CL-CUU-LAC`, `RIVER-CL-LAC-CHI`), đảo và trì linh; **không** mặc định “mạnh nhất” lục nhưng gắn truyền thuyết **Cửu Cửu**, **Tản Tiên** và **cửa ngữ** Phàm–Linh. **Phàm đa số** ở thành phụ ven sông; tu **quy mô nhỏ hơn Trung Linh**, tập trung canh **Cửu Khẩu**, trì và di tích.

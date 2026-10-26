@@ -23,7 +23,7 @@
       "properties": {
         "id": "CHL-HUYEN-BANG",
         "name_vi": "Huyền Bang đại lục",
-        "name_hv": "玄冰大陆",
+        "name_hv": "Huyền Bang đại lục",
         "kind": "continent",
         "visibility": "public",
         "notes": "Silhouette CHL-HUYEN-BANG từ 00-tinh-ha; parent SW [-247.0, 140.0]; k≈9.32; hub LOC-HB-BANG-TINH."
@@ -560,7 +560,7 @@
         "id": "REG-HB-NAM-HUYEN",
         "name_vi": "Nam Huyền · biên nam",
         "kind": "wilderness",
-        "name_hv": "南玄",
+        "name_hv": "Nam Huyền",
         "tien_khi_tier": "dồi_vệt",
         "visibility": "public",
         "notes": "Hướng Kim Hoa REG-KH-BAC-HAN — gió băng nam"
@@ -947,7 +947,7 @@
         "id": "REG-HB-BANG-TINH",
         "name_vi": "Băng Tinh quan",
         "kind": "polity",
-        "name_hv": "冰星关",
+        "name_hv": "Băng Tinh quan",
         "tien_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Thành cực bắc lục · hub LOC-HB-BANG-TINH"
@@ -1122,7 +1122,7 @@
         "id": "REG-HB-HUYEN-COC",
         "name_vi": "Huyền Cốc",
         "kind": "dungeon",
-        "name_hv": "玄谷",
+        "name_hv": "Huyền Cốc",
         "tien_khi_tier": "mach_T2",
         "visibility": "public",
         "notes": "Tu Băng–Huyền — cấm địa tiên kiếp ngoài trời"
@@ -1373,7 +1373,7 @@
         "id": "REG-HB-LINH-BANG",
         "name_vi": "Linh Băng hồ",
         "kind": "resource",
-        "name_hv": "灵冰湖",
+        "name_hv": "Linh Băng hồ",
         "tien_khi_tier": "rất_dồi",
         "visibility": "mc_phase1",
         "notes": "Hồ băng linh — Tiên Nguyên đóng băng"
@@ -1488,7 +1488,7 @@
         "id": "REG-HB-TAY-BANG",
         "name_vi": "Tây Băng · rìa tây",
         "kind": "wilderness",
-        "name_hv": "西冰",
+        "name_hv": "Tây Băng",
         "tien_khi_tier": "mach_rải",
         "visibility": "public",
         "notes": "Biên Ngự Long REG-NL-TAY-UYEN (lore)"
@@ -1683,7 +1683,7 @@
         "id": "BRR-HB-VAN-BANG",
         "name_vi": "Dãy Vân Băng",
         "kind": "barrier",
-        "name_hv": "云冰岭",
+        "name_hv": "Dãy Vân Băng",
         "tien_khi_tier": "mach_rải_cao",
         "visibility": "public",
         "notes": "Băng–Huyền barrier — Thiên kiếp ngoài trời nặng"
@@ -2018,7 +2018,7 @@
         "id": "REG-HB-DONG-UYEN",
         "name_vi": "Đông Uyên",
         "kind": "wilderness",
-        "name_hv": "东苑",
+        "name_hv": "Đông Uyên",
         "tien_khi_tier": "dồi",
         "visibility": "public"
       }
@@ -2292,7 +2292,7 @@
         "id": "REG-HB-TRUNG-HAN",
         "name_vi": "Trung Hàn · đồng bằng",
         "kind": "wilderness",
-        "name_hv": "中寒",
+        "name_hv": "Trung Hàn",
         "tien_khi_tier": "dồi",
         "visibility": "public"
       }
@@ -2474,7 +2474,7 @@
         "id": "REG-HB-BAC-VONG",
         "name_vi": "Bắc Vong · uyên bắc",
         "kind": "wilderness",
-        "name_hv": "北妄",
+        "name_hv": "Bắc Vong",
         "tien_khi_tier": "mach_rải",
         "visibility": "public",
         "notes": "Hoang băng — tiên thú huyền thú"
@@ -2641,7 +2641,7 @@
         "id": "REG-HB-CUC-BAC",
         "name_vi": "Cực Bắc đài",
         "kind": "dungeon",
-        "name_hv": "极北台",
+        "name_hv": "Cực Bắc đài",
         "tien_khi_tier": "than_manh",
         "visibility": "hidden_logic",
         "expansion_slot": "E-TIEN-THAN-GATE",
@@ -2660,7 +2660,7 @@
       "properties": {
         "id": "LOC-HB-BANG-TINH",
         "name_vi": "Băng Tinh · quan thành",
-        "name_hv": "冰星",
+        "name_hv": "Băng Tinh",
         "kind": "hub",
         "visibility": "public",
         "tien_khi_tier": "mach_chủ"
@@ -3000,7 +3000,7 @@
       "properties": {
         "id": "RIVER-HB-BANG-HE",
         "name_vi": "Băng Hà",
-        "name_hv": "冰河",
+        "name_hv": "Băng Hà",
         "kind": "route",
         "from_id": "REG-HB-CUC-BAC",
         "to_id": "REG-HB-NAM-HUYEN"
@@ -3080,7 +3080,7 @@
       "properties": {
         "id": "ROUTE-HB-TAY-NGU-LONG",
         "name_vi": "Băng phong tây",
-        "name_hv": "西冰路",
+        "name_hv": "Băng phong tây",
         "kind": "route",
         "from_id": "REG-HB-TAY-BANG",
         "to_id": "REG-NL-TAY-UYEN",

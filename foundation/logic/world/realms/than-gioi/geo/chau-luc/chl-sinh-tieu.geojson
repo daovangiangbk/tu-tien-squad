@@ -23,7 +23,7 @@
       "properties": {
         "id": "CHL-SINH-TIEU",
         "name_vi": "Sinh Tiêu đại lục",
-        "name_hv": "生灭大陆",
+        "name_hv": "Sinh Tiêu đại lục",
         "kind": "continent",
         "visibility": "public",
         "notes": "Silhouette CHL-SINH-TIEU từ 00-tinh-ha; parent SW [-105.0, -217.0]; hub LOC-ST-SINH-QUAN."
@@ -548,7 +548,7 @@
         "id": "REG-ST-NAM-HAI",
         "name_vi": "Nam Hải đảo",
         "kind": "wilderness",
-        "name_hv": "南海岛",
+        "name_hv": "Nam Hải đảo",
         "than_khi_tier": "rất_nặng",
         "visibility": "public",
         "notes": "Đảo hư thần khí — thuyền Độ Du mùa nam"
@@ -883,7 +883,7 @@
         "id": "REG-ST-SINH-QUAN",
         "name_vi": "Sinh Quan",
         "kind": "polity",
-        "name_hv": "生关",
+        "name_hv": "Sinh Quan",
         "than_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Sinh–diệt thần lệ · hub LOC-ST-SINH-QUAN"
@@ -1094,7 +1094,7 @@
         "id": "REG-ST-TIEU-DIA",
         "name_vi": "Tiêu Địa",
         "kind": "dungeon",
-        "name_hv": "消地",
+        "name_hv": "Tiêu Địa",
         "than_khi_tier": "mach_T2_T3",
         "visibility": "mc_phase1",
         "notes": "Mạch suy / tái sinh — Phục Mệnh nhập (lore)"
@@ -1273,7 +1273,7 @@
         "id": "REG-ST-TRUNG-DIET",
         "name_vi": "Trung Diệt đài",
         "kind": "polity",
-        "name_hv": "中灭台",
+        "name_hv": "Trung Diệt đài",
         "than_khi_tier": "rất_nặng",
         "visibility": "public",
         "notes": "Thần lệ sinh–diệt công khai"
@@ -1484,7 +1484,7 @@
         "id": "REG-ST-BAC-SINH",
         "name_vi": "Bắc Sinh uyên",
         "kind": "wilderness",
-        "name_hv": "北生苑",
+        "name_hv": "Bắc Sinh uyên",
         "than_khi_tier": "nặng_ổn_định",
         "visibility": "public",
         "notes": "Biên REG-RT-NAM-VAN / REG-HV-NAM-VUC"
@@ -1627,7 +1627,7 @@
         "id": "REG-ST-TAY-TIEU",
         "name_vi": "Tây Tiêu quan",
         "kind": "wilderness",
-        "name_hv": "西消关",
+        "name_hv": "Tây Tiêu quan",
         "than_khi_tier": "nặng_ổn_định",
         "visibility": "public",
         "notes": "E-THAN-TIEN-VESTIGE — vệt tiên khí dưới lục"
@@ -1870,7 +1870,7 @@
         "id": "BRR-ST-SINH-SON",
         "name_vi": "Dãy Sinh Sơn",
         "kind": "barrier",
-        "name_hv": "生山",
+        "name_hv": "Dãy Sinh Sơn",
         "than_khi_tier": "mach_rải_cao",
         "visibility": "public",
         "notes": "Sinh–diệt mạch rải — tái sinh có giá Nhân quả"
@@ -2141,7 +2141,7 @@
         "id": "REG-ST-VONG-DIEN",
         "name_vi": "Vong Điện cốc",
         "kind": "dungeon",
-        "name_hv": "亡殿谷",
+        "name_hv": "Vong Điện cốc",
         "than_khi_tier": "mach_T2_T3",
         "visibility": "hidden_logic",
         "notes": "Diệt mệnh thần phủ — arc-scale"
@@ -2356,7 +2356,7 @@
         "id": "REG-ST-DONG-PHUC",
         "name_vi": "Đông Phục đài",
         "kind": "wilderness",
-        "name_hv": "东复台",
+        "name_hv": "Đông Phục đài",
         "than_khi_tier": "dao_động",
         "visibility": "public",
         "notes": "Mạch tới TH-THAN-PHUC-MENH (lore)"
@@ -2451,7 +2451,7 @@
         "id": "REG-ST-DONG-NAM",
         "name_vi": "Đông Nam uyên",
         "kind": "resource",
-        "name_hv": "南岛",
+        "name_hv": "Đông Nam uyên",
         "than_khi_tier": "mach_rải",
         "visibility": "public",
         "notes": "Thần thảo sinh–diệt hạ phẩm"
@@ -2469,7 +2469,7 @@
       "properties": {
         "id": "LOC-ST-SINH-QUAN",
         "name_vi": "Sinh Quan · thần lệ",
-        "name_hv": "生关",
+        "name_hv": "Sinh Quan",
         "kind": "hub",
         "visibility": "public",
         "than_khi_tier": "mach_chủ"
@@ -2585,7 +2585,7 @@
       "properties": {
         "id": "ROUTE-ST-BAC-TRUNG-THAN",
         "name_vi": "Sinh quan bắc",
-        "name_hv": "北生路",
+        "name_hv": "Sinh quan bắc",
         "kind": "route",
         "from_id": "REG-ST-BAC-SINH",
         "to_id": "REG-RT-NAM-VAN",
@@ -2930,7 +2930,7 @@
       "properties": {
         "id": "RIVER-ST-SINH-HE",
         "name_vi": "Sinh Hà",
-        "name_hv": "生河",
+        "name_hv": "Sinh Hà",
         "kind": "route",
         "from_id": "REG-ST-BAC-SINH",
         "to_id": "REG-ST-NAM-HAI"

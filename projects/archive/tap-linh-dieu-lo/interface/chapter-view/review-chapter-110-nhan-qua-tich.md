@@ -16,7 +16,7 @@
 
 ## Canon / continuity
 
-- **Nối ch.109:** Canh Tuất phòng thuê · *trả tiếp bằng gì* · ~**29** điểm (*Ất Vô*) · **Linh Dịch che một tầng** · gốc lệch · liều đêm qua · **断** · đỉnh Hậu mầm — **khớp** (mở ch.110 nhích lại Canh Tuất rồi Sửu→Tuất là chấp nhận được).
+- **Nối ch.109:** Canh Tuất phòng thuê · *trả tiếp bằng gì* · ~**29** điểm (*Ất Vô*) · **Linh Dịch che một tầng** · gốc lệch · liều đêm qua · **Đoạn** · đỉnh Hậu mầm — **khớp** (mở ch.110 nhích lại Canh Tuất rồi Sửu→Tuất là chấp nhận được).
 - **Nhịp ngày:** tro **ngày tám** (mở) → ca chiều / Mộ «tro **ngày chín**» → cliff đêm **Thiên Sa** — **khớp** ch.109 ngày tám.
 - **Cấm arc:** không NC đan sư · không solo Kim Đan · không VM/KĐ breakthrough · không heal vết (quản / *không lành vết ù* ở nhiều chỗ — **đạt**, trừ C-03 *heal/wound*) · **Định Linh Tán** không mua — **đạt**.
 - **Nhân vật / địa danh:** Thạch Lam Luyện Đan Hội · Mộ Dục Thanh · Hàn (không scene) · Thiên Sa Công Uyên · Bách Hóa hoãn — **registry ổn**.
@@ -27,7 +27,7 @@
 | --- | --- |
 | **Beat 9 mở** (`03-arc3-beats.md` · ch110 beat) | **Đạt:** thành thở một ngày (Sửu→Tuất) · quả **tích** (U Ngõ, phế, Ma, hội, gian nghe, liều che) **không** giải Thiên Đạo · bia không tên *vì đại cục* · MC rìa / quản chấp niệm. |
 | **FS-010** (primary) | **Đạt in-world:** vòng quả qua đi bộ, thoại rìa, bia trưa, nhớ chồng quả — không lecture Nhân-Quả. |
-| **FS-006 / FS-005 / FS-012 / FS-007 / FS-004 / FS-014** | **Đạt** qua bia, cột vé, ca chiều đa nghề, Linh Dịch ổn một tầng, **断**, tâm mầm không lành — **trừ** meta C-01 che FS trong thân. |
+| **FS-006 / FS-005 / FS-012 / FS-007 / FS-004 / FS-014** | **Đạt** qua bia, cột vé, ca chiều đa nghề, Linh Dịch ổn một tầng, **Đoạn**, tâm mầm không lành — **trừ** meta C-01 che FS trong thân. |
 | **Cliff ch.111 `thien-sa-dem`** | **Đạt:** Thiên Sa đêm · tin đèn mầm · vé/điểm/hai mươi chín · nghe trong bóng. |
 
 ## Số chữ

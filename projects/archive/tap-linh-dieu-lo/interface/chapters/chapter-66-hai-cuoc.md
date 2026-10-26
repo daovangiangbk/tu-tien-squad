@@ -239,5 +239,5 @@ Nhưng tin đã móc — và ca chiều chưa đến.
   - **FS-005:** Nuôi đầy — vé hạn, phong ấn vùng bán hết (chưa lộ ai giữ), đợt cuối đóng; midpoint treo hai trục mạch + bí cảnh.
   - **FS-015:** Nhánh bảy dịch mạnh hơn một nhịp; mảnh Cửu Huyền Trận ấm hai nhịp; mạch phụ liên — không giải Thượng cổ.
   - **FS-002:** Lệnh rút hậu phương + *vì đại cục*; Mạnh Hải bỏ suất (mầm Beat 5); MC đối chiếu wound, không tin.
-- **Tên cần chốt:** **Mạnh Hải** (孟海) — tán tu phụ; có thể promotion nếu tái xuất.
+- **Tên cần chốt:** **Mạnh Hải** — tán tu phụ; có thể promotion nếu tái xuất.
 - **Móc ch.67 (Beat 4):** Bảng **Sát Thủ Các** / **phí dọn tán tu** trên mạch; Tống Minh Vi một tầng — chưa lộ danh.

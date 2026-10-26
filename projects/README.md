@@ -26,7 +26,7 @@ Mỗi tiểu thuyết (tác phẩm) **active** là **một thư mục con** `pro
 
 | Slug | Tên hiển thị | Ghi chú |
 | --- | --- | --- |
-| `than-khi` | Thần Khí (神器) | Epic A1 — restore 2026-10-08 · thay brief restart *Hầm mỏ* |
+| `kho-hai-tien-lo` | Khổ Hải Tiên Lộ *(tạm)* | Pipeline A · Phase A1 (`T-brief` awaiting human confirm) · Core shared (`TH-LINH-CAN-NGUYEN`) |
 
 **Archived:** [`archive/README.md`](archive/README.md) (bảng + `git mv` / restore).
 

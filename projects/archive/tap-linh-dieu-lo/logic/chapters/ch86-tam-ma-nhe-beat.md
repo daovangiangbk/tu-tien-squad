@@ -7,7 +7,7 @@
 ## Mở
 
 - Nối **cliff ch.85:** **Tâm** **mầm** **dưới** **ù** **Linh** **Dịch** — **một** **nhịp** **không** **ma** **quỷ** **hóa** **hình**.
-- **Khung:** **Canh** **Dậu** **–** **Tý** **(đêm** **/ sáng** **sớm)** **trên** **断** **hoặc** **hành** **lang** **rút** — **Linh** **Dịch** **vẫn** **lệch**.
+- **Khung:** **Canh** **Dậu** **–** **Tý** **(đêm** **/ sáng** **sớm)** **trên** **Đoạn** **hoặc** **hành** **lang** **rút** — **Linh** **Dịch** **vẫn** **lệch**.
 
 ## Giữa
 

@@ -19,7 +19,7 @@
       "properties": {
         "id": "REG-TN-TRUNG-NGUYEN-AREA",
         "name_vi": "Phạm vi Trung Nguyên",
-        "name_hv": "中原域",
+        "name_hv": "Phạm vi Trung Nguyên",
         "kind": "polity",
         "visibility": "public",
         "linh_khi_tier": "cực_mỏng",
@@ -294,7 +294,7 @@
       "properties": {
         "id": "LOC-TN-HONG-LO",
         "name_vi": "Hồng Lạc · trung đình",
-        "name_hv": "弘洛",
+        "name_hv": "Hồng Lạc",
         "kind": "hub",
         "visibility": "public",
         "notes": "Hub vùng; hội thương tam quốc; không thuộc một quốc duy nhất."
@@ -312,7 +312,7 @@
       "properties": {
         "id": "LOC-TN-QUOC-TAY",
         "name_vi": "Đô thành Tây Lương",
-        "name_hv": "西凉都",
+        "name_hv": "Đô thành Tây Lương",
         "kind": "polity",
         "visibility": "public",
         "direction_label": "Tây",
@@ -332,7 +332,7 @@
       "properties": {
         "id": "LOC-TN-QUOC-DONG",
         "name_vi": "Đô thành Đông Ngô",
-        "name_hv": "东吴都",
+        "name_hv": "Đô thành Đông Ngô",
         "kind": "polity",
         "visibility": "public",
         "direction_label": "Đông",
@@ -352,7 +352,7 @@
       "properties": {
         "id": "LOC-TN-QUOC-BAC",
         "name_vi": "Đô thành Bắc Yên",
-        "name_hv": "北燕都",
+        "name_hv": "Đô thành Bắc Yên",
         "kind": "polity",
         "visibility": "public",
         "direction_label": "Bắc",
@@ -372,7 +372,7 @@
       "properties": {
         "id": "LOC-TN-TONG-THANH-VAN",
         "name_vi": "Thanh Vân Tông · sơn môn",
-        "name_hv": "青云宗",
+        "name_hv": "Thanh Vân Tông",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Nam tây",
@@ -392,7 +392,7 @@
       "properties": {
         "id": "LOC-TN-TONG-HUYEN-MON",
         "name_vi": "Huyền Môn Quán",
-        "name_hv": "玄门观",
+        "name_hv": "Huyền Môn Quán",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Đông bắc",
@@ -412,7 +412,7 @@
       "properties": {
         "id": "LOC-TN-CHIEN-TRUONG-CO",
         "name_vi": "Cổ chiến trường · Sa Di",
-        "name_hv": "沙地战场",
+        "name_hv": "Cổ chiến trường",
         "kind": "wilderness",
         "visibility": "public",
         "direction_label": "Nam",
@@ -431,7 +431,7 @@
       "properties": {
         "id": "LOC-TN-POCKET-GIAO",
         "name_vi": "Ẩn khẩu Tam Giáo Sơn",
-        "name_hv": "三教山",
+        "name_hv": "Ẩn khẩu Tam Giáo Sơn",
         "kind": "dungeon",
         "visibility": "hidden_logic",
         "direction_label": "Tây nam",
@@ -450,7 +450,7 @@
       "properties": {
         "id": "BRR-TN-NGUU-SON-FOOT",
         "name_vi": "Chân Ngưu Sơn · biên bắc",
-        "name_hv": "牛山",
+        "name_hv": "Chân Ngưu Sơn",
         "kind": "barrier",
         "visibility": "public",
         "notes": "Rào núi; BRR-TN-NGUU-SON trên chau_luc."
@@ -488,7 +488,7 @@
       "properties": {
         "id": "RIVER-TN-NGUYEN-THUY",
         "name_vi": "Nguyên Thủy",
-        "name_hv": "元水",
+        "name_hv": "Nguyên Thủy",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TN-HONG-LO",
@@ -539,7 +539,7 @@
       "properties": {
         "id": "ROUTE-TN-TAM-QUOC-LU",
         "name_vi": "Tam quốc đạo chính",
-        "name_hv": "三国大路",
+        "name_hv": "Tam quốc đạo chính",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TN-QUOC-TAY",
@@ -578,7 +578,7 @@
       "properties": {
         "id": "ROUTE-TN-DONG-HAI",
         "name_vi": "Đường xuống Đông Hải",
-        "name_hv": "东海道",
+        "name_hv": "Đường xuống Đông Hải",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TN-HONG-LO",
@@ -618,7 +618,7 @@
       "properties": {
         "id": "LOC-TN-DONG-HAI",
         "name_vi": "Đông Hải · cửa đông vùng",
-        "name_hv": "东海",
+        "name_hv": "Đông Hải",
         "kind": "hub",
         "visibility": "public",
         "direction_label": "Đông · mép region",
@@ -637,7 +637,7 @@
       "properties": {
         "id": "LOC-TN-GIAO-DIEM-TAM",
         "name_vi": "Giao điểm Tam quốc đạo",
-        "name_hv": "三国交",
+        "name_hv": "Giao điểm Tam quốc đạo",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Tây nam Hồng Lạc",

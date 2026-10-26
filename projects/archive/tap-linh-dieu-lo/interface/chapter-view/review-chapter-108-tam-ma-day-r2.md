@@ -14,7 +14,7 @@
 
 ## Campaign (r2)
 
-- Tiếng Anh / heal / NC đan sư trong thân: pass (chỉ **断** · «không lành» quản lý vết).
+- Tiếng Anh / heal / NC đan sư trong thân: pass (chỉ **Đoạn** · «không lành» quản lý vết).
 - Kim Đan / Viên Mãn: pass (xa · **chưa** chốt — đúng cấm).
 - Linh Dịch lệch + che, không sạch gốc: pass (FS-007 setup).
 - Cliff ch.109 `linh-dich-che`: pass (nắp đậy · liều treo · uống/sổ trừ sau — khớp mở ch.109).

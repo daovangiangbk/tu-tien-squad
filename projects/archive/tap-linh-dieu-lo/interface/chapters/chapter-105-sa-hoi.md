@@ -13,9 +13,9 @@ Hắn quay vào trong phường bằng cửa sau — tránh tre công khai treo 
 
 Trong ngực, mảnh Cửu Huyền im; ngọc lệch ù theo nhịp thở nông. Linh Dịch lệch ở gốc — phương hội che một tầng mỏng sau nửa lọ chiều — không sạch, không Thuận đủ để gọi là ổn trên sổ Hàn; chỉ đủ để khay leo không trừ gấp trước khay tháng. Vết tay nứt khô; vết ù trong ký ức cùng kiểu không lành. Hắn không sờ sâu — sờ là mời ảo ảnh *vì đại cục* không ai đặt tên đủ trên bia.
 
-Khế thành nặng một nhịp — chữ **断** trên tay áo mờ hơn vì tro mới, không mờ hơn vì nghĩ Ma. Ba hạt linh thạch trong túi ngoài im; biên lai *Ất Vô* gập trong ngực ghi hai mươi mốt điểm sau trừ leo — không mua cách sống hết, chỉ mua thêm canh che lệch trong phường. Ngoài cửa, một tiếng gõ tre — tin lậu hay tin phế — rồi lặng. Hắn không mở cửa hỏi; hỏi là thêm dòng ngoài hiệu số.
+Khế thành nặng một nhịp — chữ **Đoạn** trên tay áo mờ hơn vì tro mới, không mờ hơn vì nghĩ Ma. Ba hạt linh thạch trong túi ngoài im; biên lai *Ất Vô* gập trong ngực ghi hai mươi mốt điểm sau trừ leo — không mua cách sống hết, chỉ mua thêm canh che lệch trong phường. Ngoài cửa, một tiếng gõ tre — tin lậu hay tin phế — rồi lặng. Hắn không mở cửa hỏi; hỏi là thêm dòng ngoài hiệu số.
 
-Đêm mỏng — khói lò thẳng qua khe cửa sổ — hắn nghe tiếng xe manh lướt dưới sân trong, nghe Sát đan sự quát *rìa* ở góc Bách Hóa, nghe hai tán tu thì thầm *Định Linh Tán* trên bia đã bán hết. Cùng nhu cầu ù; khác miệng trả. Hắn nhắm mắt không tu thêm; tu thêm trên thân tạp căn là kéo ba hướng — Kim gắt, Mộc yếu sau **断**, Hỏa im — đa nghề trong túi không mở đêm: phù để gió khi sổ đòi, trận để manh phế không bám thần; mở sai chỗ hao thần gấp, hao thần ăn canh sau. Canh đã trả bằng tay nứt và bằng không chen khi tranh manh ở ruộng.
+Đêm mỏng — khói lò thẳng qua khe cửa sổ — hắn nghe tiếng xe manh lướt dưới sân trong, nghe Sát đan sự quát *rìa* ở góc Bách Hóa, nghe hai tán tu thì thầm *Định Linh Tán* trên bia đã bán hết. Cùng nhu cầu ù; khác miệng trả. Hắn nhắm mắt không tu thêm; tu thêm trên thân tạp căn là kéo ba hướng — Kim gắt, Mộc yếu sau **Đoạn**, Hỏa im — đa nghề trong túi không mở đêm: phù để gió khi sổ đòi, trận để manh phế không bám thần; mở sai chỗ hao thần gấp, hao thần ăn canh sau. Canh đã trả bằng tay nứt và bằng không chen khi tranh manh ở ruộng.
 
 Canh Tuất — từ phía cổng tây — tiếng bước lộn nhịp rồi tan; không ai gõ cửa phòng thuê. Hắn không dựng tai bám thần ra ngoài vách; bám là hao, hao là mai thiếu mắt trên khay tro. Chỉ để gió lùa một tích mang mùi sa loãng — không Huyết Sa đậm — rồi khói lò phường đè lại. Hai điểm công khai vẫn treo trên sổ trong trí: Trầm chưa gạch, Hàn chưa đọc khay tháng — cùng kiểu treo với vé Thiên Sa xa trên cột ngoài thành: có tin, chưa trả giá bằng điểm này.
 
@@ -29,7 +29,7 @@ Canh Dần — sương trắng trên đá lót cổng tây — hắn mang bao d�
 
 Cột cổng tây in biển nhỏ: *đối chiếu một tầng — trừ theo sổ trong*. Dư âm ca phế hôm qua — nét xanh *không hút* — còn trong trí, không còn trên tre công khai. Hắn không dừng đọc; dừng là mua bằng tai.
 
-Đường rìa dược thảo trơn vì sương; lá bám nước, không linh thạch nấu — nấu là phường, không phải tán tu rửa tay. Bao duyệt nặng vai trái; vai phải nhớ rung ruộng — không rung, chỉ nhớ. Một Sát đan sự đi ngược vào cổng chính — nhìn bao, không nhìn mặt — nhìn mặt là hỏi **断**; hắn giữ mắt trên đá lót. Sát không dừng; dừng là ca. Ca phế đã khép; ca tro sáng chưa mở — khe giữa hai ca là nơi tin Ma và tin lậu hay luồn, không phải nơi hắn ký thêm.
+Đường rìa dược thảo trơn vì sương; lá bám nước, không linh thạch nấu — nấu là phường, không phải tán tu rửa tay. Bao duyệt nặng vai trái; vai phải nhớ rung ruộng — không rung, chỉ nhớ. Một Sát đan sự đi ngược vào cổng chính — nhìn bao, không nhìn mặt — nhìn mặt là hỏi **Đoạn**; hắn giữ mắt trên đá lót. Sát không dừng; dừng là ca. Ca phế đã khép; ca tro sáng chưa mở — khe giữa hai ca là nơi tin Ma và tin lậu hay luồn, không phải nơi hắn ký thêm.
 
 Cách cột, tro lót đá lẫn vỏ dược khô — mùi đắng pha sa loãng từ đêm. Không phế; phế ở ruộng và trong xương nhớ. Ở đây chỉ có **Thạch Lam** một bên vách và thành ngoài một bên sương — hội chậm đi bằng chân mang bao; Ma nhanh đi bằng miệng chưa ghi điểm.
 
@@ -43,7 +43,7 @@ Giọng bằng, không mời, không đe:
 
 — **Không** phong ấn phế — hút một tầng xám ngoài ranh — đổi ổn mỏng — giá khác vách chính danh.
 
-Tô Diêu dừng — **không** úp lòng bàn tay lên bao dược — úp là mời khí lạnh phế nhớ trong xương. Hắn nhìn mu bàn tay y — sa mịn, đỏ nhạt — rồi nhìn lại gấu áo mình: tro phường, **断** mờ, không cờ.
+Tô Diêu dừng — **không** úp lòng bàn tay lên bao dược — úp là mời khí lạnh phế nhớ trong xương. Hắn nhìn mu bàn tay y — sa mịn, đỏ nhạt — rồi nhìn lại gấu áo mình: tro phường, **Đoạn** mờ, không cờ.
 
 Trong đầu lóe **Tạ Hàm Nguyệt** trên cột son: *vì đại cục* — cùng công thức — hy sinh nhánh, bỏ miệng, giữ toán — khác ví Kim trên đài và ví tro dưới rìa. Câu y nói không giảng Thuận hay Nghịch; chỉ nói **miệng trả**. Trên đài, cắt mạch phụ để mạch sống; dưới rìa, hút xám để mạch cá nhân ổn nhanh — cùng một nhánh chết, khác sổ ghi. Hắn đã nghe tán tu già nói trên hành lang phế; giờ nghe lần hai có mặt, không có ba bóng khói, chỉ một người và sương Canh Dần.
 
@@ -51,7 +51,7 @@ Trong đầu lóe **Tạ Hàm Nguyệt** trên cột son: *vì đại cục* —
 
 Y nhìn hắn — không giận — mệt như người biết câu trả lời trước khi hỏi:
 
-— Ta trả bằng nhánh chết trên tre Ma — mi trả bằng thân trên tre hội. Cùng thành **Thạch Lam** — khác miệng. Đừng ký thêm dưới rìa nếu mi còn muốn **断** đọc được trên tay.
+— Ta trả bằng nhánh chết trên tre Ma — mi trả bằng thân trên tre hội. Cùng thành **Thạch Lam** — khác miệng. Đừng ký thêm dưới rìa nếu mi còn muốn **Đoạn** đọc được trên tay.
 
 Không mời gia nhập — không cờ — không thề đạo — chỉ đề xuất **một lần đường tắt** như lần một đã từ chối trước khói **Huyết Sa**. Hắn gật — không cảm ơn — cảm ơn là nợ:
 
@@ -75,7 +75,7 @@ Mộ Dục Thanh đi ngang lò phụ — tay tro, mắt trên khay — ghi nhanh
 
 — Về đủ — tạp một tầng — duyệt sau — **không** hút ngoài lò.
 
-— **Không** hút — ta nhớ **断**.
+— **Không** hút — ta nhớ **Đoạn**.
 
 — Nhớ — leo — canh — Hàn giữ sâu — ta giữ tro.
 
@@ -89,11 +89,11 @@ Không nói Ma; không nói Sa. Đủ để hắn biết sổ hội đọc cả 
 
 Kho phụ nóng sớm hơn chiều hôm qua; búa đếm canh; người gác kho vẫn tên trên sổ ca, không tên trên bia. Hắn bê khay rửa ngoài hành lang — nước đục — rửa tro khỏi móng trước khi chạm phiếu mới. Một tích ù lạnh mu bàn tay khi nước trượt qua đáy khay — không phế rung — phế nhớ: xe manh, cọc không bia, ca mười nộp. Rung đã qua; nhớ chưa qua — quản lý, không lành.
 
-Giữa sáng — hắn cân tro, buộc bao, đổ tro bao đúng mã tre; kim gỗ trong túi không rút — rút là hao thần cho việc tay có thể làm bằng mỏ hôi. Trận nhỏ im — mở là thần bám manh phế trong khay xe vừa lướt qua; bám là hút; hút là **断** đọc trên thành trước dược vào lọ. Đa nghề trả đúng chỗ: phù để gió nếu sổ đòi đi Bách Hóa trả nợ im; không phù để đối tro trong sân. Chỉ có toán: thân một, canh có hạn, thần không chia ba.
+Giữa sáng — hắn cân tro, buộc bao, đổ tro bao đúng mã tre; kim gỗ trong túi không rút — rút là hao thần cho việc tay có thể làm bằng mỏ hôi. Trận nhỏ im — mở là thần bám manh phế trong khay xe vừa lướt qua; bám là hút; hút là **Đoạn** đọc trên thành trước dược vào lọ. Đa nghề trả đúng chỗ: phù để gió nếu sổ đòi đi Bách Hóa trả nợ im; không phù để đối tro trong sân. Chỉ có toán: thân một, canh có hạn, thần không chia ba.
 
 Một tán tu mới vào hội nhìn bảng điểm — thì thầm:
 
-— Hai mươi mốt — một tuần phế — **断** — thật à?
+— Hai mươi mốt — một tuần phế — **Đoạn** — thật à?
 
 — Thật — bạn kia — khoe — trừ gấp nếu rìa.
 
@@ -119,11 +119,11 @@ Mộ Dục Thanh giao thêm một phiếu — lò phụ nhiệt thấp — *Ất
 
 Hắn quét sân sau — gió đổi chiều — tro bay đường thấp; không cao như ruộng — cao là Sát đọc hút. Một đan sư trẻ nhìn khay hắn — nhìn tay nứt — quay đi. Suất lò không tranh; tranh là điểm ảo. Hắn nhớ tán tu mới hỏi *hai mươi mốt* — nhớ mình từng đứng trước bia **Định Linh Tán** bán hết — cùng ù, khác miệng: bia không mười tám hạt; hội không liều đầy; Ma không tro đúng mã. Ba miệng, một ngực lệch — không ai sạch gốc trong một canh.
 
-Chiều — hắn vận ca lò phụ tiếp theo phiếu — **断** mờ hơn vì tro mới — tay ổn, mắt mỏi. Trên lò phụ, khói mỏng không che mùi đắng phương phụ gần; đan sư trẻ khác nhìn một tích rồi quay — nhìn lâu tốn suất lò. Tổ phụ không hỏi phế; hỏi phế là Sát; hỏi là điểm. Chỉ giao ca — điểm còn trên giấy không mua miệng Ma — mua thêm canh che lệch — che không sạch — đủ giữ mặt trước khay tháng nếu khay sạch.
+Chiều — hắn vận ca lò phụ tiếp theo phiếu — **Đoạn** mờ hơn vì tro mới — tay ổn, mắt mỏi. Trên lò phụ, khói mỏng không che mùi đắng phương phụ gần; đan sư trẻ khác nhìn một tích rồi quay — nhìn lâu tốn suất lò. Tổ phụ không hỏi phế; hỏi phế là Sát; hỏi là điểm. Chỉ giao ca — điểm còn trên giấy không mua miệng Ma — mua thêm canh che lệch — che không sạch — đủ giữ mặt trước khay tháng nếu khay sạch.
 
 Mảnh trong áo lạnh một tích khi xe manh phế lướt qua sân trong — không sáng — ngọc ù cùng nhịp — không khai trận, không chỉ hướng Cửu Huyền đầy. Chỉ nhắc: leo đúng nguyên liệu xám cũng chạm đất cũ; đường tắt khác không nằm trong khay tro hợp pháp.
 
-Canh Thân — giao ca — biên lai *Ất Vô* còn hai mươi điểm sau trừ phiếu tro Mộ — không mua miệng Ma, không mua tin *nhanh* dưới bia. Chấp sự đóng sổ ca ngày; tiếng lò chính cách một vách dày; **Hàn Tử Ngư** ở đó, giữ phương sâu; hắn ở lò phụ, giữ tro. Cùng **Thạch Lam Luyện Đan Hội**, hai tốc độ trong một sân: sâu và phụ, chậm và treo, **断** và điểm ảo.
+Canh Thân — giao ca — biên lai *Ất Vô* còn hai mươi điểm sau trừ phiếu tro Mộ — không mua miệng Ma, không mua tin *nhanh* dưới bia. Chấp sự đóng sổ ca ngày; tiếng lò chính cách một vách dày; **Hàn Tử Ngư** ở đó, giữ phương sâu; hắn ở lò phụ, giữ tro. Cùng **Thạch Lam Luyện Đan Hội**, hai tốc độ trong một sân: sâu và phụ, chậm và treo, **Đoạn** và điểm ảo.
 
 Hắn ăn bánh sân phụ — không xuống tre công khai — nghe một cặp tán tu cãi *lậu phương* với *phương phụ gần*:
 
@@ -141,7 +141,7 @@ Chiều muộn — góc Bách Hóa — bia **Định Linh Tán** vẫn in số �
 
 *Tây — nhanh — không điểm — không tro — đọc giá trước khi bước.*
 
-Không tên **Sa Hồng Phàm** in đậm — chỉ chữ *nhanh* và *tây* treo song song câu *断* trên tre thuê. Tin lậu không cần đúng hết — cần đủ để người lệch như hắn biết có miệng thứ ba ngoài hội và ngoài bia đã hết. Hắn không xé giấy; xé là Sát. Không mua tin bằng hạt — ba hạt im; nợ Bách Hóa im trong ngực.
+Không tên **Sa Hồng Phàm** in đậm — chỉ chữ *nhanh* và *tây* treo song song câu *Đoạn* trên tre thuê. Tin lậu không cần đúng hết — cần đủ để người lệch như hắn biết có miệng thứ ba ngoài hội và ngoài bia đã hết. Hắn không xé giấy; xé là Sát. Không mua tin bằng hạt — ba hạt im; nợ Bách Hóa im trong ngực.
 
 Một tán tu già lẩm bẩm cạnh hắn — không nhìn mặt — giọng bằng như đọc sổ năm trước trên phế:
 
@@ -149,7 +149,7 @@ Một tán tu già lẩm bẩm cạnh hắn — không nhìn mặt — giọng b
 
 Hắn không hỏi lại. Hỏi là trinh sát thêm trên tre hội; im là giữ *Ất Vô* và hai mươi điểm còn sống sau ca chiều. Quả cứu phế — Ma — hội — tro — không ai trả hết trước; chỉ ai trả trước bằng thân, ai trả sau bằng canh, ai trả bằng nhánh không tên trên tre.
 
-Đêm mỏng — phòng thuê — hắn không ghi chữ vào giấy; ghi là để lại bằng chứng ngoài sổ. Chỉ ngồi, lắng nghe lò phường đếm canh, lắng nghe **断** im trên tay, lắng nghe Linh Dịch ù không Thuận sạch. Vết ù vẫn ù; vết tay vẫn nứt; không kịch — quản lý — không lành.
+Đêm mỏng — phòng thuê — hắn không ghi chữ vào giấy; ghi là để lại bằng chứng ngoài sổ. Chỉ ngồi, lắng nghe lò phường đếm canh, lắng nghe **Đoạn** im trên tay, lắng nghe Linh Dịch ù không Thuận sạch. Vết ù vẫn ù; vết tay vẫn nứt; không kịch — quản lý — không lành.
 
 Canh Hợi — tin treo thêm một tờ trên cửa phụ hội — không phải lệnh Trầm — chỉ **đối chiếu** cho tán tu:
 
@@ -157,15 +157,15 @@ Canh Hợi — tin treo thêm một tờ trên cửa phụ hội — không ph�
 
 **Đường tắt hội** — tên không ai dám in to — chỉ *đối chiếu* và *cổng tây* và *lậu* cùng một khổ giấy. Chậm so nhanh không còn là gió vỡ vụn Canh Dậu; thành chữ treo trước mắt phường. Hắn đã từ chối **Sa Hồng Phàm** sáng Canh Dần; từ chối không khép miệng thứ ba — tin lậu mở thêm một đường **hội** hay **Ma** hay cả hai, không ai ký tên đủ trên giấy.
 
-Hắn đứng trước cửa sổ nhìn mái lò — khói thẳng — tay còn mùi tro đúng mã, ngực còn mảnh im và ngọc lệch và khế **断** và hai mươi điểm chưa đủ mua sạch Linh Dịch. Sáng mai phải đọc giá trước khi bước — không phải giá Ma một mình — giá **đường tắt** treo cạnh giá tro và giá **Hàn giữ sâu**.
+Hắn đứng trước cửa sổ nhìn mái lò — khói thẳng — tay còn mùi tro đúng mã, ngực còn mảnh im và ngọc lệch và khế **Đoạn** và hai mươi điểm chưa đủ mua sạch Linh Dịch. Sáng mai phải đọc giá trước khi bước — không phải giá Ma một mình — giá **đường tắt** treo cạnh giá tro và giá **Hàn giữ sâu**.
 
-Trong sương cuối đêm, cổng tây không thấy từ phòng — chỉ thấy trong trí mu bàn tay sa và giấy *nhanh* dưới bia **Định Linh Tán** đã hết. Hắn chưa chọn lần ba; lần ba sẽ không đứng né cột — sẽ là chữ *đối chiếu* bắt hắn bước hoặc quay. Quay vẫn trả bằng canh; bước vẫn chưa biết miệng nào ghi **断** trước.
+Trong sương cuối đêm, cổng tây không thấy từ phòng — chỉ thấy trong trí mu bàn tay sa và giấy *nhanh* dưới bia **Định Linh Tán** đã hết. Hắn chưa chọn lần ba; lần ba sẽ không đứng né cột — sẽ là chữ *đối chiếu* bắt hắn bước hoặc quay. Quay vẫn trả bằng canh; bước vẫn chưa biết miệng nào ghi **Đoạn** trước.
 
 ---
 
 ## Ghi chú sáng tác
 
-- **Handoff ch.104:** Canh Dậu nghe dư âm Sa / cổng tây; không bước; 21 điểm; **断**; Linh Dịch che một tầng; mảnh+ngọc partial; nửa lọ phương phụ gần; hub Thạch Lam.
+- **Handoff ch.104:** Canh Dậu nghe dư âm Sa / cổng tây; không bước; 21 điểm; **Đoạn**; Linh Dịch che một tầng; mảnh+ngọc partial; nửa lọ phương phụ gần; hub Thạch Lam.
 - **Beat 7 mở:** Sa Hồng Phàm (tầng thấp Huyết Sa) cổng tây Canh Dần — đối khung *vì đại cục* / miệng trả (Tạ Hàm Nguyệt logic); đề xuất ổn Linh Dịch nhanh / hút tầng xám; MC từ chối gia nhập & không hút; song song giá hội chậm (tro, điểm, lò, Hàn/Mộ).
 - **FS:** FS-002 nurture (Nghịch một hơi / miệng trả, không lecture); FS-010 nurture (quả cứu–phế–Ma–hội tích); FS-012 nhẹ (phù/trận/kim không mở — hao thần đúng chỗ).
 - **Cliff ch.106 `duong-tat-hoi`:** Tin treo *đối chiếu* chậm so nhanh / cổng tây / lậu — MC phải đọc giá đường tắt (hội tin) trước khi bước lần ba.

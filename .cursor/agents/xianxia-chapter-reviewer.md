@@ -21,7 +21,7 @@ Human tick mục cần sửa → `project-orchestrator` → `xianxia-prose-write
 
 ## Cách soát (nội bộ — không dump ra file)
 
-Continuity · ngữ pháp · ngữ nghĩa · fact-check (Core, chương trước, spine/FS). **Văn phong** (`.cursor/rules/xianxia-prose-style.mdc`): telegraphic / viết tắt / POV tu sai tầng / **翻译腔** nặng / scale không gian sai → `major` nếu **làm mơ hồ hành động, sai canon cảm nhận, hoặc lệch tone brief**. **Chỉ đưa vào file** điểm **nên sửa** (`critical` / `major`; `minor` chỉ khi sai nghĩa hoặc sai canon). **Bỏ qua** nit “hay hơn” thuần gu.
+Continuity · ngữ pháp · ngữ nghĩa · fact-check (Core, chương trước, spine/FS). **Văn phong** (`.cursor/rules/xianxia-prose-style.mdc`): telegraphic / viết tắt / POV tu sai tầng / **PhiênDịchKhương** nặng / scale không gian sai → `major` nếu **làm mơ hồ hành động, sai canon cảm nhận, hoặc lệch tone brief**. **Chỉ đưa vào file** điểm **nên sửa** (`critical` / `major`; `minor` chỉ khi sai nghĩa hoặc sai canon). **Bỏ qua** nit “hay hơn” thuần gu.
 
 ## Khi được gọi
 

@@ -55,8 +55,7 @@ child_index:
     visibility: mc_phase1
 ---
 
-# Phù Tảo · 浮沼大陆
-
+# Phù Tảo · ĐạiLục
 Châu lục đầm và đảo nổi ở tây nam nội địa Bích Lạc Tinh, lấy Phù Trấn làm đầu mối dược liệu cùng thủy vận.
 
 **parent:** [`Bích Lạc Tinh`](../../00-overview.md) · **GeoJSON:** [`chl-phu-tao.geojson`](../../geo/chau-luc/chl-phu-tao.geojson)

@@ -12,7 +12,7 @@
       "properties": {
         "id": "TINH-HA-REF",
         "name_vi": "Tinh hà Huyền Cự (tham chiếu)",
-        "name_hv": "玄极神域",
+        "name_hv": "Tinh hà Huyền Cự (tham chiếu)",
         "kind": "hub"
       },
       "geometry": {
@@ -28,7 +28,7 @@
       "properties": {
         "id": "CHL-TRUNG-THAN",
         "name_vi": "Trung Thần đại lục",
-        "name_hv": "中神大陆",
+        "name_hv": "Trung Thần đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -169,7 +169,7 @@
       "properties": {
         "id": "CHL-VAN-PHAP",
         "name_vi": "Vạn Pháp đại lục",
-        "name_hv": "万法大陆",
+        "name_hv": "Vạn Pháp đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -302,7 +302,7 @@
       "properties": {
         "id": "CHL-KIEM-LOI",
         "name_vi": "Kiếm Lôi đại lục",
-        "name_hv": "剑雷大陆",
+        "name_hv": "Kiếm Lôi đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -423,7 +423,7 @@
       "properties": {
         "id": "CHL-HON-VUC",
         "name_vi": "Hồn Vực đại lục",
-        "name_hv": "魂域大陆",
+        "name_hv": "Hồn Vực đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -556,7 +556,7 @@
       "properties": {
         "id": "CHL-SINH-TIEU",
         "name_vi": "Sinh Tiêu đại lục",
-        "name_hv": "生灭大陆",
+        "name_hv": "Sinh Tiêu đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -689,7 +689,7 @@
       "properties": {
         "id": "CHL-HUYEN-BANG",
         "name_vi": "Huyền Băng đại lục",
-        "name_hv": "玄冰大陆",
+        "name_hv": "Huyền Băng đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -806,7 +806,7 @@
       "properties": {
         "id": "CHL-CUU-PHONG",
         "name_vi": "Cửu Phong đại lục",
-        "name_hv": "九峰大陆",
+        "name_hv": "Cửu Phong đại lục",
         "kind": "continent",
         "visibility": "public"
       },

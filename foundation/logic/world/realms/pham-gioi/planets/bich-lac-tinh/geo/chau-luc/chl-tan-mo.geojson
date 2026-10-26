@@ -23,7 +23,7 @@
       "properties": {
         "id": "CHL-TAN-MO",
         "name_vi": "Đại lục Tàn Mộ",
-        "name_hv": "残漠大陆",
+        "name_hv": "Đại lục Tàn Mộ",
         "kind": "continent",
         "visibility": "public"
       },
@@ -563,7 +563,7 @@
         "id": "REG-TM-NAM-QUAN",
         "name_vi": "Nam Quan · ải nam",
         "kind": "polity",
-        "name_hv": "南关",
+        "name_hv": "Nam Quan",
         "linh_khi_tier": "vô_lin",
         "visibility": "public",
         "notes": "Cửa vào sa mạc · thu phí lữ khách"
@@ -926,7 +926,7 @@
         "id": "REG-TM-SA-HAI",
         "name_vi": "Sa Hải · đại sa mạc",
         "kind": "wilderness",
-        "name_hv": "沙海",
+        "name_hv": "Sa Hải",
         "linh_khi_tier": "vô_lin",
         "visibility": "public",
         "notes": "Cổ khí vụn · cấm đi bộ thường"
@@ -1237,7 +1237,7 @@
         "id": "REG-TM-CO-TU",
         "name_vi": "Cổ Tu · điển tích phi thăng",
         "kind": "dungeon",
-        "name_hv": "古墟",
+        "name_hv": "Cổ Tu",
         "linh_khi_tier": "manh_mach_rải",
         "visibility": "public",
         "notes": "Phi thăng thất bại · manh mạch kiệt"
@@ -1344,7 +1344,7 @@
         "id": "REG-TM-KHE-GIOI",
         "name_vi": "Khe Giới · vết bích",
         "kind": "barrier",
-        "name_hv": "界隙",
+        "name_hv": "Khe Giới",
         "linh_khi_tier": "manh_mach_rải",
         "visibility": "hidden_logic",
         "notes": "Crack Phàm–Linh E-PHAM-CRACK-LINH; hoang dã · một chiều hoặc có giá Nhân quả"
@@ -1403,7 +1403,7 @@
         "id": "REG-TM-TAY-MA",
         "name_vi": "Tây Ma · vệt Ma khí",
         "kind": "wilderness",
-        "name_hv": "西魔",
+        "name_hv": "Tây Ma",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "hidden_logic",
         "notes": "E-PHAM-MA-PATCH · không mở Ma Giới"
@@ -1662,7 +1662,7 @@
         "id": "REG-TM-BAC-HAN",
         "name_vi": "Bắc Hạn · rìa bắc",
         "kind": "wilderness",
-        "name_hv": "北旱",
+        "name_hv": "Bắc Hạn",
         "linh_khi_tier": "vô_lin",
         "visibility": "public"
       }
@@ -1840,7 +1840,7 @@
         "id": "BRR-TM-TIET-LO",
         "name_vi": "Dãy Tiết Lộ",
         "kind": "barrier",
-        "name_hv": "节路岭",
+        "name_hv": "Dãy Tiết Lộ",
         "linh_khi_tier": "vô_lin"
       }
     },
@@ -2053,7 +2053,7 @@
         "id": "REG-TM-DONG-OA",
         "name_vi": "Đông Oa · ốc đảo",
         "kind": "polity",
-        "name_hv": "东洼",
+        "name_hv": "Đông Oa",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
         "notes": "Nước hiếm · phe thu gom di vật"
@@ -2320,7 +2320,7 @@
         "id": "REG-TM-CO-TA",
         "name_vi": "Cổ Ta · lang thang phế địa",
         "kind": "dungeon",
-        "name_hv": "古塔",
+        "name_hv": "Cổ Ta",
         "linh_khi_tier": "manh_mach_rải",
         "visibility": "mc_phase1"
       }
@@ -2618,7 +2618,7 @@
         "id": "REG-TM-HAN-COC",
         "name_vi": "Hạn Cốc · cốc khô",
         "kind": "wilderness",
-        "name_hv": "旱谷",
+        "name_hv": "Hạn Cốc",
         "linh_khi_tier": "vô_lin",
         "visibility": "public"
       }
@@ -2635,7 +2635,7 @@
       "properties": {
         "id": "LOC-TM-CO-TU",
         "name_vi": "Cổ Tu · trung tâm di tích",
-        "name_hv": "古墟",
+        "name_hv": "Cổ Tu",
         "kind": "hub",
         "visibility": "public"
       }
@@ -2652,7 +2652,7 @@
       "properties": {
         "id": "LOC-TM-KHE-GIOI",
         "name_vi": "Khe Giới · cửa vết nứt",
-        "name_hv": "界隙",
+        "name_hv": "Khe Giới",
         "kind": "hub",
         "visibility": "hidden_logic"
       }
@@ -2669,7 +2669,7 @@
       "properties": {
         "id": "LOC-TM-OA-TUYEN",
         "name_vi": "Oa Tuyền · giếng đông",
-        "name_hv": "洼泉",
+        "name_hv": "Oa Tuyền",
         "kind": "hub",
         "visibility": "public"
       }
@@ -2860,7 +2860,7 @@
       "properties": {
         "id": "RIVER-TM-CUU-HA",
         "name_vi": "Cửu Hà · cố đô",
-        "name_hv": "涸河",
+        "name_hv": "Cửu Hà",
         "kind": "route",
         "notes": "Sông khô · chỉ mưa hiếm"
       }
@@ -2887,7 +2887,7 @@
       "properties": {
         "id": "RIVER-TM-OA-LUU",
         "name_vi": "Oa Lưu",
-        "name_hv": "洼流",
+        "name_hv": "Oa Lưu",
         "kind": "route"
       }
     }

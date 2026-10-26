@@ -25,7 +25,7 @@ Hắn nhớ người áo tro — cánh tay đẩy hắn vào hang, bóng lưng q
 
 Gần giờ Tý, chấp sự Thanh Vi mang phong thư niêm ấn treo lên đài nhỏ.
 
-Không đọc lại tên — đêm qua đã công bố **Tống Minh Vi** (宋明微), con cháu phe, bảo lãnh phí **dọn** nhánh bảy cho **đệ tử ưu tiên** / **thánh tử**. Chỉ đọc **bổ sung**:
+Không đọc lại tên — đêm qua đã công bố **Tống Minh Vi**, con cháu phe, bảo lãnh phí **dọn** nhánh bảy cho **đệ tử ưu tiên** / **thánh tử**. Chỉ đọc **bổ sung**:
 
 — Khách **Vi** — phí Sát Thủ Các đợt sáng, **ghi nợ phe bảo lãnh**. Mục: dọn tán tu cản leo / vi phạm khế mạch trên **nhánh bảy**. **Không** tranh luận. **Không** hỏi danh.
 
@@ -223,4 +223,4 @@ Giờ Hợi **đang** tới — và ai **bỏ** suất trước, ai **giữ** su
   - **FS-003:** Tống Minh Vi một tầng — bảo lãnh phí Sát Thủ, mạch cho đệ tử ưu tiên / thánh tử.
   - **FS-016:** Đồng đội thuê né/im khi số bị gạch; echo người áo tro; *anh em đội* = hàng.
 - **Móc ch.70 (Beat 5 · Giữ Suất):** Lệnh **bỏ suất** hậu phương / ô mười chín trước giờ Hợi — **nhường** cho **thánh tử** phe; wound đâm / hy sinh sắp tới.
-- **Tên đã dùng:** **Mạnh Hải** (孟海) — payoff ch.66; **Lục Thanh Phong**; **Tạ Hàm Nguyệt**; **Tống Minh Vi** (một tầng).
+- **Tên đã dùng:** **Mạnh Hải** — payoff ch.66; **Lục Thanh Phong**; **Tạ Hàm Nguyệt**; **Tống Minh Vi** (một tầng).

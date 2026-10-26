@@ -23,7 +23,7 @@
       "properties": {
         "id": "CHL-VAN-PHAP",
         "name_vi": "Vạn Pháp đại lục",
-        "name_hv": "万法大陆",
+        "name_hv": "Vạn Pháp đại lục",
         "kind": "continent",
         "visibility": "public",
         "notes": "Vỏ lục = silhouette CHL-VAN-PHAP; parent SW [121.0, 8.0]; k≈8.97; hub LOC-VP-PHAP-DIEN (430, 370)"
@@ -700,7 +700,7 @@
         "id": "REG-VP-NAM-HAI",
         "name_vi": "Nam Hải bình",
         "kind": "wilderness",
-        "name_hv": "南海坪",
+        "name_hv": "Nam Hải bình",
         "than_khi_tier": "rất_dồi",
         "visibility": "public",
         "notes": "Hải thần khí — mỏ Thần nguyên hạ phẩm ven biển"
@@ -1031,7 +1031,7 @@
         "id": "REG-VP-PHAP-DIEN",
         "name_vi": "Pháp Điện thành",
         "kind": "polity",
-        "name_hv": "法殿城",
+        "name_hv": "Pháp Điện thành",
         "than_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Luật thần · hub LOC-VP-PHAP-DIEN"
@@ -1306,7 +1306,7 @@
         "id": "REG-VP-VAN-KY",
         "name_vi": "Vạn Ký các",
         "kind": "polity",
-        "name_hv": "万记阁",
+        "name_hv": "Vạn Ký các",
         "than_khi_tier": "rất_dồi",
         "visibility": "public",
         "notes": "Khế Vạn Tự treo — trật tự luật thần"
@@ -1665,7 +1665,7 @@
         "id": "REG-VP-TRUNG-LUAT",
         "name_vi": "Trung Luật đài",
         "kind": "polity",
-        "name_hv": "中律台",
+        "name_hv": "Trung Luật đài",
         "than_khi_tier": "rất_dồi",
         "visibility": "public",
         "notes": "Thần công pháp · thư viện luật ấn"
@@ -1848,7 +1848,7 @@
         "id": "REG-VP-BAC-VAN",
         "name_vi": "Bắc Vạn uyên",
         "kind": "wilderness",
-        "name_hv": "北万苑",
+        "name_hv": "Bắc Vạn uyên",
         "than_khi_tier": "dồi",
         "visibility": "public",
         "notes": "Biên bắc — thử trận pháp thần ngoài trời"
@@ -2063,7 +2063,7 @@
         "id": "REG-VP-TAY-LUAT",
         "name_vi": "Tây Luật uyên",
         "kind": "wilderness",
-        "name_hv": "西律苑",
+        "name_hv": "Tây Luật uyên",
         "than_khi_tier": "dồi",
         "visibility": "public",
         "notes": "Trận pháp thần — thử nghiệm khế cấm"
@@ -2326,7 +2326,7 @@
         "id": "BRR-VP-PHAP-SON",
         "name_vi": "Dãy Pháp Sơn",
         "kind": "barrier",
-        "name_hv": "法山",
+        "name_hv": "Dãy Pháp Sơn",
         "than_khi_tier": "mach_rải_cao",
         "visibility": "public",
         "notes": "Barrier polygon — luật ấn dày"
@@ -2453,7 +2453,7 @@
         "id": "REG-VP-TAY-HAI",
         "name_vi": "Tây Hải cửa",
         "kind": "wilderness",
-        "name_hv": "西海关",
+        "name_hv": "Tây Hải cửa",
         "than_khi_tier": "dồi",
         "visibility": "public",
         "notes": "Cửa tây — thương lộ nội lục"
@@ -2572,7 +2572,7 @@
         "id": "REG-VP-DONG-HAI",
         "name_vi": "Đông Hải bình",
         "kind": "wilderness",
-        "name_hv": "东海坪",
+        "name_hv": "Đông Hải bình",
         "than_khi_tier": "rất_dồi",
         "visibility": "public",
         "notes": "Liên Kiếm Lôi — Đông Mạch quan · thuế mạch liên Trung Thần"
@@ -2707,7 +2707,7 @@
         "id": "REG-VP-NAM-PHAP",
         "name_vi": "Nam Pháp đảo",
         "kind": "resource",
-        "name_hv": "南法岛",
+        "name_hv": "Nam Pháp đảo",
         "than_khi_tier": "mach_rải",
         "visibility": "public",
         "notes": "Đảo thần đan — Thần thảo hạ phẩm"
@@ -2725,7 +2725,7 @@
       "properties": {
         "id": "LOC-VP-PHAP-DIEN",
         "name_vi": "Pháp Điện · luật thần",
-        "name_hv": "法殿",
+        "name_hv": "Pháp Điện",
         "kind": "hub",
         "visibility": "public",
         "than_khi_tier": "mach_chủ"
@@ -2985,7 +2985,7 @@
       "properties": {
         "id": "RIVER-VP-VAN-HE",
         "name_vi": "Vạn Hà",
-        "name_hv": "万河",
+        "name_hv": "Vạn Hà",
         "kind": "route",
         "from_id": "REG-VP-VAN-KY",
         "to_id": "REG-VP-NAM-HAI",

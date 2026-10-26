@@ -55,8 +55,7 @@ child_index:
     visibility: mc_phase1
 ---
 
-# Hàn Phương · 寒方大陆
-
+# Hàn Phương · HànĐạiLục
 Châu lục lạnh ở tây bắc Bích Lạc Tinh, nơi băng nguyên, sơn mạch và cự ly dài khiến Hàn Tinh Quan thành đầu mối sinh tồn.
 
 **parent:** [`Bích Lạc Tinh`](../../00-overview.md) · **GeoJSON:** [`chl-han-phuong.geojson`](../../geo/chau-luc/chl-han-phuong.geojson)

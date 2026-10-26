@@ -19,7 +19,7 @@
       "properties": {
         "id": "REG-TM-CO-TU-AREA",
         "name_vi": "Phạm vi Cổ Tu",
-        "name_hv": "古墟域",
+        "name_hv": "Phạm vi Cổ Tu",
         "kind": "dungeon",
         "visibility": "public",
         "linh_khi_tier": "manh_mach_rải",
@@ -82,7 +82,7 @@
       "properties": {
         "id": "LOC-TM-CO-TU",
         "name_vi": "Cổ Tu · trung tâm di tích",
-        "name_hv": "古墟",
+        "name_hv": "Cổ Tu",
         "kind": "hub",
         "visibility": "public",
         "notes": "Hub vùng; điển tích phi thăng thất bại; nối Khe Giới qua crack lore."
@@ -100,7 +100,7 @@
       "properties": {
         "id": "LOC-TM-PHI-THANG-TAI",
         "name_vi": "Phi thăng đài · vỡ nửa",
-        "name_hv": "飞升台",
+        "name_hv": "Phi thăng đài",
         "kind": "dungeon",
         "visibility": "public",
         "direction_label": "Trung tâm",
@@ -119,7 +119,7 @@
       "properties": {
         "id": "LOC-TM-VONG-TRU",
         "name_vi": "Vòng trụ · đổ sập",
-        "name_hv": "柱环",
+        "name_hv": "Vòng trụ",
         "kind": "wilderness",
         "visibility": "public",
         "direction_label": "Bắc",
@@ -138,7 +138,7 @@
       "properties": {
         "id": "LOC-TM-TAN-TU-TAP",
         "name_vi": "Trại Tàn Tu · thu gom",
-        "name_hv": "残墟营",
+        "name_hv": "Trại Tàn Tu",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Nam đông",
@@ -158,7 +158,7 @@
       "properties": {
         "id": "LOC-TM-CO-KHAI",
         "name_vi": "Hố khai quật · tầng một",
-        "name_hv": "开墟坑",
+        "name_hv": "Hố khai quật",
         "kind": "resource",
         "visibility": "public",
         "direction_label": "Tây",
@@ -177,7 +177,7 @@
       "properties": {
         "id": "LOC-TM-MANH-KIET",
         "name_vi": "Mạch kiệt · dưới đài",
-        "name_hv": "竭脉",
+        "name_hv": "Mạch kiệt",
         "kind": "resource",
         "visibility": "hidden_logic",
         "direction_label": "Dưới phi thăng đài",
@@ -197,7 +197,7 @@
       "properties": {
         "id": "LOC-TM-TONG-TAN",
         "name_vi": "Am tích tông tàn",
-        "name_hv": "残宗庵",
+        "name_hv": "Am tích tông tàn",
         "kind": "settlement",
         "visibility": "mc_phase1",
         "direction_label": "Đông bắc",
@@ -217,7 +217,7 @@
       "properties": {
         "id": "LOC-TM-KHE-GIOI",
         "name_vi": "Khe Giới · cửa vết nứt",
-        "name_hv": "界隙",
+        "name_hv": "Khe Giới",
         "kind": "hub",
         "visibility": "hidden_logic",
         "direction_label": "Tây nam · mép region",
@@ -236,7 +236,7 @@
       "properties": {
         "id": "LOC-TM-SA-HAI-RIM",
         "name_vi": "Rìa Sa Hải · phía nam",
-        "name_hv": "沙海缘",
+        "name_hv": "Rìa Sa Hải",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Nam",
@@ -255,7 +255,7 @@
       "properties": {
         "id": "BRR-TM-CO-TU-VO",
         "name_vi": "Tường vỡ ngoại vi",
-        "name_hv": "墟墙",
+        "name_hv": "Tường vỡ ngoại vi",
         "kind": "barrier",
         "visibility": "public",
         "notes": "Rào đá đổ; che gió cát từ Sa Hải."
@@ -293,7 +293,7 @@
       "properties": {
         "id": "ROUTE-TM-CO-KHE",
         "name_vi": "Đạo xuống Khe Giới",
-        "name_hv": "界隙道",
+        "name_hv": "Đạo xuống Khe Giới",
         "kind": "route",
         "visibility": "hidden_logic",
         "from_id": "LOC-TM-CO-TU",
@@ -333,7 +333,7 @@
       "properties": {
         "id": "ROUTE-TM-CO-SA-HAI",
         "name_vi": "Lối từ Sa Hải",
-        "name_hv": "沙海入墟",
+        "name_hv": "Lối từ Sa Hải",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-SA-HAI-RIM",
@@ -372,7 +372,7 @@
       "properties": {
         "id": "RIVER-TM-CO-CAN",
         "name_vi": "Rãnh khô · cố đô",
-        "name_hv": "涸沟",
+        "name_hv": "Rãnh khô",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-VONG-TRU",
@@ -407,7 +407,7 @@
       "properties": {
         "id": "LOC-TM-NHAT-KY-AN",
         "name_vi": "Bia ẩn · ghi thất bại",
-        "name_hv": "隐碑",
+        "name_hv": "Bia ẩn",
         "kind": "dungeon",
         "visibility": "hidden_logic",
         "direction_label": "Tây nam hố khai",

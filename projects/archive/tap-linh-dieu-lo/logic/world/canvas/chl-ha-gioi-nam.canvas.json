@@ -13,8 +13,15 @@
     {
       "id": "REG-DA-LUC-NEN",
       "name": "Đại Hoang · nền đại lục",
-      "dimensions": { "width": 1000, "length": 1000 },
-      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "dimensions": {
+        "width": 1000,
+        "length": 1000
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 0,
+        "y": 0
+      },
       "properties": {
         "kind": "wilderness",
         "visibility": "hidden_logic",
@@ -26,10 +33,17 @@
     {
       "id": "CHAU-LAN-SA",
       "name": "Lan Sa Châu",
-      "dimensions": { "width": 460, "length": 210 },
-      "anchor": { "type": "absolute", "x": 100, "y": 80 },
+      "dimensions": {
+        "width": 460,
+        "length": 210
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 100,
+        "y": 80
+      },
       "properties": {
-        "name_hv": "蓝沙洲",
+        "name_hv": "Lan Sa Châu",
         "kind": "polity",
         "linh_khi_tier": "cực_thấp",
         "event_scale": "II"
@@ -38,24 +52,55 @@
     {
       "id": "REG-U-MOC-DAM-DONG",
       "name": "U Mộc Lâu · rừng rậm đông",
-      "dimensions": { "width": 368, "length": 210 },
-      "anchor": { "type": "relative", "ref_id": "CHAU-LAN-SA", "edge": "right", "align": "top" },
-      "properties": { "name_hv": "幽木洲", "kind": "wilderness", "visibility": "public" }
+      "dimensions": {
+        "width": 368,
+        "length": 210
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "CHAU-LAN-SA",
+        "edge": "right",
+        "align": "top"
+      },
+      "properties": {
+        "name_hv": "U Mộc Lâu",
+        "kind": "wilderness",
+        "visibility": "public"
+      }
     },
     {
       "id": "REG-TAY-BANG",
       "name": "Tây Bang · cao nguyên gió",
-      "dimensions": { "width": 460, "length": 280 },
-      "anchor": { "type": "relative", "ref_id": "CHAU-LAN-SA", "edge": "top", "align": "start" },
-      "properties": { "name_hv": "西邦", "kind": "wilderness", "visibility": "mc_phase1" }
+      "dimensions": {
+        "width": 460,
+        "length": 280
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "CHAU-LAN-SA",
+        "edge": "top",
+        "align": "start"
+      },
+      "properties": {
+        "name_hv": "Tây Bang",
+        "kind": "wilderness",
+        "visibility": "mc_phase1"
+      }
     },
     {
       "id": "BRR-NGOC-COT-LONG-LINH",
       "name": "Ngọc Cốt Long Lĩnh",
-      "dimensions": { "width": 46, "length": 476 },
-      "anchor": { "type": "absolute", "x": 560, "y": 95 },
+      "dimensions": {
+        "width": 46,
+        "length": 476
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 560,
+        "y": 95
+      },
       "properties": {
-        "name_hv": "玉骨龙岭",
+        "name_hv": "Ngọc Cốt Long Lĩnh",
         "kind": "barrier",
         "notes": "Vùng phân vùng — dãy núi"
       }
@@ -63,17 +108,36 @@
     {
       "id": "REG-NOI-DONG-NAM",
       "name": "Nội địa đông nam · Thạch Lam vực",
-      "dimensions": { "width": 322, "length": 280 },
-      "anchor": { "type": "relative", "ref_id": "REG-TAY-BANG", "edge": "right", "align": "top" },
-      "properties": { "name_hv": "内域", "kind": "wilderness", "notes": "Khung truyện coarse" }
+      "dimensions": {
+        "width": 322,
+        "length": 280
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-TAY-BANG",
+        "edge": "right",
+        "align": "top"
+      },
+      "properties": {
+        "name_hv": "Nội địa đông nam",
+        "kind": "wilderness",
+        "notes": "Khung truyện coarse"
+      }
     },
     {
       "id": "BRR-LAC-NHAN",
       "name": "Dãy Lạc Nhạn",
-      "dimensions": { "width": 720, "length": 24 },
-      "anchor": { "type": "absolute", "x": 198, "y": 568 },
+      "dimensions": {
+        "width": 720,
+        "length": 24
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 198,
+        "y": 568
+      },
       "properties": {
-        "name_hv": "落雁岭",
+        "name_hv": "Dãy Lạc Nhạn",
         "kind": "barrier",
         "notes": "Vùng phân vùng — dãy Lạc Nhạn"
       }
@@ -81,10 +145,17 @@
     {
       "id": "REG-HOANG-BAC",
       "name": "Hoang địa bắc · biên mạch yếu",
-      "dimensions": { "width": 1000, "length": 72 },
-      "anchor": { "type": "absolute", "x": 0, "y": 568 },
+      "dimensions": {
+        "width": 1000,
+        "length": 72
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 0,
+        "y": 568
+      },
       "properties": {
-        "name_hv": "北荒",
+        "name_hv": "Hoang địa bắc",
         "kind": "wilderness",
         "event_scale": "II-III",
         "visibility": "public"
@@ -93,10 +164,18 @@
     {
       "id": "REG-DONG-HAI-AN",
       "name": "Đông Hải · cửa biển phía đông",
-      "dimensions": { "width": 72, "length": 380 },
-      "anchor": { "type": "relative", "ref_id": "REG-U-MOC-DAM-DONG", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 72,
+        "length": 380
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-U-MOC-DAM-DONG",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "东海岸",
+        "name_hv": "Đông Hải",
         "kind": "wilderness",
         "linh_khi_tier": "thấp",
         "visibility": "mc_phase1",
@@ -106,10 +185,18 @@
     {
       "id": "REG-NAM-CUC-HOANG",
       "name": "Nam cực hoang · Cửu Huyền vực",
-      "dimensions": { "width": 460, "length": 90 },
-      "anchor": { "type": "relative", "ref_id": "CHAU-LAN-SA", "edge": "bottom", "align": "start" },
+      "dimensions": {
+        "width": 460,
+        "length": 90
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "CHAU-LAN-SA",
+        "edge": "bottom",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "南荒",
+        "name_hv": "Nam cực hoang",
         "kind": "wilderness",
         "linh_khi_tier": "loạn_cụ_bo",
         "event_scale": "II",
@@ -120,10 +207,18 @@
     {
       "id": "REG-TRUNG-NGUYEN",
       "name": "Trung nguyên · mạch trung bình",
-      "dimensions": { "width": 276, "length": 196 },
-      "anchor": { "type": "relative", "ref_id": "REG-NOI-DONG-NAM", "edge": "bottom", "align": "start" },
+      "dimensions": {
+        "width": 276,
+        "length": 196
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-NOI-DONG-NAM",
+        "edge": "bottom",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "中原",
+        "name_hv": "Trung nguyên",
         "kind": "wilderness",
         "linh_khi_tier": "trung_bình",
         "visibility": "hidden_logic",
@@ -136,11 +231,23 @@
       "id": "RIVER-HAN-THUY",
       "name": "Hàn Thủy",
       "type": "river",
-      "properties": { "name_hv": "寒水", "kind": "route" },
+      "properties": {
+        "name_hv": "Hàn Thủy",
+        "kind": "route"
+      },
       "control_points": [
-        { "x": 287, "y": 296 },
-        { "x": 307, "y": 179 },
-        { "x": 286, "y": 150 }
+        {
+          "x": 287,
+          "y": 296
+        },
+        {
+          "x": 307,
+          "y": 179
+        },
+        {
+          "x": 286,
+          "y": 150
+        }
       ],
       "roughness": "medium"
     },
@@ -148,11 +255,23 @@
       "id": "RIVER-LAM-HA",
       "name": "Lam Hà",
       "type": "river",
-      "properties": { "name_hv": "蓝河", "kind": "route" },
+      "properties": {
+        "name_hv": "Lam Hà",
+        "kind": "route"
+      },
       "control_points": [
-        { "x": 640, "y": 560 },
-        { "x": 665, "y": 337 },
-        { "x": 752, "y": 119 }
+        {
+          "x": 640,
+          "y": 560
+        },
+        {
+          "x": 665,
+          "y": 337
+        },
+        {
+          "x": 752,
+          "y": 119
+        }
       ],
       "roughness": "high"
     },
@@ -160,11 +279,23 @@
       "id": "RIVER-CUU-UYEN",
       "name": "Cửu Uyên Giang",
       "type": "river",
-      "properties": { "name_hv": "九渊江", "kind": "route" },
+      "properties": {
+        "name_hv": "Cửu Uyên Giang",
+        "kind": "route"
+      },
       "control_points": [
-        { "x": 590, "y": 420 },
-        { "x": 658, "y": 350 },
-        { "x": 824, "y": 151 }
+        {
+          "x": 590,
+          "y": 420
+        },
+        {
+          "x": 658,
+          "y": 350
+        },
+        {
+          "x": 824,
+          "y": 151
+        }
       ],
       "roughness": "medium"
     },
@@ -173,24 +304,30 @@
       "name": "Thạch Lam Thành",
       "type": "point",
       "properties": {
-        "name_hv": "石岚城",
+        "name_hv": "Thạch Lam Thành",
         "kind": "hub",
         "event_scale": "III",
         "notes": "Neo châu lục; region parent_coordinates = điểm này"
       },
-      "coordinates": { "x": 620, "y": 380 }
+      "coordinates": {
+        "x": 620,
+        "y": 380
+      }
     },
     {
       "id": "LOC-LAC-NHAN",
       "name": "Lạc Nhạn",
       "type": "point",
       "properties": {
-        "name_hv": "落雁",
+        "name_hv": "Lạc Nhạn",
         "kind": "settlement",
         "faction": "Thanh Vi Tông",
         "event_scale": "III"
       },
-      "coordinates": { "x": 620, "y": 590 }
+      "coordinates": {
+        "x": 620,
+        "y": 590
+      }
     }
   ]
 }

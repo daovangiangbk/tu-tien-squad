@@ -17,7 +17,7 @@ Arc/beats slice-of-life + hữu tình nhẹ: xem `00-master-brief.md` §4–§6.
 | **Z-1…Z-5** | Chỉ **sổ tông / quyển riêng MC** (vd. *Z-2, lá phụ thu*). Prose: **Z-1** → **luống ngoại** · **Z-2** → **luống gió** · **Z-3** → **đài mẫu** / **đài Cửu Diệp Chi** · **Z-4** → **ao rửa** + **giàn phơi linh dược** · **Z-5** → **kho** — không ghi mã zone trong thân chương. |
 | **Linh-** thừa | Bối cảnh đã là **Linh Giới**, **linh điền** — nước, khí, phân trên ngư **mặc định** mang linh tính. **Prose:** **phân bón**, **phân ủ**, **tro**, **nước**, **mương tưới**…; **không** gượng *linh phân*, *linh thủy* trừ khi đối chiếu rõ với thứ **không** linh (vd. *không phải linh trà*). **Giữ:** **linh thảo**, **linh dược** (loại cây / hàng trên điền — vd. **giàn phơi linh dược**, **Thanh Linh Thảo**). **Logic/sổ** vẫn có thể ghi *linh phân*. |
 | **Tên linh thảo viết tắt** | **Cấm trong prose/thoại** (`interface/chapters/**`). Không *Thanh*, *Phong*, *Ngũ Sắc*, *Cửu Diệp* một mình — dùng tên đủ **registry** (vd. **Thanh Linh Thảo**, **Phong Linh Thảo**, **Ngũ Sắc Linh Quả**, **Cửu Diệp Chi**, **Sa Hoàng Quả**). Quyển riêng MC có thể rút một chữ *nếu* ngữ cảnh sổ tay rõ (ưu tiên vẫn đủ tên). |
-| **Thanh niên** | **Cấm** gọi nhân vật phụ — dễ nhầm **Thanh Linh Thảo**. Dùng **người trẻ trong ca làm việc**, **một người trẻ**, **lão trong ca**; **MC = Thường An (常安)**. |
+| **Thanh niên** | **Cấm** gọi nhân vật phụ — dễ nhầm **Thanh Linh Thảo**. Dùng **người trẻ trong ca làm việc**, **một người trẻ**, **lão trong ca**; **MC = Thường An (Thường An)**. |
 
 **Dự kiến (Pipeline A — chưa prose):**
 

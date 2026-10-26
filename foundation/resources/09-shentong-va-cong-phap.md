@@ -1,4 +1,4 @@
-# Thần thông & Công pháp (神通 · 功法)
+# Thần thông & Công pháp (Thần·CôngPháp)
 
 **Lớp:** Foundation / Resources — catalog **quyền năng** tu sĩ thi triển (không phải vật phẩm tiêu hao, trừ hỗ trợ).  
 **Hub Core:** `../core/03-power-system-economy-core.md` (§1 cảnh giới, §2 chiến lực, §2.3 hao tài nguyên) · `../core/02-world-laws-lore-core.md` (Ngũ Hành, linh mạch) · V2 §9 kỹ năng & công pháp.
@@ -7,10 +7,10 @@
 
 | Khái niệm | Bản chất | File |
 | --- | --- | --- |
-| **Công pháp** (功法) | Phương pháp **tu luyện** tích tu vi | Bảng dưới + V2 §9 |
+| **Công pháp** | Phương pháp **tu luyện** tích tu vi | Bảng dưới + V2 §9 |
 | **Thuật / Bật kỹ** | Kỹ năng **tấn công / di chuyển** theo công pháp | §2 |
-| **Thần thông** (神通) | Quyền năng gắn **ngộ đạo / quy tắc / cảnh giới cao** | §3 |
-| **Trận pháp** (阵法) | Hệ **bố trí + vật + khí** | `08-tran-phap.md` |
+| **Thần thông** | Quyền năng gắn **ngộ đạo / quy tắc / cảnh giới cao** | §3 |
+| **Trận pháp** | Hệ **bố trí + vật + khí** | `08-tran-phap.md` |
 | **Phù lục** | Tiêu hao tức thời | `06-phu-luc.md` |
 
 ---
@@ -21,9 +21,9 @@
 
 | Thành phần | Bản chất | Khi nào hao mạnh |
 | --- | --- | --- |
-| **Linh khí / Linh lực** (灵力) | Năng lượng trong **kinh mạch / đan điền**; đồng nghĩa linh khí đã **luyện hóa** vào thân | Mọi thi triển; thân pháp, chưởng phong, thần thông quy mô lớn |
-| **Thần thức** (神识) | Ý thức tu luyện — quan sát, khóa địch, tấn công tinh thần | Nhãn thuật, thần thức công kích, hồn pháp, xuất khiếu, thần thông ý cảnh |
-| **Thể lực** (体力) | **Căn cốt, huyết khí, thân thể** (Luyện Thể + thân thể tu hóa) | Thân pháp, cận chiến, thi triển dài / liên hoàn, gánh phản lực thần thông |
+| **Linh khí / Linh lực** | Năng lượng trong **kinh mạch / đan điền**; đồng nghĩa linh khí đã **luyện hóa** vào thân | Mọi thi triển; thân pháp, chưởng phong, thần thông quy mô lớn |
+| **Thần thức** | Ý thức tu luyện — quan sát, khóa địch, tấn công tinh thần | Nhãn thuật, thần thức công kích, hồn pháp, xuất khiếu, thần thông ý cảnh |
+| **Thể lực** | **Căn cốt, huyết khí, thân thể** (Luyện Thể + thân thể tu hóa) | Thân pháp, cận chiến, thi triển dài / liên hoàn, gánh phản lực thần thông |
 
 **Quy tắc:**
 
@@ -105,9 +105,9 @@
 
 | Tên (Hán Việt) | Chữ Hán | Loại | Phẩm | Cảnh giới | Nguồn / phạm vi | Công dụng | Trade-off / tiêu hao (§0) | Canon ref |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Ngũ Hành Tán Dương Công** | 五行散养功 | Công pháp tu luyện | **Hoàng** (Hạ–Trung) | Luyện Khí 1→12; nền Trúc Cơ yếu | `[bổ sung sáng tác]` Lan Sa–type: vùng **linh khí nghèo**, **tán tu**; copy lang bạt, **không** tông truyền chính thức | Hấp linh khí **cân Ngũ hành nhẹ** ( không thiên một hệ ); phù hợp **tạp căn** tu chậm | Tu chậm hơn công pháp thiên một hệ cùng phẩm; tốn **Tụ Khí Đan** / linh thạch; không mở tuyệt kỹ sâu | `projects/tap-linh-dieu-lo` registry · ch. 1+ |
-| **Phong Bộ Thiểm Bộ** | 风步闪步 | Thân pháp | **Hoàng** | Luyện Khí 4+ | `[bổ sung sáng tác]` tán tu / ngoại môn thấp | Tăng tốc ngắn, né sơ cấp | **Thể lực** ●●●; combo dài → co kinh mạch nếu Luyện Thể yếu | registry · Arc 1 Beat 5 |
-| **Cơ Bản Ấn Pháp** | 基本印法 | Thuật (ấn) — hỗ trợ phù | **Hoàng** | Luyện Khí 6+ *(khuyến nghị)* | `[bổ sung sáng tác]` ngọc giản / dạy nghề phù sơ | Kết **ấn** kích phù, trận vi | **Thần thức** ●●●; đa nghề + tu song song → mệt đầu, lỗi ấn | registry · `10` phù; Arc 1 Beat 3 |
+| **Ngũ Hành Tán Dương Công** | Ngũ Hành Tán Dương Công | Công pháp tu luyện | **Hoàng** (Hạ–Trung) | Luyện Khí 1→12; nền Trúc Cơ yếu | `[bổ sung sáng tác]` Lan Sa–type: vùng **linh khí nghèo**, **tán tu**; copy lang bạt, **không** tông truyền chính thức | Hấp linh khí **cân Ngũ hành nhẹ** ( không thiên một hệ ); phù hợp **tạp căn** tu chậm | Tu chậm hơn công pháp thiên một hệ cùng phẩm; tốn **Tụ Khí Đan** / linh thạch; không mở tuyệt kỹ sâu | `projects/tap-linh-dieu-lo` registry · ch. 1+ |
+| **Phong Bộ Thiểm Bộ** | Phong Bộ Thiểm Bộ | Thân pháp | **Hoàng** | Luyện Khí 4+ | `[bổ sung sáng tác]` tán tu / ngoại môn thấp | Tăng tốc ngắn, né sơ cấp | **Thể lực** ●●●; combo dài → co kinh mạch nếu Luyện Thể yếu | registry · Arc 1 Beat 5 |
+| **Cơ Bản Ấn Pháp** | Cơ Bản Ấn Pháp | Thuật (ấn) — hỗ trợ phù | **Hoàng** | Luyện Khí 6+ *(khuyến nghị)* | `[bổ sung sáng tác]` ngọc giản / dạy nghề phù sơ | Kết **ấn** kích phù, trận vi | **Thần thức** ●●●; đa nghề + tu song song → mệt đầu, lỗi ấn | registry · `10` phù; Arc 1 Beat 3 |
 
 **Ghi chú Ngũ Hành Tán Dương Công:** Không biến tạp căn thành thiên phú; không thay **Trúc Cơ Đan / mạch** khi đột phá. Có thể **cộng hưởng nhẹ** khí phế địa đa hệ *(Logic: variant tạp căn MC — `11-thien-phu-ky-nang-an.md`)* mà không đổi nhãn công pháp.
 
@@ -135,14 +135,14 @@
 
 | Tên | Phẩm (ước) | Nguồn | Công dụng | Cảnh giới tối thiểu | Tiêu hao chính (§0) |
 | --- | --- | --- | --- | --- | --- |
-| **Thần Thức Thương** (神识伤) `[nguồn V2]` | Địa–Thiên | Công pháp | Tấn công thần thức | Kim Đan | Thần thức, linh lực, thể lực nhẹ |
-| **Kiếm Ý** (剑意) `[nguồn V2]` | Thiên+ | Kiếm phái | Sát thương tinh thần + vật lý | Trúc Cơ+ | Linh lực, thần thức, thể lực (cầm kiếm) |
-| **Thuấn Di** (瞬移) | — | Nguyên Anh đặc tính | Dịch chuyển ngắn | Nguyên Anh | Linh lực / Nguyên thần, thể lực (phản lực) |
-| **Hô mưa gọi gió** (呼风唤雨) `[bổ sung sáng tác]` | Thiên | Ngộ đạo phong | Thiên tượng cục bộ | Hóa Thần | Linh khí thiên địa, thần thức, thể lực |
-| **Pháp Tướng / Pháp Thân** (法相) `[bổ sung sáng tác]` | Tiên | Ngộ đạo | Chiến lực quy mô lớn | Hóa Thần+ | Linh lực cực đại, thần thức, thể lực |
-| **Khống Linh** (控灵) | Địa | Công pháp | Điều khiển linh khí địch | Kim Đan | Linh lực, thần thức |
-| **Huyết Độn** (血遁) Ma `[bổ sung sáng tác]` | Huyền–Địa | Ma công | Thoát nhanh | Trúc Cơ Ma | Linh lực, **thọ nguyên**, thể lực |
-| **Đoạt Thiên Cơ** (夺天机) sketch `[bổ sung sáng tác]` | Thần (cấm) | Cổ tích | Lách kiếp tạm | `(bí mật)` | Cả ba trục + Thiên oán, Nhân-Quả |
+| **Thần Thức Thương** `[nguồn V2]` | Địa–Thiên | Công pháp | Tấn công thần thức | Kim Đan | Thần thức, linh lực, thể lực nhẹ |
+| **Kiếm Ý** `[nguồn V2]` | Thiên+ | Kiếm phái | Sát thương tinh thần + vật lý | Trúc Cơ+ | Linh lực, thần thức, thể lực (cầm kiếm) |
+| **Thuấn Di** | — | Nguyên Anh đặc tính | Dịch chuyển ngắn | Nguyên Anh | Linh lực / Nguyên thần, thể lực (phản lực) |
+| **Hô mưa gọi gió** `[bổ sung sáng tác]` | Thiên | Ngộ đạo phong | Thiên tượng cục bộ | Hóa Thần | Linh khí thiên địa, thần thức, thể lực |
+| **Pháp Tướng / Pháp Thân** `[bổ sung sáng tác]` | Tiên | Ngộ đạo | Chiến lực quy mô lớn | Hóa Thần+ | Linh lực cực đại, thần thức, thể lực |
+| **Khống Linh** | Địa | Công pháp | Điều khiển linh khí địch | Kim Đan | Linh lực, thần thức |
+| **Huyết Độn** Ma `[bổ sung sáng tác]` | Huyền–Địa | Ma công | Thoát nhanh | Trúc Cơ Ma | Linh lực, **thọ nguyên**, thể lực |
+| **Đoạt Thiên Cơ** sketch `[bổ sung sáng tác]` | Thần (cấm) | Cổ tích | Lách kiếp tạm | `(bí mật)` | Cả ba trục + Thiên oán, Nhân-Quả |
 
 ### Tiêu hao (thần thông)
 
@@ -160,7 +160,7 @@
 
 - **Thần thông** không bypass **§2.1 cảnh giới là nền**.  
 - **Tiêu hao §0** là nền song song — chiến kéo dài làm **cạn linh lực / thần thức / thể lực** trước khi chênh lệch cảnh giới bị lấp bằng “vô hạn chiêu”.  
-- **Trận pháp (合阵)** + trận đĩa: xem `03` §2.2 và `08-tran-phap.md`.  
+- **Trận pháp (Hợp Trận — Tam Tài)** + trận đĩa: xem `03` §2.2 và `08-tran-phap.md`.  
 - **Phù** bù tiểu cảnh giới ngắn — không thay thần thông đột phá; phù vẫn hao **linh lực** khi kích hoạt (nếu không phải phù tự cháy).
 
 ---

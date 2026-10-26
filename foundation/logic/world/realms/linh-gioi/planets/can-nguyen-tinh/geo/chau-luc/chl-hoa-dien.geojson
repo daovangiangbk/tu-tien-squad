@@ -6,7 +6,7 @@
       "properties": {
         "id": "CHL-HOA-DIEN",
         "name_vi": "Hỏa Diễm đại lục",
-        "name_hv": "火炎大陆",
+        "name_hv": "Hỏa Diễm đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -518,7 +518,7 @@
         "id": "REG-HD-NAM-VIEM",
         "name_vi": "Nam Viêm · rìa nam",
         "kind": "wilderness",
-        "name_hv": "南炎",
+        "name_hv": "Nam Viêm",
         "linh_khi_tier": "mach_rải",
         "visibility": "public",
         "notes": "Sa nóng — linh khí khô"
@@ -857,7 +857,7 @@
         "id": "REG-HD-HOA-QUAN",
         "name_vi": "Hỏa Quan thành",
         "kind": "polity",
-        "name_hv": "火关城",
+        "name_hv": "Hỏa Quan thành",
         "linh_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Lò đan / luyện khí · hub LOC-HD-HOA-QUAN"
@@ -1024,7 +1024,7 @@
         "id": "REG-HD-VIEM-QUAN",
         "name_vi": "Viêm Quan · mỏ Hỏa",
         "kind": "resource",
-        "name_hv": "炎关",
+        "name_hv": "Viêm Quan",
         "linh_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Mỏ Hỏa mạch — linh thạch hạ–trung"
@@ -1195,7 +1195,7 @@
         "id": "REG-HD-TAN-DIA",
         "name_vi": "Tàn Địa",
         "kind": "dungeon",
-        "name_hv": "残地",
+        "name_hv": "Tàn Địa",
         "linh_khi_tier": "ma_vệt",
         "visibility": "mc_phase1",
         "notes": "Chiến trường Hỏa–Băng cổ — Ma khí vệt"
@@ -1346,7 +1346,7 @@
         "id": "REG-HD-TAY-HOANG",
         "name_vi": "Tây Hoang",
         "kind": "wilderness",
-        "name_hv": "西荒",
+        "name_hv": "Tây Hoang",
         "linh_khi_tier": "dày",
         "visibility": "public"
       }
@@ -1536,7 +1536,7 @@
         "id": "BRR-HD-LIET-DUONG",
         "name_vi": "Dãy Liệt Dương",
         "kind": "barrier",
-        "name_hv": "烈阳岭",
+        "name_hv": "Dãy Liệt Dương",
         "linh_khi_tier": "mach_rải_cao",
         "visibility": "public",
         "notes": "Hỏa mạch rải — ranh giới với Trung Linh Tây Mạch"
@@ -1723,7 +1723,7 @@
         "id": "REG-HD-DONG-MACH",
         "name_vi": "Đông Mạch · biên Trung Linh",
         "kind": "wilderness",
-        "name_hv": "东脉",
+        "name_hv": "Đông Mạch",
         "linh_khi_tier": "dày",
         "visibility": "public",
         "notes": "Đối diện REG-TL-TAY-MACH — yêu thú hóa hình dày"
@@ -1962,7 +1962,7 @@
         "id": "REG-HD-VIEM-TAM",
         "name_vi": "Viêm Tam · hỏa trì",
         "kind": "resource",
-        "name_hv": "炎潭",
+        "name_hv": "Viêm Tam",
         "linh_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Hỏa trì luyện đan — thuế tông 30%"
@@ -2209,7 +2209,7 @@
         "id": "REG-HD-BAC-LO",
         "name_vi": "Bắc Lô · luyện khí",
         "kind": "polity",
-        "name_hv": "北炉",
+        "name_hv": "Bắc Lô",
         "linh_khi_tier": "rất_dày",
         "visibility": "public",
         "notes": "Lò luyện khí liên minh — tranh mỏ với Viêm Quan"
@@ -2340,7 +2340,7 @@
         "id": "REG-HD-NGOAI-HOA",
         "name_vi": "Ngoại Hỏa · đại sa",
         "kind": "wilderness",
-        "name_hv": "外火",
+        "name_hv": "Ngoại Hỏa",
         "linh_khi_tier": "mach_rải",
         "visibility": "public"
       }
@@ -2514,7 +2514,7 @@
         "id": "REG-HD-BAC-HAN",
         "name_vi": "Bắc Hàn · biên Băng Phong",
         "kind": "wilderness",
-        "name_hv": "北寒",
+        "name_hv": "Bắc Hàn",
         "linh_khi_tier": "dày",
         "visibility": "public",
         "notes": "Lore chiến Hỏa–Băng — không khí đối lập"
@@ -2532,7 +2532,7 @@
       "properties": {
         "id": "LOC-HD-HOA-QUAN",
         "name_vi": "Hỏa Quan · thành chính",
-        "name_hv": "火关",
+        "name_hv": "Hỏa Quan",
         "kind": "hub",
         "visibility": "public",
         "linh_khi_tier": "mach_chủ"
@@ -2620,7 +2620,7 @@
       "properties": {
         "id": "ROUTE-HD-TAY-TRUNG-LINH",
         "name_vi": "Mạch Tây",
-        "name_hv": "西脉路",
+        "name_hv": "Mạch Tây",
         "kind": "route",
         "from_id": "REG-HD-DONG-MACH",
         "to_id": "REG-TL-TAY-MACH",
@@ -2893,7 +2893,7 @@
       "properties": {
         "id": "RIVER-HD-VIEM-HE",
         "name_vi": "Viêm Hà",
-        "name_hv": "炎河",
+        "name_hv": "Viêm Hà",
         "kind": "route",
         "from_id": "REG-HD-BAC-LO",
         "to_id": "REG-HD-NAM-VIEM"

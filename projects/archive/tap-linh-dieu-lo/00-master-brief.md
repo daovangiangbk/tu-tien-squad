@@ -6,8 +6,8 @@
 
 | Trường              | Giá trị                                       |
 | ------------------- | --------------------------------------------- |
-| **work_title**      | **Tạp Linh Diêu Lộ** (杂灵遥路)                |
-| **work_title_short**| *Diêu Lộ* (遥路) — rút gọn khi cần            |
+| **work_title**      | **Tạp Linh Diêu Lộ**                |
+| **work_title_short**| *Diêu Lộ* (Lộ) — rút gọn khi cần            |
 | **work_slug**       | `tap-linh-dieu-lo` *(thư mục `projects/`; trước: `tien-hiep-novel`)* |
 | **work_root**       | `projects/tap-linh-dieu-lo/`                   |
 | **foundation_root** | `foundation/` *(shared — Core tại repo root)* |
@@ -103,7 +103,7 @@ Tiểu thuyết tiên hiệp dài, tone **Tru Tiên** (triết lý xám, bi kị
 | 4 | vs Tru Tiên | Xám + phục bút giữ; khác tán tu/tạp căn/đa nghề (§5) |
 | 5 | MC tên / xuất thân | Xuất thân: vùng linh khí nghèo, tạp Hỏa–Kim–Mộc, bị xếp phế; **tên canon** tại naming (T3) |
 | 6 | NC / Hữu tình | **Trì hoãn** Arc 1–đầu Arc 2 |
-| 7 | Tên truyện | **Tạp Linh Diêu Lộ** (杂灵遥路) — registry § Tác phẩm |
+| 7 | Tên truyện | **Tạp Linh Diêu Lộ** — registry § Tác phẩm |
 
 **Open (không block phase 1):** Quy mô full bộ sau Trúc Cơ; có mở Tiên Giới hay không.
 
@@ -115,6 +115,6 @@ Tiểu thuyết tiên hiệp dài, tone **Tru Tiên** (triết lý xám, bi kị
 
 ## 10. Changelog brief
 
-- **v3 (2026-09-09):** Chốt **tên truyện** *Tạp Linh Diêu Lộ* (杂灵遥路); **slug** `tap-linh-dieu-lo` (đổi từ `tien-hiep-novel`); cập nhật path/reference toàn repo.
+- **v3 (2026-09-09):** Chốt **tên truyện** *Tạp Linh Diêu Lộ* (Tạp Linh Diêu Lộ); **slug** `tap-linh-dieu-lo` (đổi từ `tien-hiep-novel`); cập nhật path/reference toàn repo.
 - **v2 (2026-09-07):** Chốt phase 1 (Trúc Cơ đỉnh phong, NC trì hoãn, POV, quy mô chương, content bounds, differentiation Tru Tiên); MC contract §2.
 - **v1 (2026-09-07):** Khung khởi tạo; chuyển từ `project/` → `projects/tien-hiep-novel/` *(slug cũ)*.

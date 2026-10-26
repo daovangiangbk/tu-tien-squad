@@ -13,17 +13,17 @@ Sương **Thạch Lam** mỏng hơn đêm **Hợi** — **không** sạch — tr
 
 Vách **bắc** **đã** dán **đè** — tờ **U Ngõ** **nửa** xé — **nửa** còn — dưới là giấy hội **mới** — mực **đậm** — **không** giảng:
 
-*Lậu phương — một tầng — trừ điểm — **không** Sát — sổ hội — **断** dính kênh ngoài.*
+*Lậu phương — một tầng — trừ điểm — **không** Sát — sổ hội — **Đoạn** dính kênh ngoài.*
 
 **Một** tầng — **không** xóa tin — **ăn** tin — **cùng** cách **Sửu** **ăn** điểm ảo — **khác** miệng trừ — **không** oan lò — oan **dược** — oan **lô** — oan **mắt** treo sai chỗ. Hắn **đọc** — **không** chạm — chạm là **hao** danh — **hao** suất **Mão** chiều nếu còn ca.
 
-Linh Dịch **vẫn** **lệch** — **vẫn** **ù** — phương phụ **một** tích **đã** uống **Mão** qua — **che** **một** tầng — **không** sửa ngọc — **không** sửa mảnh trận — thở **nông** khi đi ngang vách — **không** hút khí sân — **断** trên biên lai **cấm** — hút là ghi *không hài lòng* — trừ **gấp** hơn oan lò.
+Linh Dịch **vẫn** **lệch** — **vẫn** **ù** — phương phụ **một** tích **đã** uống **Mão** qua — **che** **một** tầng — **không** sửa ngọc — **không** sửa mảnh trận — thở **nông** khi đi ngang vách — **không** hút khí sân — **Đoạn** trên biên lai **cấm** — hút là ghi *không hài lòng* — trừ **gấp** hơn oan lò.
 
 Khế thành **im** — **không** gõ — gõ là tưởng lậu **cứu** nợ **Bách Hóa** — **không** cứu Linh Dịch — **không** cứu **Thiên Sa** — **chỉ** nhắc: **trả bằng gì** **vẫn** treo — **chưa** **một** liều **chính** — **chỉ** phụ **một** tích **ù**.
 
 Một chấp sự **khác** **treo** thêm phiếu **mỏng** — **không** tên — chỉ mã ca:
 
-*Sửu · Dần · Mão — tin lậu — lao **断** — trừ theo sổ ngoài.*
+*Sửu · Dần · Mão — tin lậu — lao **Đoạn** — trừ theo sổ ngoài.*
 
 Hắn **đọc** — **không** ký — ký là **dính** tuần tin — tuần tin **ăn** canh như tuần tro **ăn** mắt — **cùng** **Thạch Lam** — **cùng** vách **bắc** — **khác** miệng **Mão** **soi** sổ — **Mão** **đã** **trừ** **một** — **Sửu** **dán** **đè** — **Sửu** **ăn** kẻ **đọc** treo **lâu** — hắn **đi** — **không** đứng nhìn — nhìn lâu là **hao** danh — **hao** như **đứng** cạnh *Kỷ* **sẽ** **đứng** **Canh Ngọ** mốt nếu **hỏi** giá **to**.
 
@@ -41,11 +41,11 @@ Một tán tu **già** — vách **không** tre — **không** biết tên hội
 
 — **Im** — hỏi — trừ — **soi** sổ **Mão** **xong** — ai **hỏi** tỷ **B** — trừ — ai **mua** ngoài — trừ **gấp** — **Bách Hóa** **nghe** — hội **nghe** — **cùng** **không** cửa **ba** hạt.
 
-Hắn **không** đáp — đáp là *Ất Vô* **ba** **dính** quán — **dính** quán **cũng** **dính** tin — tin **không** chứng — chứng là biên lai — biên lai **断** — **断** **ăn** cả kẻ **chưa** úp tay.
+Hắn **không** đáp — đáp là *Ất Vô* **ba** **dính** quán — **dính** quán **cũng** **dính** tin — tin **không** chứng — chứng là biên lai — biên lai **Đoạn** — **Đoạn** **ăn** cả kẻ **chưa** úp tay.
 
 Một tờ **mới** — **không** hội — ai **dán** dưới bàn — **nửa** che nước đọng:
 
-*Đối chiếu **Định Linh Tán** · lô ngoài · **断** · **không** bảo hành · **không** tâm ma · giá **hỏi** miệng — **đừng** úp tay trong hội.*
+*Đối chiếu **Định Linh Tán** · lô ngoài · **Đoạn** · **không** bảo hành · **không** tâm ma · giá **hỏi** miệng — **đừng** úp tay trong hội.*
 
 **Định Linh Tán** — tên **Bách Hóa** — **không** mua bằng hạt — lậu **hỏi** miệng — **không** số — **giống** chỗ trống sổ **Mão** — **giống** điểm ảo **Sửu** — **ăn** kẻ **yếu** **sau** khi **chính danh** **đóng**. Hắn **nhìn** — **không** ghi nhớ giá — ghi nhớ giá là **mua** trong đầu — **mua** trong đầu là **trả** ngoài đời **chưa** biết bằng gì.
 
@@ -53,7 +53,7 @@ Một tờ **mới** — **không** hội — ai **dán** dưới bàn — **n�
 
 Canh **Dần** — sân **đông** — **không** lò chính — **có** bàn gấp — **có** khay dược **mở** — một vụ **bắt** **không** đan sư Kim Đan — **không** trưởng phòng **Ngọ** — chỉ chấp sự vách **bắc** — giọng **phẳng**:
 
-— *Kỷ Nhị* — mang lô — sổ **không** khớp — tro **đúng** — mã **sai** — **断** — trừ **sáu** — **không** Sát — **không** oan lò — oan **dược thảo** — kêu **mua** **chính danh** — **có** biên lai **Bách Hóa**?
+— *Kỷ Nhị* — mang lô — sổ **không** khớp — tro **đúng** — mã **sai** — **Đoạn** — trừ **sáu** — **không** Sát — **không** oan lò — oan **dược thảo** — kêu **mua** **chính danh** — **có** biên lai **Bách Hóa**?
 
 *Kỷ Nhị* — tay **run** — **không** quỳ — quỳ là **mất** hết — **đứng** — nói **nhanh**:
 
@@ -65,7 +65,7 @@ Chấp sự **cắt**:
 
 — **Không** —
 
-— **Cùng** loại đứng ngoài — **khác** là anh **đã** úp tay — trừ **sáu** — vách **ghi** *dính lậu một tầng* — **Mão** **soi** sổ — **không** miễn — **vì đại cục** — **không** vì anh oan — **vì** tin hội **sống** trước phiên **Bách Hóa** — **cùng** tro — **cùng** **断**.
+— **Cùng** loại đứng ngoài — **khác** là anh **đã** úp tay — trừ **sáu** — vách **ghi** *dính lậu một tầng* — **Mão** **soi** sổ — **không** miễn — **vì đại cục** — **không** vì anh oan — **vì** tin hội **sống** trước phiên **Bách Hóa** — **cùng** tro — **cùng** **Đoạn**.
 
 *Vì đại cục* — lần **nữa** — **không** **Mộ Dục Thanh** — **không** trưởng phòng tro — chấp sự **đọc** như đọc mã lô — **cùng** cấu trúc — **cùng** **không** cứu một tên — cứu **lò** — cứu **tin** — **không** cứu Linh Dịch **lệch**. Hắn **đứng** ngoài hàng — **không** chen — chen là Linh Dịch **ù** — **không** lành vết — **không** đổi vai — vai **yếu** **không** đổi số **Kỷ** trên vách.
 
@@ -77,7 +77,7 @@ Mảnh Cửu Huyền trong ngực **lạnh** một tích — **không** mở —
 
 Giữa **Thìn** — **Mộ Dục Thanh** **có** — **lần** **đầu** trong tuần sau **Mão** — **không** phòng kín — **có** quyển sổ ngoài — dán thêm một dòng vách **bắc**:
 
-*Phiên **Bách Hóa** — **Canh Ngọ** mốt — lò **sống** — tin hội **sống** — tán tu **dưới năm** — **không** chen đấu giá — **có** đối bia **ngoài** sân — **một** điểm — **断**.*
+*Phiên **Bách Hóa** — **Canh Ngọ** mốt — lò **sống** — tin hội **sống** — tán tu **dưới năm** — **không** chen đấu giá — **có** đối bia **ngoài** sân — **một** điểm — **Đoạn**.*
 
 **Một** điểm — hắn **còn** *ba* — **không** trừ — **chưa** — **chưa** biết bia **chính** tre giá **mấy** — biết giá **chính** mới **đếm** lậu — **đếm** **không** phải **mua** — **mua** là **thắng** nhanh — **thắng** nhanh **không** có trên biên lai *Ất Vô* — **chỉ** có **hao** — **hao** canh — **hao** mắt — **hao** thần **mỏng** như **Tỵ** ca rửa.
 
@@ -101,7 +101,7 @@ Cát **dính** kẽ **nứt** — **không** rửa sạch — rửa sạch là *
 
 Một tán tu *Mậu Tám* — **không** nhìn mặt — nói vào cát:
 
-— Tin **đối chiếu** … **rẻ** hơn bia **một** nửa … **nghe** … **không** chứng … **Bách Hóa** **mai** tre số … **hỏi** miệng lậu **đêm** … **cùng** **断** …
+— Tin **đối chiếu** … **rẻ** hơn bia **một** nửa … **nghe** … **không** chứng … **Bách Hóa** **mai** tre số … **hỏi** miệng lậu **đêm** … **cùng** **Đoạn** …
 
 — **Im** — Tổ ca **cắt** — dính lậu **trong** ca — trừ **sạch** hơn oan lò — **không** Sát — sổ hội — **cùng** tro — **cùng** cát — **khác** **tay** **dọn**.
 
@@ -115,7 +115,7 @@ Canh **Mùi** — quán rìa **lần** **hai** — **không** **U Ngõ** — **U
 
 — Kênh **Thuận** — cống hiến **hiếm** — **Mộ Dục Thanh** **cộng** — **chậm** — **sạch** vách — **đắt** như **chính** **rẻ** một tích — **không** **Định Linh Tán** — **không** **một** liều — **chỉ** manh **lô** — **cùng** **sai** sổ **như** *Kỷ* — **khác** là **chưa** bị bắt.
 
-— **Huyết Sa** … — một tiếng **lẻ** — **cắt** ngay — **không** ai **nói** tiếp — **cắt** như **cắt** tỷ **B** trong phòng **Mão** — **vang** **xa** — **không** gia Ma — **chỉ** **mầm** **nghiệp** — **nhanh** — **hút** — **trả** **mạch** — **trả** **không** ghi vách tro — **giống** lậu **Nghịch** — **khác** **máu** — hắn **nhớ** khói phế **tây nam** — **nhớ** **断** trên tre đài — **nhớ** **không** bước xuống — **bước** xuống là **khế** **ăn** thêm — **ăn** **không** cứu **ù** — **chỉ** **đổi** **cách** **chết** **chậm** **thành** **nhanh**.
+— **Huyết Sa** … — một tiếng **lẻ** — **cắt** ngay — **không** ai **nói** tiếp — **cắt** như **cắt** tỷ **B** trong phòng **Mão** — **vang** **xa** — **không** gia Ma — **chỉ** **mầm** **nghiệp** — **nhanh** — **hút** — **trả** **mạch** — **trả** **không** ghi vách tro — **giống** lậu **Nghịch** — **khác** **máu** — hắn **nhớ** khói phế **tây nam** — **nhớ** **Đoạn** trên tre đài — **nhớ** **không** bước xuống — **bước** xuống là **khế** **ăn** thêm — **ăn** **không** cứu **ù** — **chỉ** **đổi** **cách** **chết** **chậm** **thành** **nhanh**.
 
 Hắn **uống** nước chua — **không** vị phương — **không** vị **Định Linh Tán** — **chỉ** vị **chưa** **trả** — **trả bằng gì** — **hạt** **không** — **điểm** **không** đủ — **danh** **Ất Vô** **một** — **mốt** **Canh Ngọ** **còn** **một** nếu đối bia — **không** đủ **mua** — **đủ** **so**.
 
@@ -125,7 +125,7 @@ Chiều **Dậu** — **ngang** **Bách Hóa** — **không** vào — **không*
 
 Dưới bia — giấy **rách** **mới** — **không** hội — **không** **Bách Hóa** — ai **dán** **đêm**:
 
-*Lô ngoài · đối chiếu · **断** · **không** bảo hành · **không** tâm ma · **Canh Ngọ** mốt — **hỏi** — **đừng** úp tay trong hội · **đừng** so sánh to trước bia.*
+*Lô ngoài · đối chiếu · **Đoạn** · **không** bảo hành · **không** tâm ma · **Canh Ngọ** mốt — **hỏi** — **đừng** úp tay trong hội · **đừng** so sánh to trước bia.*
 
 **Canh Ngọ** mốt — **cùng** dòng **Mộ Dục Thanh** — **cùng** phiên — **khác** miệng — bia **chính** **in** số — lậu **hỏi** — **cùng** tên **Định Linh Tán** — **khác** lô — **khác** sổ — **sổ hai tầng** — **Bách Hóa** giữ **tên** — hội giữ **lò** — lậu giữ **chỗ trống** **ăn** kẻ **yếu** — **ăn** kẻ **ù** — **ăn** kẻ **ba** hạt **ba** điểm **không** đổi được **một** liều.
 
@@ -133,13 +133,13 @@ Hắn **đứng** — **không** đếm số trên bia **to** — đếm to là 
 
 Một chấp sự **Bách Hóa** **ra** — **không** nhìn hắn — **xé** nửa giấy rách — **nửa** rơi — **nửa** dính — **không** nói — nói là **tin** **sống** — **sống** là hội **nghe** — hội **nghe** là trừ — **cùng** **vì đại cục** — **không** vì một tờ **rách** — vì **bia** **không** **trống** — vì **lò** **không** **trống** — **không** vì **Linh Dịch** **lệch**.
 
-Hắn **đi** — **không** nhặt giấy — nhặt là **dính** — **dính** là **Ất Vô** **một** **thành** **không** trên tre lậu — **không** lành vết — **không** cãi — cãi là **hao** — **hao** suất **Canh Ngọ** — **hao** **mốt** **manh** **Định Linh Tán** **chưa** **biết** **giá** **miệng** — **chỉ** **biết** **chính** **đóng** bằng hạt — lậu **hé** bằng giấy — **cùng** **không** **mua** **thắng** **nhanh** — **cùng** **断** — **giữa** phương phụ **một** tích — **giữa** **Thuận** **Nghịch** **chưa** **chọn** — **giữa** **Huyết Sa** **vang** **không** **bước**.
+Hắn **đi** — **không** nhặt giấy — nhặt là **dính** — **dính** là **Ất Vô** **một** **thành** **không** trên tre lậu — **không** lành vết — **không** cãi — cãi là **hao** — **hao** suất **Canh Ngọ** — **hao** **mốt** **manh** **Định Linh Tán** **chưa** **biết** **giá** **miệng** — **chỉ** **biết** **chính** **đóng** bằng hạt — lậu **hé** bằng giấy — **cùng** **không** **mua** **thắng** **nhanh** — **cùng** **Đoạn** — **giữa** phương phụ **một** tích — **giữa** **Thuận** **Nghịch** **chưa** **chọn** — **giữa** **Huyết Sa** **vang** **không** **bước**.
 
 ---
 
 Đêm **Tuất** — phòng thuê — góc **ẩm** — đếm **ba** hạt — đếm *một* trên biên lai — **không** đủ **năm** — **không** đủ soi sổ **lần** **hai** — **không** ngủ sâu — lò phường xa — búa đều — như đếm tới **Canh Ngọ** mốt — **so** bia **chính** — **hỏi** miệng lậu **ngoài** sân — **không** **mua** — **không** **úp** tay **Nghịch** — **không** **cống** **Thuận** **chưa** **đủ** **sâu** — **chỉ** **đi** — **đi** **ngang** **Bách Hóa** **lần** **nữa** — **đi** **ngang** **U Ngõ** **trong** **đầu** — **đi** **ngang** **manh** **lô** **đối chiếu** **Định Linh Tán** **tre** **rách** **dưới** **bia** **in** **hạt** — **biết** **sáng** **mốt** **phải** **nghe** **giá** **miệng** — **nghe** **không** phải **mua** — **mua** là **thắng** nhanh — **thắng** nhanh **không** **có** trên khế — **chỉ** **có** **trả bằng gì** — và **câu** **trả lời** **nằm** **giữa** **số** **in** **trên** **bia** **và** **chữ** **hỏi** **trên** **giấy** **nửa** **xé** — **chưa** **ai** **đọc** **to** **cho** *Ất Vô* **một** — **chưa** **một** liều **chính** — **chỉ** **ù** **mỏng** — **chỉ** **tin** **lậu** **phương** **đã** **nóng** **đủ** **để** **hội** **dán** **đè** **lần** **thứ** **ba** — **đủ** **để** *Kỷ* **trừ** **sáu** — **đủ** **để** hắn **còn** **một** **điểm** **và** **một** **canh** **so** **giá** **trước** khi **cánh** **cửa** **chính danh** **và** **lậu** **cùng** **tre** **một** **tên** **Định Linh Tán** **khác** **miệng** **trả**.
 
-Biên lai *một* · *Ất Vô* — tay **nứt** — thần **mỏng** — **Hàn Tử Ngư** **chưa** mở miệng trên vách — **Mộ Dục Thanh** **đã** **tre** **Canh Ngọ** — tin **ba** miệng **một** tuần **không** **gộp** **một** **giá** — **gộp** **một** **giá** là **mua** — hắn **chưa** **mua** — **mai** **so** — **so** là **bước** **tiếp** **của** **断** — **không** **đường** **tắt** — **chỉ** **manh** **Định Linh Tán** **chạm** **tai** **sáng** **mốt** — **chưa** **chạm** **túi** — **chưa** **chạm** **mạch** **như** **Huyết Sa** **gợi** — **chỉ** **chạm** **câu** *trả bằng gì* **khi** **hạt** **không** **đủ** **và** **điểm** **không** **đủ** **và** **lậu** **hỏi** **miệng** **đã** **tre** **dưới** **bia** **chính** **trước** **giờ** **mở** **cửa**.
+Biên lai *một* · *Ất Vô* — tay **nứt** — thần **mỏng** — **Hàn Tử Ngư** **chưa** mở miệng trên vách — **Mộ Dục Thanh** **đã** **tre** **Canh Ngọ** — tin **ba** miệng **một** tuần **không** **gộp** **một** **giá** — **gộp** **một** **giá** là **mua** — hắn **chưa** **mua** — **mai** **so** — **so** là **bước** **tiếp** **của** **Đoạn** — **không** **đường** **tắt** — **chỉ** **manh** **Định Linh Tán** **chạm** **tai** **sáng** **mốt** — **chưa** **chạm** **túi** — **chưa** **chạm** **mạch** **như** **Huyết Sa** **gợi** — **chỉ** **chạm** **câu** *trả bằng gì* **khi** **hạt** **không** **đủ** **và** **điểm** **không** **đủ** **và** **lậu** **hỏi** **miệng** **đã** **tre** **dưới** **bia** **chính** **trước** **giờ** **mở** **cửa**.
 
 ---
 

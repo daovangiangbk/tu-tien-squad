@@ -7,7 +7,7 @@
 | **Neo** | [`../00-story-spine.md`](../00-story-spine.md) · [`../../00-master-brief.md`](../../00-master-brief.md) v1.2 · [`../world/00-micro-linh-dien-setting.md`](../world/00-micro-linh-dien-setting.md) · [`../characters/00-mc-profile.md`](../characters/00-mc-profile.md) |
 | **Số chương** | **8** |
 | **Độ dài mục tiêu** | ~**2.500–4.000** chữ/chương `[brief]` |
-| **MC** | **Thường An** (常安) — POV third limited |
+| **MC** | **Thường An** — POV third limited |
 
 ### Vì sao 8 chương (không 5, không 10)
 

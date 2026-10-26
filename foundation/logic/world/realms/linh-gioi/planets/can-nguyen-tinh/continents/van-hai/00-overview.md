@@ -21,8 +21,7 @@ child_index:
   - path: economy/00-overview.md
 ---
 
-# Vân Hải · 云海大陆
-
+# Vân Hải · VânHảiĐạiLục
 **parent:** [`../../00-overview.md`](../../00-overview.md) · **GeoJSON:** [`chl-van-hai.geojson`](../../geo/chau-luc/chl-van-hai.geojson) · **Hub:** `LOC-VH-VAN-CANG` · **Catalog REG:** [`../../../../01-region-catalog.md`](../../../../01-region-catalog.md) § CHL-VAN-HAI
 
 Vân Hải là **lục biển nam** Càn Nguyên — **Thủy–Phong**, đảo mây, **phi thuyền** và trận cảng (atlas §2). **Trung lập thương mại** mạnh hơn nội địa khô; ai khống **cảng + tuyến** khống **vận linh thạch / đan** giữa lục (planet economy §2 · power §5).

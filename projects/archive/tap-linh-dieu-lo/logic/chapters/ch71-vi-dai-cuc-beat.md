@@ -7,7 +7,7 @@
 ## Mở
 
 - Nối ch.70: **Lục Thanh Phong** trên phụ mắt / leo cọc / vùng nguy; MC **đã** cố giữ / cảnh báo — **thất bại một phần**.
-- Ca sáng / trưa: **Tạ Hàm Nguyệt** trên đài — giọng **sạch**, *vì đại cục*; **cố ý** bỏ slot tán tu thuê để **mạch phụ nhánh bảy** cho **Tạ Minh Huy** (谢明徽) — **có thể** nói tên lần đầu trên sổ (thánh tử / đệ tử ưu tiên), **không** POV, **không** mặt bắt buộc.
+- Ca sáng / trưa: **Tạ Hàm Nguyệt** trên đài — giọng **sạch**, *vì đại cục*; **cố ý** bỏ slot tán tu thuê để **mạch phụ nhánh bảy** cho **Tạ Minh Huy** — **có thể** nói tên lần đầu trên sổ (thánh tử / đệ tử ưu tiên), **không** POV, **không** mặt bắt buộc.
 
 ## Giữa
 

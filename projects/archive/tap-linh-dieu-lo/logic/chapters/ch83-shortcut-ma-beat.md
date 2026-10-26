@@ -6,7 +6,7 @@
 
 ## Mở
 
-- Nối **cliff ch.82:** **Hút** **linh** **đã** **thấy**; **lợi** **ngắn** **một** **canh** **có thể** **đã** **tan** **hoặc** **còn** **dư** **mỏng**; MC **Trúc Cơ Trung**, **Linh Dịch lệch**, **nợ** **treo**, **khế**; **断** **+** **cấm** **hút** **vẫn** **treo**.
+- Nối **cliff ch.82:** **Hút** **linh** **đã** **thấy**; **lợi** **ngắn** **một** **canh** **có thể** **đã** **tan** **hoặc** **còn** **dư** **mỏng**; MC **Trúc Cơ Trung**, **Linh Dịch lệch**, **nợ** **treo**, **khế**; **Đoạn** **+** **cấm** **hút** **vẫn** **treo**.
 - **Vị trí gặp (Logic — không võ đài):**
   - **Rìa** **phế** **/ hang** **tro** **tây** **nam** **/ điểm** **đổi** **ca** **ngoài** **tam** **giác** — MC **không** **đuổi**; **đối** **mặt** **vì** **lệnh** **(báo khí · tránh · lách)** **hoặc** **tán** **tu** **thuê** **dẫn** **mầm** **—** **không** **solo** **Kim** **Đan**.
 
@@ -16,8 +16,8 @@
   - **Đối chiếu** **nội** **tâm** **(Logic, prose gọn):** **vá** **+** **ca** **+** **hạt** **+** **khế** **+** **im** **=** **Thuận** **chậm** **trên** **mõ**; **hút** **nhánh** **chết** **+** **ký** **chỗ** **khác** **=** **Nghịch** **nhanh** **dưới** **rìa** — **cùng** **mục** **tiêu** **«vùng** **còn** **thở»**, **khác** **sổ** **và** **giá**.
   - **Không** **speaker** **giảng** **Vô/Hữu**; **hành** **+** **một** **câu** **MC** **(không** **monologue** **dài)** **đủ** **nurture** **Arc** **2** **Beat** **5** **+** **ch.80** *giá khác Hữu*.
   - **MC** **không** **gia nhập**; **không** **nhận** **sa** **/ phù** **ký** **tên**; **túi** **rỗng** **=** **không** **mua** **shortcut** **bằng** **linh** **thạch** **nữa**.
-- **Antagonist mirror — Sa Hồng Phàm (沙鸿梵):**
-  - **Chỉ** **huy** **chi** **nhánh** **Huyết** **Sa** **Đạo** **vùng** **Đan** **Sa** **phế** **断**; **Trúc** **Cơ** **Hậu** **kỳ** **hoặc** **Kim** **Đan** **sơ** **(tier** **dưới** **Tạ** **Hàm** **Nguyệt** **—** **không** **đối** **đầu** **công** **lực** **trọn** **với** **MC)**.
+- **Antagonist mirror — Sa Hồng Phàm (Sa Hồng Phàm):**
+  - **Chỉ** **huy** **chi** **nhánh** **Huyết** **Sa** **Đạo** **vùng** **Đan** **Sa** **phế** **Đoạn**; **Trúc** **Cơ** **Hậu** **kỳ** **hoặc** **Kim** **Đan** **sơ** **(tier** **dưới** **Tạ** **Hàm** **Nguyệt** **—** **không** **đối** **đầu** **công** **lực** **trọn** **với** **MC)**.
   - **Thoại** **2–4** **nhịp** **FS-002** **+** **FS-013:** *vì đại cục* **—** **nghĩa** **Ma:** **nhánh** **đã** **chết** **trên** **sổ** **tông** **=** **dư** **liệu** **cứu** **người** **sống** **còn** **thở** **cạnh** **miệng** **hố**; **không** **cười** **ác**, **không** **mời** **MC** **«** **về** **đạo** **»** **—** **chỉ** **nói** **giá** **khế** **khác** **nếu** **đứng** **cạnh** **hút**.
   - **Mirror** **Tạ** **Hàm** **Nguyệt** **(ch.75):** **cùng** **ngôn** **ngữ** **kinh** **tế** **mạch** **/ vùng**; **khác** **miệng** **trả** **(nghiệp** **mầm** **vs** **suất** **tông)**; **MC** **không** **tin**, **không** **cãi** **(khế** **+** **tier)**.
   - **Misdirection:** Reader **tưởng** **recruit** **Ma** — **thực** **chỉ** **philosophy** **xám** **+** **cảnh** **cáo** **đừng** **ghi** **tên** **đội** **lên** **sổ** **Thanh Vi**.

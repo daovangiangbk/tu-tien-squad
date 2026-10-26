@@ -9,15 +9,15 @@
 
 ---
 
-Ngày mới bắt đầu bằng tiếng gõ tre — không đợi sương tan. Trong lán **Huyền Khố Linh Mỏ** (玄窟灵矿), cháo mỏng hơn hôm qua vì bếp đun gấp; hắn nuốt nhanh, giữ hai đồng giấu sát da không đụng túi ngoài. Lão phu cùng bàn ho thấp, vẫn bó vải ngực. Gã trẻ ăn như nuốt tro, mắt liên tục liếc cửa sân — hôm nay có danh sách, hôm nay có Hạ hầm.
+Ngày mới bắt đầu bằng tiếng gõ tre — không đợi sương tan. Trong lán **Huyền Khố Linh Mỏ**, cháo mỏng hơn hôm qua vì bếp đun gấp; hắn nuốt nhanh, giữ hai đồng giấu sát da không đụng túi ngoài. Lão phu cùng bàn ho thấp, vẫn bó vải ngực. Gã trẻ ăn như nuốt tro, mắt liên tục liếc cửa sân — hôm nay có danh sách, hôm nay có Hạ hầm.
 
 Điểm danh gạch đủ. Mã Giữ Ca không đọc tên; chỉ đếm miệng còn thở. «Vắng — trừ công. Trốn — tên đen.» Một dòng nhắc đèo Tây đêm qua; đám phu im. Hắn đứng **cuối hàng**, như hôm qua — cuối không phải vì lười, vì cuối dễ lui một bước thành đám, dễ hạ mắt mà vẫn nghe hết.
 
-Sáng sớm, **Ngân Đài** (银台) đã bận trước khi nắng chạm đỉnh núi. Sân đá thành chỗ đổi chủ: phu mỏ khiêng thúng quặng đêm qua, xếp thành hàng dài; giám công đi men, roi vắt vai. Hắn không chen vào giữa — giữa dễ bị nhìn, dễ bị hỏi. Hai đồng trong áo cọ hông mỗi bước; đêm nghe gió đá rít, mắt vẫn sáng đủ để nhìn mà không nhìn lâu.
+Sáng sớm, **Ngân Đài** đã bận trước khi nắng chạm đỉnh núi. Sân đá thành chỗ đổi chủ: phu mỏ khiêng thúng quặng đêm qua, xếp thành hàng dài; giám công đi men, roi vắt vai. Hắn không chen vào giữa — giữa dễ bị nhìn, dễ bị hỏi. Hai đồng trong áo cọ hông mỗi bước; đêm nghe gió đá rít, mắt vẫn sáng đủ để nhìn mà không nhìn lâu.
 
 Một bàn gỗ kéo ra giữa sân — bàn **tách quặng**, không phải bàn Trần Thế Lộ đếm lương. Hai thuộc hạ quản mỏ lật thúng, đổ đá xám ra sàn; tay họ quen, mắt họ sắc hơn phu mỏ. Mảnh nào lóe dưới sương, vào giỏ tre riêng; mảnh nào xám đặc, vào thúng to chờ xe. Không ai đọc to chữ linh thạch; chỉ có tiếng gỗ gõ đá, tiếng thì thầm «cái này lên», «cái này bỏ».
 
-Hắn thấy kiện gỗ đan, dây niêm mới, đặt cạnh giỏ linh. Phu mỏ không được chạm — kẻ lỡ tay, roi gõ ngay cạnh mu bàn. Bốn người khiêng kiện lên vai, đi về lối lên núi; phía sau, xe gỗ rít bánh, chở thêm thùng niêm. Lên núi là về **Huyền Khố Tông** (玄窟宗), về kho và đan và trận; xuống sân chỉ còn bạc, chỉ tiêu, và miệng hầm mở.
+Hắn thấy kiện gỗ đan, dây niêm mới, đặt cạnh giỏ linh. Phu mỏ không được chạm — kẻ lỡ tay, roi gõ ngay cạnh mu bàn. Bốn người khiêng kiện lên vai, đi về lối lên núi; phía sau, xe gỗ rít bánh, chở thêm thùng niêm. Lên núi là về **Huyền Khố Tông**, về kho và đan và trận; xuống sân chỉ còn bạc, chỉ tiêu, và miệng hầm mở.
 
 Gã trẻ nhìn theo xe, môi mấp máy. «Chiêu công nói mười…» Hắn không đáp. Họ cùng biết bị gạt từ tháng đầu; vẫn đứng sân vì nợ và vì trốn có người bị kéo về.
 
@@ -25,7 +25,7 @@ Cạnh bàn tách, một phu nhận tạm ứng — bốn đồng, tiếng bạc
 
 ---
 
-Quản mỏ **Trần Thế Lộ** (陈世禄) lên bậc đá, sổ tre mở, giọng không cao mà cắt được ồn sân. «Tháng mới — ai thiếu chỉ tiêu tuần trước, lên đây.»
+Quản mỏ **Trần Thế Lộ** lên bậc đá, sổ tre mở, giọng không cao mà cắt được ồn sân. «Tháng mới — ai thiếu chỉ tiêu tuần trước, lên đây.»
 
 Một phu bước ra — vai gầy, mắt đỏ, tay run. «Quản mỏ, tuần rồi ta ho…»
 
@@ -33,7 +33,7 @@ Một phu bước ra — vai gầy, mắt đỏ, tay run. «Quản mỏ, tuần 
 
 Đám phu im. Im quen rồi; im cũng là bức vách — ai chen tiếng, dễ bị nhớ mặt. Gã phu quỳ, đầu chạm đá: «Hai mươi… ta không có. Chỉ mười hai, còn nợ lán…»
 
-«Roi.» Trần nói như ghi một chữ. **Mã Giữ Ca** (马守伢) bước tới, roi quất lưng và đùi — không đánh mặt, đủ để áo rách thêm, đủ để người khác nghe da nứt và bụi sân văng lên gót. Năm roi. Gã phu cắn môi, không kêu to; kêu to là thêm phạt. Hắn đứng yên, mắt nhìn đá dưới chân, đếm nhịp roi — nhìn lên là thấy mình có thể là kế tiếp.
+«Roi.» Trần nói như ghi một chữ. **Mã Giữ Ca** bước tới, roi quất lưng và đùi — không đánh mặt, đủ để áo rách thêm, đủ để người khác nghe da nứt và bụi sân văng lên gót. Năm roi. Gã phu cắn môi, không kêu to; kêu to là thêm phạt. Hắn đứng yên, mắt nhìn đá dưới chân, đếm nhịp roi — nhìn lên là thấy mình có thể là kế tiếp.
 
 Xong roi, thuộc hạ ghi thêm «mười đồng nợ phạt». Mười đồng gần bằng cả tháng ăn tối thiểu nếu coi như một người; với **Huyền Khố Tông**, có lẽ bằng một mảnh quặng sáng trong giỏ tre sáng nay. Gã phu bò dậy, không ai đỡ. Đỡ là dính sổ.
 
@@ -51,7 +51,7 @@ Trần gấp sổ. «Nửa ca Trung sáng nay. Chiều dán danh sách Hạ tạ
 
 Gió trên sân đổi — luồng lạnh ngắn, chạm da như kim. Đám phu tự dàn ra; cấm tụ tập quá hai mươi, trên sân cũng vậy khi có tu sĩ. Một bóng áo xanh đậm đi xuống từ lối gác.
 
-**Quản khu** **Hàn Phong** (寒锋) — hắn chỉ biết chức danh và họ: tu sĩ, xuống mỏ như xuống kho số. Hàn Phong không nhìn mặt phu mỏ; mắt dừng trên kiện niêm, sổ, vài mảnh quặng còn sót sáng. Tay áo hắt lên, phù giấy vàng mỏng dán nắp kiện — một chiêu, không đọc thần chú to; phù bám, dây niêm co lại như thở gió.
+**Quản khu** **Hàn Phong** — hắn chỉ biết chức danh và họ: tu sĩ, xuống mỏ như xuống kho số. Hàn Phong không nhìn mặt phu mỏ; mắt dừng trên kiện niêm, sổ, vài mảnh quặng còn sót sáng. Tay áo hắt lên, phù giấy vàng mỏng dán nắp kiện — một chiêu, không đọc thần chú to; phù bám, dây niêm co lại như thở gió.
 
 Một thuộc hạ đem thêm kiện. Phu mỏ lỡ bước gần nửa trượng — Hàn Phong không quay đầu, chỉ ngón tay gõ nhẹ vào không. Phù treo trên xà gần bùng sáng một nhịp; thuộc hạ ngã ngồi bệt, má đỏ, tai chảy máu. Không chết — hoặc chưa chết. Hàn Phong nói một câu, giọng bằng, không căn phu mỏ: «Tránh.»
 

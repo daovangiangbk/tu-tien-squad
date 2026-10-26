@@ -3,7 +3,7 @@
 > **Work:** `linh-dien` · **Task:** `T-theme-slice-light` · **Owner:** character-architect  
 > **Neo:** `00-master-brief.md` v1.1 · `logic/00-theme-slice-light.md` · `CP-001` · `03` §1.3  
 > **Trạng thái:** `canon` (seed — chưa prose)  
-> **Registry:** [`interface/naming/registry.md`](../../interface/naming/registry.md) — **CHAR-001 Thường An** (常安).
+> **Registry:** [`interface/naming/registry.md`](../../interface/naming/registry.md) — **CHAR-001 Thường An**.
 
 ---
 
@@ -13,7 +13,7 @@
 | --- | --- |
 | **ID** | `CHAR-001` |
 | **Nhãn nội bộ** | MC · **Đại Thừa** · **linh điền tông tự lập** |
-| **Tên canon (Interface)** | **Thường An** (常安) |
+| **Tên canon (Interface)** | **Thường An** |
 | **Giới** | Nam |
 | **POV** | Third limited |
 
@@ -31,7 +31,7 @@ Tuổi thọ **20.000+** năm — ngoại hình **không** gắn tuổi phàm nh
 
 | Mục | Chi tiết |
 | --- | --- |
-| **Cảnh giới** | **Đại Thừa Kỳ** (大乘) — **Linh Giới**; tiểu cảnh `[giả định]` Viên Mãn hoặc Hậu kỳ — **không leo** trong arc |
+| **Cảnh giới** | **Đại Thừa Kỳ** — **Linh Giới**; tiểu cảnh `[giả định]` Viên Mãn hoặc Hậu kỳ — **không leo** trong arc |
 | **Chiến lực (work)** | **Tuyệt đối trong phạm vi Linh Giới** (framing CP-001): không đối thủ **trên điền** có thể ép sinh tử; meta vẫn có **Độ Kiếp / Tiên** phía trên — **không plot** |
 | **Căn cơ / huyết mạch** | `[chưa lộ]` — đủ để lên **Đại Thừa** trong canon Core; slice **không** khai |
 | **Thân thể** | Đã **xóa khuyết điểm phàm thể** (Core §1.3); vẫn **chịu** làm việc điền tay — **chọn** không dùng thân bất tử để lười |

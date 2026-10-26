@@ -4,7 +4,7 @@
 
 | ID | Tên | File | Phase / Arc | Trạng thái |
 | --- | --- | --- | --- | --- |
-| CHAR-001 | **Thẩm Vô Ngọc** (沈无玉) | `01-project-roster.md` | Project / Arc 1–3 | `canon` |
+| CHAR-001 | **Thẩm Vô Ngọc** | `01-project-roster.md` | Project / Arc 1–3 | `canon` |
 | CHAR-010 | **Thẩm Chiến Thiên** | `01-project-roster.md` | Arc 1 pre-massacre | `canon` |
 | CHAR-011 | **Thẩm Phù Nhan** | `01-project-roster.md` | Arc 1 hi sinh | `canon` |
 | CHAR-012 | **Thẩm Chiêm Phong** | `01-project-roster.md` | Arc 1 hi sinh | `canon` |

@@ -85,13 +85,13 @@
 
 | Cõi (Hán Việt)     | Bản chất                 | Môi trường năng lượng                                                           | Trần cảnh giới điển hình (`03` §1.0)                                                  | Giới bích kề                                                                  |
 | ------------------ | ------------------------ | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **Phàm Giới** (凡界) | Vũ trụ song song **I**   | **Mạt pháp** (末法) — linh khí **cực mỏng** / vô linh; phàm thể, võ khí / nội lực | **Phàm nhân** · **Luyện Thể** / võ tu — **không** chân tu (真修) **cư trú** ( Luật 6a ) | **Phàm–Linh** — xuyên sang **Linh Giới** ( crack, **Thần Lộ cổ**, đại năng… ) |
-| **Linh Giới** (灵界) | Vũ trụ song song **II**  | **Thiên Địa Linh Khí** dày; linh mạch, linh thạch                               | **Luyện Khí** (12) → **Trúc Cơ** → … → **Độ Kiếp**                                    | **Linh–Tiên** — **Phi Thăng** sau **Cửu Cửu** ( Luật 5 )                      |
-| **Tiên Giới** (仙界) | Vũ trụ song song **III** | **Tiên Khí / Tiên Nguyên Lực**                                                  | **Chân Tiên** → … → **Tiên Đế**                                                       | **Tiên–Thần** — lên **Thần Giới** ( hiếm )                                    |
-| **Thần Giới** (神界) | Vũ trụ song song **IV**  | **Thần Khí**                                                                    | **Thần giai** ( trước **Thánh** ) → `03` §1.0                                         | Không có giới tu “trên Thần” trong bộ bốn — chỉ **Thánh Nhân** ngoài mô hình  |
+| **Phàm Giới** | Vũ trụ song song **I**   | **Mạt pháp** — linh khí **cực mỏng** / vô linh; phàm thể, võ khí / nội lực | **Phàm nhân** · **Luyện Thể** / võ tu — **không** chân tu (Chân tu) **cư trú** ( Luật 6a ) | **Phàm–Linh** — xuyên sang **Linh Giới** ( crack, **Thần Lộ cổ**, đại năng… ) |
+| **Linh Giới** | Vũ trụ song song **II**  | **Thiên Địa Linh Khí** dày; linh mạch, linh thạch                               | **Luyện Khí** (12) → **Trúc Cơ** → … → **Độ Kiếp**                                    | **Linh–Tiên** — **Phi Thăng** sau **Cửu Cửu** ( Luật 5 )                      |
+| **Tiên Giới** | Vũ trụ song song **III** | **Tiên Khí / Tiên Nguyên Lực**                                                  | **Chân Tiên** → … → **Tiên Đế**                                                       | **Tiên–Thần** — lên **Thần Giới** ( hiếm )                                    |
+| **Thần Giới** | Vũ trụ song song **IV**  | **Thần Khí**                                                                    | **Thần giai** ( trước **Thánh** ) → `03` §1.0                                         | Không có giới tu “trên Thần” trong bộ bốn — chỉ **Thánh Nhân** ngoài mô hình  |
 
 
-**Giới bích (界壁) — màng pháp tắc nội tầng giữa các giới diện vật chất:**
+**Giới bích (Giới bích) — màng pháp tắc nội tầng giữa các giới diện vật chất:**
 
 
 | Cặp bích                 | Ý nghĩa `(invariant)`                                                                                                                                                      |
@@ -102,23 +102,23 @@
 | **Vực Ngoại nội giới / hư không nội giới** | Vùng cao, xa và rìa bên trong Không gian Bàn Cổ; có thể chứa đường liên giới, chiến trường và dị thú; không phải giới tu thứ năm |
 
 
-**Thuật ngữ — Hạ Giới (下界):** **Không** dùng làm nhãn canon gộp **Phàm + Linh**. Gặp trong nguồn cũ: coi **alias lỗi thời của Phàm Giới** — prose/Logic mới ghi đúng **Phàm Giới** hoặc **Linh Giới** ( glossary F.2 ). Tranh mạch / đại cục trước Tiên = **ở Linh Giới** ( chính ) hoặc **Phàm Giới** ( Mạt pháp, **không** chân tu cư trú ).
+**Thuật ngữ — Hạ Giới (Hạ Giới):** **Không** dùng làm nhãn canon gộp **Phàm + Linh**. Gặp trong nguồn cũ: coi **alias lỗi thời của Phàm Giới** — prose/Logic mới ghi đúng **Phàm Giới** hoặc **Linh Giới** ( glossary F.2 ). Tranh mạch / đại cục trước Tiên = **ở Linh Giới** ( chính ) hoặc **Phàm Giới** ( Mạt pháp, **không** chân tu cư trú ).
 
 **Không thuộc bộ bốn giới song song (tách biệt):**
 
 
 | Khái niệm                                    | Vai trò `(invariant)`                                                                                           |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **Minh Giới / Địa Phủ** (冥界) | Hệ âm giới chung nối cả bốn giới diện vật chất — luân hồi, vong hồn, âm khí; không phải giới diện vật chất thứ năm |
-| **Tiểu Thiên Thế Giới** (小千世界)               | **Pocket** gắn tu sĩ / tông; quy mô nhỏ, luật riêng; **treo** bên cạnh một giới, **không** thay **Tiên / Thần** |
-| **Vực Ngoại nội giới** (域外) / **hư không nội giới** (虚空) | Vùng rìa vẫn nằm trong Giới Tường; có mạch liên giới và đường du hành, nhưng không phải khoảng ngoài ngăn cách bốn chỉnh thể độc lập |
+| **Minh Giới / Địa Phủ** | Hệ âm giới chung nối cả bốn giới diện vật chất — luân hồi, vong hồn, âm khí; không phải giới diện vật chất thứ năm |
+| **Tiểu Thiên Thế Giới**               | **Pocket** gắn tu sĩ / tông; quy mô nhỏ, luật riêng; **treo** bên cạnh một giới, **không** thay **Tiên / Thần** |
+| **Vực Ngoại nội giới** / **hư không nội giới** | Vùng rìa vẫn nằm trong Giới Tường; có mạch liên giới và đường du hành, nhưng không phải khoảng ngoài ngăn cách bốn chỉnh thể độc lập |
 
 
 **Neo bên cạnh bốn giới (không thay thế Phàm–Linh–Tiên–Thần):**
 
 - **Ma Giới / Yêu Giới** — vùng **Ma Khí / Yêu Khí** ( nhánh song song riêng hoặc **mảnh** dính biên một giới ); nối qua crack / Vực Ngoại ( Luật 1 ).
 - **Bí cảnh / phụ bản** — không gian **cắt** ( Cổ Khí, sát trận ); có thể **mở vào** từ Phàm, Linh, hoặc Tiên — **không** đếm là giới thứ năm.
-- **Chư Thiên Vạn Giới** (诸天万界) — các ngoại giới hoặc chỉnh thể khác trong Hỗn Độn; riêng Không gian Bàn Cổ có bốn giới diện vật chất Phàm, Linh, Tiên, Thần liên kết bằng giới bích nội tầng. Xuyên ra ngoài phải qua Giới Tường, không đồng nhất với đi Vực Ngoại nội giới.
+- **Chư Thiên Vạn Giới** — các ngoại giới hoặc chỉnh thể khác trong Hỗn Độn; riêng Không gian Bàn Cổ có bốn giới diện vật chất Phàm, Linh, Tiên, Thần liên kết bằng giới bích nội tầng. Xuyên ra ngoài phải qua Giới Tường, không đồng nhất với đi Vực Ngoại nội giới.
 
 **Hệ quả:** Phi thăng **Linh→Tiên** = **vượt giới bích** sang **vũ trụ Tiên song song** — mục tiêu chính trị arc **Linh Giới** ( và stakes **Phàm Giới** khi plot chạm Mạt pháp ). Tranh **linh thạch, linh dược, động phủ** = tranh **tài nguyên trong Linh Giới** ( chính ); **Phàm Giới** chủ yếu **nhập khẩu** linh vật qua thương mại / crack. **Tiên / Thần** = **đổi vũ trụ + đổi loại năng lượng**, không chỉ “khí dày hơn” trên cùng đại lục.
 
@@ -132,9 +132,9 @@
 
 ### Luật 6a — Mạt pháp Phàm & Thiên phạt Phàm `(invariant)`
 
-**Mô tả:** **Phàm Giới** ở trạng thái **Mạt pháp** (末法): Thiên Địa Linh Khí **cạn kiệt** — đủ nuôi **phàm nhân**, **võ tu / Luyện Thể** ( huyết khí, nội lực mỏng ), **không** đủ môi trường cho **chân tu** ( tu **Luyện Khí** trở lên ) **cư trú lâu dài**. **Luyện Khí → Độ Kiếp** là lộ trình của **Linh Giới**, một giới diện vật chất khác trong Nhân Giới, không phải “đỉnh Phàm” trên cùng đại lục.
+**Mô tả:** **Phàm Giới** ở trạng thái **Mạt pháp**: Thiên Địa Linh Khí **cạn kiệt** — đủ nuôi **phàm nhân**, **võ tu / Luyện Thể** ( huyết khí, nội lực mỏng ), **không** đủ môi trường cho **chân tu** ( tu **Luyện Khí** trở lên ) **cư trú lâu dài**. **Luyện Khí → Độ Kiếp** là lộ trình của **Linh Giới**, một giới diện vật chất khác trong Nhân Giới, không phải “đỉnh Phàm” trên cùng đại lục.
 
-**Thiên phạt Phàm** (天罚凡界): Tu sĩ **Linh Giới** ( hoặc mang **linh lực / linh căn ổn định** ) **bị phát hiện** trên Phàm Giới kích phản ứng **Thiên đạo Phàm** — **đào thải** linh lực khỏi thể, **Thiên lôi** hoặc **xóa bỏ dị vật** ( linh thú biến dị, linh khí tụ bất thường ), **ép phế tu** hoặc **bắt buộc rút lui** ( xuyên bích / void ). **Cảm ứng Thiên đạo Phàm yếu hơn Linh** ( xuyên giới bích + Mạt pháp ); **thu liễm khí tức** có thể **né cảm ứng** để **Luyện Khí+** **ẩn thân hành sự** ( tiếp dẫn phàm nhân lên Linh — Logic `02-pham-linh-interface.md` §3.2 ), **không** miễn phạt khi **lộ tức**. Không có “định cư tu tiên **đại quy mô** trên Phàm” ( tông, mạch mẹ ).
+**Thiên phạt Phàm**: Tu sĩ **Linh Giới** ( hoặc mang **linh lực / linh căn ổn định** ) **bị phát hiện** trên Phàm Giới kích phản ứng **Thiên đạo Phàm** — **đào thải** linh lực khỏi thể, **Thiên lôi** hoặc **xóa bỏ dị vật** ( linh thú biến dị, linh khí tụ bất thường ), **ép phế tu** hoặc **bắt buộc rút lui** ( xuyên bích / void ). **Cảm ứng Thiên đạo Phàm yếu hơn Linh** ( xuyên giới bích + Mạt pháp ); **thu liễm khí tức** có thể **né cảm ứng** để **Luyện Khí+** **ẩn thân hành sự** ( tiếp dẫn phàm nhân lên Linh — Logic `02-pham-linh-interface.md` §3.2 ), **không** miễn phạt khi **lộ tức**. Không có “định cư tu tiên **đại quy mô** trên Phàm” ( tông, mạch mẹ ).
 
 **Hệ quả:** Không **tông môn chân tu** / **linh mạch mẹ** kiểu Linh trên Phàm; **linh thạch** chủ yếu **nhập khẩu** từ Linh ( thương mại, crack ). Võ tu đỉnh Phàm vẫn **yếu** trước **Luyện Khí** có linh lực ( sync `03` §2 ). **Thiên kiếp** **không** giáng trên Phàm trừ khi **mang kiếp** từ Linh xuống hoặc **phá vỡ** cân bằng Mạt pháp `(bí mật)`.
 
@@ -165,7 +165,7 @@
 
 | Tầng     | Tiền tệ / giá trị                                       | Ai dùng                         |
 | -------- | ------------------------------------------------------- | ------------------------------- |
-| **Phàm** | **Bạc phàm** (凡银) — lương, lương thực, công nghiệp thấp | Phàm nhân, phu mỏ, dịch vụ phàm |
+| **Phàm** | **Bạc phàm** — lương, lương thực, công nghiệp thấp | Phàm nhân, phu mỏ, dịch vụ phàm |
 | **Tu**   | **Linh thạch** ( hạ → cực phẩm ) — tu luyện, trận, đan  | Tu sĩ, kho tông, thương hội tu  |
 
 
@@ -270,8 +270,8 @@
 | **Ma Giới / Ma Uyên kiểu**                          | Ma khí                  | **Huyết Ma Tông**, **Hợp Hoan Cốc**, **Độc Phái**, **Quỷ Doanh** ( ví dụ nguồn §6 ) sinh tồn; ranh giới là chính sách + phong ấn               |
 | **Yêu Giới / sơn lâm**                              | Yêu khí                 | Yêu tộc luật riêng; nhân tộc khai phá → xung đột **yêu đan / linh dược**                                                                       |
 | **Bí cảnh / cổ tích**                               | Cao khi mở              | Chu kỳ tranh đoạt; **Sát Thủ Các** / tán tu làm nghề mở lộ                                                                                     |
-| **Hoang / biên giới mạch yếu** `[bổ sung sáng tác]` | Thấp–trung, rải rác     | **Tán tu (散修)** ẩn cư, săn yêu, khai quật phế địa — tránh tranh trực tiếp danh môn                                                             |
-| **Thành trì & hắc thị liên kết**                    | Trung bình + luật thành | **Sát Thủ Các (杀手阁)** điểm nhận hợp đồng, trung chuyển tin; không chiếm **Động Thiên** lâu dài                                                 |
+| **Hoang / biên giới mạch yếu** `[bổ sung sáng tác]` | Thấp–trung, rải rác     | **Tán tu (Tán tu)** ẩn cư, săn yêu, khai quật phế địa — tránh tranh trực tiếp danh môn                                                             |
+| **Thành trì & hắc thị liên kết**                    | Trung bình + luật thành | **Sát Thủ Các (Sát Thủ Các)** điểm nhận hợp đồng, trung chuyển tin; không chiếm **Động Thiên** lâu dài                                                 |
 | **Phụ bản / crack**                                 | Lẫn Cổ Khí              | Cơ duyên đột biến; `(bí mật)` nối **Chư Thiên Vạn Giới**                                                                                       |
 
 
@@ -368,7 +368,7 @@
 
 
 
-### Tán tu (散修)
+### Tán tu (Tán tu)
 
 - **Tôn chỉ:** **Tự tu, tự chịu trách nhiệm** — không bị môn quy ràng, nhưng cũng **không có hậu thuẫn tông** ( Luật 3, 9 ). Nhiều người coi “tự do” là đạo; Chính pháp thường gọi **lưu manh** nếu chạm luật thành trì hoặc liên quan hắc thị — không đồng nghĩa Ma đạo ( neo theme: **luật lệ vs tự do**, `01-theme-tragedy-core.md` ).
 - **Nguồn gốc:** (1) **Tự tu** sau khi **vào Linh Giới** ( từ phàm / võ tu qua crack — Logic `02-pham-linh-interface.md` ); (2) **Bị trục xuất** — phản sư, thua tranh nội môn, tội lỗi môn quy, gia tộc phế điển; (3) **Rời tông chủ động** sau khi có đủ tài nguyên tích lũy ( hiếm, thường kèm khế / thù ).
@@ -390,7 +390,7 @@
 
 
 
-### Sát Thủ Các (杀手阁)
+### Sát Thủ Các (Sát Thủ Các)
 
 - **Tôn chỉ:** **Hợp đồng trước, danh tiếng nghề** — ít đạo đức công khai, nhiều **quy củ nội bộ** ( trả nợ, không phản khách có ấn, không lộ danh tính chủ ). Không phe Chính–Ma; **xám mercenary** ( neo theme: dùng sức mạnh vì **giá**, không vì chính nghĩa tuyệt đối ).
 - **Lợi ích sinh tồn:** Thu **linh thạch, tin tức, quyền vào bí cảnh** ( hợp đồng mở lộ ); monopolize một phần **thị trường ám sát có luật** trong thành trì ( Luật 3: thương mại cần ổn định ). Ngoài thành: hành vi như tán tu — **phá luật rừng**.
@@ -404,7 +404,7 @@
 ### Bảng cân bằng sức mạnh (chiến lược, không số combat)
 
 
-| Khía cạnh                  | Danh môn Chính phái lớn                   | Tán tu đỉnh (散修)                                                               | Sát Thủ Các (杀手阁)                                                                                 |
+| Khía cạnh                  | Danh môn Chính phái lớn                   | Tán tu đỉnh (Tán tu)                                                               | Sát Thủ Các (Sát Thủ Các)                                                                                 |
 | -------------------------- | ----------------------------------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
 | **Quy mô nhân sự cấp cao** | Nhiều nội môn, lão tổ, thánh tử           | **Rất ít** cá nhân sống lâu                                                    | **Vừa** — tập hợp đủ cho **hợp trận / đa hướng**                                                  |
 | **Tài nguyên đột phá**     | Linh mạch, Đan các, công pháp Thiên       | Tự kiếm / cướp; **yếu trung bình**, đỉnh **đa bảo**                            | Thuê + tích lũy quỹ; **không** sở hữu mạch mẹ                                                     |

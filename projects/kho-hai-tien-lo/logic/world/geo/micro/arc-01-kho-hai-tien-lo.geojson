@@ -1,0 +1,267 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "micro",
+  "world:work_slug": "kho-hai-tien-lo",
+  "world:hub_id": "LOC-MINE-001",
+  "world:region_id": "REG-TL-TAY-MACH",
+  "world:continent_id": "CHL-TRUNG-LINH",
+  "world:parent_scope": "chau_luc",
+  "world:parent_feature_id": "REG-TL-TAY-MACH",
+  "world:parent_file": "chau-luc/chl-trung-linh.geojson",
+  "world:parent_coordinates": [
+    178,
+    440
+  ],
+  "world:parent_file_note": "Geometry cha nằm tại foundation/.../can-nguyen-tinh/geo/chau-luc/chl-trung-linh.geojson — project không copy chau_luc.",
+  "world:tieu_cuc_id": "TC-KHTL-A1",
+  "world:arc_coverage": "1",
+  "world:governance": "approved",
+  "world:approved_at": "2026-10-23",
+  "world:task": "T-world-arc-1",
+  "world:coordinateNote": "Arc 1 · Tạp Dịch Khu Mỏ; gốc cửa mỏ Hắc Nham; x=Đông y=Bắc; ~1 đơn vị ≈ nửa ngày đi bộ phàm trên đường mòn.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-MINE-001",
+        "name_vi": "Cửa mỏ · Hắc Nham Khoáng Động",
+        "name_hv": "Hắc Nham",
+        "kind": "hub",
+        "visibility": "public",
+        "elevation_tier": "mid_slope",
+        "parent_id": "REG-TL-TAY-MACH",
+        "notes": "Hub micro · tu gác · xe quặng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-MINE-001-N",
+        "name_vi": "Bắc Tuyến · lán quản sự",
+        "name_hv": "Bắc Tuyến",
+        "kind": "settlement",
+        "visibility": "public",
+        "elevation_tier": "deep",
+        "direction_label": "Bắc trong hầm",
+        "parent_id": "LOC-MINE-001",
+        "notes": "Lương Khôn · định mức · tạp dịch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2,
+          14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-VIL-001",
+        "name_vi": "Thạch Khê Thôn",
+        "name_hv": "Thạch Khê",
+        "kind": "settlement",
+        "visibility": "public",
+        "elevation_tier": "valley_floor",
+        "direction_label": "Tây nam",
+        "parent_id": "REG-TL-TAY-MACH",
+        "notes": "Ch.1–2 · suối đá · chân mạch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16,
+          -20
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-VIL-002",
+        "name_vi": "Bạch Thổ Thôn",
+        "name_hv": "Bạch Thổ",
+        "kind": "settlement",
+        "visibility": "public",
+        "elevation_tier": "valley_floor",
+        "direction_label": "Đông bắc Thạch Khê",
+        "parent_id": "REG-TL-TAY-MACH",
+        "notes": "Chu Thiết · giả định registry · ~4 đv tới Thạch Khê"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8,
+          -14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SECT-001",
+        "name_vi": "Sơn môn · Thái Nhạc Tông",
+        "name_hv": "Thái Nhạc",
+        "kind": "settlement",
+        "visibility": "public",
+        "elevation_tier": "high_foothill",
+        "direction_label": "Đông bắc",
+        "parent_id": "REG-TL-TAY-MACH",
+        "notes": "Ngoại môn sườn núi · ~4 đv ngày từ cửa mỏ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32,
+          22
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "BRR-ARC01-WEST-RIDGE",
+        "name_vi": "Đèo tây · về Hỏa Diễm",
+        "name_hv": "Đèo tây",
+        "kind": "barrier",
+        "visibility": "public",
+        "parent_id": "REG-TL-TAY-MACH",
+        "notes": "Logic · không đặt tên canon · ma khí vệt"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -28,
+              -6
+            ],
+            [
+              -24,
+              8
+            ],
+            [
+              -18,
+              12
+            ],
+            [
+              -14,
+              4
+            ],
+            [
+              -20,
+              -10
+            ],
+            [
+              -28,
+              -6
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-ARC01-VIL-MINE",
+        "name_vi": "Đường mòn thôn → cửa mỏ",
+        "name_hv": "Đường mòn",
+        "kind": "route",
+        "visibility": "public",
+        "parent_id": "LOC-MINE-001",
+        "notes": "Lô khổ dịch · ~2 đv ngày từ Thạch Khê"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16,
+            -20
+          ],
+          [
+            -10,
+            -12
+          ],
+          [
+            -4,
+            -4
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-ARC01-MINE-SECT",
+        "name_vi": "Đường xe quặng · mỏ → sơn môn",
+        "name_hv": "Đường xe quặng",
+        "kind": "route",
+        "visibility": "public",
+        "parent_id": "SECT-001",
+        "notes": "Tu sĩ nhanh hơn phàm ~1 ngày"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            12,
+            8
+          ],
+          [
+            22,
+            16
+          ],
+          [
+            32,
+            22
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROUTE-ARC01-VIL-VIL",
+        "name_vi": "Đường mòn Thạch Khê ↔ Bạch Thổ",
+        "name_hv": "Đường làng",
+        "kind": "route",
+        "visibility": "public",
+        "parent_id": "REG-TL-TAY-MACH",
+        "notes": "~4 đv ≈ nửa ngày phàm"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -16,
+            -20
+          ],
+          [
+            -12,
+            -17
+          ],
+          [
+            -8,
+            -14
+          ]
+        ]
+      }
+    }
+  ]
+}

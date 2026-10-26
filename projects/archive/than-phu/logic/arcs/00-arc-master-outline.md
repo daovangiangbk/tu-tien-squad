@@ -4,7 +4,7 @@
 > **Quy mô:** ~96–110 chương *(band)*; brief 80–120 ch vẫn hợp lệ.  
 > **Neo world:** `logic/world/00-world-atlas.md`, `01-region-active.md`, `02-tieu-cuc-index.md`  
 > **Neo nhân vật:** `logic/characters/01-project-roster.md` · naming `interface/naming/registry.md`  
-> **Tác phẩm:** **Thần Phù** — **Thẩm Vô Ngọc** (沈无玉)
+> **Tác phẩm:** **Thần Phù** — **Thẩm Vô Ngọc**
 
 ---
 
@@ -26,9 +26,9 @@
 
 | Arc | Tên (Hán Việt) | Cảnh giới / stakes | Chương *(band)* | Mục tiêu MC | Antagonist / thế lực (xám) | Cái giá arc | Câu hỏi mở cuối arc | **Vùng / tiểu cục** |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **1** | **Phù Lĩnh Huyết Dạ** (符岭血夜) | **LK** sơ/yếu → trung; sinh tồn + phù hạ | **1–35** | Thoát tộc; giữ **Thần Phù Cổ Phổ**; mở **báo thù** + manh cửu địch | **Hàn Diệp Liên** (chỉ huy biên — chưa tên); phe nội **underestimate phù lén** | Mất toàn tộc; nợ máu sâu; hao thần / vật liệu phù đầu | Ai ký lệnh? Vì sao **để MC sống**? Tin **U Huyết** có liên quan? | **TC-TP-001**, **TC-TP-002** |
-| **2** | **Thanh Phù U Huyết** (青符乌血) | **LK** hậu → **Trúc Cơ sơ**; điều tra đô thị | **36–75** | Vào **Thanh Phù Thành**; lần chuỗi **luyện huyết / bắt cóc**; nối manh cửu địch | **U Huyết Các**; quan phủ che; **Thiên Phù Các phân điếm** monopoly | Nghiệp nếu Ma phù; nợ khế; **Mộ Thanh Y** xám | Quan nào nhận hối lộ? Cửu địch **thuê** ma tuyến? | **TC-TP-003**, **TC-TP-004** |
-| **3** | **Phù Giang Báo** (符江报) | **Trúc Cơ** trung → **đỉnh phong** | **76–110** | Báo thù có lộ trình; nâng phù + tu; payoff **manh** Hàn Diệp (chưa đại kết) | Hàn Diệp + đồng minh giang hồ; mirror §3.4 *sửa luật bằng tay* | Shortcut Ma vs chậm; không heal wound; có thể **mất đồng minh xám** | Phase 2: **Kim Đan** nghẽn; ai trong Phù các **biết trước** tộc sụp? | **TC-TP-005** + echo thành |
+| **1** | **Phù Lĩnh Huyết Dạ** | **LK** sơ/yếu → trung; sinh tồn + phù hạ | **1–35** | Thoát tộc; giữ **Thần Phù Cổ Phổ**; mở **báo thù** + manh cửu địch | **Hàn Diệp Liên** (chỉ huy biên — chưa tên); phe nội **underestimate phù lén** | Mất toàn tộc; nợ máu sâu; hao thần / vật liệu phù đầu | Ai ký lệnh? Vì sao **để MC sống**? Tin **U Huyết** có liên quan? | **TC-TP-001**, **TC-TP-002** |
+| **2** | **Thanh Phù U Huyết** | **LK** hậu → **Trúc Cơ sơ**; điều tra đô thị | **36–75** | Vào **Thanh Phù Thành**; lần chuỗi **luyện huyết / bắt cóc**; nối manh cửu địch | **U Huyết Các**; quan phủ che; **Thiên Phù Các phân điếm** monopoly | Nghiệp nếu Ma phù; nợ khế; **Mộ Thanh Y** xám | Quan nào nhận hối lộ? Cửu địch **thuê** ma tuyến? | **TC-TP-003**, **TC-TP-004** |
+| **3** | **Phù Giang Báo** | **Trúc Cơ** trung → **đỉnh phong** | **76–110** | Báo thù có lộ trình; nâng phù + tu; payoff **manh** Hàn Diệp (chưa đại kết) | Hàn Diệp + đồng minh giang hồ; mirror §3.4 *sửa luật bằng tay* | Shortcut Ma vs chậm; không heal wound; có thể **mất đồng minh xám** | Phase 2: **Kim Đan** nghẽn; ai trong Phù các **biết trước** tộc sụp? | **TC-TP-005** + echo thành |
 
 ---
 

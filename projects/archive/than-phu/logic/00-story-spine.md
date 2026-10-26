@@ -1,6 +1,6 @@
 # Story spine — Phase 1 (Logic stub)
 
-> **Tác phẩm:** **Thần Phù** (神符) · **Slug:** `than-phu` · **Brief:** v1.1 · **Trần phase 1:** **Trúc Cơ kỳ đỉnh phong**  
+> **Tác phẩm:** **Thần Phù** · **Slug:** `than-phu` · **Brief:** v1.1 · **Trần phase 1:** **Trúc Cơ kỳ đỉnh phong**  
 > **Neo Foundation:** `foundation/core/01–03` · `foundation/resources/06-phu-luc.md` · `10-phu-nghe-tu-tien` · `foundation/logic/01-event-scale-system.md`
 
 ---

@@ -59,8 +59,7 @@ child_index:
     visibility: hidden_logic
 ---
 
-# Tam Nguyên · 三元大陆
-
+# Tam Nguyên · TamNguyênĐạiLục
 Châu lục nam trung của Bích Lạc Tinh, là trung tâm nhân văn và giao điểm tam quốc nhờ đồng bằng, ba thủy hệ cùng Đông Hải Cảng.
 
 **parent:** [`Bích Lạc Tinh`](../../00-overview.md) · **GeoJSON:** [`chl-tam-nguyen.geojson`](../../geo/chau-luc/chl-tam-nguyen.geojson)

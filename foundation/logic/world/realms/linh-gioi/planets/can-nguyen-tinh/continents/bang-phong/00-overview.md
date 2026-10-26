@@ -33,8 +33,7 @@ child_index:
     path: regions/reg-bp-bac-huyen/00-overview.md
 ---
 
-# Băng Phong · 冰风大陆
-
+# Băng Phong · BăngPhongĐạiLục
 **parent:** [`../../00-overview.md`](../../00-overview.md) · **GeoJSON:** [`chl-bang-phong.geojson`](../../geo/chau-luc/chl-bang-phong.geojson) · **Hub:** `LOC-BP-BANG-TINH` · **Catalog REG:** [`../../../../01-region-catalog.md`](../../../../01-region-catalog.md) § CHL-BANG-PHONG
 
 Băng Phong nằm **tây bắc** Càn Nguyên — **Băng–Phong** cực lục, lạnh khô, **linh khí dày** nhưng **hàn sát / phong kiếp** ngoài trời nặng hơn nội địa ấm (atlas §2). **Phàm đa số** quanh **Băng Tinh quan** và luống ngoại thành; tu **Băng–Phong** tập trung **Phong Cốc** và biên.

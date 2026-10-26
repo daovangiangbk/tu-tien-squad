@@ -10,7 +10,7 @@
 
 ## Giữa
 
-- Tranh **Thanh Phong Phi Liên** (青锋飞链): pháp khí sơ — ai giữ, ai chỉ **nuôi khí** sau này (LK ~7); ghi trên **Hợp Đội Lệnh** tạm hoặc tay MC.
+- Tranh **Thanh Phong Phi Liên**: pháp khí sơ — ai giữ, ai chỉ **nuôi khí** sau này (LK ~7); ghi trên **Hợp Đội Lệnh** tạm hoặc tay MC.
 - Tô Diêu **trí + phù**: dùng địa hình (cột, bùn) chia trận nhỏ; không đấu chín diện đội đông.
 - Loot phụ: **linh dược** hạ (vd. **Thanh Linh Thảo** mầm — không cần gọi đủ nếu chưa chốt prose); tin đồn **Trúc Cơ Đan** = **giả / nhử** (misdirection — không đan thật).
 - Phương Ngự Hàn đáp trước; người áo tro nhìn liên, tính **phần** trên lệnh.

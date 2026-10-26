@@ -13,8 +13,15 @@
     {
       "id": "REG-DA-LUC-NEN",
       "name": "Hỏa Diễm · nền đại lục",
-      "dimensions": { "width": 1000, "length": 1000 },
-      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "dimensions": {
+        "width": 1000,
+        "length": 1000
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 0,
+        "y": 0
+      },
       "properties": {
         "kind": "wilderness",
         "visibility": "hidden_logic",
@@ -26,10 +33,17 @@
     {
       "id": "REG-HD-NAM-VIEM",
       "name": "Nam Viêm · rìa nam",
-      "dimensions": { "width": 640, "length": 72 },
-      "anchor": { "type": "absolute", "x": 180, "y": 150 },
+      "dimensions": {
+        "width": 640,
+        "length": 72
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 180,
+        "y": 150
+      },
       "properties": {
-        "name_hv": "南炎",
+        "name_hv": "Nam Viêm",
         "kind": "wilderness",
         "linh_khi_tier": "mach_rải",
         "visibility": "public",
@@ -39,10 +53,18 @@
     {
       "id": "REG-HD-HOA-QUAN",
       "name": "Hỏa Quan thành",
-      "dimensions": { "width": 360, "length": 160 },
-      "anchor": { "type": "relative", "ref_id": "REG-HD-NAM-VIEM", "edge": "top", "align": "center" },
+      "dimensions": {
+        "width": 360,
+        "length": 160
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-HD-NAM-VIEM",
+        "edge": "top",
+        "align": "center"
+      },
       "properties": {
-        "name_hv": "火关城",
+        "name_hv": "Hỏa Quan thành",
         "kind": "polity",
         "linh_khi_tier": "mach_chủ",
         "visibility": "public",
@@ -52,10 +74,18 @@
     {
       "id": "REG-HD-VIEM-QUAN",
       "name": "Viêm Quan · mỏ Hỏa",
-      "dimensions": { "width": 240, "length": 180 },
-      "anchor": { "type": "relative", "ref_id": "REG-HD-HOA-QUAN", "edge": "left", "align": "top" },
+      "dimensions": {
+        "width": 240,
+        "length": 180
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-HD-HOA-QUAN",
+        "edge": "left",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "炎关",
+        "name_hv": "Viêm Quan",
         "kind": "resource",
         "linh_khi_tier": "mach_chủ",
         "visibility": "public",
@@ -65,10 +95,18 @@
     {
       "id": "REG-HD-TAN-DIA",
       "name": "Tàn Địa",
-      "dimensions": { "width": 240, "length": 180 },
-      "anchor": { "type": "relative", "ref_id": "REG-HD-HOA-QUAN", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 240,
+        "length": 180
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-HD-HOA-QUAN",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "残地",
+        "name_hv": "Tàn Địa",
         "kind": "dungeon",
         "linh_khi_tier": "ma_vệt",
         "visibility": "mc_phase1",
@@ -78,10 +116,17 @@
     {
       "id": "REG-HD-TAY-HOANG",
       "name": "Tây Hoang",
-      "dimensions": { "width": 180, "length": 480 },
-      "anchor": { "type": "absolute", "x": 24, "y": 100 },
+      "dimensions": {
+        "width": 180,
+        "length": 480
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 24,
+        "y": 100
+      },
       "properties": {
-        "name_hv": "西荒",
+        "name_hv": "Tây Hoang",
         "kind": "wilderness",
         "linh_khi_tier": "dày",
         "visibility": "public"
@@ -90,10 +135,17 @@
     {
       "id": "BRR-HD-LIET-DUONG",
       "name": "Dãy Liệt Dương",
-      "dimensions": { "width": 48, "length": 460 },
-      "anchor": { "type": "absolute", "x": 204, "y": 108 },
+      "dimensions": {
+        "width": 48,
+        "length": 460
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 204,
+        "y": 108
+      },
       "properties": {
-        "name_hv": "烈阳岭",
+        "name_hv": "Dãy Liệt Dương",
         "kind": "barrier",
         "linh_khi_tier": "mach_rải_cao",
         "visibility": "public",
@@ -103,10 +155,18 @@
     {
       "id": "REG-HD-DONG-MACH",
       "name": "Đông Mạch · biên Trung Linh",
-      "dimensions": { "width": 280, "length": 320 },
-      "anchor": { "type": "relative", "ref_id": "BRR-HD-LIET-DUONG", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 280,
+        "length": 320
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "BRR-HD-LIET-DUONG",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "东脉",
+        "name_hv": "Đông Mạch",
         "kind": "wilderness",
         "linh_khi_tier": "dày",
         "visibility": "public",
@@ -116,10 +176,18 @@
     {
       "id": "REG-HD-VIEM-TAM",
       "name": "Viêm Tam · hỏa trì",
-      "dimensions": { "width": 200, "length": 140 },
-      "anchor": { "type": "relative", "ref_id": "REG-HD-HOA-QUAN", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 200,
+        "length": 140
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-HD-HOA-QUAN",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "炎潭",
+        "name_hv": "Viêm Tam",
         "kind": "resource",
         "linh_khi_tier": "mach_chủ",
         "visibility": "public",
@@ -129,10 +197,18 @@
     {
       "id": "REG-HD-BAC-LO",
       "name": "Bắc Lô · luyện khí",
-      "dimensions": { "width": 360, "length": 120 },
-      "anchor": { "type": "relative", "ref_id": "REG-HD-VIEM-TAM", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 360,
+        "length": 120
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-HD-VIEM-TAM",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "北炉",
+        "name_hv": "Bắc Lô",
         "kind": "polity",
         "linh_khi_tier": "rất_dày",
         "visibility": "public",
@@ -142,10 +218,18 @@
     {
       "id": "REG-HD-NGOAI-HOA",
       "name": "Ngoại Hỏa · đại sa",
-      "dimensions": { "width": 280, "length": 480 },
-      "anchor": { "type": "relative", "ref_id": "REG-HD-DONG-MACH", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 280,
+        "length": 480
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-HD-DONG-MACH",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "外火",
+        "name_hv": "Ngoại Hỏa",
         "kind": "wilderness",
         "linh_khi_tier": "mach_rải",
         "visibility": "public"
@@ -154,10 +238,18 @@
     {
       "id": "REG-HD-BAC-HAN",
       "name": "Bắc Hàn · biên Băng Phong",
-      "dimensions": { "width": 720, "length": 100 },
-      "anchor": { "type": "relative", "ref_id": "REG-HD-BAC-LO", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 720,
+        "length": 100
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-HD-BAC-LO",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "北寒",
+        "name_hv": "Bắc Hàn",
         "kind": "wilderness",
         "linh_khi_tier": "dày",
         "visibility": "public",
@@ -170,9 +262,12 @@
       "id": "LOC-HD-HOA-QUAN",
       "name": "Hỏa Quan · thành chính",
       "type": "point",
-      "coordinates": { "x": 400, "y": 260 },
+      "coordinates": {
+        "x": 400,
+        "y": 260
+      },
       "properties": {
-        "name_hv": "火关",
+        "name_hv": "Hỏa Quan",
         "kind": "hub",
         "visibility": "public",
         "linh_khi_tier": "mach_chủ"
@@ -183,16 +278,25 @@
       "name": "Mạch Tây",
       "type": "river",
       "properties": {
-        "name_hv": "西脉路",
+        "name_hv": "Mạch Tây",
         "kind": "route",
         "from_id": "REG-HD-DONG-MACH",
         "to_id": "REG-TL-TAY-MACH",
         "hazard": "ma_khi_vệt"
       },
       "control_points": [
-        { "x": 380, "y": 200 },
-        { "x": 340, "y": 180 },
-        { "x": 300, "y": 160 }
+        {
+          "x": 380,
+          "y": 200
+        },
+        {
+          "x": 340,
+          "y": 180
+        },
+        {
+          "x": 300,
+          "y": 160
+        }
       ],
       "roughness": "medium"
     },
@@ -201,17 +305,32 @@
       "name": "Viêm Hà",
       "type": "river",
       "properties": {
-        "name_hv": "炎河",
+        "name_hv": "Viêm Hà",
         "kind": "route",
         "from_id": "REG-HD-BAC-LO",
         "to_id": "REG-HD-NAM-VIEM"
       },
       "control_points": [
-        { "x": 320, "y": 520 },
-        { "x": 340, "y": 400 },
-        { "x": 360, "y": 280 },
-        { "x": 380, "y": 160 },
-        { "x": 400, "y": 80 }
+        {
+          "x": 320,
+          "y": 520
+        },
+        {
+          "x": 340,
+          "y": 400
+        },
+        {
+          "x": 360,
+          "y": 280
+        },
+        {
+          "x": 380,
+          "y": 160
+        },
+        {
+          "x": 400,
+          "y": 80
+        }
       ],
       "roughness": "high"
     }

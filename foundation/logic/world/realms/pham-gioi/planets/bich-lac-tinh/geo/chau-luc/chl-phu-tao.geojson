@@ -23,7 +23,7 @@
       "properties": {
         "id": "CHL-PHU-TAO",
         "name_vi": "Đại lục Phù Tảo",
-        "name_hv": "浮沼大陆",
+        "name_hv": "Đại lục Phù Tảo",
         "kind": "continent",
         "visibility": "public",
         "notes": "Silhouette CHL-PHU-TAO từ 00-tinh-ha; parent SW [-160.0, 104.0]; hub LOC-PT-PHU-TRAN."
@@ -796,7 +796,7 @@
         "id": "REG-PT-NAM-HA",
         "name_vi": "Nam Hải · ven đầm",
         "kind": "wilderness",
-        "name_hv": "南海",
+        "name_hv": "Nam Hải",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public"
       }
@@ -1034,7 +1034,7 @@
         "id": "REG-PT-DAO-LAM",
         "name_vi": "Đảo Lam · quần đảo nổi",
         "kind": "wilderness",
-        "name_hv": "浮岛",
+        "name_hv": "Đảo Lam",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
         "notes": "Đảo nổi · thu thập linh thảo sơ"
@@ -1321,7 +1321,7 @@
         "id": "REG-PT-TRUNG-DAM",
         "name_vi": "Trung Đầm · đại trũng",
         "kind": "wilderness",
-        "name_hv": "中沼",
+        "name_hv": "Trung Đầm",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public"
       }
@@ -1551,7 +1551,7 @@
         "id": "REG-PT-PHU-TRAN",
         "name_vi": "Phù Trấn · thị đan thảo",
         "kind": "polity",
-        "name_hv": "浮镇",
+        "name_hv": "Phù Trấn",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
         "notes": "Chợ dược phàm · hộ thương"
@@ -1642,7 +1642,7 @@
         "id": "REG-PT-BAC-MANG",
         "name_vi": "Bắc Mang · biển sậy",
         "kind": "wilderness",
-        "name_hv": "北莽",
+        "name_hv": "Bắc Mang",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public"
       }
@@ -1836,7 +1836,7 @@
         "id": "REG-PT-TAY-LAM",
         "name_vi": "Tây Lâm · rừng đầm",
         "kind": "wilderness",
-        "name_hv": "西林",
+        "name_hv": "Tây Lâm",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public"
       }
@@ -2090,7 +2090,7 @@
         "id": "BRR-PT-LOI-DI",
         "name_vi": "Dãy Lôi Đê",
         "kind": "barrier",
-        "name_hv": "雷堤",
+        "name_hv": "Dãy Lôi Đê",
         "linh_khi_tier": "manh_mach_rải",
         "notes": "Đê đất khô duy nhất xuyên đầm"
       }
@@ -2304,7 +2304,7 @@
         "id": "REG-PT-KHE-U",
         "name_vi": "Khe U · sương độc",
         "kind": "dungeon",
-        "name_hv": "幽谷",
+        "name_hv": "Khe U",
         "linh_khi_tier": "manh_mach_rải",
         "visibility": "hidden_logic",
         "notes": "Sương độc · dược quý hiếm"
@@ -2383,7 +2383,7 @@
         "id": "REG-PT-DONG-U",
         "name_vi": "Đông U · sương đông",
         "kind": "wilderness",
-        "name_hv": "东雾",
+        "name_hv": "Đông U",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "mc_phase1"
       }
@@ -2645,7 +2645,7 @@
         "id": "REG-PT-NGOAI-DAO",
         "name_vi": "Ngoại Đảo · đảo ngoài",
         "kind": "wilderness",
-        "name_hv": "外岛",
+        "name_hv": "Ngoại Đảo",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public"
       }
@@ -2871,7 +2871,7 @@
         "id": "REG-PT-NAM-BINH",
         "name_vi": "Nam Bình · đê ven",
         "kind": "wilderness",
-        "name_hv": "南坪",
+        "name_hv": "Nam Bình",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public"
       }
@@ -2888,7 +2888,7 @@
       "properties": {
         "id": "LOC-PT-PHU-TRAN",
         "name_vi": "Phù Trấn · chợ chính",
-        "name_hv": "浮镇",
+        "name_hv": "Phù Trấn",
         "kind": "hub",
         "visibility": "public"
       }
@@ -2905,7 +2905,7 @@
       "properties": {
         "id": "LOC-PT-KHE-U",
         "name_vi": "Khe U · cửa sương",
-        "name_hv": "幽谷",
+        "name_hv": "Khe U",
         "kind": "settlement",
         "visibility": "hidden_logic"
       }
@@ -3152,7 +3152,7 @@
       "properties": {
         "id": "RIVER-PT-DAM-LUU",
         "name_vi": "Đầm Lưu",
-        "name_hv": "沼流",
+        "name_hv": "Đầm Lưu",
         "kind": "route",
         "from_id": "REG-PT-BAC-MANG",
         "to_id": "REG-PT-NAM-HA"
@@ -3412,7 +3412,7 @@
       "properties": {
         "id": "RIVER-PT-KHE-U",
         "name_vi": "U Thủy",
-        "name_hv": "幽水",
+        "name_hv": "U Thủy",
         "kind": "route"
       }
     }

@@ -1,0 +1,189 @@
+{
+  "type": "FeatureCollection",
+  "world:schema": "tien-hiep-novel/geo/v2",
+  "world:scope": "micro",
+  "world:work_slug": "than-khi",
+  "world:hub_id": "LOC-FOREST-MISSION",
+  "world:parent_scope": "region",
+  "world:parent_feature_id": "LOC-FOREST-MISSION",
+  "world:parent_file": "region/reg-cuoc-an-sat.geojson",
+  "world:parent_coordinates": [
+    -48,
+    -8
+  ],
+  "world:tieu_cuc_id": "TC-TK-002",
+  "world:coordinateNote": "Micro Arc 1 · rừng nhiệm vụ; gốc mốc nhiệm vụ; ~1 ngày từ trấn MC trên region.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-FOREST-MISSION",
+        "name_vi": "U Lâm Khẩu",
+        "name_hv": "U Lâm Khẩu",
+        "kind": "hub",
+        "visibility": "public",
+        "parent_id": "LOC-FOREST-MISSION",
+        "event_scale": "II",
+        "linh_khi_tier": "low",
+        "notes": "Beat 3–5 · CHAU-NOI-DIA-TAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-FOREST-TRAIL-IN",
+        "name_vi": "Mòn Thám Lộ",
+        "name_hv": "Mòn Thám Lộ",
+        "kind": "route",
+        "visibility": "mc_phase1",
+        "direction_label": "Tây nam từ U Lâm Khẩu · vào trại",
+        "parent_id": "LOC-FOREST-MISSION",
+        "notes": "Beat 3 · ch.6 men theo khói · binh khí trinh sát tiêu hao · registry Mòn Thám Lộ"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            28,
+            12
+          ],
+          [
+            14,
+            6
+          ],
+          [
+            0,
+            0
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-FOREST-TARGET-CAMP",
+        "name_vi": "Chỗ trại · vợ chồng tháo chạy",
+        "name_hv": "Chỗ trại",
+        "kind": "wilderness",
+        "visibility": "mc_phase1",
+        "direction_label": "Tây nam",
+        "parent_id": "LOC-FOREST-MISSION",
+        "notes": "Beat 4 · Trúc Cơ sơ bảo vệ trước khi ngã"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -12,
+          -8
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-FOREST-KILL-GROUND",
+        "name_vi": "Mảnh đất · hạ vợ chồng",
+        "name_hv": "Mảnh đất",
+        "kind": "wilderness",
+        "visibility": "mc_phase1",
+        "direction_label": "Nam camp",
+        "parent_id": "LOC-FOREST-MISSION",
+        "notes": "Beat 4 · một nhịp · không lạm sát"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -10,
+          -14
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-FOREST-CHILD-SPOT",
+        "name_vi": "Chỗ trẻ · yêu thú đến",
+        "name_hv": "Chỗ trẻ",
+        "kind": "wilderness",
+        "visibility": "mc_phase1",
+        "direction_label": "Cạnh kill ground",
+        "parent_id": "LOC-FOREST-MISSION",
+        "notes": "Beat 5 · FS-002 · giữ CHAR-002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8,
+          -16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-FOREST-BEAST-PATH",
+        "name_vi": "Mòn thú · áp sát",
+        "name_hv": "Mòn thú",
+        "kind": "route",
+        "visibility": "public",
+        "direction_label": "Bắc tây",
+        "parent_id": "LOC-FOREST-MISSION",
+        "notes": "Beat 5 · áp lực thời gian"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -20,
+            8
+          ],
+          [
+            -14,
+            -4
+          ],
+          [
+            -8,
+            -16
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LOC-FOREST-EXIT-NORTH",
+        "name_vi": "Lối rút · về trấn",
+        "name_hv": "Lối rút",
+        "kind": "route",
+        "visibility": "mc_phase1",
+        "direction_label": "Đông bắc",
+        "parent_id": "LOC-FOREST-MISSION",
+        "notes": "Beat 6 · mang trẻ"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -8,
+            -16
+          ],
+          [
+            4,
+            -6
+          ],
+          [
+            28,
+            12
+          ]
+        ]
+      }
+    }
+  ]
+}

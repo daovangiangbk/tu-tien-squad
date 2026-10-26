@@ -6,7 +6,7 @@
       "properties": {
         "id": "CHL-NGOC-LAM",
         "name_vi": "Ngọc Lâm đại lục",
-        "name_hv": "玉林大陆",
+        "name_hv": "Ngọc Lâm đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -490,7 +490,7 @@
         "id": "REG-NL-NAM-HAI",
         "name_vi": "Nam Hải linh cảng",
         "kind": "polity",
-        "name_hv": "南海灵港",
+        "name_hv": "Nam Hải linh cảng",
         "linh_khi_tier": "rất_dày",
         "visibility": "public",
         "notes": "Phi thuyền Vân Hải · Cửu Lạc — thuế linh thạch hạng thượng"
@@ -797,7 +797,7 @@
         "id": "REG-NL-LAM-TINH",
         "name_vi": "Lam Tinh trấn",
         "kind": "polity",
-        "name_hv": "林星镇",
+        "name_hv": "Lam Tinh trấn",
         "linh_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Dược thương trung tâm · hub LOC-NL-LAM-TINH"
@@ -972,7 +972,7 @@
         "id": "REG-NL-BICH-HO",
         "name_vi": "Bích Hồ",
         "kind": "resource",
-        "name_hv": "碧湖",
+        "name_hv": "Bích Hồ",
         "linh_khi_tier": "rất_dày",
         "visibility": "public",
         "notes": "Linh thảo hạng cao — đan các monopoly"
@@ -1135,7 +1135,7 @@
         "id": "REG-NL-THAO-COC",
         "name_vi": "Thảo Cốc",
         "kind": "resource",
-        "name_hv": "药谷",
+        "name_hv": "Thảo Cốc",
         "linh_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Thung lũng dược — tranh quota hội thương"
@@ -1274,7 +1274,7 @@
         "id": "REG-NL-TAY-LAM",
         "name_vi": "Tây Lâm · rìa tây",
         "kind": "wilderness",
-        "name_hv": "西林",
+        "name_hv": "Tây Lâm",
         "linh_khi_tier": "dày",
         "visibility": "public"
       }
@@ -1468,7 +1468,7 @@
         "id": "BRR-NL-THAN-SON",
         "name_vi": "Dãy Thần Sơn",
         "kind": "barrier",
-        "name_hv": "神山",
+        "name_hv": "Dãy Thần Sơn",
         "linh_khi_tier": "mach_rải_cao",
         "visibility": "public",
         "notes": "Mộc mạch rải — yêu tộc biên giới"
@@ -1767,7 +1767,7 @@
         "id": "REG-NL-THAN-MOC",
         "name_vi": "Thần Mộc lâm",
         "kind": "wilderness",
-        "name_hv": "神木林",
+        "name_hv": "Thần Mộc lâm",
         "linh_khi_tier": "rất_dày",
         "visibility": "public",
         "notes": "Yêu tộc biên — linh khí ổn định"
@@ -2062,7 +2062,7 @@
         "id": "REG-NL-CUU-VIEN",
         "name_vi": "Cửu Viên",
         "kind": "dungeon",
-        "name_hv": "九园",
+        "name_hv": "Cửu Viên",
         "linh_khi_tier": "dong_phu_T2",
         "visibility": "hidden_logic",
         "notes": "Bí cảnh Mộc — đan dược cổ"
@@ -2301,7 +2301,7 @@
         "id": "REG-NL-TRUNG-DU",
         "name_vi": "Trung Du · đồng bằng",
         "kind": "wilderness",
-        "name_hv": "中域",
+        "name_hv": "Trung Du",
         "linh_khi_tier": "rất_dày",
         "visibility": "public",
         "notes": "Đồng bằng linh mộc — nối Lam Tinh và Thần Mộc"
@@ -2472,7 +2472,7 @@
         "id": "REG-NL-BAC-PHONG",
         "name_vi": "Bắc Phong",
         "kind": "wilderness",
-        "name_hv": "北风",
+        "name_hv": "Bắc Phong",
         "linh_khi_tier": "dày",
         "visibility": "public",
         "notes": "Hướng Cửu Lạc REG-CL-BAC-PHONG — gió linh"
@@ -2599,7 +2599,7 @@
         "id": "REG-NL-DONG-LINH",
         "name_vi": "Đông Linh · biên Trung Linh",
         "kind": "wilderness",
-        "name_hv": "东灵",
+        "name_hv": "Đông Linh",
         "linh_khi_tier": "rất_dày",
         "visibility": "public",
         "notes": "Đối diện REG-TL-DONG-HAI / Đông Lam"
@@ -2638,7 +2638,7 @@
         "id": "REG-NL-BAC-DONG",
         "name_vi": "Bắc Đông · uyên đông bắc",
         "kind": "wilderness",
-        "name_hv": "北东",
+        "name_hv": "Bắc Đông",
         "linh_khi_tier": "dày",
         "visibility": "public"
       }
@@ -2804,7 +2804,7 @@
         "id": "REG-NL-NGOAI-VI",
         "name_vi": "Ngoại Vi · đảo phía đông",
         "kind": "wilderness",
-        "name_hv": "外围",
+        "name_hv": "Ngoại Vi",
         "linh_khi_tier": "dày",
         "visibility": "mc_phase1"
       }
@@ -2821,7 +2821,7 @@
       "properties": {
         "id": "LOC-NL-LAM-TINH",
         "name_vi": "Lam Tinh · trấn chính",
-        "name_hv": "林星",
+        "name_hv": "Lam Tinh",
         "kind": "hub",
         "visibility": "public",
         "linh_khi_tier": "mach_chủ"
@@ -2925,7 +2925,7 @@
       "properties": {
         "id": "ROUTE-NL-BAC-CUU-LAC",
         "name_vi": "Thương lộ Bắc Phong",
-        "name_hv": "北风路",
+        "name_hv": "Thương lộ Bắc Phong",
         "kind": "route",
         "from_id": "REG-NL-BAC-PHONG",
         "to_id": "REG-CL-BAC-PHONG",
@@ -3126,7 +3126,7 @@
       "properties": {
         "id": "RIVER-NL-BICH-HO",
         "name_vi": "Bích Hồ linh thủy",
-        "name_hv": "碧湖水",
+        "name_hv": "Bích Hồ linh thủy",
         "kind": "route",
         "from_id": "REG-NL-BICH-HO",
         "to_id": "REG-NL-NAM-HAI"

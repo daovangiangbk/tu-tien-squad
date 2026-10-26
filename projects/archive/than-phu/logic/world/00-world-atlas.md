@@ -1,6 +1,6 @@
 # Đại cục thế giới — Thần Phù
 
-> Tóm lược tinh hà **Phù Vi Tinh Hà** (符微星河) — **tách biệt** `tap-linh-dieu-lo`. Tên canon: `interface/naming/registry.md` · brief §8 v1.1 (2026-09-17).
+> Tóm lược tinh hà **Phù Vi Tinh Hà** — **tách biệt** `tap-linh-dieu-lo`. Tên canon: `interface/naming/registry.md` · brief §8 v1.1 (2026-09-17).
 
 **GeoJSON (4 tầng):** [`geo/00-tinh-ha.geojson`](geo/00-tinh-ha.geojson) · châu lục MC [`geo/chau-luc/chl-phu-vien.geojson`](geo/chau-luc/chl-phu-vien.geojson) · region [`geo/region/reg-gia-toc-phu-vuc.geojson`](geo/region/reg-gia-toc-phu-vuc.geojson). Quy ước: [`foundation/logic/00-geojson-world-map-convention.md`](../../../foundation/logic/00-geojson-world-map-convention.md) (v2).
 

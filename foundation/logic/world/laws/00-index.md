@@ -12,7 +12,14 @@
 2. [`02-thien-dao-ban-co.md`](02-thien-dao-ban-co.md) — Thiên Đạo cục bộ hình thành trong Không gian Bàn Cổ.
 3. [`03-nghich-ly-tu-luyen.md`](03-nghich-ly-tu-luyen.md) — vì sao tu sĩ vừa phục vụ vừa đe dọa trật tự.
 4. [`04-co-che-phan-hoi-va-gioi-han.md`](04-co-che-phan-hoi-va-gioi-han.md) — thiên kiếp, thiên phạt, nhân quả, giới môn và phản ứng khi phá Giới Tường.
-5. [`../history/tier-00/00a-phu-luc-cau-truc-khong-gian-ban-co.md`](../history/tier-00/00a-phu-luc-cau-truc-khong-gian-ban-co.md) — vị trí Hỗn Độn, Giới Tường, Vực Ngoại nội giới, Tam Giới và bốn giới diện vật chất.
+5. [`05-chien-luc-index.md`](05-chien-luc-index.md) — hệ chiến lực đa trục, điều kiện vượt cấp và thứ tự đánh giá.
+6. [`05a-nen-tang-ban-the.md`](05a-nen-tang-ban-the.md) — tu vi, linh căn, thể chất, nhục thân và ba kho dự trữ.
+7. [`05b-cong-phap-ky-phap-va-dao-y.md`](05b-cong-phap-ky-phap-va-dao-y.md) — công pháp, kỹ pháp, độ thuần thục, ý–thế–vực.
+8. [`05c-ngoai-vat-va-chien-tran.md`](05c-ngoai-vat-va-chien-tran.md) — pháp bảo, phù, trận, đan, linh sủng và khôi lỗi.
+9. [`05d-ngo-dao-phap-tac-va-khi-van.md`](05d-ngo-dao-phap-tac-va-khi-van.md) — pháp tắc, va chạm luật và giới hạn khí vận.
+10. [`05e-than-hon-tam-canh-va-thuc-chien.md`](05e-than-hon-tam-canh-va-thuc-chien.md) — thần thức, đạo tâm, thông tin và nhịp chiến.
+11. [`05f-danh-gia-chien-luc-va-vuot-cap.md`](05f-danh-gia-chien-luc-va-vuot-cap.md) — hồ sơ chiến lực, điều kiện vượt cấp và ma trận review.
+12. [`../history/tier-00/00a-phu-luc-cau-truc-khong-gian-ban-co.md`](../history/tier-00/00a-phu-luc-cau-truc-khong-gian-ban-co.md) — vị trí Hỗn Độn, Giới Tường, Vực Ngoại nội giới, Tam Giới và bốn giới diện vật chất.
 
 ## 2. Ba tầng chi phối
 
@@ -62,7 +69,11 @@ laws/01 Đại Đạo Nguyên Thủy
             └─> laws/03 Nghịch lý tu luyện
                   ├─> core/03 power system
                   ├─> công pháp, cảnh giới, thiên kiếp
-                  └─> laws/04 phản hồi và giới hạn
+                  ├─> laws/04 phản hồi và giới hạn
+                  └─> laws/05–05f hệ chiến lực đa trục
+                        ├─> bản thể + kỹ pháp
+                        ├─> ngoại vật + pháp tắc
+                        └─> tâm–trí + vượt cấp
 ```
 
 **Hướng áp dụng:** Luật nền quy định điều có thể xảy ra; lịch sử giải thích vì sao trạng thái hiện tại thành hình; hệ cảnh giới định lượng sức chứa; cốt truyện chọn ai trả giá. Atlas và dữ liệu địa lý chỉ định vị nơi diễn ra, không được tự tạo quy luật vũ trụ mới.
@@ -72,6 +83,7 @@ laws/01 Đại Đạo Nguyên Thủy
 - Bộ luật này là nguồn chính cho mọi diễn giải về **Đại Đạo**, **Thiên Đạo**, **nghịch thiên**, **Thiên kiếp**, **Hòa Thiên**, **Siêu Thoát**, **Phá Thiên**, **Giới Tường**, **Cốt Họa** và **Bế Hoàn**.
 - `foundation/core/02-world-laws-lore-core.md` giữ bản tóm vận hành; nếu cần chi tiết phải trỏ về đây.
 - `foundation/core/03-power-system-economy-core.md` giữ tên bậc, sức chứa và tài nguyên; không tự định nghĩa bản thể của Thiên Đạo.
+- `laws/05–05f` giữ cơ chế tổng hợp chiến lực và vượt cấp; catalog tài nguyên giữ tên vật phẩm cụ thể, không lặp luật tổng hợp.
 - Các thiên sử có thể chứa nhận thức sai của người đời. Sai lệch phải được đánh dấu là truyền thuyết, tuyên truyền, bí mật chưa mở hoặc cách gọi cũ.
 - **Thiên Giới** theo chính sử là **Thiên Đạo Hải** phi vật chất. **Thần Giới** là giới diện vật chất cao nhất. Hai khái niệm không hoán đổi trong lời trần thuật canon.
 

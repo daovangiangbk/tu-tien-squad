@@ -12,7 +12,7 @@
 
 ## Giữa
 
-- **Hỗn loạn có cấu trúc (III):** Tranh **suất leo** / **phân bổ khí** sau hy sinh — **Tạ Minh Huy** (谢明徽) **hưởng** slot an toàn hơn trên sổ; tán tu thuê **bị** ép **vá** hoặc **rút** im; có thể **một** xung đột nhỏ (khí / tranh cãi / chấp sự can) — **không** trận Kim Đan solo MC.
+- **Hỗn loạn có cấu trúc (III):** Tranh **suất leo** / **phân bổ khí** sau hy sinh — **Tạ Minh Huy** **hưởng** slot an toàn hơn trên sổ; tán tu thuê **bị** ép **vá** hoặc **rút** im; có thể **một** xung đột nhỏ (khí / tranh cãi / chấp sự can) — **không** trận Kim Đan solo MC.
 - **FS-010 nurture (Beat 6 mở):** MC **thấy quả chồng quả** — không giải **Thiên Đạo**:
   - **Quá khứ Arc 1** echo (mất lối / trễ bán / hao tài nguyên vì **cứu**) ↔ **nay**: cố **Hữu** trên mạch (**FS-011** ch.70–72) → **khế cắn** + **suất không đổi** + **bia không tên** — **chính trị** trả bằng **phân bổ lại** (vd. hiệu số khác **mất** nhánh / linh thạch trừ / điểm tin cậy trên sổ thuê **đen** một nét) — reader/MC tưởng chỉ **thiệt vật chất**, thực ra **Nhân-Quả mầm** (sổ có **sổ**, chưa nói thẳng).
   - **Một** hậu quả **cụ thể, đo được** trong ch.73 (linh thạch / slot / manh mối vé) — **không** payoff mạch đoạn (→ ch.77+).

@@ -19,7 +19,7 @@
       "properties": {
         "id": "REG-CL-CUU-KHAU-AREA",
         "name_vi": "Phạm vi Cửu Khẩu đài",
-        "name_hv": "九口域",
+        "name_hv": "Phạm vi Cửu Khẩu đài",
         "kind": "polity",
         "visibility": "public",
         "linh_khi_tier": "dong_phu_T3",
@@ -282,7 +282,7 @@
       "properties": {
         "id": "LOC-CL-CUU-KHAU",
         "name_vi": "Cửu Khẩu · phi thăng",
-        "name_hv": "九口",
+        "name_hv": "Cửu Khẩu",
         "kind": "hub",
         "visibility": "public",
         "linh_khi_tier": "dong_phu_T3",
@@ -301,7 +301,7 @@
       "properties": {
         "id": "LOC-CL-CUU-MEN",
         "name_vi": "Cửu Khẩu · đài môn",
-        "name_hv": "九口门",
+        "name_hv": "Cửu Khẩu",
         "kind": "dungeon",
         "visibility": "hidden_logic",
         "direction_label": "Trung tâm",
@@ -321,7 +321,7 @@
       "properties": {
         "id": "LOC-CL-LAC-TAM-NE",
         "name_vi": "Lạc Tam trì · cửa bắc",
-        "name_hv": "洛三池",
+        "name_hv": "Lạc Tam trì",
         "kind": "resource",
         "visibility": "public",
         "direction_label": "Bắc",
@@ -341,7 +341,7 @@
       "properties": {
         "id": "LOC-CL-HOI-THANH",
         "name_vi": "Hội thành Cửu Khẩu",
-        "name_hv": "九口会城",
+        "name_hv": "Hội thành Cửu Khẩu",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Nam đông",
@@ -361,7 +361,7 @@
       "properties": {
         "id": "LOC-CL-TAN-TIEN-MEN",
         "name_vi": "Tàn Tiên · cửa đông",
-        "name_hv": "残仙口",
+        "name_hv": "Tàn Tiên",
         "kind": "dungeon",
         "visibility": "hidden_logic",
         "direction_label": "Đông bắc",
@@ -380,7 +380,7 @@
       "properties": {
         "id": "LOC-CL-BAC-PHONG-MEN",
         "name_vi": "Bắc Phong · ải gió",
-        "name_hv": "北风关",
+        "name_hv": "Bắc Phong",
         "kind": "hub",
         "visibility": "public",
         "direction_label": "Bắc · mép region",
@@ -399,7 +399,7 @@
       "properties": {
         "id": "LOC-CL-NAM-HAI-MEN",
         "name_vi": "Nam Hải · cửa sông",
-        "name_hv": "南海关",
+        "name_hv": "Nam Hải",
         "kind": "hub",
         "visibility": "public",
         "direction_label": "Nam · mép region",
@@ -418,7 +418,7 @@
       "properties": {
         "id": "LOC-CL-CUU-SON-FOOT",
         "name_vi": "Chân Cửu Sơn · biên tây",
-        "name_hv": "九山脚",
+        "name_hv": "Chân Cửu Sơn",
         "kind": "barrier",
         "visibility": "public",
         "direction_label": "Tây",
@@ -457,7 +457,7 @@
       "properties": {
         "id": "RIVER-CL-CUU-LAC-URBAN",
         "name_vi": "Cửu Lạc hà · đoạn đài",
-        "name_hv": "九洛河",
+        "name_hv": "Cửu Lạc hà",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-CL-CUU-KHAU",
@@ -496,7 +496,7 @@
       "properties": {
         "id": "ROUTE-CL-KHAU-LAC-TAM",
         "name_vi": "Đạo Khẩu–Tam trì",
-        "name_hv": "口池道",
+        "name_hv": "Đạo Khẩu–Tam trì",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-CL-CUU-KHAU",
@@ -531,7 +531,7 @@
       "properties": {
         "id": "ROUTE-CL-KHAU-BAC-PHONG",
         "name_vi": "Đạo Bắc Phong",
-        "name_hv": "北风道",
+        "name_hv": "Đạo Bắc Phong",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-CL-CUU-KHAU",
@@ -566,7 +566,7 @@
       "properties": {
         "id": "ROUTE-CL-KHAU-TAN-TIEN",
         "name_vi": "Đường Tàn Tiên",
-        "name_hv": "残仙道",
+        "name_hv": "Đường Tàn Tiên",
         "kind": "route",
         "visibility": "hidden_logic",
         "from_id": "LOC-CL-CUU-KHAU",

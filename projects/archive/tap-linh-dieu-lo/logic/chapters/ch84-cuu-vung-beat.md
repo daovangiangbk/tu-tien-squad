@@ -7,7 +7,7 @@
 ## Mở
 
 - Nối **cliff ch.83:** **Sa** **Hồng** **Phàm** **mirror** **xong**; MC **đã** **phân** **biệt** **shortcut** **Ma**; **Trúc Cơ Trung**, **Linh Dịch lệch**, **nợ treo**, **khế**; **hút** **/ lợi** **ngắn** **đã** **biết** **cơ** **chế** (ch.82).
-- **Khung thời gian:** **Một** **canh** **–** **nửa** **ngày** **quanh** **断** — **«cứu** **vùng** **ngắn»** **đo** **bằng** **mắt**, **không** **đại** **trận**.
+- **Khung thời gian:** **Một** **canh** **–** **nửa** **ngày** **quanh** **Đoạn** — **«cứu** **vùng** **ngắn»** **đo** **bằng** **mắt**, **không** **đại** **trận**.
 
 ## Giữa
 

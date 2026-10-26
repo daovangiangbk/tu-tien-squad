@@ -17,6 +17,6 @@ Không có mục bắt buộc sửa.
 | ID | [ ] sửa / [ ] bỏ qua |
 | --- | --- |
 
-*(r1 **đã vá:** *quy mô nhỏ* · *chưa chốt trên vách* · Canh **Tỵ** vách **tám** + eavesdrop **tám** / *nếu* **mười một** trước ca tro **Mùi** · cập vách **Dậu**. Nối ch.91 · MC **chưa** gian lận · **+3** → **mười một** · cliff **Ngọ**/**断** → ch.93 — khớp beat.)*
+*(r1 **đã vá:** *quy mô nhỏ* · *chưa chốt trên vách* · Canh **Tỵ** vách **tám** + eavesdrop **tám** / *nếu* **mười một** trước ca tro **Mùi** · cập vách **Dậu**. Nối ch.91 · MC **chưa** gian lận · **+3** → **mười một** · cliff **Ngọ**/**Đoạn** → ch.93 — khớp beat.)*
 
 *(Human có thể coi chương pass.)*

@@ -23,7 +23,7 @@ child_index:
 
 ## 1. Bản chất giới
 
-**Linh Giới** (灵界) là **giới diện vật chất song song II** trong Nhân Giới (Luật 6): vũ trụ riêng, không xếp chồng Phàm/Tiên theo phương vị thường, ngăn cách bởi **giới bích nội tầng**. Đây là **cõi chân tu** — môi trường **Thiên Địa Linh Khí** đủ dày để **Luyện Khí (12 tầng) → Trúc Cơ → Kim Đan → Nguyên Anh → Hóa Thần → Luyện Hư → Hợp Thể → Đại Thừa → Độ Kiếp** hoàn tất **trong cùng giới**, trước khi vượt **Linh–Tiên** bằng **Phi thăng** sau **Cửu Cửu** (81 đạo lôi kiếp).
+**Linh Giới** là **giới diện vật chất song song II** trong Nhân Giới (Luật 6): vũ trụ riêng, không xếp chồng Phàm/Tiên theo phương vị thường, ngăn cách bởi **giới bích nội tầng**. Đây là **cõi chân tu** — môi trường **Thiên Địa Linh Khí** đủ dày để **Luyện Khí (12 tầng) → Trúc Cơ → Kim Đan → Nguyên Anh → Hóa Thần → Luyện Hư → Hợp Thể → Đại Thừa → Độ Kiếp** hoàn tất **trong cùng giới**, trước khi vượt **Linh–Tiên** bằng **Phi thăng** sau **Cửu Cửu** (81 đạo lôi kiếp).
 
 - **Không** đồng nghĩa “chỉ toàn tu sĩ”: phàm nhân (vô + hữu căn chưa khai) vẫn **đa số**; tu **Luyện Khí+** là **thiểu số** quyền lực (Luật 6b). Sức mạnh xã hội = tu vi **cộng** mạch, tông, trận, pháp bảo, kinh tế linh thạch.
 - **Trần chiến lực “thường gặp”** trên Linh: **Hóa Thần** — cao hơn vẫn tu trên Linh tới **Độ Kiếp**; **Chân Tiên+** thuộc **Tiên Giới** sau khi qua bích (Core §1.3 ghi chú agent).
@@ -159,7 +159,7 @@ Không lặp bảng Core — nguyên tắc vận hành trên **mọi** tinh hà 
 
 1. **Cảnh giới là nền** — kỹ năng lấn **một bậc tiểu cảnh giới** tối đa trong cùng đại cảnh giới; không ý chí bù một **đại** cảnh giới.
 2. **Địa lợi:** linh mạch, trận đĩa, cấm địa — **không mang theo**; tranh mạch = tranh **sàn** chiến.
-3. **Hợp trận (合阵):** ≈ cao nhất trong trận **+1 tiểu bậc**; phá **阵眼** — `08-tran-phap.md`.
+3. **Hợp trận (Hợp Trận — Tam Tài):** ≈ cao nhất trong trận **+1 tiểu bậc**; phá **TrậnNhãn** — `08-tran-phap.md`.
 4. **Pháp bảo cao hơn phẩm:** không vượt **một đại cảnh giới** ổn định; hao pháp lực / hồn phách.
 5. **Hóa Thần+ chiến dài:** rút cạn **linh mạch** vùng — phe yếu mạch thua dù còn đan.
 6. **Thần thông đích:** từ **Hóa Thần+** — `09-shentong-va-cong-phap.md`; tiêu hao linh lực, thần thức, thể lực.

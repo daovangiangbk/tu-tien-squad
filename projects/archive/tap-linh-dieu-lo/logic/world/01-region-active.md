@@ -11,7 +11,7 @@
 
 ## 1. Vị trí trên đại cục
 
-- **Trung tâm điều phối:** **Thạch Lam Thành** (石岚城) — thành trì tu tiên **lam sa thạch**, **ngoài ranh giới** phía bắc–đông bắc **Lan Sa Châu** (từ phế địa: ngàn dặm cát rồi ánh lam thành).
+- **Trung tâm điều phối:** **Thạch Lam Thành** — thành trì tu tiên **lam sa thạch**, **ngoài ranh giới** phía bắc–đông bắc **Lan Sa Châu** (từ phế địa: ngàn dặm cát rồi ánh lam thành).
 - **Phế địa gốc:** **Cửu Huyền Phế Trận** / **Kiến Sa Địa** — cách Thạch Lam khoảng **hai đến ba ngày** đi bộ hoặc xe thương nhân qua **sa mạc biên**.
 - **Mạch tranh chấp:** **Đan Sa Phụ Mạch** (nhánh thứ bảy) — khoảng **hai đến ba ngày** xe từ Thạch Lam theo **đường đất đỏ đông nam**.
 - **Bí cảnh chung treo vé:** **Thiên Sa Công Uyên** — cổng **tây** Thạch Lam (cột treo tin; nhân vật trung tâm **chưa vào**).
@@ -24,11 +24,11 @@
 
 ```
                     BẮC
-         Dãy Lạc Nhạn (落雁) · cờ Thanh Vi Tông
+         Dãy Lạc Nhạn (Lạc) · cờ Thanh Vi Tông
          (Kim Đan trưởng lão — gián tiếp)
                     |
     TÂY ── Cổng tây · cột Thiên Sa Công Uyên
-           · U Ngõ (幽巷) · Sát Thủ Các
+           · U Ngõ (U Ngõ) · Sát Thủ Các
            · cống / Hạ Thành sườn thành
                     |
               THẠCH LAM THÀNH
@@ -121,7 +121,7 @@
 | **Đan Sa đồn** | **Trúc Cơ** (thuê); **Trúc Cơ** phe | **Kim Đan** **một đòn** rồi rút |
 | **Đan Hội Phường** | **Trúc Cơ** lao động; đan sư xám | Kim Đan **treo** quyền lực, không combat thường |
 
-**Tô Diêu (thời điểm active):** **Trúc Cơ Đại Viên Mãn**; **Linh Dịch lệch** (che một tầng, **không** heal); **3 hạt lẻ**; khế **断** / đoạn mạch.
+**Tô Diêu (thời điểm active):** **Trúc Cơ Đại Viên Mãn**; **Linh Dịch lệch** (che một tầng, **không** heal); **3 hạt lẻ**; khế **Đoạn** / đoạn mạch.
 
 ---
 

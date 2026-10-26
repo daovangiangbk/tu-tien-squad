@@ -23,7 +23,7 @@
       "properties": {
         "id": "CHL-HA-GIOI-NAM",
         "name_vi": "Đại Hoang Lục địa · Hạ Giới (Phàm giới)",
-        "name_hv": "大荒大陆",
+        "name_hv": "Đại Hoang Lục địa",
         "kind": "continent",
         "notes": "Vỏ lục = silhouette CHL-HA-GIOI-NAM từ 00-tinh-ha; parent SW [-34.0, -197.0]; k≈6.19; hub LOC-THACH-LAM (620,380)",
         "realm": "ha_gioi_pham_gioi"
@@ -552,7 +552,7 @@
         "id": "CHAU-LAN-SA",
         "name_vi": "Lan Sa Châu",
         "kind": "polity",
-        "name_hv": "蓝沙洲",
+        "name_hv": "Lan Sa Châu",
         "linh_khi_tier": "cực_thấp",
         "event_scale": "II"
       }
@@ -666,7 +666,7 @@
         "id": "REG-U-MOC-DAM-DONG",
         "name_vi": "U Mộc Lâu · rừng rậm đông",
         "kind": "wilderness",
-        "name_hv": "幽木洲",
+        "name_hv": "U Mộc Lâu",
         "visibility": "public"
       }
     },
@@ -967,7 +967,7 @@
         "id": "REG-TAY-BANG",
         "name_vi": "Tây Bang · cao nguyên gió",
         "kind": "wilderness",
-        "name_hv": "西邦",
+        "name_hv": "Tây Bang",
         "visibility": "mc_phase1"
       }
     },
@@ -1136,7 +1136,7 @@
         "id": "BRR-NGOC-COT-LONG-LINH",
         "name_vi": "Ngọc Cốt Long Lĩnh",
         "kind": "barrier",
-        "name_hv": "玉骨龙岭",
+        "name_hv": "Ngọc Cốt Long Lĩnh",
         "notes": "Vùng phân vùng — dãy núi"
       }
     },
@@ -1337,7 +1337,7 @@
         "id": "REG-NOI-DONG-NAM",
         "name_vi": "Nội địa đông nam · Thạch Lam vực",
         "kind": "wilderness",
-        "name_hv": "内域",
+        "name_hv": "Nội địa đông nam",
         "notes": "Khung truyện coarse"
       }
     },
@@ -1502,7 +1502,7 @@
         "id": "BRR-LAC-NHAN",
         "name_vi": "Dãy Lạc Nhạn",
         "kind": "barrier",
-        "name_hv": "落雁岭",
+        "name_hv": "Dãy Lạc Nhạn",
         "notes": "Vùng phân vùng — dãy Lạc Nhạn"
       }
     },
@@ -1611,7 +1611,7 @@
         "id": "REG-HOANG-BAC",
         "name_vi": "Hoang địa bắc · biên mạch yếu",
         "kind": "wilderness",
-        "name_hv": "北荒",
+        "name_hv": "Hoang địa bắc",
         "event_scale": "II-III",
         "visibility": "public"
       }
@@ -1653,7 +1653,7 @@
         "id": "REG-DONG-HAI-AN",
         "name_vi": "Đông Hải · cửa biển phía đông",
         "kind": "wilderness",
-        "name_hv": "东海岸",
+        "name_hv": "Đông Hải",
         "linh_khi_tier": "thấp",
         "visibility": "mc_phase1",
         "notes": "Cảng nhỏ, thương nhân; chưa mở arc chính"
@@ -1748,7 +1748,7 @@
         "id": "REG-NAM-CUC-HOANG",
         "name_vi": "Nam cực hoang · Cửu Huyền vực",
         "kind": "wilderness",
-        "name_hv": "南荒",
+        "name_hv": "Nam cực hoang",
         "linh_khi_tier": "loạn_cụ_bo",
         "event_scale": "II",
         "visibility": "public",
@@ -1976,7 +1976,7 @@
         "id": "REG-TRUNG-NGUYEN",
         "name_vi": "Trung nguyên · mạch trung bình",
         "kind": "wilderness",
-        "name_hv": "中原",
+        "name_hv": "Trung nguyên",
         "linh_khi_tier": "trung_bình",
         "visibility": "hidden_logic",
         "notes": "Gia tộc vừa; slot mở rộng Kim Đan+"
@@ -2092,7 +2092,7 @@
       "properties": {
         "id": "RIVER-HAN-THUY",
         "name_vi": "Hàn Thủy",
-        "name_hv": "寒水",
+        "name_hv": "Hàn Thủy",
         "kind": "route"
       }
     },
@@ -2274,7 +2274,7 @@
       "properties": {
         "id": "RIVER-LAM-HA",
         "name_vi": "Lam Hà",
-        "name_hv": "蓝河",
+        "name_hv": "Lam Hà",
         "kind": "route"
       }
     },
@@ -2392,7 +2392,7 @@
       "properties": {
         "id": "RIVER-CUU-UYEN",
         "name_vi": "Cửu Uyên Giang",
-        "name_hv": "九渊江",
+        "name_hv": "Cửu Uyên Giang",
         "kind": "route"
       }
     },
@@ -2408,7 +2408,7 @@
       "properties": {
         "id": "LOC-THACH-LAM",
         "name_vi": "Thạch Lam Thành",
-        "name_hv": "石岚城",
+        "name_hv": "Thạch Lam Thành",
         "kind": "hub",
         "event_scale": "III",
         "notes": "Neo châu lục; region parent_coordinates = điểm này"
@@ -2426,7 +2426,7 @@
       "properties": {
         "id": "LOC-LAC-NHAN",
         "name_vi": "Lạc Nhạn",
-        "name_hv": "落雁",
+        "name_hv": "Lạc Nhạn",
         "kind": "settlement",
         "faction": "Thanh Vi Tông",
         "event_scale": "III"

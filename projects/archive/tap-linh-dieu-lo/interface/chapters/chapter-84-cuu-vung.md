@@ -7,7 +7,7 @@
 
 ---
 
-Canh Thìn — tre đen đã rút sâu; **断** còn trong mắt như vết mực chưa khô.
+Canh Thìn — tre đen đã rút sâu; **Đoạn** còn trong mắt như vết mực chưa khô.
 
 Mão tan, hắn vẫn ở hành lang phụ tây **ba trượng** — không ngủ trọn, lưng tựa đá, túi rỗng, khế **im** nhưng **nặng**. Trúc Cơ Trung lệch; Linh Dịch **dính** sau chuỗi Hợi–Dần–Mão: không vỡ, không lành, chỉ **mỏng** như da bọc xương quá chật. Mão đã khép trên sổ phụ; Thìn chỉ thêm **một tích**: vòng chết **siết** lại khi gió tây nam lặng, như miệng hố nuốt hơi *cứu ngắn* đã cho.
 
@@ -21,11 +21,11 @@ Thẻ hai mươi tám cọ vào đầu ngón — bia, hiệu số, Mạnh Hải 
 
 ---
 
-Canh Ngọ — nắng **断** xám, không nóng.
+Canh Ngọ — nắng **Đoạn** xám, không nóng.
 
 Chấp sự trung không lên mõ; chỉ **treo** sổ phụ tây, giọng đủ hành lang:
 
-— **断** · Thìn–Ngọ · tam giác **ổn mỏng** · phế **chưa khai** · **cấm hút** · **lậu** ưu tiên giấy · **Huyết Sa** — **không** đọc tên trên đài · **trừ** suất ai gắn sớm.
+— **Đoạn** · Thìn–Ngọ · tam giác **ổn mỏng** · phế **chưa khai** · **cấm hút** · **lậu** ưu tiên giấy · **Huyết Sa** — **không** đọc tên trên đài · **trừ** suất ai gắn sớm.
 
 Tin **lậu** và tin *ổn tam giác* **cùng một canh** — chính trị song song Ma tan trước cọc đỏ, đài trừ người chứng kiến, phế **không** ghi đủ hút. Hắn **không** tưởng Thanh Vi công nhận Huyết Sa; cũng **không** tưởng Ma cần cờ trên vai hắn. **Đứng giữa** = trả bằng ca và nợ treo — khế đội không cần thêm phù dưới hang.
 
@@ -37,7 +37,7 @@ Hắn gật. **Đúng** sổ — và **đau** sổ. Hao thần đêm Hợi, trin
 
 Lệnh mới trên tre đen — không đài, chỉ phụ:
 
-— **Mười bảy** · **rút sâu** phía bắc hành lang · **không** tam giác · **không** bám phế · chờ ca mới · **断** vẫn cấm xuống.
+— **Mười bảy** · **rút sâu** phía bắc hành lang · **không** tam giác · **không** bám phế · chờ ca mới · **Đoạn** vẫn cấm xuống.
 
 **Rút sâu** = xa miệng hố, xa tro mới, **không** xa khế. Hắn bước theo hành lang bắc — đá ẩm, Mộc loãng từ mạch sống **cắn** Trung một tích mỗi bậc. Phía sau, tam giác **veo** lại chiều cắn cổ — *cứu ngắn* **tan** đúng nhịp canh, không kéo dài thành linh mạch sống, **không** vá bảy nhánh đã chết trên tre tông Sa Hồng Phàm nói.
 
@@ -49,15 +49,15 @@ Canh Mùi — hành lang bắc **vắng** hơn phụ tây.
 
 Không cờ trong ba trượng; chỉ **đá sống** và **tre đen** chờ ca. Hắn ngồi, thần thức **không** quét tam giác — quét là hao thêm, là khế tưởng hắn bám. Trong đầu **Thuận** và **Nghịch** **khép** đủ mảnh: trên mõ — vá từng tích, ca, hạt, im, chịu trừ vì mắt thấy; dưới rìa — hút nhánh đã chết, trả trước, tro phế. **Cùng** vùng còn thở; **khác** sổ ký và **thời điểm** nợ. Không cần ai giảng; chỉ **phế** nằm giữa hai miệng như miệng hố thứ ba chưa ai đặt tên trên bia.
 
-Đan, hiệp hội, đường lậu — lựa chọn lớn **treo** trước đại cục sau; hắn **cảm** bằng da: vá chậm và hút nhanh; hạt trên mõ và tro dưới hang. Lựa chọn lớn **chưa** tới; đất **断** chỉ bắt hắn **đọc** giá một tầng — nghiệp mầm **lộ**, không Thiên Đạo giải.
+Đan, hiệp hội, đường lậu — lựa chọn lớn **treo** trước đại cục sau; hắn **cảm** bằng da: vá chậm và hút nhanh; hạt trên mõ và tro dưới hang. Lựa chọn lớn **chưa** tới; đất **Đoạn** chỉ bắt hắn **đọc** giá một tầng — nghiệp mầm **lộ**, không Thiên Đạo giải.
 
 Mảnh Cửu Huyền Trận lạnh **mỏng** sau khi xám Mão tan — một nhịp, không sáng, không mở; nhắc sợi nghịch cục bộ có **chủ**, không phải tà vật ăn cắp mạch chính. Lạnh **song song** tro mới trên tre hang — nghiệp và mảnh **cùng** ghi rìa, **chưa** đối trọn đài.
 
-Phế vẫn **mở**: không phong ấn, không khai trên mõ, miệng hút còn trong trí. Vòng Ma lậu trên **断** **đóng** một nhịp — chi nhánh, hút, so gương xám, cứu ngắn, nghiệp mầm — còn hắn vẫn tán tu thuê, khế Thanh Vi trên vai; **không** gia Ma, **không** ký rìa.
+Phế vẫn **mở**: không phong ấn, không khai trên mõ, miệng hút còn trong trí. Vòng Ma lậu trên **Đoạn** **đóng** một nhịp — chi nhánh, hút, so gương xám, cứu ngắn, nghiệp mầm — còn hắn vẫn tán tu thuê, khế Thanh Vi trên vai; **không** gia Ma, **không** ký rìa.
 
 ---
 
-Canh Thân — gió đổi; **断** mang tro còn vướng cổ.
+Canh Thân — gió đổi; **Đoạn** mang tro còn vướng cổ.
 
 Chấp sự chiều — **không** hỏi Sa Hồng Phàm; hỏi là mở *Huyết Sa* trên mõ — treo sổ phụ tây. Tô Diêu **không** có mặt phụ tây; hắn ở hành lang bắc khi dòng lề được thêm từ xa, theo lời tán tu đi ngược ca:
 
@@ -65,7 +65,7 @@ Chấp sự chiều — **không** hỏi Sa Hồng Phàm; hỏi là mở *Huyế
 
 Một tầng **cứu** **đọc trọn hơn** trên tre — không vá lại nhánh bảy; **hoãn** chết cục bộ đã **thấy** bằng cỏ vàng nhanh, tán tu ốm, tro *chưa đủ*. Câu *trả bằng gì* sáng Mão **chưa** trả lời; chiều Thân chỉ **khẳng định**: mi **trả** bằng suất dù không úp tay — và vùng **trả** bằng vàng nhanh hơn lần trước.
 
-Hắn đứng dậy theo lệnh **rút** tiếp — về kho tĩnh phía trong, nơi tán tu chờ ca mới. Bốn mươi lăm **không** tới; ranh ban ngày vẫn y giữ. Hành lang vào kho **hẹp**, đá giữ mùi tro cũ và nước ngầm; đèn tre **không** dùng — sáng Thân đủ để thấy **vết khắc** tên ca trên vách, đã mờ như bia không tên. Ba tán tu khác **ngủ** ngồi, không ngáy; ngủ trên **断** là kỹ năng, không phải an toàn.
+Hắn đứng dậy theo lệnh **rút** tiếp — về kho tĩnh phía trong, nơi tán tu chờ ca mới. Bốn mươi lăm **không** tới; ranh ban ngày vẫn y giữ. Hành lang vào kho **hẹp**, đá giữ mùi tro cũ và nước ngầm; đèn tre **không** dùng — sáng Thân đủ để thấy **vết khắc** tên ca trên vách, đã mờ như bia không tên. Ba tán tu khác **ngủ** ngồi, không ngáy; ngủ trên **Đoạn** là kỹ năng, không phải an toàn.
 
 Một mình góc kho — **không** tam giác, **không** hang tro — hắn cuối cùng **thả** thần thức không ép quét. Tay đặt lên đầu gối; khí **theo thói quen** muốn chạy một vòng nhỏ trong đan điền — vòng **cũ**, trước Trung lệch, trước mạch đoạn, trước đêm Huyết Sa. Ký ức **không** dài: Thạch Lam bột trên tay, thương chưa lành, Tạ Hàm Nguyệt sắp cột son — cùng loại *vì đại cục* khiến người còn thở **trả** trước. Hắn **không** ôm hối hận; chỉ **biết** thân đang **trả** kiểu khác: không tro phế, không hạt mõ — **suất**, **hao thần**, **lệch**.
 
@@ -77,7 +77,7 @@ Linh Dịch trong đan điền **bùng** một nhịp — **không** đột phá
 
 **Ù** — **giật** — **lạnh ngọc**: mảnh **lệch** một nhịp với đan điền như hai sổ cùng thân, khác miệng trả. Không đan sư trong kho; không phương lậu trong tay; chỉ **thân** báo **lệch** — lần đầu **đủ** để không gọi là mệt ca.
 
-Hắn **ngồi thẳng**, lòng bàn **không** úp xuống đá — úp là ký nhầm chỗ chết. Hít **nông**; Mộc **không** vào đúng đường; Linh Dịch **dày** như sương trong mạch, **không** tan. Trúc Cơ Trung vẫn Trung — **không** Hậu, **không** viên mãn; Linh Dịch **không** đồng điệu ổn định — câu hỏi **chữa ở đâu** (hiệp hội đan, thành, người lậu phương) **nổi** lên **không** có đáp án trong kho đá **断**.
+Hắn **ngồi thẳng**, lòng bàn **không** úp xuống đá — úp là ký nhầm chỗ chết. Hít **nông**; Mộc **không** vào đúng đường; Linh Dịch **dày** như sương trong mạch, **không** tan. Trúc Cơ Trung vẫn Trung — **không** Hậu, **không** viên mãn; Linh Dịch **không** đồng điệu ổn định — câu hỏi **chữa ở đâu** (hiệp hội đan, thành, người lậu phương) **nổi** lên **không** có đáp án trong kho đá **Đoạn**.
 
 Ngoài kho, chấp sự **không** biết đan điền hắn run — chỉ biết *mười bảy* chờ ca. Phế vẫn chưa khai; cỏ vàng **nhanh**; tro *chưa đủ*; đài *ổn một canh*. **Cứu vùng** khép **một tầng** trên sổ — **còn thân** chưa khép.
 
@@ -87,7 +87,7 @@ Gió lùi qua khe đá — mang Mộc mỏng từ mạch sống, **không** vào
 
 Vòng phế im **khép** trên sổ; vòng trong xương **mở** — trước khi ca mới gọi tên, trước khi ai hỏi *mười bảy có xuống không*, Tô Diêu **biết**: nợ vùng đọc được **một tầng** trên tre rìa; nợ **thân** vừa **bùng** một nhịp **không** ai trên đài Thanh Vi ghi thay.
 
-Hắn **không** gia Ma. **Không** có hạt mua canh tro. Chỉ **Linh Dịch lệch** — và câu hỏi **chữa** **ở đâu** **cắn** cổ hơn tro **断**, hơn khế chung đội, hơn *cứu ngắn* đã tan như cỏ vàng.
+Hắn **không** gia Ma. **Không** có hạt mua canh tro. Chỉ **Linh Dịch lệch** — và câu hỏi **chữa** **ở đâu** **cắn** cổ hơn tro **Đoạn**, hơn khế chung đội, hơn *cứu ngắn* đã tan như cỏ vàng.
 
 ---
 

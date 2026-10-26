@@ -23,7 +23,7 @@
       "properties": {
         "id": "CHL-TAM-NGUYEN",
         "name_vi": "Đại lục Tam Nguyên",
-        "name_hv": "三元大陆",
+        "name_hv": "Đại lục Tam Nguyên",
         "kind": "continent",
         "visibility": "public",
         "notes": "Silhouette CHL-TAM-NGUYEN từ 00-tinh-ha; parent SW [-58.0, -227.0]; hub LOC-TN-DONG-HAI."
@@ -304,7 +304,7 @@
         "id": "REG-TN-NAM-HAI",
         "name_vi": "Nam Hải · cửa biển nam",
         "kind": "wilderness",
-        "name_hv": "南海",
+        "name_hv": "Nam Hải",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public"
       }
@@ -618,7 +618,7 @@
         "id": "REG-TN-NAM-BINH",
         "name_vi": "Nam Bình Thôn",
         "kind": "wilderness",
-        "name_hv": "南平",
+        "name_hv": "Nam Bình Thôn",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
         "notes": "Võ tu Luyện Thể phổ biến"
@@ -893,7 +893,7 @@
         "id": "REG-TN-TRUNG-NGUYEN",
         "name_vi": "Trung Nguyên Tam Quốc",
         "kind": "polity",
-        "name_hv": "中原",
+        "name_hv": "Trung Nguyên Tam Quốc",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
         "notes": "Tam quốc phàm–tu sơ"
@@ -1044,7 +1044,7 @@
         "id": "REG-TN-BAC-HA",
         "name_vi": "Bắc Hạ · đại vực bắc",
         "kind": "wilderness",
-        "name_hv": "北夏",
+        "name_hv": "Bắc Hạ",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public"
       }
@@ -1206,7 +1206,7 @@
         "id": "REG-TN-TAY-CAN",
         "name_vi": "Tây Cạn · biên tây",
         "kind": "wilderness",
-        "name_hv": "西旱",
+        "name_hv": "Tây Cạn",
         "linh_khi_tier": "vô_lin",
         "visibility": "public"
       }
@@ -1452,7 +1452,7 @@
         "id": "BRR-TN-NGUU-SON",
         "name_vi": "Dãy Ngưu Sơn",
         "kind": "barrier",
-        "name_hv": "牛山",
+        "name_hv": "Dãy Ngưu Sơn",
         "linh_khi_tier": "manh_mach_rải"
       }
     },
@@ -1553,7 +1553,7 @@
         "id": "REG-TN-TAM-GIAO",
         "name_vi": "Tam Giáo Sơn",
         "kind": "dungeon",
-        "name_hv": "三教山",
+        "name_hv": "Tam Giáo Sơn",
         "linh_khi_tier": "manh_mach_rải",
         "visibility": "hidden_logic",
         "notes": "Thánh địa pocket Tiểu Thiên"
@@ -1656,7 +1656,7 @@
         "id": "REG-TN-TAY-HA",
         "name_vi": "Tây Hạ · đồi tây nam",
         "kind": "wilderness",
-        "name_hv": "西夏",
+        "name_hv": "Tây Hạ",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "mc_phase1"
       }
@@ -1930,7 +1930,7 @@
         "id": "REG-TN-DONG-LAM",
         "name_vi": "Đông Lâm · rừng phía đông",
         "kind": "wilderness",
-        "name_hv": "东林",
+        "name_hv": "Đông Lâm",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public"
       }
@@ -1996,7 +1996,7 @@
         "id": "REG-TN-DONG-HAI",
         "name_vi": "Đông Hải Cảng",
         "kind": "polity",
-        "name_hv": "东海港",
+        "name_hv": "Đông Hải Cảng",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
         "notes": "Nhập linh thạch"
@@ -2014,7 +2014,7 @@
       "properties": {
         "id": "LOC-TN-DONG-HAI",
         "name_vi": "Đông Hải · cảng chính",
-        "name_hv": "东海",
+        "name_hv": "Đông Hải",
         "kind": "hub",
         "visibility": "public"
       }
@@ -2225,7 +2225,7 @@
       "properties": {
         "id": "RIVER-TN-NGUYEN-THUY",
         "name_vi": "Nguyên Thủy",
-        "name_hv": "元水",
+        "name_hv": "Nguyên Thủy",
         "kind": "route"
       }
     },
@@ -2391,7 +2391,7 @@
       "properties": {
         "id": "RIVER-TN-TAM-NGUON",
         "name_vi": "Tam Nguồn Hà",
-        "name_hv": "三源河",
+        "name_hv": "Tam Nguồn Hà",
         "kind": "route"
       }
     },
@@ -2525,7 +2525,7 @@
       "properties": {
         "id": "RIVER-TN-DONG-LUU",
         "name_vi": "Đông Lưu",
-        "name_hv": "东流",
+        "name_hv": "Đông Lưu",
         "kind": "route"
       }
     }

@@ -19,7 +19,7 @@
       "properties": {
         "id": "REG-TL-THIEN-QUAN-AREA",
         "name_vi": "Phạm vi Thiên Quan thành",
-        "name_hv": "天关域",
+        "name_hv": "Phạm vi Thiên Quan thành",
         "kind": "polity",
         "visibility": "public",
         "linh_khi_tier": "mach_chủ",
@@ -330,7 +330,7 @@
       "properties": {
         "id": "LOC-TL-THIEN-QUAN",
         "name_vi": "Thiên Quan · trung ương",
-        "name_hv": "天关",
+        "name_hv": "Thiên Quan",
         "kind": "hub",
         "visibility": "public",
         "linh_khi_tier": "mach_chủ",
@@ -349,7 +349,7 @@
       "properties": {
         "id": "LOC-TL-TAM-TONG-DINH",
         "name_vi": "Tam Tông đình · đài chính trị",
-        "name_hv": "三宗庭",
+        "name_hv": "Tam Tông đình",
         "kind": "polity",
         "visibility": "public",
         "direction_label": "Bắc",
@@ -369,7 +369,7 @@
       "properties": {
         "id": "LOC-TL-TONG-THIEN-QUAN",
         "name_vi": "Thiên Quan Tông · sơn môn",
-        "name_hv": "天关宗",
+        "name_hv": "Thiên Quan Tông",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Tây bắc",
@@ -390,7 +390,7 @@
       "properties": {
         "id": "LOC-TL-TONG-LINH-HA",
         "name_vi": "Linh Hà Các",
-        "name_hv": "灵河阁",
+        "name_hv": "Linh Hà Các",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Nam",
@@ -411,7 +411,7 @@
       "properties": {
         "id": "LOC-TL-GIA-TTOC-PHU",
         "name_vi": "Phủ đệ · gia tộc Trúc Cơ",
-        "name_hv": "府邸",
+        "name_hv": "Phủ đệ",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Đông",
@@ -431,7 +431,7 @@
       "properties": {
         "id": "LOC-TL-LINH-MACH-NO",
         "name_vi": "Linh mạch nội thành",
-        "name_hv": "内城灵脉",
+        "name_hv": "Linh mạch nội thành",
         "kind": "resource",
         "visibility": "public",
         "direction_label": "Trung tâm",
@@ -451,7 +451,7 @@
       "properties": {
         "id": "LOC-TL-PHUC-DIA-MEN",
         "name_vi": "Phúc Địa · cửa cốc",
-        "name_hv": "福地口",
+        "name_hv": "Phúc Địa",
         "kind": "dungeon",
         "visibility": "mc_phase1",
         "direction_label": "Nam tây",
@@ -471,7 +471,7 @@
       "properties": {
         "id": "LOC-TL-EXIT-DONG-LAM",
         "name_vi": "Ải đông · Đông Lam",
-        "name_hv": "东关",
+        "name_hv": "Ải đông",
         "kind": "hub",
         "visibility": "public",
         "direction_label": "Đông · mép region",
@@ -490,7 +490,7 @@
       "properties": {
         "id": "BRR-TL-THIEN-LAM-FOOT",
         "name_vi": "Chân Thiên Lam · biên tây",
-        "name_hv": "天岚脚",
+        "name_hv": "Chân Thiên Lam",
         "kind": "barrier",
         "visibility": "public",
         "notes": "BRR-TL-THIEN-LAM trên chau_luc; mạch rải cao."
@@ -528,7 +528,7 @@
       "properties": {
         "id": "RIVER-TL-LINH-HA-URBAN",
         "name_vi": "Linh Hà · đoạn thành",
-        "name_hv": "灵河",
+        "name_hv": "Linh Hà",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TL-THIEN-QUAN",
@@ -567,7 +567,7 @@
       "properties": {
         "id": "ROUTE-TL-THIEN-TAM",
         "name_vi": "Đạo Thiên–Tam",
-        "name_hv": "天三大道",
+        "name_hv": "Đạo Thiên–Tam",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TL-THIEN-QUAN",
@@ -602,7 +602,7 @@
       "properties": {
         "id": "ROUTE-TL-THIEN-DONG",
         "name_vi": "Đạo Đông Lam",
-        "name_hv": "东林道",
+        "name_hv": "Đạo Đông Lam",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TL-THIEN-QUAN",
@@ -641,7 +641,7 @@
       "properties": {
         "id": "ROUTE-TL-PHUC-COC",
         "name_vi": "Đường xuống Phúc Địa",
-        "name_hv": "福地道",
+        "name_hv": "Đường xuống Phúc Địa",
         "kind": "route",
         "visibility": "mc_phase1",
         "from_id": "LOC-TL-THIEN-QUAN",

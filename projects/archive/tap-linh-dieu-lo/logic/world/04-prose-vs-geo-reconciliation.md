@@ -59,12 +59,12 @@
 | 65–66 | **confirm** | «**nam**» (xe cát / rời khu) trong arc Đan Sa | Hub: Đan Sa **đông nam**; Thiên Sa **tây** | **Pass** — hướng **nội đồn** & kinh tế vé, không đảo LOC |
 | 4 | **note** | «Trước mặt… đường **tây** ra ngoài tập, xa hơn nữa mới tới cát **Kiến Sa**» | `LOC-PHI-VAN-TAP` · ngõ **tây** = ra ngoài; **Kiến Sa** / phế = **đông bắc** sau ngõ (`arc-01-phi-van-tap` · Hứa ch.4) | Revise nhẹ: tách «trước mặt = ngõ tây» vs «Kiến Sa nằm đông bắc / phía đã đi» — tránh đọc Kiến Sa dọc đường tây |
 | 14 | **confirm** | Mảnh phản ứng: «chỉ về phía **đông nam**» | Convoy uyên từ Phi Vân: `direction_label` **Tây nam** (`LOC-LINH-SA-UYEN` trên micro Phi Vân); **đông nam** = tuyến tin / địa đồ Thanh Sa (ch.15–16) | **Pass** nếu hiểu là la bàn **thương mại** (tin mua đường), không la bàn hub Thạch Lam; không cần sửa trừ khi muốn thống nhất một hệ la bàn |
-| *hyperbole* | note | Nhiều chương «ngàn dặm» cát / về thành (vd. ch.48 rời phế) | ROUTE-PHE-DIA: **2–3 ngày**, không bắt buộc literal 千里 | Giữ nếu văn cảnh; tránh số ngày mâu thuẫn |
+| *hyperbole* | note | Nhiều chương «ngàn dặm» cát / về thành (vd. ch.48 rời phế) | ROUTE-PHE-DIA: **2–3 ngày**, không bắt buộc literal ThiênLý | Giữ nếu văn cảnh; tránh số ngày mâu thuẫn |
 | 48 | **confirm** | Sát Thủ Các đối diện Bách Hóa trên quảng trường Trung Thành | `LOC-U-NGO` **Tây** hub · Sát Thủ Các trong hắc thị; ch.53 mở rộng **U Ngõ** riêng | **Pass:** ch.48 = mặt tiền liên minh Bách Hóa–Sát Thủ; ch.53 = cửa U Ngõ (không mâu thuẫn tầng region) |
 | 53 | **confirm** | «Rời phố Bách Hóa về phía **nam**» → cửa U Ngõ | Hub: U Ngõ **tây** Thạch Lam; Bách Hóa **trung–đông** | **Pass:** đường vòng nội thành / cửa ẩn; không đọc «nam» là hướng hub-west |
 | 47 | **confirm** | «Ngã ba đường dẫn về phía **nam**» (chốt Sát Thủ) | Thạch Lam = ánh lam **chân trời** MC hướng tới (từ phế **nam/tây nam** hub) | **Pass:** mô tả **nhánh đường cái** tại trạm, không gán Thạch Lam nằm nam trạm |
 | 39 | **note** | Gió **đông** · cát lăn **tây** (kết chương) | Hiện tượng địa khí / phế run (FS-015), không la bàn | Giữ; không revise trừ khi muốn tách «gió thời tiết» vs «sa địa mạch» |
-| 86 | **confirm** | «bước **phụ tây**» trên dải phế (sau ca trinh sát **断**) | MC vẫn trên nhánh **Đan Sa** / tam giác phế — **phụ tây** = sector site (§1 quy tắc 6), không «tây» hub Thạch Lam | **Pass** — cùng họ quy ch.77–84; không mâu thuẫn `LOC-DAN-SA` |
+| 86 | **confirm** | «bước **phụ tây**» trên dải phế (sau ca trinh sát **Đoạn**) | MC vẫn trên nhánh **Đan Sa** / tam giác phế — **phụ tây** = sector site (§1 quy tắc 6), không «tây» hub Thạch Lam | **Pass** — cùng họ quy ch.77–84; không mâu thuẫn `LOC-DAN-SA` |
 | 89 | **confirm** | Rời **Bách Hóa** → cột **Thiên Sa** «xa **phía tây**» → ngõ **Đan Hội** | `LOC-BACH-HOA` Trung–Đông · `LOC-THIEN-SA-COT` tây ngoài thành · `LOC-DAN-HOI` đông (cạnh Bách Hóa) | **Pass** — trình tự trong ngày: đông (sảnh) → không rẽ tây (cột) → đông (hội phụ); không một câu gộp hướng |
 | 96 | **confirm** | «**Bàn tây**» · lô ngoài trong phiên Bách Hóa | Hub region **Trung–Đông**; «tây» = khu bàn/lô **trong** phân điếm, không `direction_label` châu | **Pass** — layout nội sảnh, giống micro chợ (đông/tây nội bộ) |
 | 99 | **confirm** | «**Phía tây**, bảng phương» (Hàn Tử Ngư) | Trong sân **Luyện Đan Hội** — vách/bảng phụ; gió cửa lò đẩy khói **bắc** (nội vi) | **Pass** — «phía tây» = góc sân, không đảo `LOC-DAN-HOI` đông |
@@ -159,13 +159,13 @@
 | 78 | `khi-sut` | TC-008 | Cửu Huyền, Thanh Vi, Thiên Sa | phụ tây; khe tây nam; đài **bắc** | pass | Khí sụt · phế mầm; Kim xa trên nhánh vá **bắc** — site, không hub. |
 | 79 | `phe-dia-moi` | TC-008 | Cửu Huyền, Huyết Sa, Lan Sa, Thanh Vi | phụ tây; phế nhánh | pass | Cắt nhánh #7 · sơ đồ tre; Huyết Sa = mầm tin, chưa scene chính. |
 | 80 | `nhan-qua-vung` | TC-008 | Cửu Huyền, Huyết Sa, Thanh Vi, Thạch Lam | phụ tây; phế cục bộ | pass | Nhân–Quả vùng · phế **dưới** mạch sống; Thạch Lam = giá/nợ echo. |
-| 81 | `huyet-sa` | TC-008 | Cửu Huyền, Huyết Sa, Thanh Vi | phụ tây; sợi **tây nam** | pass | Tên **Huyết Sa** trên sổ; tam giác **断**; khí phế tây nam — TC-008 khớp atlas. |
+| 81 | `huyet-sa` | TC-008 | Cửu Huyền, Huyết Sa, Thanh Vi | phụ tây; sợi **tây nam** | pass | Tên **Huyết Sa** trên sổ; tam giác **Đoạn**; khí phế tây nam — TC-008 khớp atlas. |
 | 82 | `hut-linh` | TC-008 | Cửu Huyền, Huyết Sa, Thạch Lam | phụ tây / phế | pass | Hút rìa · cấm trên mõ; không lan tam giác — cục bộ sau cắt. |
 | 83 | `shortcut-ma` | TC-008 | Huyết Sa, Thạch Lam | điểm đổi **tây nam** | pass | Sa Hồng Phàm · hang tro ngoài tam giác; tre phế ≠ tre đài. |
 | 84 | `cuu-vung` | TC-008 | Cửu Huyền, Huyết Sa, Thanh Vi, Thạch Lam | phụ tây; phế | pass | *Cứu vùng* treo; Beat 8 — phế chưa khai trên mõ, vẫn gắn `LOC-DAN-SA` site. |
 | 85 | `linh-dich-lech` | TC-009 | Cửu Huyền, Thạch Lam, Bách Hóa, U Ngõ | phía **nam** (tam giác phế); — | pass | Còn trên phế/Ma; «phía nam» = hố sâu hơn, không nhìn — khớp nam/tây nam hub; Thạch Lam chỉ tin/ nợ. |
 | 86 | `tam-ma-nhe` | TC-009 | Cửu Huyền, Thạch Lam, Thiên Sa, đan sa | phụ **tây**; một ngày | confirm | «Phụ tây» nhánh mạch phế — §4; *rút về thành* mầm, chưa vào Thạch Lam. |
-| 87 | `hao-than` | TC-009 | Cửu Huyền, Thạch Lam, Thiên Sa, Bách Hóa | **cổng tây** **断**; một ngày | pass | Rút qua cổng tây phế (treo tin Thạch Lam) — song song cổng tây thành sau ch.88. |
+| 87 | `hao-than` | TC-009 | Cửu Huyền, Thạch Lam, Thiên Sa, Bách Hóa | **cổng tây** **Đoạn**; một ngày | pass | Rút qua cổng tây phế (treo tin Thạch Lam) — song song cổng tây thành sau ch.88. |
 | 88 | `can-dan-su` | TC-009 | Thạch Lam, Bách Hóa, U Ngõ | **cổng tây** thành; một đêm | pass | Vào Thạch Lam **cổng tây** — khớp `LOC-THIEN-SA` / U Ngõ tây; không đảo hub. |
 | 89 | `cua-dan-hoi` | TC-009 | Bách Hóa, Thiên Sa, Đan Hội, Thạch Lam | tây (cột); đông (hội) | confirm | Bách Hóa sáng → bỏ cột tây → ngõ **Luyện Đan Hội** đông — §4 ch.89. |
 | 90 | `le-phi-cong-hien` | TC-009 | Thạch Lam Luyện Đan Hội, Thiên Sa, Bách Hóa | —; — | pass | Trong thành; cột Thiên Sa treo cọc — không di chuyển region. |

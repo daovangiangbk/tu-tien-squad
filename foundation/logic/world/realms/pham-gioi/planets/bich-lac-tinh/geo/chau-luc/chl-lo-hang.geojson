@@ -23,7 +23,7 @@
       "properties": {
         "id": "CHL-LO-HANG",
         "name_vi": "Đại lục Lô Hàng",
-        "name_hv": "螺航大陆",
+        "name_hv": "Đại lục Lô Hàng",
         "kind": "continent",
         "visibility": "public"
       },
@@ -667,7 +667,7 @@
         "id": "REG-LH-NAM-HAI",
         "name_vi": "Nam Hải · vực phía nam",
         "kind": "wilderness",
-        "name_hv": "南海",
+        "name_hv": "Nam Hải",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
         "notes": "Hư không hải · thương lộ vào Nam"
@@ -914,7 +914,7 @@
         "id": "REG-LH-CANG-TIEN",
         "name_vi": "Cảng Tiên Sa",
         "kind": "polity",
-        "name_hv": "仙沙港",
+        "name_hv": "Cảng Tiên Sa",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
         "notes": "Hải thương · thuế quan · sổ crack"
@@ -1269,7 +1269,7 @@
         "id": "REG-LH-TRUNG-DAO",
         "name_vi": "Trung Đảo · đảo chính",
         "kind": "wilderness",
-        "name_hv": "中岛",
+        "name_hv": "Trung Đảo",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public"
       }
@@ -1447,7 +1447,7 @@
         "id": "REG-LH-QUAN-DAO",
         "name_vi": "Quần Đảo Lô",
         "kind": "wilderness",
-        "name_hv": "络群岛",
+        "name_hv": "Quần Đảo Lô",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
         "notes": "Đảo nhỏ · hải tặc · dịch vụ dẫn đường"
@@ -1606,7 +1606,7 @@
         "id": "REG-LH-HAI-PHONG",
         "name_vi": "Hải Phong · phong ấn cổ",
         "kind": "dungeon",
-        "name_hv": "海封",
+        "name_hv": "Hải Phong",
         "linh_khi_tier": "manh_mach_rải",
         "visibility": "mc_phase1",
         "notes": "Phong ấn tu sĩ Linh hạ phàm; vào có giá"
@@ -1697,7 +1697,7 @@
         "id": "REG-LH-TAY-AN",
         "name_vi": "Tây An · hải vực yên",
         "kind": "wilderness",
-        "name_hv": "西安",
+        "name_hv": "Tây An",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public"
       }
@@ -1843,7 +1843,7 @@
         "id": "REG-LH-BAC-HAI",
         "name_vi": "Bắc Hải · cửa bắc",
         "kind": "wilderness",
-        "name_hv": "北海",
+        "name_hv": "Bắc Hải",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
         "notes": "Nối Xích Hạ đông · gió linh theo mùa"
@@ -2062,7 +2062,7 @@
         "id": "BRR-LH-LONG-QUY",
         "name_vi": "Dãy Long Quy",
         "kind": "barrier",
-        "name_hv": "龙脊",
+        "name_hv": "Dãy Long Quy",
         "linh_khi_tier": "manh_mach_rải"
       }
     },
@@ -2151,7 +2151,7 @@
         "id": "REG-LH-DONG-LUU",
         "name_vi": "Đông Lưu · hành lang thương",
         "kind": "polity",
-        "name_hv": "东流",
+        "name_hv": "Đông Lưu",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
         "notes": "Đảo trạm · thu phí neo đậu"
@@ -2402,7 +2402,7 @@
         "id": "REG-LH-LO-QUAN",
         "name_vi": "Lô Quan · nội cảng",
         "kind": "polity",
-        "name_hv": "络关",
+        "name_hv": "Lô Quan",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
         "notes": "Kiểm soát nội đảo · hộ thương"
@@ -2420,7 +2420,7 @@
       "properties": {
         "id": "LOC-LH-CANG-TIEN",
         "name_vi": "Tiên Sa · cảng chính",
-        "name_hv": "仙沙",
+        "name_hv": "Tiên Sa",
         "kind": "hub",
         "visibility": "public"
       }
@@ -2437,7 +2437,7 @@
       "properties": {
         "id": "LOC-LH-THUONG-HOI",
         "name_vi": "Thương hội · điếm trung",
-        "name_hv": "商会",
+        "name_hv": "Thương hội",
         "kind": "hub",
         "visibility": "mc_phase1"
       }
@@ -2772,7 +2772,7 @@
       "properties": {
         "id": "RIVER-LH-THUONG-LUU",
         "name_vi": "Thương Lưu",
-        "name_hv": "商流",
+        "name_hv": "Thương Lưu",
         "kind": "route",
         "notes": "Hải lưu thương · không uống được"
       }
@@ -2935,7 +2935,7 @@
       "properties": {
         "id": "RIVER-LH-NAM-LUU",
         "name_vi": "Nam Lưu",
-        "name_hv": "南流",
+        "name_hv": "Nam Lưu",
         "kind": "route"
       }
     }

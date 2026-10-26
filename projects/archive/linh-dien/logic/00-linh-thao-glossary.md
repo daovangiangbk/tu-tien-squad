@@ -23,7 +23,7 @@
 
 ## I. Trên linh điền arc 1 — hồ sơ đầy đủ
 
-### 1. Thanh Linh Thảo (青灵草)
+### 1. Thanh Linh Thảo (Thanh Linh Thảo)
 
 | Mục | Nội dung |
 | --- | --- |
@@ -42,7 +42,7 @@
 
 ---
 
-### 2. Sa Hoàng Quả (沙黄果)
+### 2. Sa Hoàng Quả (Sa Hoàng Quả)
 
 | Mục | Nội dung |
 | --- | --- |
@@ -61,7 +61,7 @@
 
 ---
 
-### 3. Phong Linh Thảo (风灵草)
+### 3. Phong Linh Thảo (Phong Linh Thảo)
 
 | Mục | Nội dung |
 | --- | --- |
@@ -80,7 +80,7 @@
 
 ---
 
-### 4. Ngũ Sắc Linh Quả (五色灵果)
+### 4. Ngũ Sắc Linh Quả (Ngũ Sắc Linh Quả)
 
 | Mục | Nội dung |
 | --- | --- |
@@ -99,7 +99,7 @@
 
 ---
 
-### 5. Cửu Diệp Chi (九叶芝)
+### 5. Cửu Diệp Chi (Cửu Diệp Chi)
 
 | Mục | Nội dung |
 | --- | --- |
@@ -118,7 +118,7 @@
 
 ---
 
-### 6. Băng Tinh Thảo (冰晶草) — `(logic mở, chưa trồng arc 1)`
+### 6. Băng Tinh Thảo (Băng Tinh Thảo) — `(logic mở, chưa trồng arc 1)`
 
 | Mục | Nội dung |
 | --- | --- |
@@ -154,18 +154,18 @@
 
 | Tên (Hán Việt) | Nguồn gốc (`02`) | Công dụng (tóm) | Thời gian | Hiếm |
 | --- | --- | --- | --- | --- |
-| Tuyết Lớp (雪层) | Đỉnh tuyết / bí cảnh băng | Tụ Khí hàn; phù Băng | 80–120 năm | Cao |
-| Nhân Sâm nghìn năm (千年人参) | Rừng linh khí | Trúc Cơ / Tục Mệnh phụ | 1.000+ năm | Cực hiếm |
-| Thiên Nguyện Hoa (天元花) | Sơn cốc nguyệt lực | Trúc Cơ thượng phẩm | 500 năm / kỳ hoa | Cực hiếm |
-| Huyết Tham (血参) | Vực giam yêu khí | Tẩy Tủy Ma biến thể | 60 năm | TB |
-| Địa Phủ Linh Ngư (地府灵菇) | Hang âm khí | Giải độc | 15 năm | TB |
-| Lôi Tằm Tử (雷蚕子) | Lôi vực | Đan lôi căn | 40 năm | Cao |
-| U Linh Thảo (幽灵草) | Cấm địa quỷ khí | Phù U Minh; Ma đan | 30 năm | Cao |
-| Long Não Hương (龙脑香) | Di tích Long tộc | An thần; Tĩnh Tâm | Resin tích lũy | Cao |
-| Hỏa Linh Chi (火灵芝) | Dung nham linh khí | Kim Đan hỏa | 200 năm | Cao |
-| Mộc Linh Căn (木灵根) | Rừng mộc cổ | Hồi Xuân; Trúc Cơ phụ | 150 năm | Cao |
-| Thiên Huyết Đằng (天血藤) | Vực huyết | Huyết đan Ma | 100 năm | Cao (cấm) |
-| Nguyệt Nhũ Linh Trúc (月乳灵竹) | Cốc trăng | Phù Nguyệt; thần thức sơ | 70 năm | Cao |
+| Tuyết Lớp (Tuyết Lớp) | Đỉnh tuyết / bí cảnh băng | Tụ Khí hàn; phù Băng | 80–120 năm | Cao |
+| Nhân Sâm nghìn năm (Nhân Sâm nghìn năm) | Rừng linh khí | Trúc Cơ / Tục Mệnh phụ | 1.000+ năm | Cực hiếm |
+| Thiên Nguyện Hoa (Thiên Nguyện Hoa) | Sơn cốc nguyệt lực | Trúc Cơ thượng phẩm | 500 năm / kỳ hoa | Cực hiếm |
+| Huyết Tham (Huyết Tham) | Vực giam yêu khí | Tẩy Tủy Ma biến thể | 60 năm | TB |
+| Địa Phủ Linh Ngư (Địa Phủ Linh Ngư) | Hang âm khí | Giải độc | 15 năm | TB |
+| Lôi Tằm Tử (Lôi Tằm Tử) | Lôi vực | Đan lôi căn | 40 năm | Cao |
+| U Linh Thảo (U Linh Thảo) | Cấm địa quỷ khí | Phù U Minh; Ma đan | 30 năm | Cao |
+| Long Não Hương (Long Não Hương) | Di tích Long tộc | An thần; Tĩnh Tâm | Resin tích lũy | Cao |
+| Hỏa Linh Chi (Hỏa Linh Chi) | Dung nham linh khí | Kim Đan hỏa | 200 năm | Cao |
+| Mộc Linh Căn (Mộc Linh Căn) | Rừng mộc cổ | Hồi Xuân; Trúc Cơ phụ | 150 năm | Cao |
+| Thiên Huyết Đằng (Thiên Huyết Đằng) | Vực huyết | Huyết đan Ma | 100 năm | Cao (cấm) |
+| Nguyệt Nhũ Linh Trúc (Nguyệt Nhũ Linh Trúc) | Cốc trăng | Phù Nguyệt; thần thức sơ | 70 năm | Cao |
 
 ---
 
@@ -180,20 +180,20 @@
 
 | Thảo | Hán | Kỳ | Hiếm | Công dụng chính | Vị trí điển tông (thường) |
 | --- | --- | --- | --- | --- | --- |
-| Bạch Cốc Linh Thảo | 白谷灵草 | 1–2 năm/vụ | Thấp | Phụ liệu Tụ Khí · lương | Luống ngoại · ruộng linh cốt |
-| Kim Ngân Hoa | 金银花 | 2–3 năm (hoa) | Thấp | Giải nhiệt độc; phù Thanh Nhiệt | Tre giới · rào Z-1 |
-| Ngân Diệp Thảo | 银叶草 | 2 năm (lá) | Thấp | Phụ Tẩy Tủy hạ; phù sát trùng | Bán âm · gốc tre |
-| Đậu Linh | 豆灵 | 1 vụ/năm | Thấp | Cải đất; Tụ Khí phụ | Luân canh giữa vụ |
-| Hồng Hoa Thảo | 红花草 | 1 năm (hoa) | Thấp | Hoạt huyết phụ | Luống **nắng vừa** |
-| Thạch Quả | 石果 | 3 năm | Thấp | Bổ kim khí linh | Sườn đá · đài đá |
-| Lộ Thủy Tằng | 露水藤 | 4 năm | Thấp | Tụ Khí trung; thu **sương** | Rào Z-2 · tre |
-| Khí Cốt Thảo | 气骨草 | 6–8 năm (rễ) | TB | Phụ Cốt Hồi; Trúc Cơ prep | Luống trung · **đào sâu** |
-| Hắc Âm Thảo | 黑荫草 | 5 năm | TB | Âm bổ; cân dương hàn đan | **Bán âm** |
-| Vi Dương Linh Thảo | 微阳灵草 | 2–3 năm | Thấp | Dương ôn; phối hàn dược | Mái đất · nắng |
+| Bạch Cốc Linh Thảo | Bạch Cốc Linh Thảo | 1–2 năm/vụ | Thấp | Phụ liệu Tụ Khí · lương | Luống ngoại · ruộng linh cốt |
+| Kim Ngân Hoa | Kim Ngân Hoa | 2–3 năm (hoa) | Thấp | Giải nhiệt độc; phù Thanh Nhiệt | Tre giới · rào Z-1 |
+| Ngân Diệp Thảo | Ngân Diệp Thảo | 2 năm (lá) | Thấp | Phụ Tẩy Tủy hạ; phù sát trùng | Bán âm · gốc tre |
+| Đậu Linh | Đậu Linh | 1 vụ/năm | Thấp | Cải đất; Tụ Khí phụ | Luân canh giữa vụ |
+| Hồng Hoa Thảo | Hồng Hoa Thảo | 1 năm (hoa) | Thấp | Hoạt huyết phụ | Luống **nắng vừa** |
+| Thạch Quả | Thạch Quả | 3 năm | Thấp | Bổ kim khí linh | Sườn đá · đài đá |
+| Lộ Thủy Tằng | Lộ Thủy Tằng | 4 năm | Thấp | Tụ Khí trung; thu **sương** | Rào Z-2 · tre |
+| Khí Cốt Thảo | Khí Cốt Thảo | 6–8 năm (rễ) | TB | Phụ Cốt Hồi; Trúc Cơ prep | Luống trung · **đào sâu** |
+| Hắc Âm Thảo | Hắc Âm Thảo | 5 năm | TB | Âm bổ; cân dương hàn đan | **Bán âm** |
+| Vi Dương Linh Thảo | Vi Dương Linh Thảo | 2–3 năm | Thấp | Dương ôn; phối hàn dược | Mái đất · nắng |
 
 ---
 
-### 7. Bạch Cốc Linh Thảo (白谷灵草)
+### 7. Bạch Cốc Linh Thảo (Bạch Cốc Linh Thảo)
 
 | Mục | Nội dung |
 | --- | --- |
@@ -205,7 +205,7 @@
 | **Rủi ro** | Chim · sâu hạt; **úng** mưa kéo |
 | **Work** | MC có thể **nghe tên** trên sổ Đan các; **không** trồng arc 1 |
 
-### 8. Kim Ngân Hoa (金银花)
+### 8. Kim Ngân Hoa (Kim Ngân Hoa)
 
 | Mục | Nội dung |
 | --- | --- |
@@ -217,7 +217,7 @@
 | **Rủi ro** | Hái **tàn hoa** nhầm lú; sâu đục nụ |
 | **Work** | Thường **hàng tre** ven linh ngư / dưới điện tông — cảnh hữu tình mùa hè |
 
-### 9. Ngân Diệp Thảo (银叶草)
+### 9. Ngân Diệp Thảo (Ngân Diệp Thảo)
 
 | Mục | Nội dung |
 | --- | --- |
@@ -229,7 +229,7 @@
 | **Rủi ro** | Trồng nhầm **luống nắng** → lá **xanh đậm**, mất tính |
 | **Work** | Đối lập **Vi Dương** (dương/âm) trên cùng điền |
 
-### 10. Đậu Linh (豆灵)
+### 10. Đậu Linh (Đậu Linh)
 
 | Mục | Nội dung |
 | --- | --- |
@@ -241,7 +241,7 @@
 | **Rủi ro** | **Sốt** thu sớm → hạt **non**; sâu đậu |
 | **Work** | MC **có thể** nhầm bón như **bồi tu** sau vụ đậu |
 
-### 11. Hồng Hoa Thảo (红花草)
+### 11. Hồng Hoa Thảo (Hồng Hoa Thảo)
 
 | Mục | Nội dung |
 | --- | --- |
@@ -253,7 +253,7 @@
 | **Rủi ro** | Mưa **le màu**; nhầm **hoa phàm** (không linh khí) |
 | **Work** | Prose: màu **rực** trên luống — MC **không** hái vì đẹp (echo Ngũ Sắc beat) |
 
-### 12. Thạch Quả (石果)
+### 12. Thạch Quả (Thạch Quả)
 
 | Mục | Nội dung |
 | --- | --- |
@@ -265,7 +265,7 @@
 | **Rủi ro** | Tưới như Thanh → **thối rễ**; rơi đá **nứt quả** |
 | **Work** | Thường **ngoài** Z-1 chính — linh nông phàm nhân **leo** hái |
 
-### 13. Lộ Thủy Tằng (露水藤)
+### 13. Lộ Thủy Tằng (Lộ Thủy Tằng)
 
 | Mục | Nội dung |
 | --- | --- |
@@ -277,7 +277,7 @@
 | **Rủi ro** | Thu **sau nắng** — sương đã tan; dây **quấn nhầm** cây khác |
 | **Work** | Echo beat **sương mai** ch.1 — khác loài |
 
-### 14. Khí Cốt Thảo (气骨草)
+### 14. Khí Cốt Thảo (Khí Cốt Thảo)
 
 | Mục | Nội dung |
 | --- | --- |
@@ -289,7 +289,7 @@
 | **Rủi ro** | Đào **vội** → mất nhựa; **bón dư** → rễ thối |
 | **Work** | MC **biết danh** — chưa trồng; so sánh **nhịp chậm** với Cửu Diệp |
 
-### 15. Hắc Âm Thảo (黑荫草)
+### 15. Hắc Âm Thảo (Hắc Âm Thảo)
 
 | Mục | Nội dung |
 | --- | --- |
@@ -301,7 +301,7 @@
 | **Rủi ro** | Trận Tụ Linh **lệch nóng** → lá **khô mép** |
 | **Work** | Cặp **Vi Dương** — dạy **phân khu** (echo ch.4 Sa Hoàng) |
 
-### 16. Vi Dương Linh Thảo (微阳灵草)
+### 16. Vi Dương Linh Thảo (Vi Dương Linh Thảo)
 
 | Mục | Nội dung |
 | --- | --- |

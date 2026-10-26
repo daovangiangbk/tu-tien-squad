@@ -19,7 +19,7 @@
       "properties": {
         "id": "REG-TM-DONG-OA-AREA",
         "name_vi": "Phạm vi Đông Oa",
-        "name_hv": "东洼域",
+        "name_hv": "Phạm vi Đông Oa",
         "kind": "polity",
         "visibility": "public",
         "linh_khi_tier": "cực_mỏng",
@@ -58,7 +58,7 @@
       "properties": {
         "id": "LOC-TM-OA-TUYEN",
         "name_vi": "Oa Tuyền · giếng đông",
-        "name_hv": "洼泉",
+        "name_hv": "Oa Tuyền",
         "kind": "hub",
         "visibility": "public",
         "notes": "Hub vùng; nước hiếm — thu phí."
@@ -76,7 +76,7 @@
       "properties": {
         "id": "LOC-TM-OA-CHOD",
         "name_vi": "Chợ Oa · thu gom",
-        "name_hv": "洼市",
+        "name_hv": "Chợ Oa",
         "kind": "settlement",
         "visibility": "public",
         "faction": "Liên bang thu gom",
@@ -95,7 +95,7 @@
       "properties": {
         "id": "LOC-TM-OA-KHO",
         "name_vi": "Kho đông · phe",
-        "name_hv": "洼库",
+        "name_hv": "Kho đông",
         "kind": "resource",
         "visibility": "mc_phase1",
         "direction_label": "Đông"
@@ -113,7 +113,7 @@
       "properties": {
         "id": "LOC-TM-CO-TA-RIM",
         "name_vi": "Rìa Cổ Ta · nam",
-        "name_hv": "古塔缘",
+        "name_hv": "Rìa Cổ Ta",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Nam",
@@ -132,7 +132,7 @@
       "properties": {
         "id": "LOC-TM-BAC-HAN-RIM",
         "name_vi": "Rìa Bắc Hạn · cửa nam",
-        "name_hv": "北旱口",
+        "name_hv": "Rìa Bắc Hạn",
         "kind": "hub",
         "visibility": "public",
         "direction_label": "Tây bắc",
@@ -151,7 +151,7 @@
       "properties": {
         "id": "BRR-TM-OA-CAT",
         "name_vi": "Vành cát · đông",
-        "name_hv": "东沙环",
+        "name_hv": "Vành cát",
         "kind": "barrier",
         "visibility": "public"
       },
@@ -188,7 +188,7 @@
       "properties": {
         "id": "ROUTE-TM-OA-CO-TA",
         "name_vi": "Lối Cổ Ta",
-        "name_hv": "古塔道",
+        "name_hv": "Lối Cổ Ta",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-OA-TUYEN",
@@ -219,7 +219,7 @@
       "properties": {
         "id": "ROUTE-TM-OA-BAC",
         "name_vi": "Đạo Bắc Hạn",
-        "name_hv": "北旱洼道",
+        "name_hv": "Đạo Bắc Hạn",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-OA-TUYEN",
@@ -254,7 +254,7 @@
       "properties": {
         "id": "LOC-TM-OA-MANH",
         "name_vi": "Manh mạch · dưới giếng",
-        "name_hv": "泉脉",
+        "name_hv": "Manh mạch",
         "kind": "resource",
         "visibility": "hidden_logic",
         "linh_khi_tier": "manh_mach_rải"
@@ -272,7 +272,7 @@
       "properties": {
         "id": "LOC-TM-OA-HAI",
         "name_vi": "Mép đông · biển cát",
-        "name_hv": "东漠",
+        "name_hv": "Mép đông",
         "kind": "wilderness",
         "visibility": "public",
         "direction_label": "Đông"
@@ -290,7 +290,7 @@
       "properties": {
         "id": "RIVER-TM-OA-LUU",
         "name_vi": "Oa lưu · cố đô khô",
-        "name_hv": "洼流",
+        "name_hv": "Oa lưu",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-OA-TUYEN",
@@ -321,7 +321,7 @@
       "properties": {
         "id": "LOC-TM-CO-TU",
         "name_vi": "Cổ Tu · trung tâm di tích",
-        "name_hv": "古墟",
+        "name_hv": "Cổ Tu",
         "kind": "hub",
         "visibility": "public",
         "notes": "Shared id; parent (350,620)."
@@ -339,7 +339,7 @@
       "properties": {
         "id": "ROUTE-TM-OA-CO-TU",
         "name_vi": "Đường vòng Cổ Tu",
-        "name_hv": "古墟洼道",
+        "name_hv": "Đường vòng Cổ Tu",
         "kind": "route",
         "visibility": "mc_phase1",
         "from_id": "LOC-TM-OA-TUYEN",
@@ -374,7 +374,7 @@
       "properties": {
         "id": "LOC-TM-OA-AN",
         "name_vi": "Hầm thu · ẩn",
-        "name_hv": "洼暗仓",
+        "name_hv": "Hầm thu",
         "kind": "dungeon",
         "visibility": "hidden_logic",
         "notes": "Cổ khí không qua chợ."

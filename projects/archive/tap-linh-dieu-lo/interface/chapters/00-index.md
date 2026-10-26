@@ -1,6 +1,6 @@
 # Mục lục chương — Tạp Linh Diêu Lộ
 
-> **Tác phẩm:** Tạp Linh Diêu Lộ (杂灵遥路) · slug `tap-linh-dieu-lo`  
+> **Tác phẩm:** Tạp Linh Diêu Lộ (Tạp Linh Diêu Lộ) · slug `tap-linh-dieu-lo`  
 > **Xương sống Logic:** [`logic/00-story-spine.md`](../../logic/00-story-spine.md) → [`logic/chapters/00-chapter-spine-phase1.md`](../../logic/chapters/00-chapter-spine-phase1.md)  
 > **Trạng thái session:** [`00-progress-map.md`](../../00-progress-map.md) (Phase → Arc → Chapter)
 

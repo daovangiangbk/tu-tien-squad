@@ -25,9 +25,9 @@ child_index: []
 
 | Lớp | Tên gọi | Có thang tầng? | Năng lượng |
 | --- | --- | --- | --- |
-| **A** | **Phàm nhân** (凡人) | Không | Sức thường 50–100 kg; tuổi thọ 60–80 |
-| **B** | **Võ học phàm** (外家 / 内家 sơ) | Theo môn phái ( không canon hóa 9 tầng ) | **Nội lực mỏng**, võ khí; phục vụ chiến trường, hộ vệ, giang hồ |
-| **C** | **Luyện Thể Kỳ** (炼体) | **9 tầng** ( invariant Core ) | **Huyết khí** + thể chất; đả thông **ngoại kinh** — **không** mở Đan Điền linh |
+| **A** | **Phàm nhân** | Không | Sức thường 50–100 kg; tuổi thọ 60–80 |
+| **B** | **Võ học phàm** | Theo môn phái ( không canon hóa 9 tầng ) | **Nội lực mỏng**, võ khí; phục vụ chiến trường, hộ vệ, giang hồ |
+| **C** | **Luyện Thể Kỳ** | **9 tầng** ( invariant Core ) | **Huyết khí** + thể chất; đả thông **ngoại kinh** — **không** mở Đan Điền linh |
 | **D** | **Luyện Khí+** | 12+ ( Linh lộ trình ) | Chỉ **ổn định trên Linh Giới**; trên Phàm = ẩn thân / tạm / Thiên phạt — **không** thuộc võ đạo Phàm |
 
 **Quan hệ A → B → C:** Đa số dừng ở A hoặc B; **C** cần tài nguyên thân, sư phụ, hoặc di truyền gia tộc — **hiếm hơn** võ sư thường. **B** và **C** có thể song hành ( võ kỹ + luyện thân ) nhưng **C** mới mang nhãn **Luyện Thể Kỳ** canon.
@@ -40,7 +40,7 @@ child_index: []
 
 Core gom **9 tầng** thành **3 đại giai**; Logic chia **tiểu tầng 1–9** để viết arc & balance.
 
-### 2.1. Đại giai I — Sức Bì Phu (皮夫) · tầng 1–3
+### 2.1. Đại giai I — Sức Bì Phu (Phu) · tầng 1–3
 
 **Mục tiêu:** Da thịt, cơ, gân — chống **vũ khí phàm**, va đập.
 
@@ -52,7 +52,7 @@ Core gom **9 tầng** thành **3 đại giai**; Logic chia **tiểu tầng 1–9
 
 **Chiến:** Thắng **phàm nhân / lính**; ngang **võ sư B** giàu kinh nghiệm; thua **Luyện Thể 4+** hoặc **nội lực đặc biệt**.
 
-### 2.2. Đại giai II — Luyện Cốt Tủy (锻骨髓) · tầng 4–6
+### 2.2. Đại giai II — Luyện Cốt Tủy (Tủy) · tầng 4–6
 
 **Mục tiêu:** Xương, tủy — khung thân chịu **trọng kiếm**, **rơi cao**, **sát khí** nhẹ.
 
@@ -64,7 +64,7 @@ Core gom **9 tầng** thành **3 đại giai**; Logic chia **tiểu tầng 1–9
 
 **Chiến:** Ngang **tinh anh quân đội / hộ vệ tông võ**; có thể **chém phá** cửa thành phàm; vẫn **yếu** trước **pháp khí suy kiệt** hoặc **Luyện Khí** đã khai mạch ( dù trên Phàm Luyện Khí không bền ).
 
-### 2.3. Đại giai III — Thay Máu Đổi Khí (换血换气) · tầng 7–9
+### 2.3. Đại giai III — Thay Máu Đổi Khí (HuyếtKhí) · tầng 7–9
 
 **Mục tiêu:** Huyết mạch — **huyết khí** thay một phần khí hô hấp thường; bước cuối trước **trần Phàm**.
 
@@ -85,7 +85,7 @@ Core gom **9 tầng** thành **3 đại giai**; Logic chia **tiểu tầng 1–9
 | **Khổ luyện** | Đả tạ, treo thác, đấu thú, chiến trường | Nền tảng Bì Phu → Cốt; tốn thời gian, tỷ lệ chết cao |
 | **Dược ngâm thân** | **Dược phàm** ( atlas lục: Phù Tảo, Xích Hạ, Tam Nguyên… ) | Chủ lực tầng 1–6; **lệ thuộc** dược = rủi ro plot |
 | **Linh dược sơ** | Rò từ **manh mạch** ( Xích Hạ, Tàn Mộ… ) | Hiệu quả cao hơn; ** không** thay môi trường Linh; hút mạnh + lộ khí → **Thiên phạt** nếu khai linh |
-| **Ngoại kinh** (外经) | Kinh mạch **da–cơ–xương** — canon nguồn primary | **Không** nhầm **nội kinh tu tiên** ( Linh ) |
+| **Ngoại kinh** | Kinh mạch **da–cơ–xương** — canon nguồn primary | **Không** nhầm **nội kinh tu tiên** ( Linh ) |
 | **Nội lực võ** ( mỏng ) | Gia tộc võ, mật tịch nội gia | Bổ trợ B/C; ** không** ghi nhãn Luyện Khí |
 | **Cổ khí / di tích** | Tàn Mộ, Cổ trận thể | Một lần hoặc suy kiệt; thường kèm **Nhân quả** |
 

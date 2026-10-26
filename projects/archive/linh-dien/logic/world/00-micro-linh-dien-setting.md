@@ -29,7 +29,7 @@
 
 ## 1. Tông do MC lập — lát cắt cơ cấu
 
-**Ngưng Lộ Tông** (凝露宗) là một trong **nhiều** tông MC đã dựng trên Linh Giới — **tông nhỏ**: vài chục tu sĩ, **một linh điền** chính, điện chính trên **sườn núi gần điền**. **Tông chủ = tu sĩ Kim Đan** (có thực; MC **không** giữ ghế công khai). Với arc slice-of-life, tông chỉ cần **quy củ nội bộ** vừa sức và **một điền MC tự quản**, không mở đại sảnh chính trị.
+**Ngưng Lộ Tông** là một trong **nhiều** tông MC đã dựng trên Linh Giới — **tông nhỏ**: vài chục tu sĩ, **một linh điền** chính, điện chính trên **sườn núi gần điền**. **Tông chủ = tu sĩ Kim Đan** (có thực; MC **không** giữ ghế công khai). Với arc slice-of-life, tông chỉ cần **quy củ nội bộ** vừa sức và **một điền MC tự quản**, không mở đại sảnh chính trị.
 
 ### 1.1. Lợi ích tông (đo được — arc không khai thác tranh chấp)
 
@@ -62,13 +62,13 @@ Tông chủ — **Kim Đan** (tu sĩ thật; điện chính; arc **có thể** k
 | --- | --- | --- | --- |
 | **Linh nông phàm nhân** | Phàm nhân / võ tu yếu | Cuốc, tưới, hái, phơi, đóng bao | Coi MC là **đồng ca làm việc** hoặc **quen tay hơn** — không hỏi lai lịch |
 | **Thu mua / sứ giả Đan các** | Luyện Khí–Trúc Cơ | Nhận lô, ghi **điểm cống hiến**, mang về | Gặp **vài lần** arc; chỉ quan tâm **phẩm & hạn giao** |
-| **Quản điền luân phiên** | Trúc Cơ — **Diệp Hoằng** (叶衡) | Trận, sổ, phân bổ hạt | **Tôn trọng** **Thường An** vì tay nghề; **không** leo thang plot |
+| **Quản điền luân phiên** | Trúc Cơ — **Diệp Hoằng** | Trận, sổ, phân bổ hạt | **Tôn trọng** **Thường An** vì tay nghề; **không** leo thang plot |
 
 **Luật 6b trên điền:** Lương linh nông phàm nhân trả bằng **bạc**; thưởng dược / điểm = **linh thạch & cống hiến** — hai sổ **tách**, MC có thể **bỏ nhận** linh thạch.
 
 ---
 
-## 2. Linh điền **Bán Sơn Linh Ngư** (半山灵畦) — không gian làm việc
+## 2. Linh điền **Bán Sơn Linh Ngư** — không gian làm việc
 
 Một **sườn núi yếu–trung** (linh mạch **nhánh**, không phải Động Thiên lõi): đủ nuôi **trận tụ linh tiểu** và **ba tầng luống**. MC chọn nơi này vì muốn **trải nghiệm cuộc sống yên bình** — **yên**, **quen**, nhịp **chậm** khác tu luyện; **đủ đa dạng vi khí** để làm việc tay, không phải để “săn” loài thảo lạ.
 
@@ -76,13 +76,13 @@ Một **sườn núi yếu–trung** (linh mạch **nhánh**, không phải Đ�
 
 | Ký hiệu | Tên tạm | Linh khí / Ngũ hành | Trồng chính (neo `02-linh-duoc`) | Ghi chú narrative |
 | --- | --- | --- | --- | --- |
-| **Z-1** | **Luống ngoại** | Yếu · **Mộc** thiên · ẩm vừa | **Thanh Linh Thảo** (青灵草) · **Sa Hoàng Quả** (沙黄果) — góc đất khô | Chu kỳ **ngắn** (3–5 năm / 2 năm); **ca làm việc hàng ngày** trên luống |
-| **Z-2** | **Luống trung** | Trung bình · **Phong** · gió rì rào | **Phong Linh Thảo** (风灵草) · xen **Ngũ Sắc Linh Quả** (五色灵果) — một dãy | Cần **điều gió** (lưới / trận phụ); MC **học nhầm / sửa nhầm** gió → lá **úng** hoặc **rụng** |
-| **Z-3** | **Đài mẫu** | Ổn định hơn · **Mộc** tinh | **Cửu Diệp Chi** (九叶芝) — **ít luống**, vòng **dài** | **Không** thu mỗi mùa; arc có thể **chạm** lá 7–9 |
+| **Z-1** | **Luống ngoại** | Yếu · **Mộc** thiên · ẩm vừa | **Thanh Linh Thảo** · **Sa Hoàng Quả** — góc đất khô | Chu kỳ **ngắn** (3–5 năm / 2 năm); **ca làm việc hàng ngày** trên luống |
+| **Z-2** | **Luống trung** | Trung bình · **Phong** · gió rì rào | **Phong Linh Thảo** · xen **Ngũ Sắc Linh Quả** — một dãy | Cần **điều gió** (lưới / trận phụ); MC **học nhầm / sửa nhầm** gió → lá **úng** hoặc **rụng** |
+| **Z-3** | **Đài mẫu** | Ổn định hơn · **Mộc** tinh | **Cửu Diệp Chi** — **ít luống**, vòng **dài** | **Không** thu mỗi mùa; arc có thể **chạm** lá 7–9 |
 | **Z-4** | **Ao & phơi** | Thủy · yang yếu | Không trồng — **tưới**, **ngâm**, **phơi** sau thu | Cảnh **hữu tình** (sương, chiều) |
 | **Z-5** | **Kho sơ chế** | — | **Thái dược** sơ: cắt, sấy, đóng **ngọc giản** giao Đan các | Mùi dược, tiếng bao vải |
 
-**`(chưa lộ — logic sẵn)`:** Một **ngách đá** Z-2 che khuất — vi khí **hơi lạnh**; có thể sau này gắn **Băng Tinh Thảo** (冰晶草) hoặc thảo **lai** — **không bắt buộc** arc 5–10 ch.
+**`(chưa lộ — logic sẵn)`:** Một **ngách đá** Z-2 che khuất — vi khí **hơi lạnh**; có thể sau này gắn **Băng Tinh Thảo** hoặc thảo **lai** — **không bắt buộc** arc 5–10 ch.
 
 **Cấm arc:** Chiếm thêm đất, phá trận hàng xóm, tranh **hạt giống** (`10` §3.5 trade-off toàn giới — **waive** trên điền này).
 
@@ -90,7 +90,7 @@ Một **sườn núi yếu–trung** (linh mạch **nhánh**, không phải Đ�
 
 | Trận | Phạm vi | Ai bật | Tiêu hao | Mục đích |
 | --- | --- | --- | --- | --- |
-| **Tụ Linh Tiểu Trận** (主) | Cả Z-1→Z-3 | Quản điền theo lịch; MC **chỉnh ẩn** khi một mình | **Hạ phẩm** linh thạch / tháng `[giả định: 12–24 viên]` | Dồn linh khí; **sai lệch** = cả vụ lệch |
+| **Tụ Linh Tiểu Trận** | Cả Z-1→Z-3 | Quản điền theo lịch; MC **chỉnh ẩn** khi một mình | **Hạ phẩm** linh thạch / tháng `[giả định: 12–24 viên]` | Dồn linh khí; **sai lệch** = cả vụ lệch |
 | **Trận gió nhẹ** | Z-2 | MC / linh nông phàm nhân theo chỉ dẫn | Không linh thạch — **cơ khí + phù hạ** | Phong Linh Thảo **không** úng |
 | **Trận ẩn khí** ( `(MC phase 1 biết)` ) | Toàn điền — lớp ngoài | MC **duy trì** nền | Gần **không** tiêu hao (ý / quen tay) | **Che** dấu vết Đại Thừa; giữ linh khí **“điền tông bình thường”** |
 | **Trận cách trùng** | Z-1 | Theo mùa | Phù + tro | **Sâu linh** và **sâu thường** — stakes **thật** ở tầng điền |

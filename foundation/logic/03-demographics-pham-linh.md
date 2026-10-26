@@ -11,9 +11,9 @@
 
 | Thuật ngữ | Nghĩa vận hành |
 | --- | --- |
-| **Phàm nhân** (凡人) | Nhân **chưa vào Luyện Khí** (12) — gồm **vô linh căn** và **hữu linh căn chưa khai mạch**. Vẫn **sinh sản, lão hóa** (~60–80 năm trên Phàm). Đa số **chưa cảm linh khí** ( chưa khai ). |
-| **Vô linh căn** (无灵根) | **Không** đủ điều kiện **Luyện Khí+**; có thể **Luyện Thể / võ tu** trên Phàm (`03` §1.1). **Không** “bỗng có căn” trừ ngoại lệ Luật 9 ( tẩy tủy đan / cơ duyên hiếm ). |
-| **Hữu linh căn** (有灵根) | Tiềm năng **chân tu**; phải **khai mạch trên Linh Giới** ( hoặc pocket đúng luật ) mới thành **tu sĩ Luyện Khí+**. |
+| **Phàm nhân** | Nhân **chưa vào Luyện Khí** (12) — gồm **vô linh căn** và **hữu linh căn chưa khai mạch**. Vẫn **sinh sản, lão hóa** (~60–80 năm trên Phàm). Đa số **chưa cảm linh khí** ( chưa khai ). |
+| **Vô linh căn** | **Không** đủ điều kiện **Luyện Khí+**; có thể **Luyện Thể / võ tu** trên Phàm (`03` §1.1). **Không** “bỗng có căn” trừ ngoại lệ Luật 9 ( tẩy tủy đan / cơ duyên hiếm ). |
+| **Hữu linh căn** | Tiềm năng **chân tu**; phải **khai mạch trên Linh Giới** ( hoặc pocket đúng luật ) mới thành **tu sĩ Luyện Khí+**. |
 | **Ẩn căn / Khô căn** | Biến thể trên **Phàm** ( Mạt pháp ): khó đo / căn yếu — sync §2. |
 
 **Phân biệt prose:** **“Tu tiên” (chân tu)** = **Luyện Khí+** ( cần hữu căn + Linh ). **Võ tu / Luyện Thể** trên Phàm **không** đòi linh căn.
@@ -58,7 +58,7 @@ Tu sĩ **có thể** sinh con; **thực tế hiếm:**
 
 | Nguyên nhân | Gợi ý plot |
 | --- | --- |
-| **断红尘** / bế quan / môn quy | Ít hôn phối; hậu duệ gia tộc = **chính trị** |
+| **Đoạn** / bế quan / môn quy | Ít hôn phối; hậu duệ gia tộc = **chính trị** |
 | **Trúc Cơ+** thân **phi phàm hóa** | **Khó thụ thai, khó nuôi thai** — càng cao càng hiếm |
 | **Kim Đan+** | Thường cần **đan / trận / khế** nếu muốn hậu duệ — **tốn tài nguyên** |
 

@@ -1,6 +1,6 @@
 # Tiên Giới — Tinh hà Hương Nguyên (Foundation Canon)
 
-> **work_slug:** `foundation-canon` · **Giới:** Tiên (仙界) — Luật 6 · **Convention:** [`../../00-geojson-world-map-convention.md`](../../00-geojson-world-map-convention.md)
+> **work_slug:** `foundation-canon` · **Giới:** Tiên (Tiên Giới) — Luật 6 · **Convention:** [`../../00-geojson-world-map-convention.md`](../../00-geojson-world-map-convention.md)
 
 **GeoJSON (main):** [`geo/00-tinh-ha.geojson`](geo/00-tinh-ha.geojson) · [`geo/chau-luc/chl-trung-tien.geojson`](geo/chau-luc/chl-trung-tien.geojson) · [`geo/chau-luc/chl-thanh-van.geojson`](geo/chau-luc/chl-thanh-van.geojson) · [`geo/chau-luc/chl-ngu-long.geojson`](geo/chau-luc/chl-ngu-long.geojson) · [`geo/chau-luc/chl-kim-hoa.geojson`](geo/chau-luc/chl-kim-hoa.geojson) · [`geo/chau-luc/chl-tran-lac.geojson`](geo/chau-luc/chl-tran-lac.geojson) · [`geo/chau-luc/chl-huyen-bang.geojson`](geo/chau-luc/chl-huyen-bang.geojson) · [`geo/region/reg-tt-tien-quan.geojson`](geo/region/reg-tt-tien-quan.geojson) · [`geo/region/reg-tv-van-cung.geojson`](geo/region/reg-tv-van-cung.geojson)
 
@@ -16,13 +16,13 @@
 
 | ID | Tên (Việt · Hán) | Vai trò | Vị trí so với main | Quy mô (story) | Profile tiên khí |
 | --- | --- | --- | --- | --- | --- |
-| **`TH-TIEN-HUONG-NGUYEN`** | **Tinh hà Hương Nguyên** · 香元仙域 | **Chủ** — sự kiện, `CHL-*`, geo | Hub cụm **nam–tây trung tâm** Hư Không Tiên (khác Linh **bắc–đông**, Phàm **nam–tây** cụm Phàm) | **6** đại lục; bbox grid ~ x∈[−282,+217], y∈[−192,+244] | **Ổn định–dồi**; tiên mạch công cộng + tranh **Tiên phủ / Tiên quả** |
-| `TH-TIEN-CAM-LAC` | Tinh hà Cảm Lạc · 淡落仙域 | Láng giềng — tiên khí loãng | **Tây** (~4–6 vạn hư không lore) | 4–5 lục (chưa geo) | **Loãng** — tu chậm; di tích **Tản Tiên** dày |
-| `TH-TIEN-DUONG-HANH` | Tinh hà Dương Hành · 曜行仙域 | Láng giềng — thương mạch liên tinh | **Bắc** (~3–5 vạn) | 5–6 lục (chưa geo) | **Dương thịnh** — phi thuyền tiên, thuế **Tiên Nguyên** |
-| `TH-TIEN-NGUOC-MAC` | Tinh hà Ngược Mạc · 逆漠仙域 | Láng giềng — hoang & thử kiếp | **Tây nam** (~5–7 vạn) | 3–4 lục (chưa geo) | **Hỗn loạn cục bộ** — tiên khí gợn; **Thiên kiếp** ngoài trời nặng |
-| `TH-TIEN-LONG-TAU` | Tinh hà Long Tẩu · 龙腾仙域 | Láng giềng — long mạch | **Đông** (~4–5 vạn) | 5–7 lục (chưa geo) | **Long khí** — long tộc / long mạch; tranh **Long Linh** |
-| `TH-TIEN-UY-VOI` | Tinh hà Uy Vi · 幽微仙域 | Láng giềng — âm–dương tiên | **Đông nam xa** (~7–9 vạn) | 4–6 lục (chưa geo) | **U vi** — bí pháp, ảo cảnh; Minh mạch treo `(Phase 5)` |
-| `TH-TIEN-THAI-CUC` | Tinh hà Thái Cực · 太极仙域 | Láng giềng — cân bằng Ngũ Hành | **Tây bắc** (~6–8 vạn) | 6 lục (chưa geo) | **Trung hòa** — đan tiên, trận **Cực** |
+| **`TH-TIEN-HUONG-NGUYEN`** | **Tinh hà Hương Nguyên** · Tinh hà Hương Nguyên | **Chủ** — sự kiện, `CHL-*`, geo | Hub cụm **nam–tây trung tâm** Hư Không Tiên (khác Linh **bắc–đông**, Phàm **nam–tây** cụm Phàm) | **6** đại lục; bbox grid ~ x∈[−282,+217], y∈[−192,+244] | **Ổn định–dồi**; tiên mạch công cộng + tranh **Tiên phủ / Tiên quả** |
+| `TH-TIEN-CAM-LAC` | Tinh hà Cảm Lạc · Cảm Lạc tiên vực | Láng giềng — tiên khí loãng | **Tây** (~4–6 vạn hư không lore) | 4–5 lục (chưa geo) | **Loãng** — tu chậm; di tích **Tản Tiên** dày |
+| `TH-TIEN-DUONG-HANH` | Tinh hà Dương Hành · Dương Hành tiên vực | Láng giềng — thương mạch liên tinh | **Bắc** (~3–5 vạn) | 5–6 lục (chưa geo) | **Dương thịnh** — phi thuyền tiên, thuế **Tiên Nguyên** |
+| `TH-TIEN-NGUOC-MAC` | Tinh hà Ngược Mạc · Ngược Mạc tiên vực | Láng giềng — hoang & thử kiếp | **Tây nam** (~5–7 vạn) | 3–4 lục (chưa geo) | **Hỗn loạn cục bộ** — tiên khí gợn; **Thiên kiếp** ngoài trời nặng |
+| `TH-TIEN-LONG-TAU` | Tinh hà Long Tẩu · Long Tẩu tiên vực | Láng giềng — long mạch | **Đông** (~4–5 vạn) | 5–7 lục (chưa geo) | **Long khí** — long tộc / long mạch; tranh **Long Linh** |
+| `TH-TIEN-UY-VOI` | Tinh hà Uy Vi · UViTiênVực | Láng giềng — âm–dương tiên | **Đông nam xa** (~7–9 vạn) | 4–6 lục (chưa geo) | **U vi** — bí pháp, ảo cảnh; Minh mạch treo `(Phase 5)` |
+| `TH-TIEN-THAI-CUC` | Tinh hà Thái Cực · Thái Cực tiên vực | Láng giềng — cân bằng Ngũ Hành | **Tây bắc** (~6–8 vạn) | 6 lục (chưa geo) | **Trung hòa** — đan tiên, trận **Cực** |
 
 **Tinh hà count:** **7** (1 main + **6** neighbor). Láng giềng **không** có file `00-tinh-ha` riêng trong Phase 3a — chỉ atlas.
 
@@ -33,7 +33,7 @@
 | Trường | Giá trị |
 | --- | --- |
 | **ID** | `TH-TIEN-HUONG-NGUYEN` |
-| **Tên** | **Tinh hà Hương Nguyên** (香元仙域) |
+| **Tên** | **Tinh hà Hương Nguyên** |
 | **Vị trí trong Hư Không Tiên** | Cụm **nam–tây trung tâm** đã khảo sát; hub `TINH-HA-REF` ≈ **giao tiên mạch** Trung Tiên — không phải tâm vật lý tuyệt đối. Giới bích Linh–Tiên / Tiên–Thần **không** nằm trên bản đồ này. |
 | **Thang lưới** | Story grid: **x = Đông (+), y = Bắc (+)**; một đơn vị ≈ **một ngày hành tiên** (Chân Tiên, không phù). Bán kính hành trình tinh hà: **~850–950** đơn vị tới mép lục xa. |
 | **Quy mô vật lý (tóm)** | **6** đại lục (`CHL-*`) + **Hải tiên khí** / đảo mây (chưa vẽ chi tiết); polygon **không chồng** trên `tinh_ha`. |
@@ -51,12 +51,12 @@
 
 | ID | Tên (Việt · Hán) | Vị trí (hub grid) | Quy mô bbox (Đ×B) | Tiên khí / đặc điểm |
 | --- | --- | --- | --- | --- |
-| `CHL-TRUNG-TIEN` | Trung Tiên · 中仙大陆 | Trung tâm cụm | ~157 × 125 | **Mạch chủ** — tiên triều, thành tiên; tranh **Tiên phủ** |
-| `CHL-THANH-VAN` | Thanh Vân · 青云大陆 | Đông | ~127 × 103 | **Phong–Mộc** mây; tiên môn, **Thanh Vân** công pháp |
-| `CHL-NGU-LONG` | Ngự Long · 御龙大陆 | Bắc | ~141 × 92 | **Long mạch**; long tộc liên minh / thù |
-| `CHL-KIM-HOA` | Kim Hoa · 金花大陆 | Tây | ~124 × 104 | **Kim–Mộc**; luyện khí tiên, **Kim Hoa** quả |
-| `CHL-TRAN-LAC` | Trần Lạc · 尘落大陆 | Nam | ~135 × 91 | **Trần khí** — Tản Tiên, phế tiên; tiên khí **loãng cục bộ** |
-| `CHL-HUYEN-BANG` | Huyên Băng · 玄冰大陆 | Tây bắc | ~103 × 69 | **Băng–Huyền**; cấm địa, tiên kiếp ngoài trời |
+| `CHL-TRUNG-TIEN` | Trung Tiên · TrungTiênĐạiLục | Trung tâm cụm | ~157 × 125 | **Mạch chủ** — tiên triều, thành tiên; tranh **Tiên phủ** |
+| `CHL-THANH-VAN` | Thanh Vân · ThanhVânĐạiLục | Đông | ~127 × 103 | **Phong–Mộc** mây; tiên môn, **Thanh Vân** công pháp |
+| `CHL-NGU-LONG` | Ngự Long · Ngự Long đại lục | Bắc | ~141 × 92 | **Long mạch**; long tộc liên minh / thù |
+| `CHL-KIM-HOA` | Kim Hoa · Kim Hoa đại lục | Tây | ~124 × 104 | **Kim–Mộc**; luyện khí tiên, **Kim Hoa** quả |
+| `CHL-TRAN-LAC` | Trần Lạc · Trần Lạc đại lục | Nam | ~135 × 91 | **Trần khí** — Tản Tiên, phế tiên; tiên khí **loãng cục bộ** |
+| `CHL-HUYEN-BANG` | Huyên Băng · HuyềnBăngĐạiLục | Tây bắc | ~103 × 69 | **Băng–Huyền**; cấm địa, tiên kiếp ngoài trời |
 
 ### 2.1. Châu lục deep (Phase 3b-ext ✓ — **6/6** chau_luc)
 

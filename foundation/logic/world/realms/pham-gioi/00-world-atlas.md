@@ -1,6 +1,6 @@
 # Phàm Giới — atlas Bích Lạc Tinh (Foundation Canon)
 
-> **work_slug:** `foundation-canon` · **Giới:** Phàm (凡界) — Luật 6 · **Convention:** [`../../../00-geojson-world-map-convention.md`](../../../00-geojson-world-map-convention.md)
+> **work_slug:** `foundation-canon` · **Giới:** Phàm (Phàm Giới) — Luật 6 · **Convention:** [`../../../00-geojson-world-map-convention.md`](../../../00-geojson-world-map-convention.md)
 
 **Hồ sơ đối tượng:** [`00-object-index.md`](00-object-index.md) · **Tinh cầu active:** [`planets/bich-lac-tinh/00-overview.md`](planets/bich-lac-tinh/00-overview.md) · **Chỉ mục châu lục:** [`continents/00-continent-index.md`](planets/bich-lac-tinh/continents/00-continent-index.md)
 
@@ -19,7 +19,7 @@
 | Trường | Giá trị |
 | --- | --- |
 | **ID** | `TH-PHAM-BICH-LAC` |
-| **Tên legacy** | **Tinh hà Bích Lạc** (碧落星河) — quần vực bản đồ của Bích Lạc Tinh |
+| **Tên legacy** | **Tinh hà Bích Lạc** — quần vực bản đồ của Bích Lạc Tinh |
 | **Vị trí trong Hư Không Phàm** | Mảnh **nam–đông** của vực Phàm Giới đã biết; hub `TINH-HA-REF` ≈ trung tâm **mạch truyền thuyết** (không phải địa lý tuyệt đối). Tinh hà lân cận (Thiên Uyên, Huyền Sa…) nằm **ngoài phạm vi hành trình** — chỉ crack / di cổ ngữ nhắc tới. |
 | **Thang lưới** | Story grid: **x = Đông (+), y = Bắc (+)**; một đơn vị ≈ **một ngày đi lộ thường** (phàm nhân, đường bộ). Bán kính “một tinh hà” trong lore: **~800–900 đơn vị** từ hub tới mép đại lục xa nhất trên bản đồ. |
 | **Quy mô vật lý (tóm)** | **Một tinh cầu** có **6** đại lục (`CHL-*`) + biển và quần đảo nhỏ (chưa vẽ chi tiết); **không** chồng polygon lục trên scope `tinh_ha` legacy. |
@@ -39,12 +39,12 @@
 
 | ID | Tên (Việt · Hán) | Vị trí (hub grid) | Quy mô bbox (Đ×B) | Linh khí / đặc điểm |
 | --- | --- | --- | --- | --- |
-| `CHL-HAN-PHUONG` | Hàn Phương · 寒方大陆 | Tây bắc | ~143 × 120 | Lạnh; mạch băng **cạn kiệt**; phàm quốc + tu luyện thể chất |
-| `CHL-TAM-NGUYEN` | Tam Nguyên · 三元大陆 | Nam trung | ~158 × 101 | **Trung tâm nhân văn**; ba nguồn sông; mạch yếu nhưng **ổn định** |
-| `CHL-PHU-TAO` | Phù Tảo · 浮沼大陆 | Tây nam nội địa | ~119 × 109 | Đầm, đảo nổi; **dược liệu phàm** + linh thảo sơ |
-| `CHL-XICH-HA` | Xích Hạ · 赤夏大陆 | Đông bắc | ~157 × 120 | Khô nóng; **linh thạch tạp phẩm** từ mỏ cạn |
-| `CHL-LO-HANG` | Lô Hàng · 络航大陆 | Đông | ~135 × 118 | Hải đảo, **thương lộ**; linh khí theo gió biển |
-| `CHL-TAN-MO` | Tàn Mộ · 残漠大陆 | Nam tây | ~102 × 77 | Sa mạc di tích; **Cổ khí** vụn; cấm đi bộ thường |
+| `CHL-HAN-PHUONG` | Hàn Phương · Hàn Phương đại lục | Tây bắc | ~143 × 120 | Lạnh; mạch băng **cạn kiệt**; phàm quốc + tu luyện thể chất |
+| `CHL-TAM-NGUYEN` | Tam Nguyên · TamNguyênĐạiLục | Nam trung | ~158 × 101 | **Trung tâm nhân văn**; ba nguồn sông; mạch yếu nhưng **ổn định** |
+| `CHL-PHU-TAO` | Phù Tảo · Phù Tảo đại lục | Tây nam nội địa | ~119 × 109 | Đầm, đảo nổi; **dược liệu phàm** + linh thảo sơ |
+| `CHL-XICH-HA` | Xích Hạ · Xích Hạ đại lục | Đông bắc | ~157 × 120 | Khô nóng; **linh thạch tạp phẩm** từ mỏ cạn |
+| `CHL-LO-HANG` | Lô Hàng · Lô Hàng đại lục | Đông | ~135 × 118 | Hải đảo, **thương lộ**; linh khí theo gió biển |
+| `CHL-TAN-MO` | Tàn Mộ · Tàn Mộ đại lục | Nam tây | ~102 × 77 | Sa mạc di tích; **Cổ khí** vụn; cấm đi bộ thường |
 
 ### 2.1. Châu lục chi tiết (Phase 1b)
 

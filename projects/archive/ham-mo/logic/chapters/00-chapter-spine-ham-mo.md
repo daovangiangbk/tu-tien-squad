@@ -45,7 +45,7 @@
 | Ref | Vai | Ghi chú |
 | --- | --- | --- |
 | **MC** | Phu mỏ | Vô danh |
-| **Giám công** | **Mã Giữ Ca** (马守伢) | Roi, đếm giỏ — `CHAR-011` |
+| **Giám công** | **Mã Giữ Ca** | Roi, đếm giỏ — `CHAR-011` |
 | **Đồng ca A** | Phu già | Không tên |
 | **Đồng ca B** | Phu trẻ | Không tên |
 | **Quản mỏ** | *(có thể chỉ thoáng)* | Ch.1 hoặc dời hết ch.2 |
@@ -107,9 +107,9 @@ Giám công dán / đọc **chỉ tiêu tháng mới** — hoặc quản mỏ n�
 | Ref | Vai |
 | --- | --- |
 | **MC** | Phu mỏ (vô danh) |
-| **Quản mỏ** | **Trần Thế Lộ** (陈世禄) — `CHAR-010` |
-| **Giám công** | **Mã Giữ Ca** (马守伢) — `CHAR-011` |
-| **Quản khu** | **Hàn Phong** (寒锋) — `CHAR-012`; không thoại dài |
+| **Quản mỏ** | **Trần Thế Lộ** — `CHAR-010` |
+| **Giám công** | **Mã Giữ Ca** — `CHAR-011` |
+| **Quản khu** | **Hàn Phong** — `CHAR-012`; không thoại dài |
 | **Phu mỏ bị phạt** | NPC một cảnh — không tên |
 
 ### Economy / world hooks

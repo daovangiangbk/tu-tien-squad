@@ -56,7 +56,7 @@
       "properties": {
         "id": "LOC-HP-BANG-HA-LO",
         "name_vi": "Băng Hà · lộ băng",
-        "name_hv": "冰河路",
+        "name_hv": "Băng Hà",
         "kind": "hub",
         "visibility": "public"
       },
@@ -73,7 +73,7 @@
       "properties": {
         "id": "LOC-HP-BANG-HA-TRAM",
         "name_vi": "Trạm biên · nam",
-        "name_hv": "驿站",
+        "name_hv": "Trạm biên",
         "kind": "settlement",
         "visibility": "public"
       },
@@ -90,7 +90,7 @@
       "properties": {
         "id": "LOC-HP-BANG-HA-CANH",
         "name_vi": "Tháp canh · đông",
-        "name_hv": "望塔",
+        "name_hv": "Tháp canh",
         "kind": "settlement",
         "visibility": "public"
       },
@@ -107,7 +107,7 @@
       "properties": {
         "id": "BRR-HP-BANG-HA-RIM",
         "name_vi": "Vành địa · rìa",
-        "name_hv": "缘障",
+        "name_hv": "Vành địa",
         "kind": "barrier",
         "visibility": "public"
       },
@@ -144,7 +144,7 @@
       "properties": {
         "id": "LOC-HP-HAN-TINH",
         "name_vi": "Hàn Tinh Quan",
-        "name_hv": "寒庭关",
+        "name_hv": "Hàn Tinh Quan",
         "kind": "hub",
         "visibility": "public",
         "notes": "Shared id; parent chl (430.0, 720.0)."

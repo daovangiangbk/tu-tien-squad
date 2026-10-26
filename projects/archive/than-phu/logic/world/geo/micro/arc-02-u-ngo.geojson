@@ -7,7 +7,10 @@
   "world:parent_scope": "chau_luc",
   "world:parent_feature_id": "CHL-PHU-VIEN",
   "world:parent_file": "chau-luc/chl-phu-vien.geojson",
-  "world:parent_coordinates": [768, 310],
+  "world:parent_coordinates": [
+    768,
+    310
+  ],
   "world:tieu_cuc_id": "TC-TP-004",
   "world:coordinateNote": "Micro · U Ngõ hắc thị Arc 2; gốc cửa hẹp; neo (768,310) = LOC-U-NGO trên lục; LOC-THANH-PLACEHOLDER +12,+8 → (780,318).",
   "world:depth_axis": "Huyết đàn ẩn: y âm local = sâu nội bộ; không quy full chain lên chau_luc.",
@@ -17,87 +20,123 @@
       "properties": {
         "id": "LOC-U-NGO",
         "name_vi": "U Ngõ · cửa hẹp",
-        "name_hv": "幽巷",
+        "name_hv": "U Ngõ",
         "kind": "hub",
         "visibility": "mc_phase1",
         "event_scale": "II",
         "faction": "Hắc thị · U Huyết Các (ẩn)",
         "notes": "Gõ ba–hai–một; broker ~20+ hạt · ch.35 · ch.41–50"
       },
-      "geometry": { "type": "Point", "coordinates": [0, 0] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-THANH-PLACEHOLDER",
         "name_vi": "Thanh Phù Thành · hướng trung tâm",
-        "name_hv": "青符城",
+        "name_hv": "Thanh Phù Thành",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Đông Nam",
         "notes": "Shared id khớp micro TC-TP-003 · quy đổi (780,318)"
       },
-      "geometry": { "type": "Point", "coordinates": [12, 8] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12,
+          8
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-HAC-THI-QUANG",
         "name_vi": "Hắc thị · quảng trường hẹp",
-        "name_hv": "黑市",
+        "name_hv": "Hắc thị",
         "kind": "settlement",
         "visibility": "mc_phase1",
         "direction_label": "Nam · trong ngõ",
         "notes": "Tin trẻ mất · ma phù huyết không giải đầy · ch.34–45"
       },
-      "geometry": { "type": "Point", "coordinates": [0, -6] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          -6
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-BROKER-U-NGO",
         "name_vi": "Gian broker · U Ngõ",
-        "name_hv": "幽巷档",
+        "name_hv": "Gian broker",
         "kind": "settlement",
         "visibility": "hidden_logic",
         "direction_label": "Tây",
         "notes": "CHAR-014 stub; giấy ba–hai–một · Mộ Thanh Y thẻ tre"
       },
-      "geometry": { "type": "Point", "coordinates": [-5, -2] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5,
+          -2
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-CUA-HUYET-AN",
         "name_vi": "Cửa huyết · lối xuống ẩn",
-        "name_hv": "血暗门",
+        "name_hv": "Cửa huyết",
         "kind": "barrier",
         "visibility": "hidden_logic",
         "direction_label": "Bắc · cuối ngõ",
         "notes": "Plant U Huyết Các; không graphic luyện huyết · ch.46–58"
       },
-      "geometry": { "type": "Point", "coordinates": [2, 8] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2,
+          8
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-HUYET-DAN-LOGIC",
         "name_vi": "Huyết đàn · logic ẩn",
-        "name_hv": "血坛",
+        "name_hv": "Huyết đàn",
         "kind": "dungeon",
         "visibility": "hidden_logic",
         "direction_label": "Sâu",
         "parent_id": "LOC-CUA-HUYET-AN",
         "notes": "Bắt cóc trẻ · Ma phù — Nghiệp; map logic only"
       },
-      "geometry": { "type": "Point", "coordinates": [2, -14] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2,
+          -14
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "ROUTE-U-NGO-HAC-THI",
         "name_vi": "Ngõ · vào hắc thị",
-        "name_hv": "幽巷道",
+        "name_hv": "Ngõ",
         "kind": "route",
         "visibility": "mc_phase1",
         "from_id": "LOC-U-NGO",
@@ -107,7 +146,20 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [[0, 0], [-2, -3], [0, -6]]
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -2,
+            -3
+          ],
+          [
+            0,
+            -6
+          ]
+        ]
       }
     },
     {
@@ -115,7 +167,7 @@
       "properties": {
         "id": "ROUTE-HUYET-XUONG",
         "name_vi": "Hành lang · xuống huyết đàn",
-        "name_hv": "血道",
+        "name_hv": "Hành lang",
         "kind": "route",
         "visibility": "hidden_logic",
         "from_id": "LOC-CUA-HUYET-AN",
@@ -124,7 +176,20 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [[2, 8], [2, 0], [2, -14]]
+        "coordinates": [
+          [
+            2,
+            8
+          ],
+          [
+            2,
+            0
+          ],
+          [
+            2,
+            -14
+          ]
+        ]
       }
     },
     {
@@ -132,7 +197,7 @@
       "properties": {
         "id": "POLY-U-NGO-ALLEY",
         "name_vi": "U Ngõ · hành lang ngoại thành (thô)",
-        "name_hv": "巷域",
+        "name_hv": "U Ngõ",
         "kind": "wilderness",
         "visibility": "mc_phase1",
         "notes": "Cửa hẹp như vết cắt trên thành xanh"
@@ -141,11 +206,26 @@
         "type": "Polygon",
         "coordinates": [
           [
-            [-8, 10],
-            [6, 10],
-            [6, -8],
-            [-8, -8],
-            [-8, 10]
+            [
+              -8,
+              10
+            ],
+            [
+              6,
+              10
+            ],
+            [
+              6,
+              -8
+            ],
+            [
+              -8,
+              -8
+            ],
+            [
+              -8,
+              10
+            ]
           ]
         ]
       }

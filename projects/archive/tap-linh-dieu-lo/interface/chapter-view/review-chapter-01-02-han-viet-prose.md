@@ -6,13 +6,13 @@
 
 | Ch | Vị trí | Cũ | Xử lý |
 |----|--------|-----|--------|
-| 1 | Mở | **Tô Diêu** (蘇遙) | Bỏ 蘇遙 — tên Việt đủ; Hán **苏遥** giữ registry. |
-| 2 | Bia FS-002 | **存** (×3) | **Tồn** (Hán Việt 存); gloss *còn* / *tồn tại*. |
+| 1 | Mở | **Tô Diêu** | Bỏ Tô Diêu — tên Việt đủ; Hán **Tô Diêu** giữ registry. |
+| 2 | Bia FS-002 | **Tồn** (×3) | **Tồn**; gloss *còn* / *tồn tại*. |
 
 ## Sau sửa
 
 - `interface/chapters/chapter-01-kien-sa.md` · `chapter-02-thuan-thien-tan.md`: **không** còn ký tự CJK trong prose.
-- `registry.md`: quy ước prose không chèn chữ Trung; **Tồn** (存) ghi chú lore bia.
+- `registry.md`: quy ước prose không chèn chữ Trung; **Tồn** ghi chú lore bia.
 
 ## Pass
 

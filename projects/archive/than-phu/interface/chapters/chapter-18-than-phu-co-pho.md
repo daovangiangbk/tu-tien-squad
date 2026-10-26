@@ -26,7 +26,7 @@ Hắn nhớ cha vẽ **ấn pháp** trên trần — tay cha nặng, tin **cốn
 
 Bi kịch không cần giải thích to.
 
-Ngày thứ ba, hắn **sao** **Hộ Mệnh** lên **da nháp** — không linh, chỉ **hình**. Mười lần sai **勾**; mười lần **khí** không qua **điểm**.
+Ngày thứ ba, hắn **sao** **Hộ Mệnh** lên **da nháp** — không linh, chỉ **hình**. Mười lần sai **Câu**; mười lần **khí** không qua **điểm**.
 
 **Thần thức** mỏi sớm hơn tay. Phù sư đi **trước** tu vi — hắn hiểu bằng **đau**, không bằng bài giảng.
 
@@ -54,8 +54,8 @@ Chọn **da** tốt nhất còn lại — một tấm.
 
 Không phải thề. **Neo** cảm xúc — *lời ăn khớp* cần **ý**, không cần **to**.
 
-Nét đầu: **横** — ổn.  
-Nét giữa: **勾** — lệch; hủy, **da** mất một tấm.
+Nét đầu: **Hoành** — ổn.  
+Nét giữa: **Câu** — lệch; hủy, **da** mất một tấm.
 
 Lần hai: chậm hơn. **Thần thức** dẫn từng **điểm**. Mười hơi thở theo **phổ**.
 

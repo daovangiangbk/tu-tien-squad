@@ -19,7 +19,7 @@
       "properties": {
         "id": "BRR-LH-LONG-QUY-AREA",
         "name_vi": "Long Quy · đèo hải sơn",
-        "name_hv": "龙龟隘",
+        "name_hv": "Long Quy",
         "kind": "barrier",
         "visibility": "public",
         "notes": "Khớp polygon BRR trên chau_luc; một ô phân vùng — không LineString."
@@ -57,7 +57,7 @@
       "properties": {
         "id": "LOC-LH-LONG-QUY-PASS",
         "name_vi": "Long Quy · đèo hải sơn",
-        "name_hv": "龙龟隘",
+        "name_hv": "Long Quy",
         "kind": "settlement",
         "visibility": "public",
         "notes": "Hub đèo barrier [0,0]."
@@ -75,7 +75,7 @@
       "properties": {
         "id": "BRR-LH-LONG-QUY",
         "name_vi": "Long Quy · đèo hải sơn",
-        "name_hv": "龙龟隘",
+        "name_hv": "Long Quy",
         "kind": "barrier",
         "visibility": "public"
       },
@@ -112,7 +112,7 @@
       "properties": {
         "id": "LOC-LH-CANG-TIEN",
         "name_vi": "Cảng Tiên Sa",
-        "name_hv": "仙沙港",
+        "name_hv": "Cảng Tiên Sa",
         "kind": "hub",
         "visibility": "public",
         "notes": "Shared id; parent chl (290.0, 220.0)."

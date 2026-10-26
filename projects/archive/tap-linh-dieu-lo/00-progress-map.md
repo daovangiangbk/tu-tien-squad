@@ -7,7 +7,7 @@
 
 **Lần cập nhật:** 2026-09-10  
 **Session focus:** **REWRITE-66-112 complete** — ch.66–112 rewrite approved · Phase 1 khép · Phase 2 stub
-**Tác phẩm:** Tạp Linh Diêu Lộ (杂灵遥路) · **Brief:** v3 · **Trần phase 1:** Trúc Cơ đỉnh phong
+**Tác phẩm:** Tạp Linh Diêu Lộ (Tạp Linh Diêu Lộ) · **Brief:** v3 · **Trần phase 1:** Trúc Cơ đỉnh phong
 
 ---
 

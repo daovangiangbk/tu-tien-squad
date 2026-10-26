@@ -21,8 +21,7 @@ child_index:
   - path: economy/00-overview.md
 ---
 
-# Hỏa Diễm · 火炎大陆
-
+# Hỏa Diễm · HỏaDiễmĐạiLục
 **parent:** [`../../00-overview.md`](../../00-overview.md) · **GeoJSON:** [`chl-hoa-dien.geojson`](../../geo/chau-luc/chl-hoa-dien.geojson) · **Hub:** `LOC-HD-HOA-QUAN` · **Catalog REG:** [`../../../../01-region-catalog.md`](../../../../01-region-catalog.md) § CHL-HOA-DIEN
 
 Hỏa Diễm nằm **tây nam nội địa** Càn Nguyên — **Hỏa mạch**, sa **khô nóng**, lò luyện khí / đan (atlas §2.1). **Phàm đa số** ở mỏ, kho quặng, thành phụ ven **Viêm Hà**; tu **thiểu số** nhưng **Viêm Thần Tông** nắm **Hỏa Quan thành** và mỏ trọng yếu.

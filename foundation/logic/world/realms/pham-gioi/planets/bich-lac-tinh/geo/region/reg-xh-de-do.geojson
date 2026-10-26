@@ -19,7 +19,7 @@
       "properties": {
         "id": "REG-XH-DE-DO-AREA",
         "name_vi": "Phạm vi Đế Đô",
-        "name_hv": "帝都域",
+        "name_hv": "Phạm vi Đế Đô",
         "kind": "polity",
         "visibility": "public",
         "linh_khi_tier": "cực_mỏng",
@@ -194,7 +194,7 @@
       "properties": {
         "id": "LOC-XH-LAC-DUONG",
         "name_vi": "Lạc Dương · đế đô",
-        "name_hv": "洛阳",
+        "name_hv": "Lạc Dương",
         "kind": "hub",
         "visibility": "public",
         "notes": "Triều đình · thuế linh thạch 30–40%; mạch manh hiếm."
@@ -212,7 +212,7 @@
       "properties": {
         "id": "LOC-XH-HOANG-CUNG",
         "name_vi": "Hoàng cung · Nội thành",
-        "name_hv": "皇宫",
+        "name_hv": "Hoàng cung",
         "kind": "polity",
         "visibility": "public",
         "direction_label": "Bắc trong thành",
@@ -231,7 +231,7 @@
       "properties": {
         "id": "LOC-XH-LINH-THACH-KHO",
         "name_vi": "Kho linh thạch hạ phẩm",
-        "name_hv": "灵石库",
+        "name_hv": "Kho linh thạch hạ phẩm",
         "kind": "resource",
         "visibility": "public",
         "direction_label": "Đông",
@@ -250,7 +250,7 @@
       "properties": {
         "id": "LOC-XH-TAY-SON-PHONG",
         "name_vi": "Phân viện Tây Sơn Tự",
-        "name_hv": "西山寺",
+        "name_hv": "Phân viện Tây Sơn Tự",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Tây",
@@ -270,7 +270,7 @@
       "properties": {
         "id": "LOC-XH-NAM-QUAN",
         "name_vi": "Nam quan · đường Nam Hải",
-        "name_hv": "南关",
+        "name_hv": "Nam quan",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Nam",
@@ -289,7 +289,7 @@
       "properties": {
         "id": "LOC-XH-BAC-LO",
         "name_vi": "Bắc lộ · hướng Bắc Hạn",
-        "name_hv": "北路",
+        "name_hv": "Bắc lộ",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Bắc",
@@ -308,7 +308,7 @@
       "properties": {
         "id": "BRR-XH-THANH-HE",
         "name_vi": "Thành hà đông",
-        "name_hv": "东城河",
+        "name_hv": "Thành hà đông",
         "kind": "barrier",
         "visibility": "public",
         "notes": "Hào nước; không phải mạch linh."
@@ -346,7 +346,7 @@
       "properties": {
         "id": "LOC-XH-MANH-MACH-AN",
         "name_vi": "Mạch manh ẩn · phế điện",
-        "name_hv": "隐脉",
+        "name_hv": "Mạch manh ẩn",
         "kind": "resource",
         "visibility": "hidden_logic",
         "direction_label": "Tây nam ngoại thành",
@@ -365,7 +365,7 @@
       "properties": {
         "id": "RIVER-XH-LAC-HA",
         "name_vi": "Lạc Hà · đoạn đế đô",
-        "name_hv": "洛河",
+        "name_hv": "Lạc Hà",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-XH-LAC-DUONG",
@@ -416,7 +416,7 @@
       "properties": {
         "id": "ROUTE-XH-DE-NAM-HAI",
         "name_vi": "Quan đạo Nam Hải",
-        "name_hv": "南海官道",
+        "name_hv": "Quan đạo Nam Hải",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-XH-LAC-DUONG",
@@ -447,7 +447,7 @@
       "properties": {
         "id": "ROUTE-XH-DE-BAC-HAN",
         "name_vi": "Quan đạo Bắc Hạn",
-        "name_hv": "北旱官道",
+        "name_hv": "Quan đạo Bắc Hạn",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-XH-LAC-DUONG",
@@ -478,7 +478,7 @@
       "properties": {
         "id": "ROUTE-XH-DE-TAY-SON",
         "name_vi": "Đường Tây Sơn",
-        "name_hv": "西山道",
+        "name_hv": "Đường Tây Sơn",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-XH-LAC-DUONG",
@@ -508,7 +508,7 @@
       "properties": {
         "id": "LOC-XH-CHO-NGOAI",
         "name_vi": "Chợ ngoại thành · Nam Môn",
-        "name_hv": "南门外市",
+        "name_hv": "Chợ ngoại thành",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Nam ngoại thành",
@@ -527,7 +527,7 @@
       "properties": {
         "id": "LOC-XH-DONG-NGOAI",
         "name_vi": "Đông ngoại · quan trại",
-        "name_hv": "东外营",
+        "name_hv": "Đông ngoại",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Đông",

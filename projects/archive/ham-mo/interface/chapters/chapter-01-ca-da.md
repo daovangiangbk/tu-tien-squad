@@ -13,9 +13,9 @@
 
 Trời chưa hẳn sáng; viền núi chỉ hé một đường xám, gió trên sườn đá lạnh như nước giếng sâu. Chạm cổ áo là biết mình còn sống — biết không đủ để an tâm, chỉ đủ để đứng dậy.
 
-Trong lán trại phàm của **Huyền Khố Linh Mỏ** (玄窟灵矿), khói bếp mỏng trước khi lửa bén. Tro trộn bùn đất, mùi người ngủ chung trên ván gỗ còn ẩm; tiếng thở chồng lên nhau như sóng thấp. Không ai trói cổ tay; cũng chẳng ai tự nguyện ở lại.
+Trong lán trại phàm của **Huyền Khố Linh Mỏ**, khói bếp mỏng trước khi lửa bén. Tro trộn bùn đất, mùi người ngủ chung trên ván gỗ còn ẩm; tiếng thở chồng lên nhau như sóng thấp. Không ai trói cổ tay; cũng chẳng ai tự nguyện ở lại.
 
-Họ lên núi vì tờ chiêu công dán ở chợ thôn: mười đồng một ca, ăn no, ba năm về. Ngày đầu, bát cháo trên **Ngân Đài** (银台) đặc hơn hẳn cháo trong lán này — đủ để tin. Ấn chỉ xong, sổ mới lộ: phí an trí, công cụ, y phục, gạo đường kéo lên núi; cột nợ lán cao hơn mức ứng. Ca đầu trừ đèn, trừ phạt chưa mắc, trừ chỉ tiêu chưa đủ — bốn sáu đồng không nuôi nổi tháng. Ai biết sớm thì biết mình bị lừa; biết mà vẫn kẹt, vì nợ, vì gác, vì kẻ trốn đêm sương bị kéo về hoặc mất trên đường rừng. Muốn về ruộng phải giấy xuất mỏ và sổ sạch — chưa có thì xuống núi là trốn công, nợ còn đuổi theo nhà nếu khai.
+Họ lên núi vì tờ chiêu công dán ở chợ thôn: mười đồng một ca, ăn no, ba năm về. Ngày đầu, bát cháo trên **Ngân Đài** đặc hơn hẳn cháo trong lán này — đủ để tin. Ấn chỉ xong, sổ mới lộ: phí an trí, công cụ, y phục, gạo đường kéo lên núi; cột nợ lán cao hơn mức ứng. Ca đầu trừ đèn, trừ phạt chưa mắc, trừ chỉ tiêu chưa đủ — bốn sáu đồng không nuôi nổi tháng. Ai biết sớm thì biết mình bị lừa; biết mà vẫn kẹt, vì nợ, vì gác, vì kẻ trốn đêm sương bị kéo về hoặc mất trên đường rừng. Muốn về ruộng phải giấy xuất mỏ và sổ sạch — chưa có thì xuống núi là trốn công, nợ còn đuổi theo nhà nếu khai.
 
 Hắn ngồi dậy không cần ai gọi. Xương sườn như đếm giờ thay đồng hồ, biết còn mấy khắc nữa là tiếng gõ tre.
 
@@ -39,7 +39,7 @@ Miệng hầm chính há miệng đen giữa vách đá. Gió ban ngày kéo xu�
 
 Hắn đi giữa đám, không chen, không lùi. Chen là va chạm, va chạm là cãi, cãi là sổ. Thang dài; mỗi bậc, ánh sáng phía trên thu nhỏ, như con mắt đóng. **Thượng hầm** còn rộng, khí đỡ ngột; tu sĩ hiếm xuống tận đây, chỉ để lại vết cuốc cũ và mùi dầu phù cũ trên xà. Vài tấm phù treo trên xà — phàm nhân không được chạm. Hắn không nhìn phù. Nhìn là thấy ranh giới: bên kia là kẻ một chiêu đủ giết, bên này là kẻ đổi mồ hôi lấy bạc.
 
-Thang chia nhánh. Giám công **Mã Giữ Ca** (马守伢) đứng ở ngã ba, roi da vắt vai. «Trung hầm — ca ngày. Thiếu giỏ, ta thiếu lương — Trần Thế Lộ thiếu mặt quản khu, ta thiếu da trước các ngươi. Hiểu chưa?»
+Thang chia nhánh. Giám công **Mã Giữ Ca** đứng ở ngã ba, roi da vắt vai. «Trung hầm — ca ngày. Thiếu giỏ, ta thiếu lương — Trần Thế Lộ thiếu mặt quản khu, ta thiếu da trước các ngươi. Hiểu chưa?»
 
 Không ai trả lời.
 
@@ -99,11 +99,11 @@ Ca tan, phu xếp hàng lên thang. Hắn leo chậm, để phổi làm quen v�
 
 Lên được nửa đoạn, hắn **nhìn** — không quay đầu lâu, chỉ lướt như kẻ mỏi mặt tìm chỗ bám. Ở miệng hầm phía trên, một gác đứng nghiêng, roi ngắn, mắt nhìn xuống thang như nhìn giếng. Ngã ba gỗ có thêm một kẻ ngồi, đếm đầu người lên — không nói, chỉ gật. Gió **chủ yếu** kéo xuống, nuốt khói đèn; nhưng sát vách trái, một khe hẹp hút **ngược**, mảnh, lạnh, như hơi thở của lỗ khác. Hắn không hiểu khe đó thông đâu; chỉ ghi trong đầu: **lên** thì gió xuống; **bên trái** có hướng không theo miệng hầm.
 
-Ánh đèn mỏ dần theo bóng người. Trên mặt, trời đã vàng; sương mỏ mỏng, che núi xa của **Huyền Khố Tông** (玄窟宗) — môn phái không hiện mặt, chỉ hiện qua kiện quặng đi lên và bạc đi xuống.
+Ánh đèn mỏ dần theo bóng người. Trên mặt, trời đã vàng; sương mỏ mỏng, che núi xa của **Huyền Khố Tông** — môn phái không hiện mặt, chỉ hiện qua kiện quặng đi lên và bạc đi xuống.
 
 ---
 
-Sân đá gần **Ngân Đài** đã có vài người chờ — tạm ứng sau ca. Hắn đứng xa bàn gỗ, nhìn quản mỏ **Trần Thế Lộ** (陈世禄) lật sổ, đếm bạc bằng ngón tay khô. Tiếng bạc chạm nhau trong sáng; cũng lạnh hơn tiếng cuốc.
+Sân đá gần **Ngân Đài** đã có vài người chờ — tạm ứng sau ca. Hắn đứng xa bàn gỗ, nhìn quản mỏ **Trần Thế Lộ** lật sổ, đếm bạc bằng ngón tay khô. Tiếng bạc chạm nhau trong sáng; cũng lạnh hơn tiếng cuốc.
 
 Đến lượt hắn. Trần Thế Lộ không nhìn mặt, chỉ nhìn sổ. «Sáu giỏ. Bốn đồng.»
 

@@ -23,7 +23,7 @@
       "properties": {
         "id": "CHL-THANH-VAN",
         "name_vi": "Thanh Vân đại lục",
-        "name_hv": "青云大陆",
+        "name_hv": "Thanh Vân đại lục",
         "kind": "continent",
         "visibility": "public",
         "notes": "Silhouette CHL-THANH-VAN từ 00-tinh-ha; parent SW [90.0, -36.0]; k≈7.56; hub LOC-TV-VAN-CUNG."
@@ -604,7 +604,7 @@
         "id": "REG-TV-NAM-VAN",
         "name_vi": "Nam Vân hải",
         "kind": "wilderness",
-        "name_hv": "南云海",
+        "name_hv": "Nam Vân hải",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public",
         "notes": "Mây Phong–Mộc dày — tiên thảo ven biển"
@@ -663,7 +663,7 @@
         "id": "REG-TV-NAM-HAI",
         "name_vi": "Nam Hải đảo",
         "kind": "wilderness",
-        "name_hv": "南海岛",
+        "name_hv": "Nam Hải đảo",
         "tien_khi_tier": "dồi",
         "visibility": "public",
         "notes": "Đảo mây — mỏ Tiên Nguyên hạ phẩm"
@@ -962,7 +962,7 @@
         "id": "REG-TV-VAN-CUNG",
         "name_vi": "Vân Cung thành",
         "kind": "polity",
-        "name_hv": "云宫城",
+        "name_hv": "Vân Cung thành",
         "tien_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Tiên môn Thanh Vân · hub LOC-TV-VAN-CUNG"
@@ -1241,7 +1241,7 @@
         "id": "REG-TV-THANH-FENG",
         "name_vi": "Thanh Phong đài",
         "kind": "polity",
-        "name_hv": "青峰台",
+        "name_hv": "Thanh Phong đài",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public",
         "notes": "Tu Phong–Mộc — Thanh Vân công pháp"
@@ -1468,7 +1468,7 @@
         "id": "REG-TV-THIEN-MEN",
         "name_vi": "Thiên Môn quan",
         "kind": "wilderness",
-        "name_hv": "天门关",
+        "name_hv": "Thiên Môn quan",
         "tien_khi_tier": "dồi",
         "visibility": "public",
         "notes": "Cổng bắc — thử kiếp tiên giai ngoài trời"
@@ -1703,7 +1703,7 @@
         "id": "REG-TV-BAC-MY",
         "name_vi": "Bắc Mị vực",
         "kind": "dungeon",
-        "name_hv": "北迷域",
+        "name_hv": "Bắc Mị vực",
         "tien_khi_tier": "mach_rải",
         "visibility": "mc_phase1",
         "notes": "Ảo cảnh · thử tâm — Nhân quả nếu phá cấm"
@@ -1914,7 +1914,7 @@
         "id": "REG-TV-TAY-LAM",
         "name_vi": "Tây Lam",
         "kind": "wilderness",
-        "name_hv": "西林",
+        "name_hv": "Tây Lam",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public",
         "notes": "Rừng tiên thảo Kim–Mộc phụ"
@@ -2105,7 +2105,7 @@
         "id": "BRR-TV-VAN-SON",
         "name_vi": "Dãy Vân Sơn",
         "kind": "barrier",
-        "name_hv": "云山",
+        "name_hv": "Dãy Vân Sơn",
         "tien_khi_tier": "mach_rải_cao",
         "visibility": "public",
         "notes": "Barrier polygon — Phong linh dày"
@@ -2240,7 +2240,7 @@
         "id": "REG-TV-VAN-HAI",
         "name_vi": "Vân Hải bình",
         "kind": "wilderness",
-        "name_hv": "云海坪",
+        "name_hv": "Vân Hải bình",
         "tien_khi_tier": "dồi",
         "visibility": "public",
         "notes": "Biển mây nội lục — phi thuyền nhỏ"
@@ -2427,7 +2427,7 @@
         "id": "REG-TV-DONG-MACH",
         "name_vi": "Đông Mạch uyên",
         "kind": "wilderness",
-        "name_hv": "东脉苑",
+        "name_hv": "Đông Mạch uyên",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public",
         "notes": "Mạch đông — liên lạc Trung Tiên qua Đông Vân"
@@ -2445,7 +2445,7 @@
       "properties": {
         "id": "LOC-TV-VAN-CUNG",
         "name_vi": "Vân Cung · tiên môn",
-        "name_hv": "云宫",
+        "name_hv": "Vân Cung",
         "kind": "hub",
         "visibility": "public",
         "tien_khi_tier": "mach_chủ"
@@ -2705,7 +2705,7 @@
       "properties": {
         "id": "RIVER-TV-VAN-HE",
         "name_vi": "Vân Hà",
-        "name_hv": "云河",
+        "name_hv": "Vân Hà",
         "kind": "route",
         "from_id": "REG-TV-THANH-FENG",
         "to_id": "REG-TV-NAM-VAN",

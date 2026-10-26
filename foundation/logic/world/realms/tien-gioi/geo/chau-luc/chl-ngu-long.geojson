@@ -23,7 +23,7 @@
       "properties": {
         "id": "CHL-NGU-LONG",
         "name_vi": "Ngự Long đại lục",
-        "name_hv": "御龙大陆",
+        "name_hv": "Ngự Long đại lục",
         "kind": "continent",
         "visibility": "public",
         "notes": "Silhouette CHL-NGU-LONG từ 00-tinh-ha; parent SW [-97.0, 152.0]; k≈6.81; hub LOC-NL-LONG-DINH."
@@ -640,7 +640,7 @@
         "id": "REG-NL-NAM-VAN",
         "name_vi": "Nam Vân · biên Trung Tiên",
         "kind": "wilderness",
-        "name_hv": "南云",
+        "name_hv": "Nam Vân",
         "tien_khi_tier": "dồi",
         "visibility": "public",
         "notes": "Đối diện REG-TT-BAC-LINH — long khí vệt; tranh biên quan"
@@ -951,7 +951,7 @@
         "id": "REG-NL-NAM-QUAN",
         "name_vi": "Nam Long quan",
         "kind": "polity",
-        "name_hv": "南龙关",
+        "name_hv": "Nam Long quan",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public",
         "notes": "Thuế long mạch nhánh 18% — tiên triều Trung Tiên"
@@ -1166,7 +1166,7 @@
         "id": "REG-NL-LONG-DINH",
         "name_vi": "Long Đình",
         "kind": "polity",
-        "name_hv": "龙庭",
+        "name_hv": "Long Đình",
         "tien_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Long tộc trung ương · hub LOC-NL-LONG-DINH"
@@ -1345,7 +1345,7 @@
         "id": "REG-NL-LONG-TAN",
         "name_vi": "Long Tán",
         "kind": "resource",
-        "name_hv": "龙坛",
+        "name_hv": "Long Tán",
         "tien_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Long mạch công cộng — Long Linh monopoly long tộc"
@@ -1688,7 +1688,7 @@
         "id": "REG-NL-TRUNG-VAN",
         "name_vi": "Trung Vân · đồng bằng",
         "kind": "wilderness",
-        "name_hv": "中云",
+        "name_hv": "Trung Vân",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public"
       }
@@ -1818,7 +1818,7 @@
         "id": "REG-NL-TAY-UYEN",
         "name_vi": "Tây Uyên · rìa tây",
         "kind": "wilderness",
-        "name_hv": "西苑",
+        "name_hv": "Tây Uyên",
         "tien_khi_tier": "dồi",
         "visibility": "public",
         "notes": "Hướng Huyên Băng (lore) — gió băng vệt"
@@ -1989,7 +1989,7 @@
         "id": "BRR-NL-LONG-SON",
         "name_vi": "Dãy Long Sơn",
         "kind": "barrier",
-        "name_hv": "龙山",
+        "name_hv": "Dãy Long Sơn",
         "tien_khi_tier": "mach_rải_cao",
         "visibility": "public",
         "notes": "Long mạch rải — Thiên kiếp nặng khi vượt"
@@ -2240,7 +2240,7 @@
         "id": "REG-NL-LONG-VUC",
         "name_vi": "Long Vực",
         "kind": "dungeon",
-        "name_hv": "龙谷",
+        "name_hv": "Long Vực",
         "tien_khi_tier": "mach_T2_T3",
         "visibility": "mc_phase1",
         "notes": "Thung long cổ — tranh Long Linh arc-scale"
@@ -2419,7 +2419,7 @@
         "id": "REG-NL-DONG-LAM",
         "name_vi": "Đông Lam · biên Thanh Vân",
         "kind": "wilderness",
-        "name_hv": "东林",
+        "name_hv": "Đông Lam",
         "tien_khi_tier": "dồi",
         "visibility": "public",
         "notes": "Thương lộ mây đông — liên Thanh Vân REG-TV-THIEN-MEN"
@@ -2550,7 +2550,7 @@
         "id": "REG-NL-BAC-HAN",
         "name_vi": "Bắc Hàn uyên",
         "kind": "wilderness",
-        "name_hv": "北寒苑",
+        "name_hv": "Bắc Hàn uyên",
         "tien_khi_tier": "mach_rải",
         "visibility": "public",
         "notes": "Hoang băng cực bắc — tiên thú long hóa"
@@ -2613,7 +2613,7 @@
         "id": "REG-NL-HAN-COC",
         "name_vi": "Hàn Cốc",
         "kind": "wilderness",
-        "name_hv": "寒谷",
+        "name_hv": "Hàn Cốc",
         "tien_khi_tier": "dồi",
         "visibility": "hidden_logic",
         "notes": "Kim–Long chiến cổ di tích — phong ấn vỡ mảnh"
@@ -2631,7 +2631,7 @@
       "properties": {
         "id": "LOC-NL-LONG-DINH",
         "name_vi": "Long Đình · trung ương",
-        "name_hv": "龙庭",
+        "name_hv": "Long Đình",
         "kind": "hub",
         "visibility": "public",
         "tien_khi_tier": "mach_chủ"
@@ -2719,7 +2719,7 @@
       "properties": {
         "id": "ROUTE-NL-NAM-TRUNG-TIEN",
         "name_vi": "Long mạch nam",
-        "name_hv": "南龙路",
+        "name_hv": "Long mạch nam",
         "kind": "route",
         "from_id": "REG-NL-NAM-VAN",
         "to_id": "REG-TT-BAC-LINH",
@@ -3048,7 +3048,7 @@
       "properties": {
         "id": "RIVER-NL-LONG-HE",
         "name_vi": "Long Hà",
-        "name_hv": "龙河",
+        "name_hv": "Long Hà",
         "kind": "route",
         "from_id": "REG-NL-BAC-HAN",
         "to_id": "REG-NL-NAM-QUAN"

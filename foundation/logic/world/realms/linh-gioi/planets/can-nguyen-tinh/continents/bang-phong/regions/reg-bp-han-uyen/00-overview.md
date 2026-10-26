@@ -13,8 +13,7 @@ canon_source:
 child_index: []
 ---
 
-# Hàn Uyên · 寒苑
-
+# Hàn Uyên · Hàn
 **parent:** [`CHL-BANG-PHONG`](../../00-overview.md) · **GeoJSON:** [`chl-bang-phong.geojson`](../../../../geo/chau-luc/chl-bang-phong.geojson)
 
 ## Hợp đồng kế thừa

@@ -19,7 +19,7 @@
       "properties": {
         "id": "REG-TM-NAM-QUAN-AREA",
         "name_vi": "Phạm vi Nam Quan",
-        "name_hv": "南关域",
+        "name_hv": "Phạm vi Nam Quan",
         "kind": "polity",
         "visibility": "public",
         "linh_khi_tier": "cực_mỏng"
@@ -61,7 +61,7 @@
       "properties": {
         "id": "LOC-TM-NAM-QUAN",
         "name_vi": "Nam Quan · ải chính",
-        "name_hv": "南关",
+        "name_hv": "Nam Quan",
         "kind": "hub",
         "visibility": "public",
         "faction": "Quan ải Tàn Mộ",
@@ -80,7 +80,7 @@
       "properties": {
         "id": "LOC-TM-NAM-TRAM",
         "name_vi": "Trạm lữ · phía nam",
-        "name_hv": "旅站",
+        "name_hv": "Trạm lữ",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Nam"
@@ -98,7 +98,7 @@
       "properties": {
         "id": "LOC-TM-NAM-THAP",
         "name_vi": "Tháp canh · đông bắc",
-        "name_hv": "南关塔",
+        "name_hv": "Tháp canh",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Đông bắc"
@@ -116,7 +116,7 @@
       "properties": {
         "id": "LOC-TM-NAM-GIENG",
         "name_vi": "Giếng mặn · hiếm",
-        "name_hv": "咸井",
+        "name_hv": "Giếng mặn",
         "kind": "resource",
         "visibility": "public",
         "direction_label": "Tây",
@@ -136,7 +136,7 @@
       "properties": {
         "id": "BRR-TM-NAM-LO",
         "name_vi": "Ải lộ · đèo nam",
-        "name_hv": "南隘",
+        "name_hv": "Ải lộ",
         "kind": "barrier",
         "visibility": "public"
       },
@@ -173,7 +173,7 @@
       "properties": {
         "id": "LOC-TM-SA-HAI-RIM-S",
         "name_vi": "Rìa Sa Hải · phía bắc ải",
-        "name_hv": "沙海南缘",
+        "name_hv": "Rìa Sa Hải",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Bắc",
@@ -192,7 +192,7 @@
       "properties": {
         "id": "ROUTE-TM-NAM-SA-HAI",
         "name_vi": "Đạo vào Sa Hải",
-        "name_hv": "入沙海道",
+        "name_hv": "Đạo vào Sa Hải",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-NAM-QUAN",
@@ -227,7 +227,7 @@
       "properties": {
         "id": "ROUTE-TM-NAM-NGOAI",
         "name_vi": "Lộ phía nam · ra khỏi lục",
-        "name_hv": "南外道",
+        "name_hv": "Lộ phía nam",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-NAM-TRAM",
@@ -258,7 +258,7 @@
       "properties": {
         "id": "LOC-TM-NAM-PHU",
         "name_vi": "Phụ ải · tây",
-        "name_hv": "西关",
+        "name_hv": "Phụ ải",
         "kind": "settlement",
         "visibility": "mc_phase1",
         "direction_label": "Tây",
@@ -277,7 +277,7 @@
       "properties": {
         "id": "LOC-TM-NAM-MANH",
         "name_vi": "Manh mạch · dưới ải",
-        "name_hv": "关下脉",
+        "name_hv": "Manh mạch",
         "kind": "resource",
         "visibility": "hidden_logic",
         "linh_khi_tier": "manh_mach_rải",
@@ -296,7 +296,7 @@
       "properties": {
         "id": "RIVER-TM-NAM-CAN",
         "name_vi": "Khe khô · cố đô nam",
-        "name_hv": "涸溪",
+        "name_hv": "Khe khô",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-NAM-GIENG",
@@ -330,7 +330,7 @@
       "properties": {
         "id": "LOC-TM-NAM-SO",
         "name_vi": "Sổ ải · kho quan",
-        "name_hv": "关册",
+        "name_hv": "Sổ ải",
         "kind": "dungeon",
         "visibility": "hidden_logic",
         "notes": "Danh sách tu sĩ qua ải — đồng bộ Khe Giới."
@@ -348,7 +348,7 @@
       "properties": {
         "id": "ROUTE-TM-NAM-DONG-OA",
         "name_vi": "Biên đạo đông · tới Oa",
-        "name_hv": "东洼道",
+        "name_hv": "Biên đạo đông",
         "kind": "route",
         "visibility": "mc_phase1",
         "from_id": "LOC-TM-NAM-THAP",

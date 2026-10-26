@@ -52,7 +52,7 @@ Tông chủ (chưa đặt tên) — xa, không lộ diện
 
 | | |
 | --- | --- |
-| **Trên giấy** | **Ký gắn công** (押工) — «hợp đồng» phàm với **Huyền Khố Tông** / quản mỏ. |
+| **Trên giấy** | **Ký gắn công** — «hợp đồng» phàm với **Huyền Khố Tông** / quản mỏ. |
 | **Không phải** | **Nô lệ** ( không bán thân ) · **Không phải** lao động tự do có thể nghỉ giữa kỳ. |
 | **Thực chất** | **Bóc lột có tổ chức** — **dụ** bằng lời hứa → **ép nợ** ngay khi vào → **ép làm** bằng sổ + truy nã; tông / quản mỏ vận hành như **máy lừa đảo** ( chuyên nghiệp, lặp lại mùa mùa ). |
 
@@ -60,7 +60,7 @@ Tông chủ (chưa đặt tên) — xa, không lộ diện
 
 | Bước | Cách làm (có bài bản) |
 | --- | --- |
-| **1. Mồi** | **Chiêu công thiếp** (招工帖) ở thôn / chợ phàm: «**mười đồng một ca**», «**đủ ăn no**», «**ba năm về nhà**», «**không đụng linh thạch — an toàn**». |
+| **1. Mồi** | **Chiêu công thiếp** ở thôn / chợ phàm: «**mười đồng một ca**», «**đủ ăn no**», «**ba năm về nhà**», «**không đụng linh thạch — an toàn**». |
 | **2. Sân thử** | **Ngân Đài** hoặc sân cổng: cho **đếm thử** vài đồng bạc thật, cháo **đặc hơn** ngày thường — tạo cảm giác «đúng như lời». |
 | **3. Ký / ấn** | **Không** cho đọc hết điều khoản; giải thích miệng **nhanh**; ấn chỉ khi đói / khi cả nhà chờ gạo. |
 | **4. Nợ ngay** | Ghi **nợ lán** = gạo + lương thực đường lên núi + «**phí an trí**» + «**công cụ**» + «**y phục**» — **cao hơn** mức ứng thực `[work logic]`. |

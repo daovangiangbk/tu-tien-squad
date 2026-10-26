@@ -25,12 +25,12 @@ Tham chiếu shared: `foundation/core/00-glossary.md` (tránh trùng **Thiên Uy
 
 | Thực thể | Chốt | Lý do ngắn |
 | --- | --- | --- |
-| Đại tông | **Huyền Khố Tông** (玄窟宗) | *Huyền* = mờ xa; *Khố* = hố/hầm — quyền lực gắn **vực sâu**, không tự xưng chính. |
-| Khu mỏ | **Huyền Khố Linh Mỏ** (玄窟灵矿) | Gắn tông; *Linh* nhắc linh thạch, không ma quái. |
-| Điểm giao bạc | **Ngân Đài** (银台) | Bàn bạc tại sân cổng — prose gọi **Ngân Đài** hoặc *điểm giao bạc*. |
-| Quản mỏ | **Trần Thế Lộ** (陈世禄) | *Thế lộ* = lộc thế tục — sống bằng **sổ và phạt**, xám có lý do. |
-| Giám công | **Mã Giữ Ca** (马守伢) | *Giữ ca* — giữ chức bằng roi và giỏ; bị khấu nếu thiếu. |
-| Quản khu | **Hàn Phong** (寒锋) | Tu sĩ lướt qua; *Hàn phong* = sắc lạnh — **không** đối thoại dài. |
+| Đại tông | **Huyền Khố Tông** | *Huyền* = mờ xa; *Khố* = hố/hầm — quyền lực gắn **vực sâu**, không tự xưng chính. |
+| Khu mỏ | **Huyền Khố Linh Mỏ** | Gắn tông; *Linh* nhắc linh thạch, không ma quái. |
+| Điểm giao bạc | **Ngân Đài** | Bàn bạc tại sân cổng — prose gọi **Ngân Đài** hoặc *điểm giao bạc*. |
+| Quản mỏ | **Trần Thế Lộ** | *Thế lộ* = lộc thế tục — sống bằng **sổ và phạt**, xám có lý do. |
+| Giám công | **Mã Giữ Ca** | *Giữ ca* — giữ chức bằng roi và giỏ; bị khấu nếu thiếu. |
+| Quản khu | **Hàn Phong** | Tu sĩ lướt qua; *Hàn phong* = sắc lạnh — **không** đối thoại dài. |
 
 *(Phương án bị loại nhanh: **Thiên Uyên Tông** — trùng motif tinh hà foundation; **U Nguyên Tông** — quá u ám tà khí.)*
 
@@ -40,12 +40,12 @@ Tham chiếu shared: `foundation/core/00-glossary.md` (tránh trùng **Thiên Uy
 
 | ID | Loại | Tên hiển thị (Việt) | Hán | Slug / alias | Ghi chú 1 dòng |
 | --- | --- | --- | --- | --- | --- |
-| **ORG-001** | Đại tông | Huyền Khố Tông | 玄窟宗 | `org-huyen-kho-tong` | Thu linh thạch mỏ, trả bạc phàm; tông chủ không lộ diện. |
-| **LOC-001** | Khu mỏ | Huyền Khố Linh Mỏ | 玄窟灵矿 | `loc-huyen-kho-linh-mo` | Micro-setting; Thượng/Trung/Hạ hầm = tầng logic, không slug riêng. |
-| **LOC-002** | Địa điểm | Ngân Đài | 银台 | `loc-ngan-dai` | Sân cổng — kiện linh thạch lên, bạc xuống (ch.2). |
-| **CHAR-010** | NPC | Trần Thế Lộ | 陈世禄 | Quản mỏ · *ông Trần* / *Quản mỏ Trần* | Ch.1 thoáng hoặc ch.2 chính; ROI, giữ phạt, trả bạc. |
-| **CHAR-011** | NPC | Mã Giữ Ca | 马守伢 | Giám công · *Giám công Mã* | Ch.1–3; roi, đếm giỏ, khấu lương nếu ca thiếu. |
-| **CHAR-012** | NPC | Hàn Phong | 寒锋 | Quản khu mỏ · *Hàn Phong* | Tu sĩ ≥ LK; ch.2 lướt qua; phù kiểm, phong ấn thùng. |
+| **ORG-001** | Đại tông | Huyền Khố Tông | Huyền Khố Tông | `org-huyen-kho-tong` | Thu linh thạch mỏ, trả bạc phàm; tông chủ không lộ diện. |
+| **LOC-001** | Khu mỏ | Huyền Khố Linh Mỏ | Huyền Khố Linh Mỏ | `loc-huyen-kho-linh-mo` | Micro-setting; Thượng/Trung/Hạ hầm = tầng logic, không slug riêng. |
+| **LOC-002** | Địa điểm | Ngân Đài | Ngân Đài | `loc-ngan-dai` | Sân cổng — kiện linh thạch lên, bạc xuống (ch.2). |
+| **CHAR-010** | NPC | Trần Thế Lộ | Trần Thế Lộ | Quản mỏ · *ông Trần* / *Quản mỏ Trần* | Ch.1 thoáng hoặc ch.2 chính; ROI, giữ phạt, trả bạc. |
+| **CHAR-011** | NPC | Mã Giữ Ca | Mã Giữ Ca | Giám công · *Giám công Mã* | Ch.1–3; roi, đếm giỏ, khấu lương nếu ca thiếu. |
+| **CHAR-012** | NPC | Hàn Phong | Hàn Phong | Quản khu mỏ · *Hàn Phong* | Tu sĩ ≥ LK; ch.2 lướt qua; phù kiểm, phong ấn thùng. |
 
 ### Tiêu đề chương (đã chốt spine — không đổi)
 

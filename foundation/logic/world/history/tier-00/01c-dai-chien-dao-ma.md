@@ -116,7 +116,7 @@ Y nghịch chuyển Ma Thân— không phải để sống, mà để **kéo c�
 
 Không tiếng như sấm. Tiếng như **im** đi một vùng.
 
-Rồi trời đất **tách một nhịp**— không phải như trận pháp xé mặt đất, mà như có **màng mới** được căng ra từ trong vết nổ: oán khí, sát niệm, mảnh Thương và phần Ma Thân vỡ tan **không tan vào gió**, mà **trượt sang một bên** của Không gian Bàn Cổ, nơi quy tắc Bàn Cổ mỏng hơn, Ma khí dày hơn, như một **giới riêng** vừa sinh. Sau này kẻ có sách gọi nơi ấy là **Ma Giới** (魔界): **song song** với cõi Hồng Hoang đang học trật tự, **không** nằm trong một đại lục, **không** phải thêm một tầng Phàm hay Linh— mà **cạnh** Không gian Bàn Cổ, ngăn bởi **giới bích Ma** mới cứng như vết sẹo.
+Rồi trời đất **tách một nhịp**— không phải như trận pháp xé mặt đất, mà như có **màng mới** được căng ra từ trong vết nổ: oán khí, sát niệm, mảnh Thương và phần Ma Thân vỡ tan **không tan vào gió**, mà **trượt sang một bên** của Không gian Bàn Cổ, nơi quy tắc Bàn Cổ mỏng hơn, Ma khí dày hơn, như một **giới riêng** vừa sinh. Sau này kẻ có sách gọi nơi ấy là **Ma Giới**: **song song** với cõi Hồng Hoang đang học trật tự, **không** nằm trong một đại lục, **không** phải thêm một tầng Phàm hay Linh— mà **cạnh** Không gian Bàn Cổ, ngăn bởi **giới bích Ma** mới cứng như vết sẹo.
 
 Hồng Quân từng hứa “một **vực riêng**” để phong oán— La Hầu không giao; y **tự mở** vực ấy bằng cách nghịch chuyển chính mình. Cái giá không chỉ Tây.
 
@@ -222,7 +222,7 @@ Tiên Đạo không trả lời hết bằng một trận. Trả lời bằng **
 
 | Khái niệm | Quy tắc |
 | --- | --- |
-| **Ma Giới** (魔界) | **Không gian ma đạo** song song **Không gian Bàn Cổ** (cõi Hồng Hoang / hậu Tam giới định hình), ngăn bởi **giới bích Ma** — **khác** giới bích nội tầng **Phàm–Linh–Tiên–Thần** ( Luật 6 ). **Không** đếm là giới diện vật chất thứ năm của Nhân Giới. |
+| **Ma Giới** | **Không gian ma đạo** song song **Không gian Bàn Cổ** (cõi Hồng Hoang / hậu Tam giới định hình), ngăn bởi **giới bích Ma** — **khác** giới bích nội tầng **Phàm–Linh–Tiên–Thần** ( Luật 6 ). **Không** đếm là giới diện vật chất thứ năm của Nhân Giới. |
 | **Nguồn gốc** | **Bạo Ma Thân** La Hầu, Trảm Ma Tây Phương (Thái Cổ Trung Kỳ): oán, sát niệm, mảnh Thí Thần Thương, mạch Tây nứt **tụ** thành lõi giới. |
 | **Tây Hoang cằn** | Hậu quả **trên** mặt Bàn Cổ ( mạch Tây đứt ); Ma khí **đậm** hút về Ma Giới; **sát khí tàn** + patch còn trên đất. |
 | **Hiện tại (Logic vận hành)** | Giới bích Ma **giữ** phần lớn khí trong Ma Giới; tương tác với bốn giới = **patch**, crack, Vực Ngoại — xem [`../../06-subsidiary-realms.md`](../../06-subsidiary-realms.md). **Không** mở atlas geo Ma Giới full-scale trừ CP. |

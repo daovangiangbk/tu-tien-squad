@@ -5,7 +5,7 @@
 
 ---
 
-## Gia tộc pre-massacre — Thẩm thị · Phù Lĩnh (沈氏·符岭)
+## Gia tộc pre-massacre — Thẩm thị · Phù Lĩnh (Thẩm·PhùLĩnh)
 
 > **Brief §8.2 — chốt.** Trung tâm: **Phù Lĩnh Lệnh** · long mạch phù · **Phù các** nội bộ + linh điền. Không kịch bản đêm tàn sát — chỉ **cấu trúc quyền lực & kỳ vọng** trước biến cố.
 
@@ -24,7 +24,7 @@
 
 ---
 
-### CHAR-001 — Thẩm Vô Ngọc (沈无玉)
+### CHAR-001 — Thẩm Vô Ngọc (Thẩm Vô Ngọc)
 
 > **Alias (mỉa):** *Ngọc công tử* — hạ nhân / khách phủ trước biến cố.
 
@@ -112,7 +112,7 @@
 
 ## NPC hooks (2–3) — stub
 
-### CHAR-013 — Mộ Thanh Y (墨清漪)
+### CHAR-013 — Mộ Thanh Y (Mộ Thanh Y)
 
 - **Vai trò dài hạn:** Ally **xám** — quản **Thư các phù**; biết **cổ phổ** tồn tại; có thể **che hoặc bán** tin.
 - **Khí chất:** Lạnh, sách; tính bằng **quyền biên**; không cười dễ.

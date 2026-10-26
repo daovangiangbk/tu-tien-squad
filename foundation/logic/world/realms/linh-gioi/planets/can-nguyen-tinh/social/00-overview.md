@@ -29,7 +29,7 @@ Theo **Luật 6b**, đây là xã hội **phàm đông · tu thiểu số**:
 
 | Tầng dân | Ai | Vai trò xã hội |
 | --- | --- | --- |
-| **Phàm nhân** ( vô + hữu căn chưa khai ) | **Đa số** | Lao động mỏ, linh điền, thành phụ, hậu cần; **bạc phàm** (凡银) |
+| **Phàm nhân** ( vô + hữu căn chưa khai ) | **Đa số** | Lao động mỏ, linh điền, thành phụ, hậu cần; **bạc phàm** |
 | **Tu sĩ Luyện Khí+** | **Thiểu số** quyền lực | Tông, gia tộc, quan tu; **linh thạch**; chiếm mạch / Động phủ |
 | **Kim Đan+** | Cực thiểu | Chính trị liên lục, tranh mạch gốc, đan phương độc quyền |
 

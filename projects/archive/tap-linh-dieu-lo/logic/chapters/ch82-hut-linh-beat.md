@@ -6,7 +6,7 @@
 
 ## Mở
 
-- Nối **cliff ch.81:** **Huyết Sa** **đã** **lộ** **tên** **+** **pattern** **không** **cờ**; MC **Trúc Cơ Trung**, **Linh Dịch lệch**, **nợ treo đài**, **khế**; **断** **vẫn** **cấm** **hút** **trên** **mõ** **chính thức** — **lậu** **diễn** **rìa** **/ đêm** **/ ngoài** **tam giác** **cọc**.
+- Nối **cliff ch.81:** **Huyết Sa** **đã** **lộ** **tên** **+** **pattern** **không** **cờ**; MC **Trúc Cơ Trung**, **Linh Dịch lệch**, **nợ treo đài**, **khế**; **Đoạn** **vẫn** **cấm** **hút** **trên** **mõ** **chính thức** — **lậu** **diễn** **rìa** **/ đêm** **/ ngoài** **tam giác** **cọc**.
 - **Ca / vị trí:** MC **trinh sát** **hoặc** **vá** **cạn** **cạnh** **phế** — **đủ** **witness** **hút**, **không** **xuống** **miệng** **hố** (**FS-004**).
 
 ## Giữa
@@ -32,7 +32,7 @@
 
 ## Canon
 
-- Nối ch.81: **Huyết Sa**, **cấm** **hút**, **witness** **không** **join**; **phế** **断** **chưa** **khai**.
+- Nối ch.81: **Huyết Sa**, **cấm** **hút**, **witness** **không** **join**; **phế** **Đoạn** **chưa** **khai**.
 - **Không** **leader** **mirror** **đầy** (→ ch.83); **không** **payoff** **cứu** **vùng** **khép** (→ ch.84); **không** **Beat** **8** **khép** (→ ch.84).
 - **Không** heal wound; **không** NC; **không** solo Kim Đan; **không** payoff **Cửu Huyền** đầy; **không** MC **hút** **/ gia nhập** **Ma**; **không** tiếng Anh.
 

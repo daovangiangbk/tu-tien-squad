@@ -6,7 +6,7 @@
 
 ## Mở
 
-- Nối **cliff ch.84:** Canh **Thân** trong **kho tĩnh** **断**; **Linh Dịch bùng** — **tạp căn giật**, **Tam Hệ Lệch Khí Ngọc** lệch khỏi Mộc, **mảnh Cửu Huyền Trận** **ù** / lạnh **không đồng nhịp**; **Trúc Cơ Trung lệch**, **không** Kim Đan, **không** ổn.
+- Nối **cliff ch.84:** Canh **Thân** trong **kho tĩnh** **Đoạn**; **Linh Dịch bùng** — **tạp căn giật**, **Tam Hệ Lệch Khí Ngọc** lệch khỏi Mộc, **mảnh Cửu Huyền Trận** **ù** / lạnh **không đồng nhịp**; **Trúc Cơ Trung lệch**, **không** Kim Đan, **không** ổn.
 - **Beat 9 mở:** MC **không** gọi tên bệnh — **cảm** bằng thân: **ù**, **giật**, **lạnh ngọc**, khí **kẹt** giữa ngọc và mảnh; **phế** **không** cho đường vá cũ.
 
 ## Giữa
@@ -16,7 +16,7 @@
   - **Không** power creep: **không** mảnh **cứu** **trọn**; **không** ngọc **tự** **hòa**; **không** Trúc Cơ Hậu.
   - **Tin** **rìa** **(không** **giảng):** tán tu / chấp sự **nhắc** **đan** **sư** **·** **Bách** **Hóa** **·** **phương** **lậu** — **một** **câu** **hoặc** **tre** **phụ**, **không** **scene** **chữa** **đầy**.
 - **Pressure sổ/khế:**
-  - *Mười bảy* **chờ** **ca** **mới**; **khế** **cắn** **nếu** **ép** **khí** **như** **trinh** **sát**; **断** **vẫn** **cấm** **hút**.
+  - *Mười bảy* **chờ** **ca** **mới**; **khế** **cắn** **nếu** **ép** **khí** **như** **trinh** **sát**; **Đoạn** **vẫn** **cấm** **hút**.
   - **Có thể** **lệnh** **rút** **khỏi** **kho** **/ chuẩn** **bị** **về** **hướng** **thành** **(Thạch** **Lam)** **—** **mầm** **ch.88**, **không** **tới** **thành** **trọn** **ch.85**.
 - **MC hành động:** **Ngồi** **thẳng**, **không** **úp** **lòng** **bàn**; **báo** **chấp** **sự** **«** **mệt** **ca** **»** **hoặc** **im** **(prose** **chọn)** — **không** **heal**; **không** **ký** **Ma**.
 

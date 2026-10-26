@@ -23,7 +23,7 @@
       "properties": {
         "id": "CHL-TRUNG-TIEN",
         "name_vi": "Trung Tiên đại lục",
-        "name_hv": "中仙大陆",
+        "name_hv": "Trung Tiên đại lục",
         "kind": "continent",
         "visibility": "public",
         "notes": "Silhouette CHL-TRUNG-TIEN từ 00-tinh-ha; parent SW [-128.0, -23.0]; k≈6.11; hub LOC-TT-TIEN-QUAN."
@@ -1034,7 +1034,7 @@
         "id": "REG-TT-NAM-VAN",
         "name_vi": "Nam Vân cửa",
         "kind": "wilderness",
-        "name_hv": "南云关",
+        "name_hv": "Nam Vân cửa",
         "tien_khi_tier": "dồi",
         "visibility": "public",
         "notes": "Thương lộ mây nam — thuế tiên mạch nhánh 15%"
@@ -1297,7 +1297,7 @@
         "id": "REG-TT-NAM-HAI",
         "name_vi": "Nam Hải tiên cảng",
         "kind": "polity",
-        "name_hv": "南海仙港",
+        "name_hv": "Nam Hải tiên cảng",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public",
         "notes": "Phi thuyền Dương Hành mùa — thuế Tiên Nguyên"
@@ -1748,7 +1748,7 @@
         "id": "REG-TT-TIEN-QUAN",
         "name_vi": "Tiên Quan thành",
         "kind": "polity",
-        "name_hv": "仙关城",
+        "name_hv": "Tiên Quan thành",
         "tien_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Trung ương tiên triều · hub LOC-TT-TIEN-QUAN"
@@ -2059,7 +2059,7 @@
         "id": "REG-TT-TRUNG-PHI",
         "name_vi": "Trung Phi đài",
         "kind": "polity",
-        "name_hv": "中菲台",
+        "name_hv": "Trung Phi đài",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public",
         "notes": "Chợ Tiên Nguyên · hội thương liên quốc"
@@ -2370,7 +2370,7 @@
         "id": "REG-TT-TAM-QUOC",
         "name_vi": "Tam Quốc đài",
         "kind": "polity",
-        "name_hv": "三国台",
+        "name_hv": "Tam Quốc đài",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public",
         "notes": "Tam tiên quốc chia mạch — chính trị tiên giới"
@@ -2541,7 +2541,7 @@
         "id": "REG-TT-BAC-LINH",
         "name_vi": "Bắc Linh uyên",
         "kind": "wilderness",
-        "name_hv": "北灵苑",
+        "name_hv": "Bắc Linh uyên",
         "tien_khi_tier": "dồi",
         "visibility": "public",
         "notes": "Biên Ngự Long — long khí vệt; tranh biên quan"
@@ -2668,7 +2668,7 @@
         "id": "REG-TT-TAY-KIM",
         "name_vi": "Tây Kim quan",
         "kind": "wilderness",
-        "name_hv": "西金关",
+        "name_hv": "Tây Kim quan",
         "tien_khi_tier": "dồi",
         "visibility": "public",
         "notes": "Biên Kim Hoa — thương lộ Kim Hoa quả"
@@ -2939,7 +2939,7 @@
         "id": "BRR-TT-THIEN-LAM",
         "name_vi": "Dãy Thiên Lam",
         "kind": "barrier",
-        "name_hv": "天岚岭",
+        "name_hv": "Dãy Thiên Lam",
         "tien_khi_tier": "mach_rải_cao",
         "visibility": "public",
         "notes": "Barrier polygon — mạch rải; Thiên kiếp ngoài trời nặng khi vượt"
@@ -3058,7 +3058,7 @@
         "id": "REG-TT-PHUC-DIA",
         "name_vi": "Phúc Địa cốc",
         "kind": "dungeon",
-        "name_hv": "福地谷",
+        "name_hv": "Phúc Địa cốc",
         "tien_khi_tier": "mach_T2_T3",
         "visibility": "mc_phase1",
         "notes": "Tiên phủ T2–T3 — chiến mạch arc-scale"
@@ -3193,7 +3193,7 @@
         "id": "REG-TT-DONG-VAN",
         "name_vi": "Đông Vân đài",
         "kind": "wilderness",
-        "name_hv": "东云台",
+        "name_hv": "Đông Vân đài",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public",
         "notes": "Mây tiên dày — liên lạc Thanh Vân"
@@ -3456,7 +3456,7 @@
         "id": "REG-TT-DONG-HAI",
         "name_vi": "Đông Hải tiên cảng",
         "kind": "polity",
-        "name_hv": "东海仙港",
+        "name_hv": "Đông Hải tiên cảng",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public",
         "notes": "Cảng phi thuyền · thuế 20–25% tiên triều"
@@ -3474,7 +3474,7 @@
       "properties": {
         "id": "LOC-TT-TIEN-QUAN",
         "name_vi": "Tiên Quan · trung ương",
-        "name_hv": "仙关",
+        "name_hv": "Tiên Quan",
         "kind": "hub",
         "visibility": "public",
         "tien_khi_tier": "mach_chủ"
@@ -3738,7 +3738,7 @@
       "properties": {
         "id": "RIVER-TT-TIEN-HA",
         "name_vi": "Tiên Hà",
-        "name_hv": "仙河",
+        "name_hv": "Tiên Hà",
         "kind": "route",
         "from_id": "REG-TT-TAM-QUOC",
         "to_id": "REG-TT-NAM-VAN",
@@ -4079,7 +4079,7 @@
       "properties": {
         "id": "RIVER-TT-DONG-LUU",
         "name_vi": "Đông Lưu tiên thủy",
-        "name_hv": "东流",
+        "name_hv": "Đông Lưu tiên thủy",
         "kind": "route",
         "from_id": "REG-TT-PHUC-DIA",
         "to_id": "REG-TT-DONG-HAI"

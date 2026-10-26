@@ -6,7 +6,7 @@
       "properties": {
         "id": "CHL-VAN-HAI",
         "name_vi": "Vân Hải đại lục",
-        "name_hv": "云海大陆",
+        "name_hv": "Vân Hải đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -542,7 +542,7 @@
         "id": "REG-VH-BAC-VAN",
         "name_vi": "Bắc Vân · cửa Trung Linh",
         "kind": "wilderness",
-        "name_hv": "北云",
+        "name_hv": "Bắc Vân",
         "linh_khi_tier": "rất_dày",
         "visibility": "public",
         "notes": "Đối diện REG-TL-NAM-VAN — thương lộ mây"
@@ -589,7 +589,7 @@
         "id": "REG-VH-VAN-CANG",
         "name_vi": "Vân Cảng",
         "kind": "polity",
-        "name_hv": "云港",
+        "name_hv": "Vân Cảng",
         "linh_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Phi thuyền trung tâm · hub LOC-VH-VAN-CANG"
@@ -780,7 +780,7 @@
         "id": "REG-VH-DAO-MOC",
         "name_vi": "Đảo Mộc",
         "kind": "wilderness",
-        "name_hv": "木岛",
+        "name_hv": "Đảo Mộc",
         "linh_khi_tier": "rất_dày",
         "visibility": "public",
         "notes": "Đảo trung tâm — linh mộc"
@@ -883,7 +883,7 @@
         "id": "REG-VH-TAY-DAO",
         "name_vi": "Tây Đảo",
         "kind": "wilderness",
-        "name_hv": "西岛",
+        "name_hv": "Tây Đảo",
         "linh_khi_tier": "dày",
         "visibility": "public"
       }
@@ -1005,7 +1005,7 @@
         "id": "BRR-VH-HAI-SON",
         "name_vi": "Dãy Hải Sơn",
         "kind": "barrier",
-        "name_hv": "海山",
+        "name_hv": "Dãy Hải Sơn",
         "linh_khi_tier": "mach_rải",
         "visibility": "public",
         "notes": "Đài ngầm / núi chìm — Thủy–Phong mạch"
@@ -1220,7 +1220,7 @@
         "id": "REG-VH-VAN-HAI",
         "name_vi": "Vân Hải · hải vực mây",
         "kind": "wilderness",
-        "name_hv": "云海",
+        "name_hv": "Vân Hải",
         "linh_khi_tier": "dày",
         "visibility": "public",
         "notes": "Mây dày — phi thuyền bắt buộc"
@@ -1447,7 +1447,7 @@
         "id": "REG-VH-HAI-MA",
         "name_vi": "Hải Mạch",
         "kind": "dungeon",
-        "name_hv": "海脉",
+        "name_hv": "Hải Mạch",
         "linh_khi_tier": "ma_vệt",
         "visibility": "hidden_logic",
         "notes": "Ma patch đáy biển (slot E-LINH-MA-PATCH-VH)"
@@ -1650,7 +1650,7 @@
         "id": "REG-VH-PHONG-BAO",
         "name_vi": "Phong Bão hải",
         "kind": "wilderness",
-        "name_hv": "风暴海",
+        "name_hv": "Phong Bão hải",
         "linh_khi_tier": "mach_rải",
         "visibility": "public",
         "notes": "Hải vực nguy hiểm — kiếp Phong khi vượt"
@@ -1797,7 +1797,7 @@
         "id": "REG-VH-DONG-DAO",
         "name_vi": "Đông Đảo",
         "kind": "wilderness",
-        "name_hv": "东岛",
+        "name_hv": "Đông Đảo",
         "linh_khi_tier": "dày",
         "visibility": "public",
         "notes": "Hướng Ngọc Lâm / Cửu Lạc biển"
@@ -1984,7 +1984,7 @@
         "id": "REG-VH-LINH-DAM",
         "name_vi": "Linh Đám mây",
         "kind": "resource",
-        "name_hv": "灵云",
+        "name_hv": "Linh Đám mây",
         "linh_khi_tier": "mach_chủ",
         "visibility": "mc_phase1",
         "notes": "Thu thập linh khí mây — thuế hộ thương"
@@ -2107,7 +2107,7 @@
         "id": "REG-VH-NAN-DAO",
         "name_vi": "Nam Đảo · quần đảo",
         "kind": "wilderness",
-        "name_hv": "南岛",
+        "name_hv": "Nam Đảo",
         "linh_khi_tier": "dày",
         "visibility": "public"
       }
@@ -2124,7 +2124,7 @@
       "properties": {
         "id": "LOC-VH-VAN-CANG",
         "name_vi": "Vân Cảng · cảng chính",
-        "name_hv": "云港",
+        "name_hv": "Vân Cảng",
         "kind": "hub",
         "visibility": "public",
         "linh_khi_tier": "mach_chủ"
@@ -2240,7 +2240,7 @@
       "properties": {
         "id": "ROUTE-VH-BAC-NAM-VAN",
         "name_vi": "Thương lộ Bắc Vân",
-        "name_hv": "北云路",
+        "name_hv": "Thương lộ Bắc Vân",
         "kind": "route",
         "from_id": "REG-VH-BAC-VAN",
         "to_id": "REG-TL-NAM-VAN",
@@ -2501,7 +2501,7 @@
       "properties": {
         "id": "RIVER-VH-VAN-LUU",
         "name_vi": "Vân Lưu thủy",
-        "name_hv": "云流",
+        "name_hv": "Vân Lưu thủy",
         "kind": "route",
         "from_id": "REG-VH-LINH-DAM",
         "to_id": "REG-VH-VAN-CANG"

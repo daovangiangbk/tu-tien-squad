@@ -4,10 +4,10 @@
 
 | ID | Nhãn | File | Phase / Arc | Registry | Trạng thái |
 | --- | --- | --- | --- | --- | --- |
-| **CHAR-001** | MC · Thường An · Đại Thừa · quản linh điền | [`00-mc-profile.md`](00-mc-profile.md) | Phase 1 · Arc *Một mùa trên linh điền* | **Thường An** (常安) | `canon` |
-| **CHAR-010** | Quản điền | — | Arc 1 | **Diệp Hoằng** (叶衡) | `canon` |
-| **CHAR-011** | Linh nông phàm nhân | — | Arc 1 | **Phương Thực** (方实) | `canon` |
-| **CHAR-012** | Tông chủ (Kim Đan) | — | Arc 1 (ngoài cảnh) | **Ngụy Hàm** (魏涵) | `canon` |
+| **CHAR-001** | MC · Thường An · Đại Thừa · quản linh điền | [`00-mc-profile.md`](00-mc-profile.md) | Phase 1 · Arc *Một mùa trên linh điền* | **Thường An** | `canon` |
+| **CHAR-010** | Quản điền | — | Arc 1 | **Diệp Hoằng** | `canon` |
+| **CHAR-011** | Linh nông phàm nhân | — | Arc 1 | **Phương Thực** | `canon` |
+| **CHAR-012** | Tông chủ (Kim Đan) | — | Arc 1 (ngoài cảnh) | **Ngụy Hàm** | `canon` |
 
 ## Ghi chú vận hành
 

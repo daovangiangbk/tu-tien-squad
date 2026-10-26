@@ -13,8 +13,15 @@
     {
       "id": "REG-DA-LUC-NEN",
       "name": "Huyền Băng · nền đại lục",
-      "dimensions": { "width": 1000, "length": 1000 },
-      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "dimensions": {
+        "width": 1000,
+        "length": 1000
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 0,
+        "y": 0
+      },
       "properties": {
         "kind": "wilderness",
         "visibility": "hidden_logic",
@@ -26,10 +33,17 @@
     {
       "id": "REG-HC-NAM-HAI",
       "name": "Nam Hải băng đài",
-      "dimensions": { "width": 420, "length": 64 },
-      "anchor": { "type": "absolute", "x": 280, "y": 24 },
+      "dimensions": {
+        "width": 420,
+        "length": 64
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 280,
+        "y": 24
+      },
       "properties": {
-        "name_hv": "南海冰台",
+        "name_hv": "Nam Hải băng đài",
         "kind": "wilderness",
         "than_khi_tier": "nặng_lạnh",
         "visibility": "public",
@@ -39,10 +53,18 @@
     {
       "id": "REG-HC-CUC-PHONG",
       "name": "Cự Phong",
-      "dimensions": { "width": 300, "length": 140 },
-      "anchor": { "type": "relative", "ref_id": "REG-HC-NAM-HAI", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 300,
+        "length": 140
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-HC-NAM-HAI",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "极峰",
+        "name_hv": "Cự Phong",
         "kind": "polity",
         "than_khi_tier": "mach_chủ",
         "visibility": "public",
@@ -52,10 +74,18 @@
     {
       "id": "REG-HC-BANG-NGUYEN",
       "name": "Băng Nguyên",
-      "dimensions": { "width": 280, "length": 200 },
-      "anchor": { "type": "relative", "ref_id": "REG-HC-CUC-PHONG", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 280,
+        "length": 200
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-HC-CUC-PHONG",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "冰原",
+        "name_hv": "Băng Nguyên",
         "kind": "dungeon",
         "than_khi_tier": "mach_T2_T3",
         "visibility": "mc_phase1",
@@ -65,10 +95,17 @@
     {
       "id": "REG-HC-TAY-HUYEN",
       "name": "Tây Huyền quan",
-      "dimensions": { "width": 180, "length": 380 },
-      "anchor": { "type": "absolute", "x": 32, "y": 88 },
+      "dimensions": {
+        "width": 180,
+        "length": 380
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 32,
+        "y": 88
+      },
       "properties": {
-        "name_hv": "西玄关",
+        "name_hv": "Tây Huyền quan",
         "kind": "wilderness",
         "than_khi_tier": "nặng_lạnh",
         "visibility": "public",
@@ -78,10 +115,18 @@
     {
       "id": "REG-HC-BAC-MACH",
       "name": "Bắc Mạch cực",
-      "dimensions": { "width": 360, "length": 100 },
-      "anchor": { "type": "relative", "ref_id": "REG-HC-CUC-PHONG", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 360,
+        "length": 100
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-HC-CUC-PHONG",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "北脉极",
+        "name_hv": "Bắc Mạch cực",
         "kind": "wilderness",
         "than_khi_tier": "mach_rải_cao",
         "visibility": "hidden_logic",
@@ -91,10 +136,18 @@
     {
       "id": "REG-HC-DONG-LAM",
       "name": "Đông Lam uyên",
-      "dimensions": { "width": 120, "length": 180 },
-      "anchor": { "type": "relative", "ref_id": "REG-HC-BANG-NGUYEN", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 120,
+        "length": 180
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-HC-BANG-NGUYEN",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "东林苑",
+        "name_hv": "Đông Lam uyên",
         "kind": "wilderness",
         "than_khi_tier": "nặng_ổn_định",
         "visibility": "public",
@@ -104,10 +157,18 @@
     {
       "id": "REG-HC-TRUNG-BANG",
       "name": "Trung Băng đài",
-      "dimensions": { "width": 200, "length": 100 },
-      "anchor": { "type": "relative", "ref_id": "REG-HC-CUC-PHONG", "edge": "left", "align": "top" },
+      "dimensions": {
+        "width": 200,
+        "length": 100
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-HC-CUC-PHONG",
+        "edge": "left",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "中冰台",
+        "name_hv": "Trung Băng đài",
         "kind": "polity",
         "than_khi_tier": "rất_nặng",
         "visibility": "public",
@@ -117,10 +178,17 @@
     {
       "id": "BRR-HC-HUYEN-SON",
       "name": "Dãy Huyền Sơn",
-      "dimensions": { "width": 48, "length": 420 },
-      "anchor": { "type": "absolute", "x": 248, "y": 100 },
+      "dimensions": {
+        "width": 48,
+        "length": 420
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 248,
+        "y": 100
+      },
       "properties": {
-        "name_hv": "玄山岭",
+        "name_hv": "Dãy Huyền Sơn",
         "kind": "barrier",
         "than_khi_tier": "mach_rải_cao",
         "visibility": "public",
@@ -130,10 +198,18 @@
     {
       "id": "REG-HC-CUU-HAN",
       "name": "Cửu Hàn cốc",
-      "dimensions": { "width": 180, "length": 260 },
-      "anchor": { "type": "relative", "ref_id": "BRR-HC-HUYEN-SON", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 180,
+        "length": 260
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "BRR-HC-HUYEN-SON",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "九寒谷",
+        "name_hv": "Cửu Hàn cốc",
         "kind": "dungeon",
         "than_khi_tier": "mach_T2_T3",
         "visibility": "mc_phase1",
@@ -143,10 +219,18 @@
     {
       "id": "REG-HC-LINH-DONG",
       "name": "Linh Đông đài",
-      "dimensions": { "width": 100, "length": 88 },
-      "anchor": { "type": "relative", "ref_id": "REG-HC-CUC-PHONG", "edge": "bottom", "align": "start" },
+      "dimensions": {
+        "width": 100,
+        "length": 88
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-HC-CUC-PHONG",
+        "edge": "bottom",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "灵东台",
+        "name_hv": "Linh Đông đài",
         "kind": "polity",
         "than_khi_tier": "rất_nặng",
         "visibility": "public",
@@ -159,9 +243,12 @@
       "id": "LOC-HC-CUC-PHONG",
       "name": "Cự Phong · cực bắc",
       "type": "point",
-      "coordinates": { "x": 420, "y": 360 },
+      "coordinates": {
+        "x": 420,
+        "y": 360
+      },
       "properties": {
-        "name_hv": "极峰",
+        "name_hv": "Cự Phong",
         "kind": "hub",
         "visibility": "public",
         "than_khi_tier": "mach_chủ"
@@ -172,19 +259,37 @@
       "name": "Băng Hà",
       "type": "river",
       "properties": {
-        "name_hv": "冰河",
+        "name_hv": "Băng Hà",
         "kind": "route",
         "from_id": "REG-HC-BAC-MACH",
         "to_id": "REG-HC-NAM-HAI",
         "hazard": "huyền_băng"
       },
       "control_points": [
-        { "x": 400, "y": 520 },
-        { "x": 430, "y": 440 },
-        { "x": 410, "y": 360 },
-        { "x": 450, "y": 280 },
-        { "x": 420, "y": 180 },
-        { "x": 390, "y": 100 }
+        {
+          "x": 400,
+          "y": 520
+        },
+        {
+          "x": 430,
+          "y": 440
+        },
+        {
+          "x": 410,
+          "y": 360
+        },
+        {
+          "x": 450,
+          "y": 280
+        },
+        {
+          "x": 420,
+          "y": 180
+        },
+        {
+          "x": 390,
+          "y": 100
+        }
       ],
       "roughness": "high"
     },
@@ -193,17 +298,32 @@
       "name": "Tây Lưu hàn thủy",
       "type": "river",
       "properties": {
-        "name_hv": "西流",
+        "name_hv": "Tây Lưu hàn thủy",
         "kind": "route",
         "from_id": "REG-HC-CUU-HAN",
         "to_id": "REG-HC-TAY-HUYEN"
       },
       "control_points": [
-        { "x": 320, "y": 480 },
-        { "x": 240, "y": 420 },
-        { "x": 180, "y": 340 },
-        { "x": 120, "y": 260 },
-        { "x": 80, "y": 180 }
+        {
+          "x": 320,
+          "y": 480
+        },
+        {
+          "x": 240,
+          "y": 420
+        },
+        {
+          "x": 180,
+          "y": 340
+        },
+        {
+          "x": 120,
+          "y": 260
+        },
+        {
+          "x": 80,
+          "y": 180
+        }
       ],
       "roughness": "medium"
     }

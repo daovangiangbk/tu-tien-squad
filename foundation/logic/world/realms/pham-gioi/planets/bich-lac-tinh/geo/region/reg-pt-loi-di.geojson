@@ -19,7 +19,7 @@
       "properties": {
         "id": "BRR-PT-LOI-DI-AREA",
         "name_vi": "Lôi Đê · đê khô",
-        "name_hv": "雷堤隘",
+        "name_hv": "Lôi Đê",
         "kind": "barrier",
         "visibility": "public",
         "notes": "Khớp polygon BRR trên chau_luc; một ô phân vùng — không LineString."
@@ -57,7 +57,7 @@
       "properties": {
         "id": "LOC-PT-LOI-DI-PASS",
         "name_vi": "Lôi Đê · đê khô",
-        "name_hv": "雷堤隘",
+        "name_hv": "Lôi Đê",
         "kind": "settlement",
         "visibility": "public",
         "notes": "Hub đèo barrier [0,0]."
@@ -75,7 +75,7 @@
       "properties": {
         "id": "BRR-PT-LOI-DI",
         "name_vi": "Lôi Đê · đê khô",
-        "name_hv": "雷堤隘",
+        "name_hv": "Lôi Đê",
         "kind": "barrier",
         "visibility": "public"
       },
@@ -112,7 +112,7 @@
       "properties": {
         "id": "LOC-PT-KHE-U",
         "name_vi": "Khe U",
-        "name_hv": "幽谷",
+        "name_hv": "Khe U",
         "kind": "hub",
         "visibility": "public",
         "notes": "Shared id; parent chl (280.0, 560.0)."

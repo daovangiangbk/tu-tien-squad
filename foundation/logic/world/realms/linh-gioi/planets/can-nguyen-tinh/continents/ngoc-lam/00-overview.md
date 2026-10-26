@@ -21,8 +21,7 @@ child_index:
   - path: economy/00-overview.md
 ---
 
-# Ngọc Lâm · 玉林大陆
-
+# Ngọc Lâm · NgọcLâmĐạiLục
 **parent:** [`../../00-overview.md`](../../00-overview.md) · **GeoJSON:** [`chl-ngoc-lam.geojson`](../../geo/chau-luc/chl-ngoc-lam.geojson) · **Hub:** `LOC-NL-LAM-TINH` · **Catalog REG:** [`../../../../01-region-catalog.md`](../../../../01-region-catalog.md) § CHL-NGOC-LAM
 
 Ngọc Lâm nằm **đông** cụm Càn Nguyên — cực **Mộc**, rừng **ổn định**, linh khí **ít biến thiên đột ngột** (atlas §2.1). **Phàm nhân đa số** (linh điền, hái thuốc, vận mộc); tu sĩ **thiểu số** nhưng **Lam Tinh Đan các** và các tông dược có **sức nặng kinh tế** toàn tinh hà.

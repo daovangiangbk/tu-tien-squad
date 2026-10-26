@@ -8,7 +8,10 @@
   "world:parent_feature_id": "CHL-PHU-VIEN",
   "world:region_id": "REG-GIA-TOC-PHU-GIAU",
   "world:parent_file": "chau-luc/chl-phu-vien.geojson",
-  "world:parent_coordinates": [312, 318],
+  "world:parent_coordinates": [
+    312,
+    318
+  ],
   "world:coordinateNote": "Region Thẩm thị · Phù Lĩnh phú (REG-GIA-TOC-PHU-GIAU); gốc LOC-GIA-TOC-HUB; tuyến tới Thanh Phù Thành qua Phù Lĩnh.",
   "features": [
     {
@@ -16,98 +19,140 @@
       "properties": {
         "id": "LOC-GIA-TOC-HUB",
         "name_vi": "Phù Lĩnh Lệnh · Thẩm gia",
-        "name_hv": "符岭令",
+        "name_hv": "Phù Lĩnh Lệnh",
         "kind": "hub",
         "visibility": "public",
         "notes": "Trước thảm sát; công tử phế · phú không cứu được mạng"
       },
-      "geometry": { "type": "Point", "coordinates": [0, 0] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-PHU-CAC-TOC",
         "name_vi": "Phù các tộc · công thức giấu",
-        "name_hv": "符阁",
+        "name_hv": "Phù các tộc",
         "kind": "settlement",
         "visibility": "mc_phase1",
         "direction_label": "Tây",
         "notes": "Monopoly phù gia; ngoại truyền = tội"
       },
-      "geometry": { "type": "Point", "coordinates": [-22, -4] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22,
+          -4
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-LINH-DIEN-TOC",
         "name_vi": "Linh điền · linh thạch tộc",
-        "name_hv": "灵田",
+        "name_hv": "Linh điền",
         "kind": "resource",
         "visibility": "public",
         "direction_label": "Nam",
         "notes": "Thu nhập gia tộc; cửu địch nhắm trước khi tàn sát"
       },
-      "geometry": { "type": "Point", "coordinates": [-8, -28] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8,
+          -28
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-QUAN-BIEN-BAC",
         "name_vi": "Quan biên · áp cửu địch",
-        "name_hv": "边关",
+        "name_hv": "Quan biên",
         "kind": "settlement",
         "visibility": "mc_phase1",
         "direction_label": "Bắc",
         "notes": "Silhouette địch; không lộ tên phe"
       },
-      "geometry": { "type": "Point", "coordinates": [5, 38] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5,
+          38
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-CUA-PHU-LINH",
         "name_vi": "Ải Phù Lĩnh · cửa đông",
-        "name_hv": "符岭关",
+        "name_hv": "Ải Phù Lĩnh",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Đông",
         "notes": "Ra CHAU-THANH-PHU-VIEN · Thanh Phù Thành"
       },
-      "geometry": { "type": "Point", "coordinates": [48, 2] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48,
+          2
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-TAY-LAM-PHI",
         "name_vi": "Tây Lam · lối phế sau biến cố",
-        "name_hv": "西林废",
+        "name_hv": "Tây Lam",
         "kind": "wilderness",
         "visibility": "public",
         "direction_label": "Tây",
         "notes": "Thoát nạn · manh mối công thức tàn"
       },
-      "geometry": { "type": "Point", "coordinates": [-38, 8] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -38,
+          8
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-NAM-HOANG-KHAU",
         "name_vi": "Khẩu Nam hoang · vào giang hồ",
-        "name_hv": "南荒口",
+        "name_hv": "Khẩu Nam hoang",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Nam",
         "travel_days_walk": "3-5",
         "notes": "Arc 3 mở rộng; trước đó chỉ tuyến lẻ"
       },
-      "geometry": { "type": "Point", "coordinates": [-5, -52] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5,
+          -52
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "ROUTE-PHU-GIANG-DONG",
         "name_vi": "Bến Phù Giang · hướng thành",
-        "name_hv": "符江",
+        "name_hv": "Bến Phù Giang",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-GIA-TOC-HUB",
@@ -117,7 +162,24 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [[0, 0], [18, 4], [32, 3], [48, 2]]
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            18,
+            4
+          ],
+          [
+            32,
+            3
+          ],
+          [
+            48,
+            2
+          ]
+        ]
       }
     },
     {
@@ -125,7 +187,7 @@
       "properties": {
         "id": "ROUTE-NAM-HOANG",
         "name_vi": "Đạo Nam hoang",
-        "name_hv": "南荒道",
+        "name_hv": "Đạo Nam hoang",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-GIA-TOC-HUB",
@@ -135,7 +197,24 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [[0, 0], [-12, -18], [-8, -36], [-5, -52]]
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -12,
+            -18
+          ],
+          [
+            -8,
+            -36
+          ],
+          [
+            -5,
+            -52
+          ]
+        ]
       }
     },
     {
@@ -143,7 +222,7 @@
       "properties": {
         "id": "POLY-GIA-TOC-CORE",
         "name_vi": "Lõi địa phận tộc (thô)",
-        "name_hv": "族域",
+        "name_hv": "Lõi địa phận tộc (thô)",
         "kind": "polity",
         "visibility": "public",
         "notes": "Polygon tham chiếu; chi tiết arc → micro"
@@ -152,11 +231,26 @@
         "type": "Polygon",
         "coordinates": [
           [
-            [-35, 25],
-            [42, 28],
-            [45, -35],
-            [-40, -38],
-            [-35, 25]
+            [
+              -35,
+              25
+            ],
+            [
+              42,
+              28
+            ],
+            [
+              45,
+              -35
+            ],
+            [
+              -40,
+              -38
+            ],
+            [
+              -35,
+              25
+            ]
           ]
         ]
       }

@@ -6,7 +6,7 @@
       "properties": {
         "id": "CHL-BANG-PHONG",
         "name_vi": "Băng Phong đại lục",
-        "name_hv": "冰风大陆",
+        "name_hv": "Băng Phong đại lục",
         "kind": "continent",
         "visibility": "public"
       },
@@ -351,7 +351,7 @@
         "id": "REG-BP-NAM-DONG",
         "name_vi": "Nam Đông · biên Trung Linh",
         "kind": "wilderness",
-        "name_hv": "南东",
+        "name_hv": "Nam Đông",
         "linh_khi_tier": "dày",
         "visibility": "public",
         "notes": "Đối diện REG-TL-BAC-LINH — kiếp ngoài trời nhẹ hơn về phía nam"
@@ -534,7 +534,7 @@
         "id": "REG-BP-NAM-PHONG",
         "name_vi": "Nam Phong · cửa gió",
         "kind": "wilderness",
-        "name_hv": "南风",
+        "name_hv": "Nam Phong",
         "linh_khi_tier": "dày",
         "visibility": "public",
         "notes": "Thương lộ gió — đan dược từ Ngọc Lâm hiếm"
@@ -765,7 +765,7 @@
         "id": "REG-BP-TAY-BANG",
         "name_vi": "Tây Băng · biên tây",
         "kind": "wilderness",
-        "name_hv": "西冰",
+        "name_hv": "Tây Băng",
         "linh_khi_tier": "mach_rải",
         "visibility": "public",
         "notes": "Hướng Huyền Âm neighbor (lore) — âm phong vệt"
@@ -1044,7 +1044,7 @@
         "id": "BRR-BP-VAN-PHONG",
         "name_vi": "Dãy Vân Phong",
         "kind": "barrier",
-        "name_hv": "云风岭",
+        "name_hv": "Dãy Vân Phong",
         "linh_khi_tier": "mach_rải_cao",
         "visibility": "public",
         "notes": "Băng–Phong barrier — kiếp nạn ngoài trời nặng hơn khi vượt"
@@ -1303,7 +1303,7 @@
         "id": "REG-BP-PHONG-COC",
         "name_vi": "Phong Cốc",
         "kind": "polity",
-        "name_hv": "风谷",
+        "name_hv": "Phong Cốc",
         "linh_khi_tier": "rất_dày",
         "visibility": "public",
         "notes": "Tu Băng–Phong — tông biên; tranh mạch gió với Hỏa Diễm (lore cổ)"
@@ -1574,7 +1574,7 @@
         "id": "REG-BP-HAN-UYEN",
         "name_vi": "Hàn Uyên",
         "kind": "wilderness",
-        "name_hv": "寒苑",
+        "name_hv": "Hàn Uyên",
         "linh_khi_tier": "dày",
         "visibility": "public",
         "notes": "Hoang địa băng — yêu thú hóa hình thưa"
@@ -1845,7 +1845,7 @@
         "id": "REG-BP-LINH-BANG",
         "name_vi": "Linh Băng hồ",
         "kind": "resource",
-        "name_hv": "灵冰湖",
+        "name_hv": "Linh Băng hồ",
         "linh_khi_tier": "mach_chủ",
         "visibility": "mc_phase1",
         "notes": "Hồ băng linh — linh thạch hạng trung đóng băng"
@@ -2072,7 +2072,7 @@
         "id": "REG-BP-DONG-HAN",
         "name_vi": "Đông Hàn · đại uyên",
         "kind": "wilderness",
-        "name_hv": "东寒",
+        "name_hv": "Đông Hàn",
         "linh_khi_tier": "dày",
         "visibility": "public"
       }
@@ -2508,7 +2508,7 @@
         "id": "REG-BP-BANG-TINH",
         "name_vi": "Băng Tinh quan",
         "kind": "polity",
-        "name_hv": "冰星关",
+        "name_hv": "Băng Tinh quan",
         "linh_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Thành cực bắc · hub LOC-BP-BANG-TINH"
@@ -2855,7 +2855,7 @@
         "id": "REG-BP-BAC-HUYEN",
         "name_vi": "Bắc Huyền · cực bắc",
         "kind": "wilderness",
-        "name_hv": "北玄",
+        "name_hv": "Bắc Huyền",
         "linh_khi_tier": "mach_rải",
         "visibility": "public",
         "notes": "Kiếp nạn ngoài trời cực đoan — Trúc Cơ trở xuống hiếm sống sót"
@@ -2873,7 +2873,7 @@
       "properties": {
         "id": "LOC-BP-BANG-TINH",
         "name_vi": "Băng Tinh · thành chính",
-        "name_hv": "冰星关",
+        "name_hv": "Băng Tinh",
         "kind": "hub",
         "visibility": "public",
         "linh_khi_tier": "mach_chủ"
@@ -2901,7 +2901,7 @@
       "properties": {
         "id": "ROUTE-BP-DONG-TRUNG-LINH",
         "name_vi": "Thương lộ Nam Đông",
-        "name_hv": "南东路",
+        "name_hv": "Thương lộ Nam Đông",
         "kind": "route",
         "from_id": "REG-BP-NAM-DONG",
         "to_id": "REG-TL-BAC-LINH",
@@ -3147,7 +3147,7 @@
       "properties": {
         "id": "RIVER-BP-LINH-BANG",
         "name_vi": "Linh Băng thủy",
-        "name_hv": "灵冰水",
+        "name_hv": "Linh Băng thủy",
         "kind": "route",
         "from_id": "REG-BP-BAC-HUYEN",
         "to_id": "REG-BP-NAM-DONG"

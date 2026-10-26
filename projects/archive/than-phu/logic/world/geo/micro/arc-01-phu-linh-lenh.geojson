@@ -7,7 +7,10 @@
   "world:parent_scope": "region",
   "world:parent_feature_id": "REG-GIA-TOC-PHU-GIAU",
   "world:parent_file": "region/reg-gia-toc-phu-vuc.geojson",
-  "world:parent_coordinates": [0, 0],
+  "world:parent_coordinates": [
+    0,
+    0
+  ],
   "world:tieu_cuc_id": "TC-TP-001",
   "world:coordinateNote": "Micro · Phù Lĩnh Lệnh Arc 1; gốc điện lệnh; parent neo LOC-GIA-TOC-HUB region local (0,0).",
   "features": [
@@ -16,97 +19,139 @@
       "properties": {
         "id": "LOC-GIA-TOC-HUB",
         "name_vi": "Phù Lĩnh Lệnh · điện chính",
-        "name_hv": "符岭令",
+        "name_hv": "Phù Lĩnh Lệnh",
         "kind": "hub",
         "visibility": "public",
         "event_scale": "III",
         "faction": "Thẩm thị · Phù Lĩnh",
         "notes": "Beat 1–2; trước Huyết Dạ · ch.1–9"
       },
-      "geometry": { "type": "Point", "coordinates": [0, 0] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-PHU-CAC-NOI",
         "name_vi": "Phù các nội · công thức giấu",
-        "name_hv": "内符阁",
+        "name_hv": "Phù các nội",
         "kind": "settlement",
         "visibility": "mc_phase1",
         "direction_label": "Tây",
         "parent_id": "LOC-GIA-TOC-HUB",
         "notes": "Beat 1; ngoại truyền = tội · ch.2–5"
       },
-      "geometry": { "type": "Point", "coordinates": [-18, 4] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -18,
+          4
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-SAN-LENH",
         "name_vi": "Sân lệnh · Huyết Dạ",
-        "name_hv": "令庭",
+        "name_hv": "Sân lệnh",
         "kind": "wilderness",
         "visibility": "public",
         "direction_label": "Nam · trước điện",
         "event_scale": "III",
         "notes": "Beat 2; tàn sát · Thẩm Chiêm Phong · ch.6–8"
       },
-      "geometry": { "type": "Point", "coordinates": [0, -12] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          -12
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-MAT-THAT-CO-PHO",
         "name_vi": "Mật thất · Thần Phù Cổ Phổ",
-        "name_hv": "密室",
+        "name_hv": "Mật thất",
         "kind": "barrier",
         "visibility": "secret",
         "direction_label": "Bắc · trong điện",
         "parent_id": "LOC-GIA-TOC-HUB",
         "notes": "Beat 3 plant; Beat 5 payoff · Cửu Thiên Ấn mở · ch.10–18"
       },
-      "geometry": { "type": "Point", "coordinates": [6, 8] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6,
+          8
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-CUA-TAY-HIEU",
         "name_vi": "Hành lang · cửa Tây hiểu",
-        "name_hv": "西暗门",
+        "name_hv": "Hành lang",
         "kind": "barrier",
         "visibility": "mc_phase1",
         "direction_label": "Tây",
         "notes": "Beat 3; lối thoát sau hi sinh · ch.10–12"
       },
-      "geometry": { "type": "Point", "coordinates": [-22, -2] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22,
+          -2
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-THU-CAC",
         "name_vi": "Thư các · Mộ Thanh Y",
-        "name_hv": "书阁",
+        "name_hv": "Thư các",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Đông",
         "parent_id": "LOC-GIA-TOC-HUB",
         "notes": "Beat 1 plant; Beat 8 gặp lại · ch.4 · ch.29–30"
       },
-      "geometry": { "type": "Point", "coordinates": [14, 6] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14,
+          6
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-NGOAI-QUAN-BAC",
         "name_vi": "Ngoại quan · hướng biên Bắc",
-        "name_hv": "北关",
+        "name_hv": "Ngoại quan",
         "kind": "settlement",
         "visibility": "mc_phase1",
         "direction_label": "Bắc",
         "faction": "Hàn Diệp Liên",
         "notes": "Beat 2; tiếp viện cửu địch · ch.5–9"
       },
-      "geometry": { "type": "Point", "coordinates": [0, 28] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          28
+        ]
+      }
     }
   ]
 }

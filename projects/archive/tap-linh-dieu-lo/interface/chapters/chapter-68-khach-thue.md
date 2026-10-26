@@ -52,7 +52,7 @@ Sau đó một chấp sự Thanh Vi — gã không mang kiếm, mang **ấn** �
 Gã áo tro bóc niêm, đọc **không** toàn bộ. Chỉ đoạn **công bố một phần** — đủ để sổ nhận, đủ để phe khác nghe, không đủ để ai biết hết bài:
 
 — **Ủy thác Sát Thủ Các** — bảo lãnh phí **dọn tán tu** ca đêm và ca sáng mai.  
-— **Khách bảo lãnh:** nhánh **Tống** · **Minh Vi** (宋明微).  
+— **Khách bảo lãnh:** nhánh **Tống** · **Minh Vi**.  
 — **Mục:** giữ **leo cọc** nhánh bảy; **dọn** hiệu số vi phạm khế mạch / bỏ cọc / cản leo.  
 — **Thanh toán:** ghi nợ phe trung gian; hoàn trả theo **đầu** khi sổ chốt.
 
@@ -258,11 +258,11 @@ Sáng chưa lên. Bảng đỏ đã **sáng** trước mặt trời.
 
 - **Kiểm tra chính sử:** Đạt.
   - MC **Trúc Cơ Sơ kỳ**, hiệu số **mười bảy**, ô **mười chín**; giọt **Linh Dịch lệch**; **không** trên danh sách dọn; **không** heal wound.
-  - **FS-003 payoff một tầng:** Tên **Tống Minh Vi** (宋明微) qua phong thư / công bố một phần — con cháu phe, cần mạch phụ nhánh bảy cho **thánh tử / đệ tử ưu tiên**; trả phí Sát Thủ Các **dọn tán tu**; **không** lộ **Tạ Minh Huy**; **không** gặp trực diện; **không** NC / romance.
+  - **FS-003 payoff một tầng:** Tên **Tống Minh Vi** qua phong thư / công bố một phần — con cháu phe, cần mạch phụ nhánh bảy cho **thánh tử / đệ tử ưu tiên**; trả phí Sát Thủ Các **dọn tán tu**; **không** lộ **Tạ Minh Huy**; **không** gặp trực diện; **không** NC / romance.
   - **FS-016:** Lục Thanh Phong distrust đồng đội thuê sâu hơn — tin phe/cơ chế, không tin *vì đại cục*; né/im khi hiệu số gạch; echo người áo tro.
   - **FS-004 móc:** Bảng bổ sung khế **cắn** — báo khí, bỏ cọc, rời ô; huyết khế siết trên da.
   - Không chết Lục Thanh Phong; không payoff FS-006; không tiếng Anh; không power creep.
 - **Nối mạch:** Ch.66–67 (phí dọn sau giờ Tỵ, hiệu số gạch, ấn Vi) → ch.68 lộ tên → ch.69 *Hợp Đồng Cắn*.
 - **Cảnh báo vùng nguy:** Lục Thanh Phong (**hai mươi tám**), Mạnh Hải (**hai mươi tư**) — móc ch.69 đồng đội thuê rơi vào vùng nguy, MC chứng kiến.
 - **Hook ch.69:** Hợp đồng khế mạch siết + phí dọn cùng ép; FS-004 **cắn** thân; đồng đội thuê sắp chết (không Lục).
-- **Tên đã dùng:** Tống Minh Vi (宋明微), Lục Thanh Phong, Mạnh Hải — registry.
+- **Tên đã dùng:** Tống Minh Vi (Tống Minh Vi), Lục Thanh Phong, Mạnh Hải — registry.

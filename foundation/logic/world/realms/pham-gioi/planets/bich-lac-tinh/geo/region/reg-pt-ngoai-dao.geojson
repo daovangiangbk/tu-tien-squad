@@ -56,7 +56,7 @@
       "properties": {
         "id": "LOC-PT-NGOAI-DAO-BEN",
         "name_vi": "Ngoại Đảo · bến ngoài",
-        "name_hv": "外岛",
+        "name_hv": "Ngoại Đảo",
         "kind": "hub",
         "visibility": "public"
       },
@@ -73,7 +73,7 @@
       "properties": {
         "id": "LOC-PT-NGOAI-DAO-TRAM",
         "name_vi": "Trạm biên · nam",
-        "name_hv": "驿站",
+        "name_hv": "Trạm biên",
         "kind": "settlement",
         "visibility": "public"
       },
@@ -90,7 +90,7 @@
       "properties": {
         "id": "LOC-PT-NGOAI-DAO-CANH",
         "name_vi": "Tháp canh · đông",
-        "name_hv": "望塔",
+        "name_hv": "Tháp canh",
         "kind": "settlement",
         "visibility": "public"
       },
@@ -107,7 +107,7 @@
       "properties": {
         "id": "BRR-PT-NGOAI-DAO-RIM",
         "name_vi": "Vành địa · rìa",
-        "name_hv": "缘障",
+        "name_hv": "Vành địa",
         "kind": "barrier",
         "visibility": "public"
       },
@@ -144,7 +144,7 @@
       "properties": {
         "id": "LOC-PT-PHU-TRAN",
         "name_vi": "Phù Trấn",
-        "name_hv": "浮镇",
+        "name_hv": "Phù Trấn",
         "kind": "hub",
         "visibility": "public",
         "notes": "Shared id; parent chl (300.0, 720.0)."

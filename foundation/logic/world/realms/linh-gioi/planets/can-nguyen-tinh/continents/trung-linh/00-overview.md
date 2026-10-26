@@ -21,8 +21,7 @@ child_index:
   - path: economy/00-overview.md
 ---
 
-# Trung Linh · 中灵大陆
-
+# Trung Linh · TrungLinhĐạiLục
 **parent:** [`../../00-overview.md`](../../00-overview.md) · **GeoJSON:** [`chl-trung-linh.geojson`](../../geo/chau-luc/chl-trung-linh.geojson) · **Hub:** `LOC-TL-THIEN-QUAN` · **Catalog REG:** [`../../../../01-region-catalog.md`](../../../../01-region-catalog.md) § CHL-TRUNG-LINH
 
 Trung Linh là **mạch chủ** tinh hà Càn Nguyên — linh khí **cân**, thành linh và mạch công cộng dày nhất cụm; giao **Trung Linh** ≈ neo `TINH-HA-REF` trên atlas tinh cầu. **Phàm nhân đa số**, tu sĩ **thiểu số** quyền lực; tranh **Động Thiên Phúc Địa** và **mạch gốc** là stakes arc-scale, không “một vương triều thống nhất sáu lục”.

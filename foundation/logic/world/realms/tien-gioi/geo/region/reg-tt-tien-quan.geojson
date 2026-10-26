@@ -19,7 +19,7 @@
       "properties": {
         "id": "REG-TT-TIEN-QUAN-AREA",
         "name_vi": "Phạm vi Tiên Quan thành",
-        "name_hv": "仙关域",
+        "name_hv": "Phạm vi Tiên Quan thành",
         "kind": "polity",
         "visibility": "public",
         "notes": "Trung ương tiên triều; thuế Tiên Nguyên 15–30%; tranh tiên phủ T2–T3.",
@@ -330,7 +330,7 @@
       "properties": {
         "id": "LOC-TT-TIEN-QUAN",
         "name_vi": "Tiên Quan · trung ương",
-        "name_hv": "仙关",
+        "name_hv": "Tiên Quan",
         "kind": "hub",
         "visibility": "public",
         "notes": "Shared id chl-trung-tien; parent (430,400).",
@@ -349,7 +349,7 @@
       "properties": {
         "id": "LOC-TT-TAM-TIEN-QUOC-DINH",
         "name_vi": "Tam Tiên quốc đài",
-        "name_hv": "三仙国台",
+        "name_hv": "Tam Tiên quốc đài",
         "kind": "polity",
         "visibility": "public",
         "direction_label": "Bắc",
@@ -369,7 +369,7 @@
       "properties": {
         "id": "LOC-TT-TIEN-QUOC-TONG",
         "name_vi": "Tiên Quốc Tông · sơn môn",
-        "name_hv": "仙国宗",
+        "name_hv": "Tiên Quốc Tông",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Tây bắc",
@@ -390,7 +390,7 @@
       "properties": {
         "id": "LOC-TT-TRUNG-PHI-KE",
         "name_vi": "Trung Phi các · chợ Tiên Nguyên",
-        "name_hv": "中菲阁",
+        "name_hv": "Trung Phi các",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Nam",
@@ -411,7 +411,7 @@
       "properties": {
         "id": "LOC-TT-GIA-TIEN-PHU",
         "name_vi": "Phủ đệ · gia tộc tiên",
-        "name_hv": "仙府",
+        "name_hv": "Phủ đệ",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Đông",
@@ -431,7 +431,7 @@
       "properties": {
         "id": "LOC-TT-TIEN-MACH-NO",
         "name_vi": "Tiên mạch nội thành",
-        "name_hv": "内城仙脉",
+        "name_hv": "Tiên mạch nội thành",
         "kind": "resource",
         "visibility": "public",
         "direction_label": "Trung tâm",
@@ -451,7 +451,7 @@
       "properties": {
         "id": "LOC-TT-TIEN-PHU-MEN",
         "name_vi": "Tiên phủ · cửa cốc",
-        "name_hv": "仙府口",
+        "name_hv": "Tiên phủ",
         "kind": "dungeon",
         "visibility": "mc_phase1",
         "direction_label": "Nam tây",
@@ -471,7 +471,7 @@
       "properties": {
         "id": "LOC-TT-EXIT-DONG-HAI",
         "name_vi": "Ải đông · Đông Hải",
-        "name_hv": "东海关",
+        "name_hv": "Ải đông",
         "kind": "hub",
         "visibility": "public",
         "direction_label": "Đông · mép region",
@@ -490,7 +490,7 @@
       "properties": {
         "id": "BRR-TT-THIEN-LAM-FOOT",
         "name_vi": "Chân Thiên Lam · biên tây",
-        "name_hv": "天岚脚",
+        "name_hv": "Chân Thiên Lam",
         "kind": "barrier",
         "visibility": "public",
         "notes": "BRR-TT-THIEN-LAM trên chau_luc; tiên khí rải cao."
@@ -528,7 +528,7 @@
       "properties": {
         "id": "RIVER-TT-TIEN-HA-URBAN",
         "name_vi": "Tiên Hà · đoạn thành",
-        "name_hv": "仙河",
+        "name_hv": "Tiên Hà",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TT-TIEN-QUAN",
@@ -567,7 +567,7 @@
       "properties": {
         "id": "ROUTE-TT-TIEN-TAM",
         "name_vi": "Đạo Tiên–Tam",
-        "name_hv": "仙三大道",
+        "name_hv": "Đạo Tiên–Tam",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TT-TIEN-QUAN",
@@ -602,7 +602,7 @@
       "properties": {
         "id": "ROUTE-TT-TIEN-DONG",
         "name_vi": "Đạo Đông Hải",
-        "name_hv": "东海道",
+        "name_hv": "Đạo Đông Hải",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TT-TIEN-QUAN",
@@ -641,7 +641,7 @@
       "properties": {
         "id": "ROUTE-TT-TIEN-PHU",
         "name_vi": "Đường xuống Tiên phủ",
-        "name_hv": "仙府道",
+        "name_hv": "Đường xuống Tiên phủ",
         "kind": "route",
         "visibility": "mc_phase1",
         "from_id": "LOC-TT-TIEN-QUAN",

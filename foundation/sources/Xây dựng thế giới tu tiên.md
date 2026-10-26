@@ -34,7 +34,7 @@
 
 ## **5\. Môn Phái & Thế Lực (Factions & Sects)**
 
-> * **Chính Đạo:** Danh môn chính派 (Đạo gia, Phật gia, Kiếm phái...).  
+> * **Chính Đạo:** Danh môn chínhPhái (Đạo gia, Phật gia, Kiếm phái...).  
 > * **Ma Đạo / Tà Phái:** Huyết Ma Tông, Hợp Hoan Cốc, Độc Phái, Quỷ Doanh.  
 > * **Trung Lập / Thương Hội:** Đấu giá hội, Bách Hóa Đường, Sát Thủ Các, Luyện Đan Sư Hiệp Hội.  
 > * **Gia Tộc Tu Tiên:** Các dòng họ lâu đời nắm giữ huyết mạch truyền thừa và tài nguyên độc quyền.

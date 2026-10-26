@@ -8,7 +8,10 @@
   "world:parent_feature_id": "CHL-HA-GIOI-NAM",
   "world:region_id": "REG-THACH-LAM",
   "world:parent_file": "chau-luc/chl-ha-gioi-nam.geojson",
-  "world:parent_coordinates": [620, 380],
+  "world:parent_coordinates": [
+    620,
+    380
+  ],
   "world:coordinateNote": "Region Thạch Lam Thành · vực nội địa đông (REG-NOI-DONG-NAM); gốc local Thạch Lam; neo LOC-THACH-LAM trên châu lục (620,380). Lan Sa Châu → reg-lan-sa-chau.geojson.",
   "features": [
     {
@@ -16,92 +19,134 @@
       "properties": {
         "id": "LOC-THACH-LAM",
         "name_vi": "Thạch Lam Thành",
-        "name_hv": "石岚城",
+        "name_hv": "Thạch Lam Thành",
         "kind": "hub",
         "visibility": "public",
         "notes": "Hạ / Trung / Thượng Thành; Bách Hóa; Đan Hội Phường"
       },
-      "geometry": { "type": "Point", "coordinates": [0, 0] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          0
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-BACH-HOA",
         "name_vi": "Bách Hóa Đường phân điếm",
-        "name_hv": "百化堂",
+        "name_hv": "Bách Hóa Đường phân điếm",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Trung–Đông",
         "notes": "Hub đấu giá"
       },
-      "geometry": { "type": "Point", "coordinates": [18, 2] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18,
+          2
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-DAN-HOI",
         "name_vi": "Thạch Lam Luyện Đan Hội",
-        "name_hv": "石岚炼丹会",
+        "name_hv": "Thạch Lam Luyện Đan Hội",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Đông",
         "notes": "Hội đan III; điểm cống hiến"
       },
-      "geometry": { "type": "Point", "coordinates": [22, 0] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22,
+          0
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-U-NGO",
         "name_vi": "U Ngõ",
-        "name_hv": "幽巷",
+        "name_hv": "U Ngõ",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Tây",
         "notes": "Hắc thị II; Sát Thủ Các"
       },
-      "geometry": { "type": "Point", "coordinates": [-15, -2] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -15,
+          -2
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-THIEN-SA-COT",
         "name_vi": "Cột Thiên Sa Công Uyên",
-        "name_hv": "天沙公渊柱",
+        "name_hv": "Cột Thiên Sa Công Uyên",
         "kind": "dungeon",
         "visibility": "public",
         "direction_label": "Tây ngoài thành",
         "notes": "Bí cảnh III treo vé; cổng tây"
       },
-      "geometry": { "type": "Point", "coordinates": [-28, 0] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -28,
+          0
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-DAN-SA-PHU-MACH",
         "name_vi": "Đan Sa Phụ Mạch",
-        "name_hv": "丹沙副脉",
+        "name_hv": "Đan Sa Phụ Mạch",
         "kind": "resource",
         "visibility": "public",
         "direction_label": "Đông Nam",
         "travel_days_cart": "2-3",
         "notes": "Nhánh #7; tranh Trúc Cơ"
       },
-      "geometry": { "type": "Point", "coordinates": [55, -38] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55,
+          -38
+        ]
+      }
     },
     {
       "type": "Feature",
       "properties": {
         "id": "LOC-LAC-NHAN",
         "name_vi": "Dãy Lạc Nhạn · Thanh Vi",
-        "name_hv": "落雁",
+        "name_hv": "Dãy Lạc Nhạn",
         "kind": "polity",
         "visibility": "public",
         "direction_label": "Bắc",
         "faction": "Thanh Vi Tông",
         "notes": "Kim Đan trưởng lão gián tiếp"
       },
-      "geometry": { "type": "Point", "coordinates": [0, 42] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0,
+          42
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -114,7 +159,13 @@
         "direction_label": "Tây nam",
         "notes": "Neo liên vùng; cùng chau (520,340) với reg-lan-sa-chau"
       },
-      "geometry": { "type": "Point", "coordinates": [-100, -40] }
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100,
+          -40
+        ]
+      }
     },
     {
       "type": "Feature",
@@ -131,7 +182,24 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [[0, 0], [20, -15], [40, -28], [55, -38]]
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            20,
+            -15
+          ],
+          [
+            40,
+            -28
+          ],
+          [
+            55,
+            -38
+          ]
+        ]
       }
     },
     {
@@ -150,7 +218,20 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": [[0, 0], [-50, -25], [-100, -40]]
+        "coordinates": [
+          [
+            0,
+            0
+          ],
+          [
+            -50,
+            -25
+          ],
+          [
+            -100,
+            -40
+          ]
+        ]
       }
     }
   ]

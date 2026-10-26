@@ -19,7 +19,7 @@
       "properties": {
         "id": "REG-TM-SA-HAI-AREA",
         "name_vi": "Phạm vi Sa Hải",
-        "name_hv": "沙海域",
+        "name_hv": "Phạm vi Sa Hải",
         "kind": "wilderness",
         "visibility": "public",
         "linh_khi_tier": "cực_mỏng",
@@ -58,7 +58,7 @@
       "properties": {
         "id": "LOC-TM-SA-HAI-TAM",
         "name_vi": "Sa Hải · trung tâm cát",
-        "name_hv": "沙海心",
+        "name_hv": "Sa Hải",
         "kind": "hub",
         "visibility": "public",
         "notes": "Hub vùng; không có thành — chỉ mốc cát."
@@ -76,7 +76,7 @@
       "properties": {
         "id": "LOC-TM-SA-HAI-CUA",
         "name_vi": "Cửa Sa Hải · lối đông",
-        "name_hv": "沙海口",
+        "name_hv": "Cửa Sa Hải",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Đông · mép Khe",
@@ -95,7 +95,7 @@
       "properties": {
         "id": "LOC-TM-CO-TU",
         "name_vi": "Cổ Tu · trung tâm di tích",
-        "name_hv": "古墟",
+        "name_hv": "Cổ Tu",
         "kind": "hub",
         "visibility": "public",
         "direction_label": "Đông bắc",
@@ -114,7 +114,7 @@
       "properties": {
         "id": "LOC-TM-SA-CO-KHI",
         "name_vi": "Mỏ cổ khí · dune",
-        "name_hv": "古器丘",
+        "name_hv": "Mỏ cổ khí",
         "kind": "resource",
         "visibility": "public",
         "direction_label": "Tây nam",
@@ -133,7 +133,7 @@
       "properties": {
         "id": "LOC-TM-SA-LUU",
         "name_vi": "Lữ trại đoàn · nam",
-        "name_hv": "商队营",
+        "name_hv": "Lữ trại đoàn",
         "kind": "settlement",
         "visibility": "public",
         "direction_label": "Nam",
@@ -152,7 +152,7 @@
       "properties": {
         "id": "LOC-TM-SA-MA-RIM",
         "name_vi": "Rìa Ma uyên · tây",
-        "name_hv": "魔渊缘",
+        "name_hv": "Rìa Ma uyên",
         "kind": "wilderness",
         "visibility": "hidden_logic",
         "direction_label": "Tây",
@@ -171,7 +171,7 @@
       "properties": {
         "id": "BRR-TM-SA-DUNE",
         "name_vi": "Cồn cát · hố lún",
-        "name_hv": "流沙丘",
+        "name_hv": "Cồn cát",
         "kind": "barrier",
         "visibility": "public"
       },
@@ -208,7 +208,7 @@
       "properties": {
         "id": "ROUTE-TM-SA-KHE",
         "name_vi": "Lối Khe Giới",
-        "name_hv": "界隙道",
+        "name_hv": "Lối Khe Giới",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-SA-HAI-TAM",
@@ -243,7 +243,7 @@
       "properties": {
         "id": "ROUTE-TM-SA-CO-TU",
         "name_vi": "Đạo Cổ Tu",
-        "name_hv": "古墟道",
+        "name_hv": "Đạo Cổ Tu",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-SA-HAI-TAM",
@@ -278,7 +278,7 @@
       "properties": {
         "id": "ROUTE-TM-SA-NAM",
         "name_vi": "Lối Nam Quan",
-        "name_hv": "南关道",
+        "name_hv": "Lối Nam Quan",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-SA-LUU",
@@ -314,7 +314,7 @@
       "properties": {
         "id": "LOC-TM-SA-MANH",
         "name_vi": "Manh mạch cát · ẩn",
-        "name_hv": "沙脉",
+        "name_hv": "Manh mạch cát",
         "kind": "resource",
         "visibility": "hidden_logic",
         "linh_khi_tier": "manh_mach_rải"
@@ -332,7 +332,7 @@
       "properties": {
         "id": "LOC-TM-KHE-GIOI",
         "name_vi": "Khe Giới · cửa vết nứt",
-        "name_hv": "界隙",
+        "name_hv": "Khe Giới",
         "kind": "hub",
         "visibility": "hidden_logic",
         "direction_label": "Tây · qua cửa",
@@ -351,7 +351,7 @@
       "properties": {
         "id": "RIVER-TM-SA-CAN",
         "name_vi": "Rãnh cổ · khô",
-        "name_hv": "古涸",
+        "name_hv": "Rãnh cổ",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-TM-SA-CO-KHI",

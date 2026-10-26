@@ -9,7 +9,7 @@
 
 Canh Dần — tre đen rút khô mực; nửa suất trinh sát đã mất trên sổ; khế vẫn **cắn** vì đêm Hợi **chứng kiến** hút mà không úp tay.
 
-Phía phế, lợi ngắn **tan dần** — miệng hố thở xám **mỏng**, cỏ hé co sớm — hắn **biết** cơ chế; hắn **không** xuống. Trúc Cơ Trung lệch; Linh Dịch dính; túi rỗng; nợ một hạt treo đài. **断** vẫn treo trên tre; cấm hút trên mõ vẫn cắn khi thần thức muốn bám miệng hố. Đêm tan khói hắn chỉ nghe **một câu** qua ba trượng — *chi nhánh* không cờ, không mời — chưa **đối mặt** đủ mặt. Canh Dần mang lệnh kiểu khác: không đuổi Ma, chỉ **đi** tới nơi sổ rìa gặp sổ rìa.
+Phía phế, lợi ngắn **tan dần** — miệng hố thở xám **mỏng**, cỏ hé co sớm — hắn **biết** cơ chế; hắn **không** xuống. Trúc Cơ Trung lệch; Linh Dịch dính; túi rỗng; nợ một hạt treo đài. **Đoạn** vẫn treo trên tre; cấm hút trên mõ vẫn cắn khi thần thức muốn bám miệng hố. Đêm tan khói hắn chỉ nghe **một câu** qua ba trượng — *chi nhánh* không cờ, không mời — chưa **đối mặt** đủ mặt. Canh Dần mang lệnh kiểu khác: không đuổi Ma, chỉ **đi** tới nơi sổ rìa gặp sổ rìa.
 
 Đổi ca, không nghỉ trọn.
 
@@ -43,7 +43,7 @@ Gã già ghi một nét tre phế. Không đọc to. Sổ rìa nuốt chi tiết
 
 Hắn quay — **đối mặt** không phải vì muốn.
 
-Một người đứng ngoài hang, lưng hướng phế, **không** che mặt. Áo tro xám, sa đỏ **mờ** trên mu bàn tay — Huyết Sa chi nhánh vùng **断**, không cờ, không hiệu tông trên vai. Mặt **mệt**, sạch; không trẻ, không ác; không cười mời về đạo. Chỉ huy chi nhánh — nặng hơn hắn đủ để im lặng an toàn hơn cãi; vẫn **không** đủ để hắn chọn trận trên đá này.
+Một người đứng ngoài hang, lưng hướng phế, **không** che mặt. Áo tro xám, sa đỏ **mờ** trên mu bàn tay — Huyết Sa chi nhánh vùng **Đoạn**, không cờ, không hiệu tông trên vai. Mặt **mệt**, sạch; không trẻ, không ác; không cười mời về đạo. Chỉ huy chi nhánh — nặng hơn hắn đủ để im lặng an toàn hơn cãi; vẫn **không** đủ để hắn chọn trận trên đá này.
 
 **Sa Hồng Phàm** — hắn ghép tên từ lời tán tu đêm Hợi — **nhìn** hắn lần đầu **đủ**: không qua khói, không qua ba trượng lén nghe.
 
@@ -97,7 +97,7 @@ Tô Diêu **rút** theo lệnh — về trước Mão — không đuổi chi nh�
 
 ---
 
-Canh Mão — **断** nắng xám mỏng; tam giác veo lại chiều cắn cổ.
+Canh Mão — **Đoạn** nắng xám mỏng; tam giác veo lại chiều cắn cổ.
 
 Hắn về đúng lệnh — không vào tam giác — đứng lại hành lang phụ tây **ba trượng**, cùng chỗ đêm Hợi. Ca trinh sát **chưa** hết; báo khí điểm đổi đã xong; thân **mệt** hơn một lớp. Chấp sự sáng **không** hỏi tên chi nhánh; hỏi là mở *Huyết Sa* trên mõ. Im là *ổn tam giác* thêm một ca.
 
@@ -129,7 +129,7 @@ Phía sau, phế vẫn **chưa khai** trên mõ; miệng hố thở xám **mỏn
 
 Hút giúp vùng thêm một canh — **trả bằng gì** khi sổ chính đạo không ghi đủ, và người đứng hành lang **trả** bằng suất dù không úp tay?
 
-Gió từ **断** mang tro đỏ còn vướng. Hắn nuốt không xuống — **bước** theo tre đen rút, Trung lệch, Linh Dịch dính, **không** ký dưới rìa.
+Gió từ **Đoạn** mang tro đỏ còn vướng. Hắn nuốt không xuống — **bước** theo tre đen rút, Trung lệch, Linh Dịch dính, **không** ký dưới rìa.
 
 Trên tam giác, một gã cờ Thanh Vi nhìn xuống — mặt cứng — **không** xuống phế. Đài **ghi** *ổn một canh*; phế **ghi** *tro · chưa đủ*. Hai dòng **không** khớp miệng; vùng **còn thở** đủ để tranh suất tuần sau, **chưa** đủ để ai gọi là cứu. *Cứu vùng* không còn chỉ lời chấp sự ban ngày — có **hình**, có **vàng nhanh**, có tán tu **ốm** không hút, có **Sa Hồng Phàm** **mệt** như cột son **lạnh** — và câu **trả bằng gì** sắp phải **đọc** trọn trên tre, canh này hay canh kế, trước khi Linh Dịch **bắt** hắn trả bằng **thân**.
 
@@ -140,7 +140,7 @@ Trên tam giác, một gã cờ Thanh Vi nhìn xuống — mặt cứng — **kh
 - **Revise r1 (2026-09-09 · REWRITE-66-112):** C-01 — *slot* → *suất* (canon tran suất). C-02 — tre phế *canh Mão* ghi **sau** đợt hút Mão; Dần chỉ báo khí; MC thấy dòng từ hành lang phụ tây, không lẫn sáng Dần.
 - **Campaign REWRITE-66-112 · full replace (2026-09-09):** Nối cliff ch.82 (hút đã thấy · lợi ngắn tan · trừ nửa suất · mầm điểm đổi ca tây nam); Beat 8 giữa; điểm đổi ca / hang tro · **Sa Hồng Phàm** thoại xám *vì đại cục* (không recruit · không cười ác); nuôi đối chiếu vá+ca+hạt+khế+im với hút+trả trước; khế cắn · chính trị *lậu*/*ổn tam giác*; cliff Canh Mão (hút/dư hậu · cỏ xanh→vàng nhanh · tán tu ốm · dòng tre phế · Linh Dịch dày) → ch.84 · **không** khép Beat 8.
 - **Số chữ thân chương (prose):** ~2.500 từ (đếm token khoảng trắng; không tính metadata và ghi chú).
-- **Kiểm tra canon:** Đạt — Trúc Cơ Trung lệch, Linh Dịch lệch, túi rỗng, khế/sổ/thẻ 28/hiệu 17; cấm xuống · cấm hút · **断** chưa khai phế; không heal/vá Trung; không NC; không MC hút/gia nhập Ma/phù·sa ký tên; không Kim Đan một mình xuống phế đuổi; Sa Hồng Phàm tier dưới Tạ Hàm Nguyệt · không trận công lực trọn với MC; prose không tiếng Anh/meta nhãn (tier/solo/monologue/vs/heal/mirror).
+- **Kiểm tra canon:** Đạt — Trúc Cơ Trung lệch, Linh Dịch lệch, túi rỗng, khế/sổ/thẻ 28/hiệu 17; cấm xuống · cấm hút · **Đoạn** chưa khai phế; không heal/vá Trung; không NC; không MC hút/gia nhập Ma/phù·sa ký tên; không Kim Đan một mình xuống phế đuổi; Sa Hồng Phàm tier dưới Tạ Hàm Nguyệt · không trận công lực trọn với MC; prose không tiếng Anh/meta nhãn (tier/solo/monologue/vs/heal/mirror).
 - **FS đã gài/nuôi:** FS-011 *(nurture Arc 2)* · FS-002 · FS-013 · FS-010 *(visible mầm)* · FS-004 · FS-014 · FS-001 · FS-007 *(mầm Linh Dịch — không plant đầy)*.
 - **Tên cần chốt:** Không.
 - **Hook ch.84** (`logic/chapters/ch84-cuu-vung-beat.md`): Payoff một tầng *cứu vùng ngắn* / nghiệp mầm đọc trọn hơn; Beat 8 khép cảm xúc; MC vẫn tán tu thuê + khế Thanh Vi.

@@ -19,7 +19,7 @@
       "properties": {
         "id": "REG-VP-PHAP-DIEN-AREA",
         "name_vi": "Phạm vi Pháp Điện thành",
-        "name_hv": "法殿域",
+        "name_hv": "Phạm vi Pháp Điện thành",
         "kind": "polity",
         "visibility": "public",
         "notes": "Luật thần trung ương; thuế khế 15–28%; tranh thần công pháp T2–T3.",
@@ -330,7 +330,7 @@
       "properties": {
         "id": "LOC-VP-PHAP-DIEN",
         "name_vi": "Pháp Điện · luật thần",
-        "name_hv": "法殿",
+        "name_hv": "Pháp Điện",
         "kind": "hub",
         "visibility": "public",
         "notes": "Shared id chl-van-phap; parent (430,370).",
@@ -349,7 +349,7 @@
       "properties": {
         "id": "LOC-VP-VAN-KY-CAC",
         "name_vi": "Vạn Ký các · khế treo",
-        "name_hv": "万纪阁",
+        "name_hv": "Vạn Ký các",
         "kind": "polity",
         "visibility": "public",
         "notes": "Neo REG-VP-VAN-KY; khế Vạn Tự.",
@@ -369,7 +369,7 @@
       "properties": {
         "id": "LOC-VP-PHAP-TONG",
         "name_vi": "Pháp Điện Tông · sơn môn",
-        "name_hv": "法殿宗",
+        "name_hv": "Pháp Điện Tông",
         "kind": "settlement",
         "visibility": "public",
         "notes": "Thần tông luật; mạch pháp nội sơn.",
@@ -390,7 +390,7 @@
       "properties": {
         "id": "LOC-VP-TRUNG-LUAT-KE",
         "name_vi": "Trung Luật các · hội thương",
-        "name_hv": "中律阁",
+        "name_hv": "Trung Luật các",
         "kind": "settlement",
         "visibility": "public",
         "notes": "Neo REG-VP-TRUNG-LUAT; thần nguyên luật pháp.",
@@ -411,7 +411,7 @@
       "properties": {
         "id": "LOC-VP-THAN-DAN-PHU",
         "name_vi": "Thần đan phủ · luyện đan",
-        "name_hv": "神丹府",
+        "name_hv": "Thần đan phủ",
         "kind": "settlement",
         "visibility": "public",
         "notes": "Generic luyện đan thần; nhập Cửu Phong qua thương đội.",
@@ -431,7 +431,7 @@
       "properties": {
         "id": "LOC-VP-PHAP-MACH-NO",
         "name_vi": "Pháp mạch nội thành",
-        "name_hv": "内城法脉",
+        "name_hv": "Pháp mạch nội thành",
         "kind": "resource",
         "visibility": "public",
         "notes": "Mạch luật nuôi thành; monopoly Pháp Điện + Vạn Ký.",
@@ -451,7 +451,7 @@
       "properties": {
         "id": "LOC-VP-THAN-NGUYEN-MO",
         "name_vi": "Mỏ Thần nguyên · cửa pháp",
-        "name_hv": "神源口",
+        "name_hv": "Mỏ Thần nguyên",
         "kind": "dungeon",
         "visibility": "mc_phase1",
         "notes": "Neo REG-VP-NAM-PHAP; tranh tinh luật pháp.",
@@ -471,7 +471,7 @@
       "properties": {
         "id": "LOC-VP-EXIT-DONG-HAI",
         "name_vi": "Ải đông · Đông Hải",
-        "name_hv": "东海关",
+        "name_hv": "Ải đông",
         "kind": "hub",
         "visibility": "public",
         "notes": "Ra REG-VP-DONG-HAI · liên Kiếm Lôi.",
@@ -490,7 +490,7 @@
       "properties": {
         "id": "BRR-VP-PHAP-SON-FOOT",
         "name_vi": "Chân Pháp Sơn · biên tây",
-        "name_hv": "法山脚",
+        "name_hv": "Chân Pháp Sơn",
         "kind": "barrier",
         "visibility": "public",
         "notes": "BRR-VP-PHAP-SON trên chau_luc; trận pháp thần nặng hơn."
@@ -528,7 +528,7 @@
       "properties": {
         "id": "RIVER-VP-VAN-HE-URBAN",
         "name_vi": "Vạn Hà · đoạn thành",
-        "name_hv": "万河",
+        "name_hv": "Vạn Hà",
         "kind": "route",
         "visibility": "public",
         "notes": "Nối RIVER-VP-VAN-HE chau_luc.",
@@ -567,7 +567,7 @@
       "properties": {
         "id": "ROUTE-VP-PHAP-VAN-KY",
         "name_vi": "Đạo Pháp–Vạn Ký",
-        "name_hv": "法纪大道",
+        "name_hv": "Đạo Pháp–Vạn Ký",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-VP-PHAP-DIEN",
@@ -602,7 +602,7 @@
       "properties": {
         "id": "ROUTE-VP-PHAP-DONG",
         "name_vi": "Đạo Đông Hải",
-        "name_hv": "东海道",
+        "name_hv": "Đạo Đông Hải",
         "kind": "route",
         "visibility": "public",
         "from_id": "LOC-VP-PHAP-DIEN",
@@ -641,7 +641,7 @@
       "properties": {
         "id": "ROUTE-VP-NGUYEN-MO",
         "name_vi": "Đường xuống mỏ Thần nguyên",
-        "name_hv": "神源道",
+        "name_hv": "Đường xuống mỏ Thần nguyên",
         "kind": "route",
         "visibility": "mc_phase1",
         "from_id": "LOC-VP-PHAP-DIEN",

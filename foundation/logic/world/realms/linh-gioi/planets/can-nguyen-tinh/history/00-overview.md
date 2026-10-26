@@ -39,7 +39,7 @@ File này: **sự kiện lớn cấp tinh hà** ( tự nhiên · xã hội · ch
 
 ## 2. Tiền-Càn Nguyên (chỉ neo — không beat)
 
-Trước khi có tên **苍元**, vùng vật chất này thuộc **Linh Giới** sau **Tam giới định hình** ( tier-00 ): co tục địa mạch, tách **sáu khối đại lục** và biển linh khí — polygon hiện tại trong `00-tinh-ha.geojson` là **trạng thái đã ổn định lâu**, không mô tả từng trận Thượng cổ vũ trụ.
+Trước khi có tên **ThươngNguyên**, vùng vật chất này thuộc **Linh Giới** sau **Tam giới định hình** ( tier-00 ): co tục địa mạch, tách **sáu khối đại lục** và biển linh khí — polygon hiện tại trong `00-tinh-ha.geojson` là **trạng thái đã ổn định lâu**, không mô tả từng trận Thượng cổ vũ trụ.
 
 **Hệ quả còn lại ( chung cả giới, không riêng Càn Nguyên ):**
 - Giới bích **Linh–Tiên** / **Phàm–Linh** là **màng pháp tắc** — phi thăng & crack là **sự kiện pháp tắc**, không di chuyển lục trên map.

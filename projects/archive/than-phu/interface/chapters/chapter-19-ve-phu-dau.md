@@ -22,7 +22,7 @@ Hắn đặt **da** mới — tấm cuối **tốt** từ **Mộ**. **Mực** ph
 
 **Thần Phù Cổ Phổ** mở trong túi **da** riêng, trang **Hộ Mệnh Hoàng** — không đọc lại **giá**; **thuộc**.
 
-Vẽ lần ba trong ngày — hai lần **hủy** vì **勾** lệch **khí**.
+Vẽ lần ba trong ngày — hai lần **hủy** vì **Câu** lệch **khí**.
 
 Lần ba: chậm đến mức **mỏi mắt**. **Thần thức** như sợi tơ; mỗi **điểm**, tơ **neo** một **hơi**.
 

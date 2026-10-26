@@ -13,8 +13,7 @@ canon_source:
 child_index: []
 ---
 
-# Đông Hàn · 东寒
-
+# Đông Hàn · ĐôngHàn
 **parent:** [`CHL-BANG-PHONG`](../../00-overview.md) · **GeoJSON:** [`chl-bang-phong.geojson`](../../../../geo/chau-luc/chl-bang-phong.geojson)
 
 ## Hợp đồng kế thừa

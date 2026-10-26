@@ -13,8 +13,15 @@
     {
       "id": "REG-DA-LUC-NEN",
       "name": "Hàn Phương · nền đại lục",
-      "dimensions": { "width": 1000, "length": 1000 },
-      "anchor": { "type": "absolute", "x": 0, "y": 0 },
+      "dimensions": {
+        "width": 1000,
+        "length": 1000
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 0,
+        "y": 0
+      },
       "properties": {
         "kind": "wilderness",
         "visibility": "hidden_logic",
@@ -26,10 +33,17 @@
     {
       "id": "REG-HP-NAM-CAN",
       "name": "Nam Cạn · rìa ấm",
-      "dimensions": { "width": 720, "length": 88 },
-      "anchor": { "type": "absolute", "x": 140, "y": 24 },
+      "dimensions": {
+        "width": 720,
+        "length": 88
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 140,
+        "y": 24
+      },
       "properties": {
-        "name_hv": "南旱",
+        "name_hv": "Nam Cạn",
         "kind": "wilderness",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
@@ -39,10 +53,18 @@
     {
       "id": "REG-HP-BANG-HA",
       "name": "Băng Hà · ven sông đóng",
-      "dimensions": { "width": 480, "length": 140 },
-      "anchor": { "type": "relative", "ref_id": "REG-HP-NAM-CAN", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 480,
+        "length": 140
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-HP-NAM-CAN",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "冰河",
+        "name_hv": "Băng Hà",
         "kind": "wilderness",
         "linh_khi_tier": "vô_lin",
         "visibility": "public"
@@ -51,10 +73,18 @@
     {
       "id": "REG-HP-TUYET-LAM",
       "name": "Tuyết Lâm · rừng băng",
-      "dimensions": { "width": 280, "length": 220 },
-      "anchor": { "type": "relative", "ref_id": "REG-HP-BANG-HA", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 280,
+        "length": 220
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-HP-BANG-HA",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "雪林",
+        "name_hv": "Tuyết Lâm",
         "kind": "wilderness",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public"
@@ -63,10 +93,18 @@
     {
       "id": "REG-HP-PHONG-MO",
       "name": "Phong Mộ Cốc",
-      "dimensions": { "width": 200, "length": 160 },
-      "anchor": { "type": "relative", "ref_id": "REG-HP-TUYET-LAM", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 200,
+        "length": 160
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-HP-TUYET-LAM",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "封墓谷",
+        "name_hv": "Phong Mộ Cốc",
         "kind": "dungeon",
         "linh_khi_tier": "manh_mach_rải",
         "visibility": "hidden_logic",
@@ -76,10 +114,18 @@
     {
       "id": "REG-HP-BANG-YUAN",
       "name": "Băng Nguyên · mạch kiệt",
-      "dimensions": { "width": 480, "length": 140 },
-      "anchor": { "type": "relative", "ref_id": "REG-HP-PHONG-MO", "edge": "top", "align": "start" },
+      "dimensions": {
+        "width": 480,
+        "length": 140
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-HP-PHONG-MO",
+        "edge": "top",
+        "align": "start"
+      },
       "properties": {
-        "name_hv": "冰原",
+        "name_hv": "Băng Nguyên",
         "kind": "wilderness",
         "linh_khi_tier": "vô_lin",
         "visibility": "public",
@@ -89,10 +135,17 @@
     {
       "id": "REG-HP-HAN-TINH",
       "name": "Hàn Tinh Quan · thành cực bắc",
-      "dimensions": { "width": 340, "length": 88 },
-      "anchor": { "type": "absolute", "x": 260, "y": 680 },
+      "dimensions": {
+        "width": 340,
+        "length": 88
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 260,
+        "y": 680
+      },
       "properties": {
-        "name_hv": "寒星关",
+        "name_hv": "Hàn Tinh Quan",
         "kind": "polity",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public",
@@ -102,10 +155,17 @@
     {
       "id": "REG-HP-BAC-HUYEN",
       "name": "Bắc Huyền · đại vực băng",
-      "dimensions": { "width": 960, "length": 72 },
-      "anchor": { "type": "absolute", "x": 20, "y": 748 },
+      "dimensions": {
+        "width": 960,
+        "length": 72
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 20,
+        "y": 748
+      },
       "properties": {
-        "name_hv": "北玄",
+        "name_hv": "Bắc Huyền",
         "kind": "wilderness",
         "linh_khi_tier": "vô_lin",
         "visibility": "public"
@@ -114,10 +174,17 @@
     {
       "id": "REG-HP-TAY-PHONG",
       "name": "Tây Phong · biên tây",
-      "dimensions": { "width": 200, "length": 520 },
-      "anchor": { "type": "absolute", "x": 20, "y": 100 },
+      "dimensions": {
+        "width": 200,
+        "length": 520
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 20,
+        "y": 100
+      },
       "properties": {
-        "name_hv": "西风",
+        "name_hv": "Tây Phong",
         "kind": "wilderness",
         "linh_khi_tier": "vô_lin",
         "visibility": "public"
@@ -126,10 +193,17 @@
     {
       "id": "BRR-HP-HAN-SON",
       "name": "Dãy Hàn Sơn",
-      "dimensions": { "width": 52, "length": 480 },
-      "anchor": { "type": "absolute", "x": 220, "y": 108 },
+      "dimensions": {
+        "width": 52,
+        "length": 480
+      },
+      "anchor": {
+        "type": "absolute",
+        "x": 220,
+        "y": 108
+      },
       "properties": {
-        "name_hv": "寒山",
+        "name_hv": "Dãy Hàn Sơn",
         "kind": "barrier",
         "linh_khi_tier": "manh_mach_rải"
       }
@@ -137,10 +211,18 @@
     {
       "id": "REG-HP-DONG-HUYEN",
       "name": "Đông Huyền · địa đông",
-      "dimensions": { "width": 240, "length": 480 },
-      "anchor": { "type": "relative", "ref_id": "BRR-HP-HAN-SON", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 240,
+        "length": 480
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "BRR-HP-HAN-SON",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "东玄",
+        "name_hv": "Đông Huyền",
         "kind": "wilderness",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "mc_phase1"
@@ -149,10 +231,18 @@
     {
       "id": "REG-HP-NOI-DIA",
       "name": "Nội Địa · đồng băng nam",
-      "dimensions": { "width": 240, "length": 200 },
-      "anchor": { "type": "relative", "ref_id": "REG-HP-BANG-HA", "edge": "right", "align": "top" },
+      "dimensions": {
+        "width": 240,
+        "length": 200
+      },
+      "anchor": {
+        "type": "relative",
+        "ref_id": "REG-HP-BANG-HA",
+        "edge": "right",
+        "align": "top"
+      },
       "properties": {
-        "name_hv": "内甸",
+        "name_hv": "Nội Địa",
         "kind": "wilderness",
         "linh_khi_tier": "cực_mỏng",
         "visibility": "public"
@@ -164,28 +254,65 @@
       "id": "LOC-HP-HAN-TINH",
       "name": "Hàn Tinh Quan · thành chính",
       "type": "point",
-      "coordinates": { "x": 430, "y": 720 },
-      "properties": { "name_hv": "寒星关", "kind": "hub", "visibility": "public" }
+      "coordinates": {
+        "x": 430,
+        "y": 720
+      },
+      "properties": {
+        "name_hv": "Hàn Tinh Quan",
+        "kind": "hub",
+        "visibility": "public"
+      }
     },
     {
       "id": "LOC-HP-PHONG-MO",
       "name": "Phong Mộ · cửa cốc",
       "type": "point",
-      "coordinates": { "x": 240, "y": 620 },
-      "properties": { "name_hv": "封墓", "kind": "settlement", "visibility": "hidden_logic" }
+      "coordinates": {
+        "x": 240,
+        "y": 620
+      },
+      "properties": {
+        "name_hv": "Phong Mộ",
+        "kind": "settlement",
+        "visibility": "hidden_logic"
+      }
     },
     {
       "id": "RIVER-HP-BANG-HA",
       "name": "Băng Hà",
       "type": "river",
-      "properties": { "name_hv": "冰河", "kind": "route", "from_id": "REG-HP-BANG-YUAN", "to_id": "REG-HP-NAM-CAN" },
+      "properties": {
+        "name_hv": "Băng Hà",
+        "kind": "route",
+        "from_id": "REG-HP-BANG-YUAN",
+        "to_id": "REG-HP-NAM-CAN"
+      },
       "control_points": [
-        { "x": 360, "y": 780 },
-        { "x": 340, "y": 640 },
-        { "x": 380, "y": 520 },
-        { "x": 350, "y": 380 },
-        { "x": 370, "y": 240 },
-        { "x": 360, "y": 140 }
+        {
+          "x": 360,
+          "y": 780
+        },
+        {
+          "x": 340,
+          "y": 640
+        },
+        {
+          "x": 380,
+          "y": 520
+        },
+        {
+          "x": 350,
+          "y": 380
+        },
+        {
+          "x": 370,
+          "y": 240
+        },
+        {
+          "x": 360,
+          "y": 140
+        }
       ],
       "roughness": "medium"
     },
@@ -193,12 +320,27 @@
       "id": "RIVER-HP-HAN-MACH",
       "name": "Hàn Mạch",
       "type": "river",
-      "properties": { "name_hv": "寒脉", "kind": "route" },
+      "properties": {
+        "name_hv": "Hàn Mạch",
+        "kind": "route"
+      },
       "control_points": [
-        { "x": 520, "y": 860 },
-        { "x": 540, "y": 720 },
-        { "x": 510, "y": 580 },
-        { "x": 530, "y": 440 }
+        {
+          "x": 520,
+          "y": 860
+        },
+        {
+          "x": 540,
+          "y": 720
+        },
+        {
+          "x": 510,
+          "y": 580
+        },
+        {
+          "x": 530,
+          "y": 440
+        }
       ],
       "roughness": "high"
     }

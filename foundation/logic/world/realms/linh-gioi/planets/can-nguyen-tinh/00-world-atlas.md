@@ -15,7 +15,7 @@
 | Trường | Giá trị |
 | --- | --- |
 | **ID** | `TH-LINH-CAN-NGUYEN` |
-| **Tên** | **Tinh hà Càn Nguyên** (苍元灵域) — ID legacy bọc **một** tinh cầu |
+| **Tên** | **Tinh hà Càn Nguyên** — ID legacy bọc **một** tinh cầu |
 | **Vị trí trong Hư Không Linh** | Cụm **bắc–đông** đã khảo sát; hub `TINH-HA-REF` ≈ **giao linh mạch** Trung Linh — không phải tâm vật lý tuyệt đối. Giới bích Phàm–Linh **không** nằm trên bản đồ địa lý này. |
 | **Thang lưới** | Story grid: **x = Đông (+), y = Bắc (+)**; một đơn vị ≈ **một ngày đi lộ** (tu sĩ Trúc Cơ, không phù). Bán kính hành trình tinh cầu: **~900–1000** đơn vị tới mép lục xa. |
 | **Quy mô vật lý (tóm)** | **6** đại lục (`CHL-*`) + biển linh khí / đảo mây (chưa vẽ chi tiết); polygon **không chồng** trên `tinh_ha`. |
@@ -33,12 +33,12 @@
 
 | ID | Tên (Việt · Hán) | Vị trí (hub grid) | Quy mô bbox (Đ×B) | Linh khí / đặc điểm |
 | --- | --- | --- | --- | --- |
-| `CHL-TRUNG-LINH` | Trung Linh · 中灵大陆 | Trung tâm cụm | ~177 × 138 | **Mạch chủ** — tông lớn, thành linh; tranh **Động Thiên Phúc Địa** |
-| `CHL-BANG-PHONG` | Băng Phong · 冰风大陆 | Tây bắc | ~126 × 103 | Lạnh; **Băng–Phong** linh căn; kiếp nạn ngoài trời nặng hơn |
-| `CHL-NGOC-LAM` | Ngọc Lâm · 玉林大陆 | Đông | ~127 × 113 | Rừng **Mộc**; dược, yêu tộc; linh khí **ổn định** |
-| `CHL-HOA-DIEN` | Hỏa Diễm · 火炎大陆 | Tây nam nội địa | ~122 × 94 | **Hỏa** mạch; luyện khí, lò đan; khô nóng |
-| `CHL-VAN-HAI` | Vân Hải · 云海大陆 | Nam | ~147 × 95 | Đảo mây, **Thủy–Phong**; thương lộ phi thuyền |
-| `CHL-CUU-LAC` | Cửu Lạc · 九洛大陆 | Đông nam biển | ~90 × 67 | Cửu sông hội; **Cửu Cửu** truyền thuyết gắn điểm phi thăng |
+| `CHL-TRUNG-LINH` | Trung Linh · TrungLinhĐạiLục | Trung tâm cụm | ~177 × 138 | **Mạch chủ** — tông lớn, thành linh; tranh **Động Thiên Phúc Địa** |
+| `CHL-BANG-PHONG` | Băng Phong · BăngPhongĐạiLục | Tây bắc | ~126 × 103 | Lạnh; **Băng–Phong** linh căn; kiếp nạn ngoài trời nặng hơn |
+| `CHL-NGOC-LAM` | Ngọc Lâm · NgọcLâmĐạiLục | Đông | ~127 × 113 | Rừng **Mộc**; dược, yêu tộc; linh khí **ổn định** |
+| `CHL-HOA-DIEN` | Hỏa Diễm · HỏaDiễmĐạiLục | Tây nam nội địa | ~122 × 94 | **Hỏa** mạch; luyện khí, lò đan; khô nóng |
+| `CHL-VAN-HAI` | Vân Hải · VânHảiĐạiLục | Nam | ~147 × 95 | Đảo mây, **Thủy–Phong**; thương lộ phi thuyền |
+| `CHL-CUU-LAC` | Cửu Lạc · CửuLạcĐạiLục | Đông nam biển | ~90 × 67 | Cửu sông hội; **Cửu Cửu** truyền thuyết gắn điểm phi thăng |
 
 ### 2.1. Châu lục deep (Phase 2b + 2b-ext ✓ — **6/6**)
 

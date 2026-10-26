@@ -46,7 +46,7 @@ Theo atlas §4 — **ai chiếm = ai có sàn tu & chiến**:
 | Loại | Vai trò tu luyện | Stakes Càn Nguyên |
 | --- | --- | --- |
 | **Mạch nhánh** | Nuôi thành, tông ngoại môn, mỏ hạ–trung | Thuế **20–35%**; phu mỏ phàm + đệ tử thấp cảnh |
-| **Mạch gốc / Động Thiên Phúc Địa** | Tốc độ đột phá, trấn tông, **阵眼** cấp cao | **Tam Tông** — tranh **arc-scale**; đụng gốc → Nhân quả / phe |
+| **Mạch gốc / Động Thiên Phúc Địa** | Tốc độ đột phá, trấn tông, **TrậnNhãn** cấp cao | **Tam Tông** — tranh **arc-scale**; đụng gốc → Nhân quả / phe |
 | **Linh thạch hạ–trung** | Nền Luyện Khí–Kim Đan | Cao: **Trung Linh**, **Hỏa Diễm** mỏ (`REG-HD-*`) |
 | **Linh thạch thượng / linh nguyên** | Đại tu, trận cấp tông | Gia tộc Trung Linh; **Kim Hà** nhập (`E-LINH-NEIGHBOR-HA`) |
 | **Linh thảo · đan** | Đột phá, hồi, độc | **Ngọc Lâm** + nhập **Mộc Dương** |

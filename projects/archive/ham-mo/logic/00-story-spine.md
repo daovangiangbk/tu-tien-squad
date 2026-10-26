@@ -76,7 +76,7 @@ sinh tồn (cơ học) → xám (bất công lộ) → tử cảnh (lại không
 
 ### Bản đồ
 
-- **Toàn cảnh:** **Huyền Khố Linh Mỏ** (玄窟灵矿) — khu mỏ gắn mạch yếu thuộc **Huyền Khố Tông** (玄窟宗) trên **Linh Giới** ( Luật 6b ) — mặt hầm linh khí thưa hơn kho tông; **Hạ hầm / ngách** có **mạch vụn** ( phàm không cảm ).
+- **Toàn cảnh:** **Huyền Khố Linh Mỏ** — khu mỏ gắn mạch yếu thuộc **Huyền Khố Tông** trên **Linh Giới** ( Luật 6b ) — mặt hầm linh khí thưa hơn kho tông; **Hạ hầm / ngách** có **mạch vụn** ( phàm không cảm ).
 - **Hành trình MC (4 ch):** **Lán** → **Thượng/Trung hầm** (ch.1–2) → **Hạ hầm / ngách** (ch.2–3, sập) → **khe đá / cavity** (ch.3–4) → **đường hơi nối Thượng hầm** → **thang miệng hầm** (ch.4, tia sáng).
 - **Phương hướng prose:** Gió kéo **xuống** miệng hầm ban ngày; thoát = đi **ngược gió ấm / sáng lờ** (micro §2.5).
 

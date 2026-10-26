@@ -23,7 +23,7 @@
       "properties": {
         "id": "CHL-KIM-HOA",
         "name_vi": "Kim Hoa đại lục",
-        "name_hv": "金花大陆",
+        "name_hv": "Kim Hoa đại lục",
         "kind": "continent",
         "visibility": "public",
         "notes": "Silhouette CHL-KIM-HOA từ 00-tinh-ha; parent SW [-282.0, -7.0]; k≈7.74; hub LOC-KH-HOA-TINH."
@@ -640,7 +640,7 @@
         "id": "REG-KH-NAM-VAN",
         "name_vi": "Nam Vân cửa",
         "kind": "wilderness",
-        "name_hv": "南云关",
+        "name_hv": "Nam Vân cửa",
         "tien_khi_tier": "dồi",
         "visibility": "public",
         "notes": "Thương lộ Kim Hoa quả — thuế 12%"
@@ -1015,7 +1015,7 @@
         "id": "REG-KH-HOA-TINH",
         "name_vi": "Hoa Tinh trấn",
         "kind": "polity",
-        "name_hv": "花星镇",
+        "name_hv": "Hoa Tinh trấn",
         "tien_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Kim Hoa thương trung tâm · hub LOC-KH-HOA-TINH"
@@ -1206,7 +1206,7 @@
         "id": "REG-KH-TRUNG-THI",
         "name_vi": "Trung Thị · chợ tiên",
         "kind": "polity",
-        "name_hv": "中市",
+        "name_hv": "Trung Thị",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public",
         "notes": "Chợ Tiên Nguyên + Kim Hoa quả — hội thương"
@@ -1425,7 +1425,7 @@
         "id": "REG-KH-KIM-LUYEN",
         "name_vi": "Kim Luyện cốc",
         "kind": "resource",
-        "name_hv": "金炼谷",
+        "name_hv": "Kim Luyện cốc",
         "tien_khi_tier": "mach_chủ",
         "visibility": "public",
         "notes": "Lò tiên khí — monopoly luyện khí tiên"
@@ -1660,7 +1660,7 @@
         "id": "REG-KH-MOC-LAM",
         "name_vi": "Mộc Lam",
         "kind": "resource",
-        "name_hv": "木林",
+        "name_hv": "Mộc Lam",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public",
         "notes": "Tiên thảo Kim–Mộc — đan tiên hạng trung"
@@ -1827,7 +1827,7 @@
         "id": "REG-KH-TAY-KIM",
         "name_vi": "Tây Kim · rìa tây",
         "kind": "wilderness",
-        "name_hv": "西金",
+        "name_hv": "Tây Kim",
         "tien_khi_tier": "dồi",
         "visibility": "public",
         "notes": "Biên void tây — Cảm Lạc tinh hà (lore)"
@@ -2094,7 +2094,7 @@
         "id": "BRR-KH-KIM-SON",
         "name_vi": "Dãy Kim Sơn",
         "kind": "barrier",
-        "name_hv": "金山",
+        "name_hv": "Dãy Kim Sơn",
         "tien_khi_tier": "mach_rải_cao",
         "visibility": "public",
         "notes": "Kim mạch rải — kiếp ngoài trời nặng"
@@ -2325,7 +2325,7 @@
         "id": "REG-KH-THAO-VIEN",
         "name_vi": "Thảo Viên",
         "kind": "wilderness",
-        "name_hv": "草园",
+        "name_hv": "Thảo Viên",
         "tien_khi_tier": "rất_dồi",
         "visibility": "public"
       }
@@ -2539,7 +2539,7 @@
         "id": "REG-KH-DONG-MACH",
         "name_vi": "Đông Mạch · biên Trung Tiên",
         "kind": "wilderness",
-        "name_hv": "东脉",
+        "name_hv": "Đông Mạch",
         "tien_khi_tier": "dồi",
         "visibility": "public",
         "notes": "Đối diện REG-TT-TAY-KIM — Kim–Long chiến cổ ranh"
@@ -2658,7 +2658,7 @@
         "id": "REG-KH-BAC-HAN",
         "name_vi": "Bắc Hàn · uyên bắc",
         "kind": "wilderness",
-        "name_hv": "北寒",
+        "name_hv": "Bắc Hàn",
         "tien_khi_tier": "mach_rải",
         "visibility": "public",
         "notes": "Gió băng vệt — nối Huyên Băng (lore)"
@@ -2676,7 +2676,7 @@
       "properties": {
         "id": "LOC-KH-HOA-TINH",
         "name_vi": "Hoa Tinh · trấn chính",
-        "name_hv": "花星",
+        "name_hv": "Hoa Tinh",
         "kind": "hub",
         "visibility": "public",
         "tien_khi_tier": "mach_chủ"
@@ -2792,7 +2792,7 @@
       "properties": {
         "id": "ROUTE-KH-DONG-TRUNG-TIEN",
         "name_vi": "Kim quan đông",
-        "name_hv": "东金路",
+        "name_hv": "Kim quan đông",
         "kind": "route",
         "from_id": "REG-KH-DONG-MACH",
         "to_id": "REG-TT-TAY-KIM",
@@ -3133,7 +3133,7 @@
       "properties": {
         "id": "RIVER-KH-HOA-HE",
         "name_vi": "Hoa Hà",
-        "name_hv": "花河",
+        "name_hv": "Hoa Hà",
         "kind": "route",
         "from_id": "REG-KH-BAC-HAN",
         "to_id": "REG-KH-NAM-VAN"

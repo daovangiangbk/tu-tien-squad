@@ -176,7 +176,7 @@
 
 ## Chương 81: Huyết Sa
 
-**Cảm nhận:** Beat 8 **mở**: chữ **断** cấm xuống/hút; **Mai** chấp sự — gắn tên **Huyết Sa** vào sổ = trừ suất. Chiều **màn/khói** hé hút; MC **chỉ nhìn**. Chính đạo và lậu **hai sổ** cùng phế.
+**Cảm nhận:** Beat 8 **mở**: chữ **Đoạn** cấm xuống/hút; **Mai** chấp sự — gắn tên **Huyết Sa** vào sổ = trừ suất. Chiều **màn/khói** hé hút; MC **chỉ nhìn**. Chính đạo và lậu **hai sổ** cùng phế.
 
 **Cuốn / muốn đọc tiếp:** Đêm veo đầy (ch 82).
 
@@ -185,7 +185,7 @@
 **Chỗ mình cho là lỗi hoặc vướng**
 
 | # | Trích ngắn hoặc đoạn | Vấn đề |
-| R-01 | 断 (Hán) trên tre | Đọc được nghĩa “đoạn” từ context. |
+| R-01 | Đoạn (Hán) trên tre | Đọc được nghĩa “đoạn” từ context. |
 
 **Recommend:** có — nếu thích moral gray Ma vs Thanh Vi.
 
@@ -244,7 +244,7 @@
 
 ## Chương 85: Linh Dịch Lệch
 
-**Cảm nhận:** **Beat 9 mở**: đêm kho **断** — thử vòng khí **gãy**, ù, ngọc lạnh; **không tự vá**. Tin rìa: **Bách Hóa đan sư lệch khí**, **phương lậu U Ngõ** — túi rỗng. Echo *vì đại cục* trong ù Mão; MC **treo** — chưa chết, chưa ổn.
+**Cảm nhận:** **Beat 9 mở**: đêm kho **Đoạn** — thử vòng khí **gãy**, ù, ngọc lạnh; **không tự vá**. Tin rìa: **Bách Hóa đan sư lệch khí**, **phương lậu U Ngõ** — túi rỗng. Echo *vì đại cục* trong ù Mão; MC **treo** — chưa chết, chưa ổn.
 
 **Cuốn / muốn đọc tiếp:** Ch 86 tâm ma nhẹ?; MC kiếm đan/ tiền thế nào.
 
@@ -263,4 +263,4 @@
 
 - **Tiếp tục đọc:** có  
 - **Ấn tượng mạnh nhất:** **Lục chết / bia không tên** (71–72) đóng đau arc đồng đội thuê; MC **Trúc Cơ Trung** “không thuộc danh” trên sổ; **cắt nhánh + phế + Nhân quả vùng** (77–80); block **Huyết Sa / hút / Sa Hồng Phàm** (81–84) soi *Thuận chậm vs Nghịch nhanh* mà MC **không ký Ma**; cliff **Linh Dịch lệch** (84–85) — cần đan sư/phương, túi rỗng.  
-- **Điều cần tác giả làm rõ sớm (nếu có):** *Trả bằng gì* / nghiệp hút trên tre đài; MC có đường **Bách Hóa** chữa lệch không khi nợ vẫn treo; **断** khi nào khai phế; Phương tin còn bẫy không.
+- **Điều cần tác giả làm rõ sớm (nếu có):** *Trả bằng gì* / nghiệp hút trên tre đài; MC có đường **Bách Hóa** chữa lệch không khi nợ vẫn treo; **Đoạn** khi nào khai phế; Phương tin còn bẫy không.
