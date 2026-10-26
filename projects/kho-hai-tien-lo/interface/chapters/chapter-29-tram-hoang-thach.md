@@ -62,7 +62,7 @@ Chu Thiết cứng người, rồi tăng tốc bước lên trước, roi vung v
 
 Trên đường lên, hắn tách khỏi đoàn một lát, nhờ trưởng đoàn ghi «mẫu đá Thổ tàn» vào phiếu, không ghi tên linh vật. Trưởng đoàn xin xem viên đá; Lâm Hàn để mở vải một nhịp, đủ để thấy vân vàng đen, rồi bọc lại. Trưởng đoàn nhìn hắn lâu, rồi gật — ngoại môn có ngoại môn cách làm sổ.
 
-Trưởng đoàn yêu cầu đo thêm ba điểm trên vách sập: cao, giữa, đáy. Lâm Hàn cầm thước, đọc số cho chấp sự chép; mồ hôi lạnh chảy dọc lưng dù hầm mát. Mỗi con số là một đường nét trên giấy sẽ leo lên bàn Thiên Quan — không hỏi ai trong số phu mỏ có còn đủ sức đào theo định mức mới. Hắn nghĩ tới lệnh «dời dân khai mạch» chưa thấy trên giấy, nhưng đã thấy trong cách Chấp pháp siết sổ: khi cần nhánh phụ, họ sẽ lấy từ bản đồ, không hỏi lại tay vẽ.
+Trưởng đoàn yêu cầu đo thêm ba điểm trên vách sập: cao, giữa, đáy. Lâm Hàn cầm thước, báo số cho chấp sự chép; mồ hôi lạnh chảy dọc lưng dù hầm mát. Mỗi con số là một đường nét trên giấy sẽ leo lên bàn Thiên Quan — không hỏi ai trong số phu mỏ có còn đủ sức đào theo định mức mới. Hắn nghĩ tới lệnh «dời dân khai mạch» chưa thấy trên giấy, nhưng đã thấy trong cách Chấp pháp siết sổ: khi cần nhánh phụ, họ sẽ lấy từ bản đồ, không hỏi lại tay vẽ.
 
 Buổi chiều, trước lán quản sự, Lương Khôn cố cầm chén nước bằng tay trái. Nước rung, tràn viền, đổ xuống sổ định mức. Ông không lau ngay; ông nhìn vết nước loang như nhìn một dòng chữ mới.
 
@@ -78,7 +78,7 @@ Không ai gọi tên Lâm Hàn. Hắn không cần. Hắn đã có viên Thổ t
 
 Một phu già từng cùng tổ với hắn năm xưa lén nhét vào tay hắn một cục phế khoáng khi đoàn đi qua — thói quen cũ, coi như gửi lời. Lâm Hàn không nhận; chỉ lắc đầu. Phu già cúi xuống, thu tay, như hiểu: người mang thước tre không còn là kẻ cần cục đá để đổi cháo, mà là kẻ có thể làm sổ ghi thêm một dòng hao hụt nếu nhận không đúng chỗ.
 
-Chiều tàn, đoàn khảo mạch rời Bắc Tuyến. Lâm Hàn đi cuối hàng, quay đầu một lần: Chu Thiết đang roi một phu chậm tay; Lương Khôn quay lưng về phía hầm tối, vai gầy trong áo xanh. Trên bảng lệnh mới, dòng chữ «đào sâu thêm nửa trượng» nằm ngay dưới dòng «dưỡng mạch hai tháng» — hai dòng mâu thuẫn, nhưng cùng một bàn tay quản sự run run chấp nhận.
+Chiều tàn, đoàn khảo mạch rời Bắc Tuyến. Lâm Hàn đi cuối hàng, quay đầu một lần: Chu Thiết đang roi một phu chậm tay; Lương Khôn quay lưng về phía hầm tối, vai gầy trong áo xanh. Trước lán quản sự, bảng lệnh mới treo hai điều mâu thuẫn — Phùng quản sự vừa đọc xong «dưỡng mạch hai tháng» rồi «đào sâu thêm nửa trượng» — cùng một bàn tay run run chấp nhận cả hai.
 
 Trên đường về ngoại viện, gió núi lạnh. Hắn nghĩ tới bản đồ ba tháng — nhánh Bắc Tuyến sẽ được vẽ đỏ trên giấy của Thiên Quan — và nghĩ tới Thanh Mộc Tâm trong lán, Trầm Hoàng Thạch trong túi, và hai hệ còn thiếu: Thủy và Hỏa chưa tới, Kim thì khóa sau cổng Vệ phủ.
 

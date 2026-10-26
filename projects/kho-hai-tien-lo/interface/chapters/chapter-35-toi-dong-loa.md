@@ -136,7 +136,7 @@ Sáng mai, hắn phải tới Đan các — không phải vì muốn, vì bảng
 
 Ngoài hiên mưa đã tạnh; đất vẫn đen ướt. Lâm Hàn nghĩ hai người đứng dưới hiên chiều nay: không ô, không lời xin tha, cùng mang một thứ không đóng tên. Ngày mai trời có thể nắng; vòng tròn vẫn đỏ trong kho mật. Hắn lật người, mặt úp xuống đá lạnh, như úp tai xuống mẫu đá rỗng — không nghe thấy gì từ Bạch Thổ, chỉ nghe tim mình đập chậm, chậm, và đều, như kẻ còn phải sống để trả nợ không ai ghi sổ.
 
-Sáng sớm, hơi sương còn treo trên lán. Hắn rửa mặt ở máng, nhìn bảng công tích từ xa — tên mình đã lên, tên Minh Thư vẫn trên. Trên vách lán, dòng khắc đếm tháng khế ba mươi sáu tháng vẫn còn; thời gian không dừng vì tội lòng. Hắn đếm trong đầu: còn khoảng mười tháng trước kỳ xét ngạch, trước hôn ước Tần gia, trước lệnh dời dân có thể xuống Bạch Thổ. Ba đồng hồ chạy song song, không ai hỏi hắn muốn dừng cái nào.
+Sáng sớm, hơi sương còn treo trên lán. Hắn rửa mặt ở máng; điểm danh xong, đệ tử cùng lán nói điểm tháng hắn đã nhảy — Minh Thư vẫn đầu bảng. Trên vách lán, dòng khắc đếm tháng khế ba mươi sáu tháng vẫn còn; thời gian không dừng vì tội lòng. Hắn đếm trong đầu: còn khoảng mười tháng trước kỳ xét ngạch, trước hôn ước Tần gia, trước lệnh dời dân có thể xuống Bạch Thổ. Ba đồng hồ chạy song song, không ai hỏi hắn muốn dừng cái nào.
 
 Điểm danh xong, hắn không vào phòng khảo mạch. Tần Thanh Mặc cũng không gọi. Hai người tránh nhau một ngày — không vì hận, vì nhìn mặt nhau sẽ thấy vòng tròn. Hắn quét sân, sửa thước, làm việc tay chân cho đến khi trống chiều báo giờ Đan các mở cửa kiểm sổ. Lúc ấy hắn biết Minh Thư đã chờ sẵn.
 

@@ -36,9 +36,9 @@ Lâm Hàn gật. Hắn không nói *ta sẽ thắng*; hắn chỉ nghĩ tới V�
 
 Một chấp sự phụ đọc to quy tắc phong ấn: trong ba ngày, ai có biên lai chưa nhập sổ chính thức có thể khiếu nại tại quầy sảnh sau; ai sửa sổ phải ký tên đối chiếu viên. Lời nghe công bằng. Lâm Hàn nghe, biết kẻ đứng đối chiếu viên thường là người được thế gia chọn — Khương Minh Thư đã mang danh môn khách Vệ phủ từ đầu kỳ.
 
-Sau khi giải tán, có đệ tử xui hắn mua rượu mừng. Hắn lắc đầu, bước ra sảnh, để gió sáng làm mát mặt. Trên bảng, tên hắn in hơi nhạt hơn tên Khương Minh Thư — mực mới phủ lên tên thứ hai như phủ một lớp phúc. Hắn không đụng vào bảng. Chạm vào là thêm vân tay lên bằng chứng tranh cãi.
+Sau khi giải tán, có đệ tử xui hắn mua rượu mừng. Hắn lắc đầu, bước ra sảnh, để gió sáng làm mát mặt. Bảng sơ bộ vừa treo — chấp sự đọc xong, tên hắn liền dưới Khương Minh Thư, điểm cách năm. Hắn không đụng vào bảng. Chạm vào là thêm vân tay lên bằng chứng tranh cãi.
 
-Buổi trưa cùng ngày, tin đồn chạy nhanh hơn chân người: Vệ Thủy Ngân phủ có xe vào cổng phụ Đan các; Khương Minh Thư được mời vào phòng ghi sổ. Lâm Hàn nghe từ miệng đệ tử dược điền, không hỏi thêm. Hắn biết mình không thuộc loại được mời — loại có quê quán nhạy cảm, loại từng ký tên sự cố Bắc Tuyến, loại đang cầm đầu bảng sơ bộ mà làm phiền lễ hôn phối của thế gia.
+Buổi trưa cùng ngày, tin đồn chạy nhanh hơn chân người: Vệ Thủy Ngân phủ có xe vào cổng phụ Đan các; Khương Minh Thư được mời vào phòng ghi sổ. Lâm Hàn nghe từ miệng đệ tử dược điền, không hỏi thêm. Hắn biết mình không thuộc loại được mời — loại có quê quán nhạy cảm, loại từng để dấu trên biên bản sự cố Bắc Tuyến, loại đang cầm đầu bảng sơ bộ mà làm phiền lễ hôn phối của thế gia.
 
 Tần Thanh Mặc chen qua đám, đứng cạnh Lâm Hàn, không nhìn Khương Minh Thư:
 
@@ -80,7 +80,7 @@ Hắn định quay đi khi cửa phòng mở.
 
 Khương Minh Thư bước ra trước, tay cầm đèn dầu, mặt tái. Sau hắn, một người mặc áo gấm tím nhạt của Vệ Thủy Ngân phủ — quản sự trung niên, không phải Vệ Hoài Trà, nhưng cổ áo thêu chữ Thủy Ngân như con dấu nhỏ trên cổ áo. Trên tay quản sự: một hộp ngọc nhỏ và một tờ giấy có ấn đỏ.
 
-Lâm Hàn dừng ở góc hành lang, trong vùng tối. Từ xa hắn không đọc được chữ trên giấy; hắn chỉ thấy Minh Thư nhận hộp, cúi đầu sâu hơn lễ thường — lễ của kẻ nhận ân, không phải lễ của kẻ thắng tranh cử.
+Lâm Hàn dừng ở góc hành lang, trong vùng tối. Từ xa chỉ thấy Minh Thư nhận hộp, cúi đầu sâu hơn lễ thường — lễ của kẻ nhận ân, không phải lễ của kẻ thắng tranh cử.
 
 Quản sự nói, giọng thấp, đủ cho Lâm Hàn nghe vài mảnh:
 

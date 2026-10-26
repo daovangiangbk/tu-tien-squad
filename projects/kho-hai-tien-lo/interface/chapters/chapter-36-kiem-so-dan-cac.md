@@ -120,7 +120,7 @@ Khương Minh Thư thu sổ, quay đi trước khi Hàn kịp nói thêm. Lưng 
 
 Chiều muộn, chấp sự cập nhật thẻ gỗ: Lâm Hàn lên Luyện Khí tầng chín trên sổ — một tầng, bù phần đã giấu, vẫn thấp hơn thật một bậc; sau buổi kiểm, trong kinh mạch hắn cảm thấy tầng mười đã lộ rõ hơn, như nước sắp tràn miệng bình. Điểm công tích giữ nguyên; vị trí trên bảng vẫn sát Minh Thư. Một chấp sự dán thêm dòng nhỏ cạnh tên hắn: «kinh mạch tổn — phế khoáng». Dòng ấy sẽ theo hắn tới kỳ xét ngạch, vừa bảo vệ vừa nhãn hiệu kẻ bất thường.
 
-Hắn đứng trước bảng, đọc lại tên mình, đọc tên Minh Thư phía trên. Buổi kiểm qua, bằng vỏ phế khoáng và vết sẹo mỏ, không bằng toàn bộ sự thật. Minh Thư đứng xa, vẫn chép sổ, không nhìn hắn — nhưng hắn biết từ nay mỗi lần lĩnh đan, dù không lĩnh, sẽ có một dòng chữ Minh Thư tự thêm ở lề.
+Minh Thư vừa đọc to xong trên bảng; hắn đứng trước treo gỗ, hai tên vẫn vang trong sảnh. Buổi kiểm qua, bằng vỏ phế khoáng và vết sẹo mỏ, không bằng toàn bộ sự thật. Minh Thư đứng xa, vẫn chép sổ, không nhìn hắn — nhưng hắn biết từ nay mỗi lần lĩnh đan, dù không lĩnh, sẽ có một dòng chữ Minh Thư tự thêm ở lề.
 
 Trong bụng, tầng mười đang gõ nhẹ — chưa phải Trúc Cơ, chưa đủ tiếng nói với Chấp pháp đường về Bạch Thổ. Hắn nghĩ tới vòng tròn chu sa, tới tội đồng lõa dưới hiên mưa, tới Minh Thư sẽ chép thêm dòng cảnh cáo vào sổ riêng. Ba thứ cùng kéo hắn lên và cùng kéo hắn xuống: điểm, đan, và làng không tên trên bảng niêm yết.
 

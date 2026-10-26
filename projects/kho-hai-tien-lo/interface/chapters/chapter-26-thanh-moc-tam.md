@@ -106,7 +106,7 @@ Trên vách lán, dòng khắc đếm ngược vẫn còn dài. Nhưng trong tú
 
 Hắn thử đặt một mảnh vụn vỏ gỗ đá cạnh Thanh Mộc Tâm, không nuốt, không lọc — chỉ để xem ấn có rung không. Mảnh ấn dưới đai lưng sát bụng run nhẹ một lần, như nuốt nước bọt, rồi im. Không phải lúc mở. Hắn cất vỏ đi, giữ lõi.
 
-Sáng hôm sau, nàng sẽ mang sơ đồ đi đối chiếu với chấp sự. Còn hắn sẽ theo đội lên nội viện nộp mẫu đá từ khe khác. Trên bảng ngoại viện, lệnh đón Giám sát sứ đã dán từ đêm — hắn chưa đọc hết, nhưng biết rừng Mộc khí vừa qua chỉ là khúc đầu của một sợi dây dài hơn: đo, vẽ, nộp, để người trên cao quyết định chỗ nào được sống, chỗ nào bị coi là «mạch dự phòng». Giữa hai việc đó, mảnh ấn dưới đai lưng se lạnh một lần, như nhắc hệ Kim vẫn trống — và mọi thứ tinh khiết nhất của hành ấy, hắn chưa được phép nhìn.
+Sáng hôm sau, nàng sẽ mang sơ đồ đi đối chiếu với chấp sự. Còn hắn sẽ theo đội lên nội viện nộp mẫu đá từ khe khác. Trên bảng ngoại viện, lệnh đón Giám sát sứ đã dán từ đêm — đám tạp dịch kể lại vài câu chấp sự đọc — hắn biết rừng Mộc khí vừa qua chỉ là khúc đầu của một sợi dây dài hơn: đo, vẽ, nộp, để người trên cao quyết định chỗ nào được sống, chỗ nào bị coi là «mạch dự phòng». Giữa hai việc đó, mảnh ấn dưới đai lưng se lạnh một lần, như nhắc hệ Kim vẫn trống — và mọi thứ tinh khiết nhất của hành ấy, hắn chưa được phép nhìn.
 
 ---
 

@@ -10,7 +10,7 @@ Cửa đóng. Then gỗ cài trong. Ngoài hành lang, tiếng đệ tử đi qu
 
 Trước khi đóng cửa bảy đêm, chấp sự phòng khảo mạch đọc lệnh từ trên núi: hoàn thành sơ đồ mạch ngầm Tây Mạch trong ba tháng, ưu tiên vùng Hắc Nham và thung lũng lân cận. Ai nộp khối đo đủ chuẩn trước kỳ kiểm toán được cộng điểm lớn — một trăm điểm, đủ đẩy tên từ giữa bảng lên sát ngạch Trúc Cơ Đan. Lâm Hàn đứng cuối hàng nghe, tay trong túi áo chạm túi bạc Chu và bình ngọc lạnh; bên cạnh, Tần Thanh Mặc nắm chặt cuộn giấy bản, khớp ngón tay trắng.
 
-Đêm thứ nhất, Lâm Hàn không vẽ. Hắn trải phiếu đo Hắc Nham theo thứ tự ngày tháng, ghim bốn góc bằng đá nhỏ, đọc lại số liệu vách sập cũ hắn mang từ mỏ xuống. Tần Thanh Mặc ngồi đối diện, mở cuộn bản đồ Tây Mạch khuyết góc nàng vẫn lén bổ sung từ năm ngoái, so từng nhánh nam và tây với phiếu mới.
+Đêm thứ nhất, Lâm Hàn không vẽ. Hắn trải phiếu đo Hắc Nham theo thứ tự ngày tháng, ghim bốn góc bằng đá nhỏ, chỉ từng phiếu vách sập cũ hắn mang từ mỏ xuống; Tần Thanh Mặc ngồi đối diện, mở cuộn bản đồ Tây Mạch khuyết góc nàng vẫn lén bổ sung từ năm ngoái, tự ghi số và so từng nhánh nam và tây với phiếu mới.
 
 — Chấp sự chỉ cần phần thung lũng nam và tây Hắc Nham, — nàng nói, không ngẩng mắt. — Không cần vẽ hết núi. Nộp đủ khối, điểm mới vào sổ lớn.
 
@@ -64,7 +64,7 @@ Tần Thanh Mặc đưa tay, vuốt một dải giấy nhỏ — bản nháp m�
 
 — So thì Tần gia mất linh điền chậm hơn một nhịp. — Giọng nàng phẳng. — Một nhịp có thể là tháng, có thể là năm. Ta cần nhịp đó cho khế nợ và hôn ước. Mày cần điểm. Ta không bảo mày đồng lõa; mày có thể mách chấp sự.
 
-Lâm Hàn nhìn dải giấy bị cắt. Hắn nghĩ tới Vệ Hoài Trà, tới tờ khế trên bàn Tần gia, tới Chu Thiết gửi bạc về Bạch Thổ. Cắt một đoạn mạch trên giấy không giết ai ngay; nhưng giấy của tông môn có khi giết sau, bằng lệnh dời dân, bằng vòng tròn chu sa — hắn chưa biết chữ Bạch Thổ sẽ nằm trên bản đồ thế nào, chỉ biết mình đang cầm thước dán những gì còn lại.
+Lâm Hàn nhìn dải giấy bị cắt. Hắn nghĩ tới Vệ Hoài Trà, tới tờ khế trên bàn Tần gia, tới Chu Thiết gửi bạc về Bạch Thổ. Cắt một đoạn mạch trên giấy không giết ai ngay; nhưng giấy của tông môn có khi giết sau, bằng lệnh dời dân, bằng vòng tròn chu sa — hắn chưa biết Bạch Thổ sẽ bị khoanh thế nào trên bản đồ, chỉ biết mình đang cầm thước dán những gì còn lại.
 
 — Ta không mách, — hắn nói. — Ta dán phần mày để lại.
 

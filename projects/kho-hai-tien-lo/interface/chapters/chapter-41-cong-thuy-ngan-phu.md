@@ -134,7 +134,7 @@ Tần Thanh Mặc dừng bước trên cầu treo, gió làm áo xanh phấp ph�
 
 — Vậy thì mày phải đứng đầu sổ trước khi họ kịp cầm bút.
 
-Chiều về ngoại viện, Lâm Hàn không vào lán ngay. Hắn lên Đan các xem bảng công tích phụ — tên hắn đã lên hàng thứ hai, sát Khương Minh Thư, cách vài điểm. Dưới tên hắn, dòng quê quán ghi Thạch Khê, nhỏ hơn chữ tên một size, nhưng vẫn đủ đọc từ xa.
+Chiều về ngoại viện, Lâm Hàn không vào lán ngay. Hắn lên Đan các hỏi chấp sự điểm tháng — hàng thứ hai, sát Khương Minh Thư, cách vài điểm; mỗi lần gọi tên phát đan vẫn kèm «Thạch Khê», giọng không cao nhưng cả sảnh nghe.
 
 Khương Minh Thư đứng trước bảng, sổ tay mở, đối chiếu từng cột. Hắn nhìn Lâm Hàn tới, không chào:
 

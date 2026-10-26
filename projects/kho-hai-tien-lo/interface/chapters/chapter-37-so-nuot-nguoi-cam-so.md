@@ -6,7 +6,7 @@
 
 Sáng thu trên Chấp pháp đường không có nắng rõ, chỉ có sương mỏng bám trên bậc đá xám và cờ Thiên Quan Tông treo trên cột cao phía đài — vải chàm đậm, không phất, như người giữ khế đang chờ một chữ ký cuối cùng trước khi gia hạn thuế mạch biên.
 
-Lâm Hàn đứng ngoài sân trước sảnh chính, thuộc nhóm hơn ba mươi đệ tử ngoại viện bị gọi «hầu lệnh truyền đạt». Họ không phải khán giả — họ là bức tường da sống để lệnh có chỗ dán, để kẻ bị gạch tên biết cả núi đang nhìn. Hắn đứng hàng thứ ba, sau lưng một sư huynh cao hơn nửa đầu, trước mặt một đệ tử mới lên từ mỏ còn mùi than; mùi ấy nhắc hắn Bắc Tuyến, nhắc Chu, nhắc Lương Khôn run tay trên sổ. Thẻ gỗ trên vai ghi Luyện Khí tầng chín; khí trong người hắn đã chạm tầng mười từ sau buổi kiểm tra kinh mạch ở Đan các, nhưng sổ vẫn chưa kịp đổi — chấp sự bảo đợi tháng sau mới khắc lại, tránh «nhảy điểm gây hiểu lầm». Hắn không cãi. Trên bảng công tích, tên hắn đã leo sát Khương Minh Thư; dưới lưng, mảnh xám dưới đai lưng sát bụng im lặng, khuyết một góc lạnh mà Cố lão gọi là thiếu lửa và thiếu sắt.
+Lâm Hàn đứng ngoài sân trước sảnh chính, thuộc nhóm hơn ba mươi đệ tử ngoại viện bị gọi «hầu lệnh truyền đạt». Họ không phải khán giả — họ là bức tường da sống để lệnh có chỗ dán, để kẻ bị gạch tên biết cả núi đang nhìn. Hắn đứng hàng thứ ba, sau lưng một sư huynh cao hơn nửa đầu, trước mặt một đệ tử mới lên từ mỏ còn mùi than; mùi ấy nhắc hắn Bắc Tuyến, nhắc Chu, nhắc Lương Khôn run tay trên sổ. Thẻ gỗ trên vai ghi Luyện Khí tầng chín; khí trong người hắn đã chạm tầng mười từ sau buổi kiểm tra kinh mạch ở Đan các, nhưng sổ vẫn chưa kịp đổi — chấp sự bảo đợi tháng sau mới khắc lại, tránh «nhảy điểm gây hiểu lầm». Hắn không cãi. Sau buổi kiểm kinh mạch ở Đan các, điểm trên sổ phong ấn đã sát Khương Minh Thư — chấp sự nói vậy khi hắn xếp hàng hầu lệnh; dưới lưng, mảnh xám dưới đai lưng sát bụng im lặng, khuyết một góc lạnh mà Cố lão gọi là thiếu lửa và thiếu sắt.
 
 Mưa tuần trước vẫn còn trong xương. Hắn nhớ Tần Thanh Mặc đứng dưới hiên, áo ướt, không nói; nhớ vòng tròn chu sa đỏ trên bản đồ mà chính tay hắn từng dán phiếu đo — hai chữ Bạch Thổ Thôn nằm giữa như mắt không nhắm. Lệnh «dời dân khai mạch dự phòng» chưa xuống tới thôn, nhưng trên núi đã có giấy phân công khảo sát tiền trạm. Chu Thiết chưa biết tên làng trên giấy; hắn biết, và biết mình không mang được lời nói ấy xuống Hắc Nham trong buổi sáng này.
 
@@ -42,7 +42,7 @@ Chấp sự đặt sổ mở ra trước mặt Lương Khôn, trang có dòng k�
 
 Bút lông nhấn mực. Tiếng nghiên cọ xương nghe rõ trong sân im.
 
-Lâm Hàn thấy chấp sự đưa bút — cùng kiểu bút lông ông từng thấy Lương Khôn cầm ở bãi tập kết, gạch tên phu ngất — hạ xuống dòng chữ *Lương Khôn*. Một đường mực đen ngang qua, phẳng, không run, không xiết thêm, như gạch tên phu mỏ năm nào đó dưới đèn dầu.
+Lâm Hàn thấy chấp sự đưa bút — cùng kiểu bút lông ông từng thấy Lương Khôn cầm ở bãi tập kết, gạch tên phu ngất — hạ xuống ngay sau khi vừa đọc «Lương Khôn». Một đường mực đen ngang qua, phẳng, không run, không xiết thêm, như gạch tên phu mỏ năm nào đó dưới đèn dầu.
 
 Lương Khôn nhìn đường mực. Môi ông mấp máy; không có tiếng. Tay trái run mạnh hơn, run đến mức dây trói cổ tay kêu khẽ.
 

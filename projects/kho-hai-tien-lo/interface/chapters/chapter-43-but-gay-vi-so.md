@@ -8,7 +8,7 @@ Sáng công bố, quảng trường Đan các ngoại môn đông như ngày l�
 
 Trước bình minh, Lâm Hàn đã thức. Hắn rửa mặt nước giếng lạnh, mặc áo xám sạch, không mang vũ khí — ngoại môn cấm kiếm trên sân lễ, cấm cả linh lực phóng ra nếu không được gọi. Hắn đi bộ từ lán xuống quảng trường, đi cùng dòng tạp dịch bị lệnh tập trung; ai cũng nhìn bảng tam ngạch như nhìn miệng giếng.
 
-Trên đường, hắn gặp Chu Thiết gửi tin từ Hắc Nham qua đệ tử chuyển thư — không phải thư dài, chỉ vài chữ: quản sự mới đo sâu thêm, Bạch Thổ vẫn yên. Lâm Hàn gấp giấy, không đọc to. Vòng tròn chu sa trên bản đồ đã nằm trong kho Chấp pháp; chữ yên trên thư không xóa được vòng đỏ. Hắn bỏ thư vào túi, đi tiếp.
+Trên đường, đệ tử chuyển thư của Chu Thiết từ Hắc Nham đọc trước mặt hắn — quản sự mới đo sâu thêm, Bạch Thổ vẫn yên — rồi đưa tờ gấp nhỏ. Lâm Hàn cất vào túi, không lặp lại to. Vòng tròn chu sa trên bản đồ đã nằm trong kho Chấp pháp; tin yên dưới mỏ không xóa được vòng đỏ trên giấy trên núi. Hắn đi tiếp.
 
 Lâm Hàn đứng ở giữa khối khảo mạch, cách bục mười sải. Thẻ gỗ ghi tầng mười một; kinh mạch tầng mười hai viên mãn giữ nhịp thật không phô. Túi bên hông nặng bốn hệ vật liệu; dưới đai lưng sát bụng, mảnh ấn im như hòn đá chìm. Hắn không mang theo hy vọng treo trên bảng sơ bộ — hắn mang theo biên lai Hắc Nham gấp trong tay áo, và mang theo ký ức tiếng bút lách cách trong đêm trước bảng vàng.
 
@@ -108,7 +108,7 @@ Phía xa hàng áo trắng, Vệ Cảnh Hành đứng với vài đệ tử châ
 
 Khi tan phiên, có hầu tạp vụ mang biển ghi lại bảng công tích chính thức thay bảng sơ bộ. Tên Lâm Hàn hạ xuống hàng thứ hai; số điểm đã trừ mười lăm như chấp sự đọc. Không ai dán lại bảng treo cho đẹp — sổ phong ấn quan trọng hơn bảng treo.
 
-Lâm Hàn đi qua bảng một lần, không dừng. Hắn thấy dòng chữ *Thạch Khê* vẫn nằm dưới tên mình, nhỏ, đủ cho người rình rập đọc.
+Lâm Hàn đi qua bảng một lần, không dừng. Chấp sự vừa đọc «Thạch Khê» khi gọi tên hắn lên bục — quê quán vẫn đi cùng tên, đủ cho người rình nghe.
 
 ---
 
@@ -140,7 +140,7 @@ Nàng đưa cho hắn một túi vải nhỏ — bánh ngô và nước:
 
 — Ăn. Đêm dài.
 
-Lâm Hàn nhận, không cảm ơn bằng lời dài. Hắn quay về lán tạp dịch, đi qua bảng công tích nơi tên hắn vẫn in dưới Khương Minh Thư trên bản sơ bộ chưa kịp thay — hoặc đã thay ở bản khác — không quan trọng nữa. Trên bản phong ấn, hắn thua năm điểm bằng một dòng gạch và một câu *thanh tra*.
+Lâm Hàn nhận, không cảm ơn bằng lời dài. Hắn quay về lán tạp dịch, đi qua bảng công tích mà không dừng — giọng chấp sự chiều nay đã nói rõ: hàng thứ hai, dưới Minh Thư, trừ mười lăm điểm trên sổ phong ấn, kèm *thanh tra*.
 
 Trong lán, hắn mở túi, bày lại Thanh Mộc Tâm, Trầm Hoàng Thạch, Hàn Tuyền Dịch, Xích Viêm Tủy. Chỗ trống thứ năm vẫn trống. Mảnh ấn dưới đai lưng sát bụng nóng lên — không phải vui, là đói và thức — như thú bị nhốt lâu nghe tiếng mở chuồng sai hướng.
 

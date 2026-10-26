@@ -8,7 +8,7 @@ Lâm Hàn tới Bắc Tuyến khi ca sáng đang đổi ca — tiếng sọt gõ
 
 Bãi tập kết Bắc Tuyến vẫn nằm dưới miệng gió chính, nơi khói xe quặng và mùi mồ hôi phu trộn thành một lớp nặng bám vách. Sáng ấy, trời trong nhưng không sáng — ánh đèn dầu treo dọc hành lang làm vàng da người, làm đen nền đá.
 
-Lâm Hàn đặt cuộn giấy có dấu Chấp pháp đường lên bàn đá trước lán quản sự. Đầu mục mỏ nhận, lật xem, gật đầu với phần «gia hạn khế» và «phế truất Lương Khôn»; khi tới phụ lục «khai mạch dự phòng», mắt hắn ta lướt nhanh, không đọc to tên thôn. Lâm Hàn thở chậm lại. Giấy đi trước lưỡi dao; dao chưa chém tới da làng, nhưng đã chém tới da quản sự.
+Lâm Hàn đặt cuộn giấy có dấu Chấp pháp đường lên bàn đá trước lán quản sự. Đầu mục mỏ nhận, lật xem, gật đầu vài trang đầu — Lâm Hàn nghe rõ «Lương Khôn» và «phế truất» trong giọng lẩm bẩm của hắn ta; khi lật tới phụ lục dày hơn, mắt hắn ta lướt nhanh, không đọc to tên thôn. Lâm Hàn thở chậm lại. Giấy đi trước lưỡi dao; dao chưa chém tới da làng, nhưng đã chém tới da quản sự.
 
 Trước bãi, một hàng phu xếp sọt đá chờ kiểm. Giữa hàng, Lương Khôn đội một sọt nhỏ hơn sọt tổ trưởng, vai trái hạ thấp vì tay run không giữ cân. Áo vải thô rách ở cổ tay, màu nâu tro — đúng kiểu tạp dịch Lâm Hàn từng mặc khi mới lên khỏi đáy hầm. Lệnh bài gỗ phu mỏ treo trên ngực ông, va vào xương ức mỗi bước.
 
