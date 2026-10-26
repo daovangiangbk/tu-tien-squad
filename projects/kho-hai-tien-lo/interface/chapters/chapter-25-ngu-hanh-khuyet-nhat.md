@@ -10,7 +10,7 @@ Khu tạp dịch ngoại viện về đêm không yên như ban ngày, nhưng c�
 
 Trên sàn đá lát thô, hắn bày ra ba thứ: túi đan hạ phẩm lĩnh ở Đan các tháng này, một nắm cỏ linh thảo phế gom từ sườn núi sau khi đoạn khảo mạch xong, và mảnh đá xám tháo khỏi vòng dây dưới đai lưng, đặt sát bụng trước khi đặt xuống đá.
 
-Hắn không nuốt đan trực tiếp nữa. Nuốt, khí vào kinh mạch theo đường sổ ghi — dễ bị soi, dễ lệch với lượng đan hạ phẩm trên biên nhận. Từ sau khi bước lên Luyện Khí tầng năm thật sự, hắn đã thử lọc: đan hòa vào linh thảo phế, ấn hút cặn độc, chỉ để phần khí loãng thấm từ từ. Đan các ghi hắn lĩnh đủ liều; cơ thể hắn tăng tầng bằng đường khác. Sổ và thân lệch nhau — đó là khe hở nguy hiểm, cũng là khe hở duy nhất.
+Hắn chưa từng nuốt đan trực tiếp. Nuốt thì khí vào kinh mạch theo đường sổ ghi — dễ bị soi, dễ lệch với lượng đan hạ phẩm trên biên nhận; từ lần lĩnh đan đầu ở Đan các hắn đã biết viên đan thuộc sổ, không thuộc miệng. Từ khi bước lên Luyện Khí tầng năm thật sự, hắn mới thử lọc: đan hòa vào linh thảo phế, ấn hút cặn độc, chỉ để phần khí loãng thấm từ từ. Đan các ghi hắn lĩnh đủ liều; cơ thể hắn tăng tầng bằng đường khác. Sổ và thân lệch nhau — đó là khe hở nguy hiểm, cũng là khe hở duy nhất.
 
 Đêm nay hắn muốn đẩy thêm một bậc: tầng sáu trên con đường thật, tầng năm trên thẻ gỗ nếu may mắn giữ được nhịp lọc đủ sạch.
 
@@ -68,7 +68,7 @@ Hắn quay lại. Minh Thư không nhìn mặt hắn; nhìn sổ, nhíu mày.
 
 — Vâng.
 
-— Nhưng khí tức sư đệ… — Minh Thư ngẩng mắt, nhìn thẳng Lâm Hàn lần đầu không qua bảng gỗ. — Hôm qua chiều ở sân khảo mạch, ta đi ngang, sơ bộ cảm được: không còn tầng bốn. Cũng không dừng tầng năm. Sư đệ mới lĩnh đan hai lần, mà như đã nhích lên một tầng trên sổ. Sổ không sai. Vậy sai ở đâu?
+— Nhưng khí tức sư đệ… — Minh Thư ngẩng mắt, nhìn thẳng Lâm Hàn lần đầu không qua bảng gỗ. — Hôm qua chiều ở sân khảo mạch, ta đi ngang, sơ bộ cảm được: không còn tầng bốn. Cũng không dừng tầng năm. Sư đệ lên núi chưa đầy hai tháng; sổ lĩnh đan ghi đủ định kỳ — mỗi tháng hai lần, hôm nay là lần thứ hai — viên trên biên nhận chỉ đủ nuốt chậm một tầng trên thẻ nếu tu đúng quy. Khí thì đi trước sổ. Sổ không sai. Vậy sai ở đâu?
 
 Câu hỏi treo giữa hai người như một sợi dây thẳng — chưa thành tố cáo, chưa thành kiểm tra kinh mạch trước sảnh, chỉ là ánh mắt của kẻ tin sổ nhìn thấy lệch giữa sổ và thân.
 
@@ -104,7 +104,7 @@ Hắn nằm nhìn trần đá, nghe gió rít. Một bên là tiếng bút Khư�
 
 - **Beat B27:** Lọc đan + cỏ phế → LK6 thật; thẻ ngoại môn vẫn LK4; sổ Đan các khớp ~LK5 sau lần lĩnh; thân LK6 (khớp ch.26 mở đầu).
 - **FS-005 (n):** Ấn Bậc A-cao từ chối ngưng linh dịch; đòi 5 dẫn chất Ngũ hành.
-- **FM-011 (mầm):** Minh Thư so sổ lĩnh đan vs khí tức; chưa tố cáo.
+- **FM-011 (mầm):** Minh Thư so sổ lĩnh đan vs khí tức; chưa tố cáo. **Đan các:** ~2 lần lĩnh/tháng (cách ~15 ngày); ch.25 ≈ tháng 1–2 khế 36 tháng.
 - **R-A2-06:** POV Hàn; Minh Thư suy luận qua lời hắn.
 - **Hook Hồi II:** Thanh Mộc Tâm, gom Mộc hệ (ch.26).
 - **Độ dài:** thân chương ~2.950 từ (ước lượng · 2026-10-23).

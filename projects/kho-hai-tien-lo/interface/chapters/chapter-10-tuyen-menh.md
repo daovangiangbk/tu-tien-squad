@@ -60,7 +60,7 @@ Thanh Mặc đứng thẳng người ngay khi ánh đèn lắc qua mép bảng.
 
 Nàng không cúi chào sâu, cũng không tiến lên — chỉ xoay nửa mặt sang vách đá tối, để bóng lưng che phần lớn gương mặt, tay buông thõng che cuộn bản đồ bên hông. Một động tác quen, nhanh, không kịp coi là múa lịch sự.
 
-Gã áo xám và chấp sự mang hiệu thế gia đi ngang qua ngã ba, không vào khu khảo mạch. Họ nói chuyện về lịch xe quặng tuần sau và một dòng trong sổ thuế; tiếng *Vệ* không được phát ra to, chỉ lọt qua như tên một người chủ không có mặt. Lâm Hàn đứng trong bóng cột, nhìn thấy nàng quay mặt vào vách tối trước khi ánh bạc trên bảng hiệu lướt qua — nhanh, gọn, như đóng một cánh cửa không có khóa. Hắn không biết nàng sợ hay chỉ không muốn để họa văn ấy dính vào tên mình trên giấy; hắn chỉ biết mình cũng đang tránh được nhìn thẳng vào hiệu thế gia, vì tạp dịch không có chỗ đứng trong câu chuyện của người mang bảng.
+Gã áo xám và chấp sự mang hiệu thế gia đi ngang qua ngã ba, không vào khu khảo mạch. Họ nói chuyện về lịch xe quặng tuần sau và một dòng trong sổ thuế; tiếng *Vệ* không được phát ra to, chỉ lọt qua như tên một người chủ không có mặt. Lâm Hàn đứng trong bóng cột, nhìn thấy nàng quay mặt vào vách tối trước khi ánh bạc trên bảng hiệu lướt qua — nhanh, gọn, như đóng một cánh cửa không có khóa. Hắn không biết nàng sợ hay chỉ không muốn để hoa văn ấy dính vào tên mình trên giấy; hắn chỉ biết mình cũng đang tránh được nhìn thẳng vào hiệu thế gia, vì tạp dịch không có chỗ đứng trong câu chuyện của người mang bảng.
 
 Bóng hai người khuất sau khúc ray; tiếng bước tan dần hướng lên hành lang chính, nơi xe cờ đỏ vẫn phải đi qua mỗi cuối tuần.
 

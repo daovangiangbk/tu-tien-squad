@@ -352,7 +352,7 @@ Beat sheet: [`01-arc1-beats.md`](01-arc1-beats.md) *(Phần I Human + Phần II 
 
 ---
 
-### Arc 2 — Ngoại Môn & Mạch Ngầm Tông Môn *(ch.19–45)* — `draft — awaiting human`
+### Arc 2 — Ngoại Môn & Mạch Ngầm Tông Môn *(ch.19–45)* — `approved` *(complete 2026-10-23)*
 
 Beat sheet: [`02-arc2-beats.md`](02-arc2-beats.md) *(Phần I Human + Phần II §A2–E2)*.
 
@@ -371,6 +371,24 @@ Beat sheet: [`02-arc2-beats.md`](02-arc2-beats.md) *(Phần I Human + Phần II 
 - **Kinh tế:** Khế ngoại môn 36 tháng (đồng hồ đếm ngược hữu hình **PW-04**); kỳ xét 3 ngạch Trúc Cơ Đan ngoại môn; giá vật liệu ngũ hành tăng vọt do biên Hỏa Diễm căng thẳng; đan độc Cựu Mạch Hầm đổi bằng bạc, quặng lậu và tuổi thọ.
 - **Roadmap MC:** Thành công = từ LK4 (sổ LK3) lên LK12 viên mãn → **Trúc Cơ sơ kỳ (khuyết Kim)**, giữ kín mảnh ấn trước mắt Khương Minh Thư và Chấp pháp đường, biết rõ Nghiêm Hoằng Độ là người ký lệnh Thạch Khê; Thất bại = vô tình tiếp tay vẽ đường tới Bạch Thổ Thôn (`FS-016`), không giữ được Chu Thiết khỏi đan độc, đạo cơ khuyết Kim.
 - **Neo:** `01-region-active.md` §8 · `02-tieu-cuc-index.md` §5–§9.
+
+---
+
+### Arc 3 — Trúc Cơ Phong Vân & Bí Cảnh Cổ *(ch.46–75)* — `approved` *(active 2026-10-26)*
+
+Beat sheet: [`03-arc3-beats.md`](03-arc3-beats.md) *(Phần I Human + Phần II §A2–E2)*.
+
+| Hạng mục | Nội dung |
+| --- | --- |
+| **Arc goal** | Lâm Hàn tìm linh vật Kim cổ đại trong Bí cảnh phân giới để vá lành vết khuyết cung Kim trên đài đạo cơ (mở Bậc C-sơ), khám phá chân tướng **Trầm Quân Thạch Ấn** và phép tính *«một mạch, một mạng»* tại Đài Phân Mạch, bảo vệ những người mình trân trọng khi Chu Thiết bán bí mật khiến Nghiêm Hoằng Độ biết người giữ ấn. |
+| **Stakes** | Bị Viêm Thần Tông hoặc Chấp pháp đường vây sát trong bí cảnh; bị Nghiêm Hoằng Độ bắt ép làm «cọc chết» vĩnh viễn dưới đáy Hắc Nham; mất người thân cận (Cố lão tử trận, Thanh Mặc thành con tin, Vệ Cảnh Hành mất danh Chân truyền). |
+| **Inciting → Mid → Lost → Climax → Hệ quả** | Ch.46–53 chuẩn bị & vào bí cảnh, tại **Gò Kiếm Gãy** hút *Canh Kim Cổ Tinh* vá lành đạo cơ đủ 5 hệ, lên **Trúc Cơ trung kỳ** mở **Bậc C-sơ** (`FS-005`) → Ch.58–62 (**Midpoint của cả epic**) tại **Đài Phân Mạch** thấy hốc ấn, **mười hai rãnh ngón tay** của 12 đời người giữ cọc theo kỳ hạn 1 giáp (`FS-003`) và trận văn sửa đổi dùng máu cả thôn phàm nhân làm *huyết dẫn* (*«một mạch, một mạng»* — `FS-002`, `D-04`), Thanh Mặc chép đồ hình & danh sách vào mặt sau bản đồ (`PW-08`) → Ch.64–70 (Low point) **Vệ Cảnh Hành** nhận ra **Tro Lão là thị đồng cũ Đỗ Viễn** (`FS-011`, `FS-019`) và quay kiếm chắn sư phụ Vệ Hoài Trà để cứu người nên mất danh Chân truyền (`M12`); **Chu Thiết** bán bí mật về mảnh đá của Hàn để cứu Bạch Thổ (`FS-012`); **Cố Quy Trần** đốt cạn thọ nguyên tuổi 148 đánh sập kho phế chặn truy binh, hy sinh mở lối xuống đáy mỏ cho Hàn (`D-08`, `FS-007`) → Ch.71–75 (Climax & Hook A4) Thanh Mặc gửi thước đồng giấu bản sao đồ trận cho Hàn trước khi bị giữ làm con tin; **Nghiêm Hoằng Độ** gặp Hàn trên đỉnh đá đưa giao ước: *«Ngươi làm cọc, ta thôi ký. Hạn ba tháng.»* (`M11`, `FS-018`). |
+| **Cliff → Arc 4** | Kỳ hạn 3 tháng của Nghiêm Hoằng Độ bắt đầu đếm ngược; Tần Thanh Mặc bị giữ ở nội sơn; quân Viêm Thần Tông áp sát biên giới rút ngắn kỳ hạn; Lâm Hàn (Trúc Cơ hậu kỳ) nắm chiếc thước đồng chứa danh sách và mảnh ấn đang đập theo nhịp Trận Nhãn Hắc Nham. |
+| **Cấm arc** | Không cho Lâm Hàn đánh thắng Nghiêm Hoằng Độ bằng sức (`R-06`); Nghiêm không thể cưỡng đoạt ấn vì ấn chỉ nhận chủ tự nguyện ngồi vào mắt trận (`RF-16`); Cố lão chết không truyền công hay giảng giải sẵn đường phá trận (`RF-12`); Vệ Cảnh Hành không biến thành bạn thân tức thì của Hàn (`RF-17`). |
+
+**§Đại cục arc (world handoff):**
+- **Bản đồ:** `MICRO-ARC03-TAY-MACH` (`TC-KHTL-A3`) — `LOC-RUIN-001` (Bí cảnh cổ phân giới: Gò Kiếm Gãy · Hẻm Lão Mạch · Đài Phân Mạch), `LOC-MINE-001-DEEP` (Tầng đáy cổ dưới kho phế Hắc Nham), `CAMP-VT-001` (Tiền đồn Viêm Thần Tông).
+- **Neo:** `01-region-active.md` §9 · `02-tieu-cuc-index.md` §10–§12.
 
 ---
 

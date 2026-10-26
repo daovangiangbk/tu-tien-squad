@@ -4,7 +4,7 @@
 
 ---
 
-Ba chiếc phi thuyền nhỏ không có mái chèo hạ từ tầng mây thấp, cắm thẳng xuống sân rộng trước Chấp pháp đường như ba mũi kim cắm vào vải. Thân thuyền gỗ đen bóng, không một vết sơn; trên đuôi treo cờ hiệu Thiên Quan Tông — chữ Hán Việt thêu bằng tơ linh bạc, gió chưa thổi đã lấp lánh. Hôm trước, chấp sự Phòng khảo mạch đã cho họ đọc bản sao lệnh: mọi đệ tử phụ tá phải có mặt, không vắng trừ khi đang trên chuyến đo thực địa. Lâm Hàn rời lán khi trời còn đen, mang theo cuốn sổ chép tay và bút lông khô — phòng khi bị gọi ghi biên bản. Trên đường lên Chấp pháp, hắn gặp vài tạp dịch mỏ bị điều đi khuân vật cho khách điện; họ nhìn hắn như nhìn kẻ được phép đứng trong sân trong khi mình chỉ được đi vòng ngoài.
+Ba chiếc phi thuyền nhỏ không có mái chèo hạ từ tầng mây thấp, cắm thẳng xuống sân rộng trước Chấp pháp đường như ba mũi kim cắm vào vải. Thân thuyền gỗ đen bóng, không một vết sơn; trên đuôi treo cờ hiệu Thiên Quan Tông — chữ thêu bằng tơ linh bạc, gió chưa thổi đã lấp lánh. Hôm trước, chấp sự Phòng khảo mạch đã cho họ đọc bản sao lệnh: mọi đệ tử phụ tá phải có mặt, không vắng trừ khi đang trên chuyến đo thực địa. Lâm Hàn rời lán khi trời còn đen, mang theo cuốn sổ chép tay và bút lông khô — phòng khi bị gọi ghi biên bản. Trên đường lên Chấp pháp, hắn gặp vài tạp dịch mỏ bị điều đi khuân vật cho khách điện; họ nhìn hắn như nhìn kẻ được phép đứng trong sân trong khi mình chỉ được đi vòng ngoài.
 
 Lâm Hàn đứng trong hàng đệ tử Phòng khảo mạch, áo xám ngoại môn, tay buông theo sườn, nhìn ba chiếc thuyền và cảm thấy đất dưới chân như bớt thuộc về Thái Nhạc Tông. Trên đai lưng, mảnh ấn nặng hơn bình thường — không phải vì tu luyện, mà vì hơi thở của kẻ từ trên trời xuống làm không khí mỏng đi, và mọi thứ dưới bụng đều bị đếm lại.
 

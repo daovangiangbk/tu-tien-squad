@@ -1,13 +1,13 @@
-# Mục lục — Khổ Hải Tiên Lộ · Arc 1 & Arc 2
+# Mục lục — Khổ Hải Tiên Lộ · Arc 1, Arc 2 & Arc 3
 
 | Trường | Giá trị |
 | --- | --- |
 | **work_slug** | `kho-hai-tien-lo` |
-| **Phạm vi** | **Arc 1** (ch.1–18 · `complete`) · **Arc 2** (ch.19–45 · `active`) |
+| **Phạm vi** | **Arc 1** (ch.1–18 · `complete`) · **Arc 2** (ch.19–45 · `complete`) · **Arc 3** (ch.46–75 · `active`) |
 | **POV** | Lâm Hàn, ngôi ba giới hạn |
 | **Chỉ tiêu** | ~3.000–3.500 chữ / chương |
-| **Trạng thái** | Arc 1 (`ch.1–18`) **`approved`** · Arc 2 (`ch.19–45`) **`approved`** *(hoàn tất cả Arc 1 & Arc 2)* |
-| **Neo — Logic** | [`../../logic/chapters/00-chapter-spine-arc-1-kho-hai-tien-lo.md`](../../logic/chapters/00-chapter-spine-arc-1-kho-hai-tien-lo.md) · [`../../logic/chapters/00-chapter-spine-arc-2-kho-hai-tien-lo.md`](../../logic/chapters/00-chapter-spine-arc-2-kho-hai-tien-lo.md) |
+| **Trạng thái** | Arc 1 (`ch.1–18`) **`approved`** · Arc 2 (`ch.19–45`) **`approved`** · Arc 3 Spine **`approved`**, ch.46–53 **`approved`** · ch.54 **`draft`** · ch.55–75 **`planned`** |
+| **Neo — Logic** | [`../../logic/chapters/00-chapter-spine-arc-1-kho-hai-tien-lo.md`](../../logic/chapters/00-chapter-spine-arc-1-kho-hai-tien-lo.md) · [`../../logic/chapters/00-chapter-spine-arc-2-kho-hai-tien-lo.md`](../../logic/chapters/00-chapter-spine-arc-2-kho-hai-tien-lo.md) · [`../../logic/chapters/00-chapter-spine-arc-3-kho-hai-tien-lo.md`](../../logic/chapters/00-chapter-spine-arc-3-kho-hai-tien-lo.md) |
 | **Neo — Tên** | [`../naming/registry.md`](../naming/registry.md) |
 
 > Tiêu đề dưới đây là **tiêu đề làm việc**, có thể đổi khi chương được viết. **ch.4+** file có thể chưa tồn tại.
@@ -102,6 +102,60 @@
 | 43 | Bút Gãy Vì Sổ | `approved` | [chapter-43-but-gay-vi-so.md](chapter-43-but-gay-vi-so.md) |
 | 44 | Khuyết Kim Trúc Cơ | `approved` | [chapter-44-khuyet-kim-truc-co.md](chapter-44-khuyet-kim-truc-co.md) |
 | 45 | Chuông Mở Bí Cảnh | `approved` | [chapter-45-chuong-mo-bi-canh.md](chapter-45-chuong-mo-bi-canh.md) |
+
+---
+
+# ARC 3 — TRÚC CƠ PHONG VÂN & BÍ CẢNH CỔ *(chương 46–75)*
+
+## Hồi một — Vết khuyết cung Kim và Đoàn quân ra biên *(chương 46–53)*
+
+| Ch | Tiêu đề | Trạng thái | File |
+| --- | --- | --- | --- |
+| 46 | Huyết Ngân Cung Kim | `approved` | [chapter-46-huyet-ngan-cung-kim.md](chapter-46-huyet-ngan-cung-kim.md) |
+| 47 | Mộ Thượng Phong Vũ | `approved` | [chapter-47-mo-thuong-phong-vu.md](chapter-47-mo-thuong-phong-vu.md) |
+| 48 | Khói Độc Đầu Mục | `approved` | [chapter-48-khoi-doc-dau-muc.md](chapter-48-khoi-doc-dau-muc.md) |
+| 49 | Đoàn Quân Liệt Dương | `approved` | [chapter-49-doan-quan-liet-duong.md](chapter-49-doan-quan-liet-duong.md) |
+| 50 | Vết Rách Phân Giới | `approved` | [chapter-50-vet-rach-phan-gioi.md](chapter-50-vet-rach-phan-gioi.md) |
+| 51 | Hoang Tuyền Sát Khí | `approved` | [chapter-51-hoang-tuyen-sat-khi.md](chapter-51-hoang-tuyen-sat-khi.md) |
+| 52 | Gò Kiếm Gãy | `approved` | [chapter-52-go-kiem-gay.md](chapter-52-go-kiem-gay.md) |
+| 53 | Ngũ Hành Quy Nhất | `approved` | [chapter-53-ngu-hanh-quy-nhat.md](chapter-53-ngu-hanh-quy-nhat.md) |
+
+## Hồi hai — Một mạch một mạng và Mười hai vết ngón tay *(chương 54–62)*
+
+| Ch | Tiêu đề | Trạng thái | File |
+| --- | --- | --- | --- |
+| 54 | Cọc Phù Rỉ Máu | `approved` | [chapter-54-coc-phu-ri-mau.md](chapter-54-coc-phu-ri-mau.md) |
+| 55 | Lửa Viêm Thần | `approved` | [chapter-55-lua-viem-than.md](chapter-55-lua-viem-than.md) |
+| 56 | Bút Cũ Của Người Tin Sổ | `approved` | [chapter-56-but-cu-cua-nguoi-tin-so.md](chapter-56-but-cu-cua-nguoi-tin-so.md) |
+| 57 | Đường Vào Tâm Trận | `planned` | [chapter-57-duong-vao-tam-tran.md](chapter-57-duong-vao-tam-tran.md) |
+| 58 | Đài Phân Mạch | `planned` | [chapter-58-dai-phan-mach.md](chapter-58-dai-phan-mach.md) |
+| 59 | Mười Hai Vết Ngón Tay | `planned` | [chapter-59-muoi-hai-vet-ngon-tay.md](chapter-59-muoi-hai-vet-ngon-tay.md) |
+| 60 | Một Mạch Một Mạng | `planned` | [chapter-60-mot-mach-mot-mang.md](chapter-60-mot-mach-mot-mang.md) |
+| 61 | Mặt Sau Bản Đồ | `planned` | [chapter-61-mat-sau-ban-do.md](chapter-61-mat-sau-ban-do.md) |
+| 62 | Đài Cổ Rung Chuyển | `planned` | [chapter-62-dai-co-rung-chuyen.md](chapter-62-dai-co-rung-chuyen.md) |
+
+## Hồi ba — Thị đồng năm xưa và Lối ngầm dưới kho phế *(chương 63–70)*
+
+| Ch | Tiêu đề | Trạng thái | File |
+| --- | --- | --- | --- |
+| 63 | Người Không Có Trong Sổ | `planned` | [chapter-63-nguoi-khong-co-trong-so.md](chapter-63-nguoi-khong-co-trong-so.md) |
+| 64 | Vết Bỏng Lão Mạch Thôn | `planned` | [chapter-64-vet-bong-lao-mach-thon.md](chapter-64-vet-bong-lao-mach-thon.md) |
+| 65 | Một Lần Trái Lễ | `planned` | [chapter-65-mot-lan-trai-le.md](chapter-65-mot-lan-trai-le.md) |
+| 66 | Tin Dữ Bạch Thổ | `planned` | [chapter-66-tin-du-bach-tho.md](chapter-66-tin-du-bach-tho.md) |
+| 67 | Lưới Khép Hắc Nham | `planned` | [chapter-67-luoi-khep-hac-nham.md](chapter-67-luoi-khep-hac-nham.md) |
+| 68 | Nắp Hầm Dưới Ghế | `planned` | [chapter-68-nap-ham-duoi-ghe.md](chapter-68-nap-ham-duoi-ghe.md) |
+| 69 | Mắt Đục Nhìn Trời | `planned` | [chapter-69-mat-duc-nhin-troi.md](chapter-69-mat-duc-nhin-troi.md) |
+| 70 | Hơi Thở Đáy Mỏ | `planned` | [chapter-70-hoi-tho-day-mo.md](chapter-70-hoi-tho-day-mo.md) |
+
+## Hồi bốn — Giao ước làm cọc và Con tin trên đài đá *(chương 71–75)*
+
+| Ch | Tiêu đề | Trạng thái | File |
+| --- | --- | --- | --- |
+| 71 | Thước Đồng Giấu Bản Đồ | `planned` | [chapter-71-thuoc-dong-giau-ban-do.md](chapter-71-thuoc-dong-giau-ban-do.md) |
+| 72 | Từ Đường Gãy Kiếm | `planned` | [chapter-72-tu-duong-gay-kiem.md](chapter-72-tu-duong-gay-kiem.md) |
+| 73 | Đỉnh Đá Đối Diện | `planned` | [chapter-73-dinh-da-doi-dien.md](chapter-73-dinh-da-doi-dien.md) |
+| 74 | Ngươi Làm Cọc, Ta Thôi Ký | `planned` | [chapter-74-nguoi-lam-coc-ta-thoi-ky.md](chapter-74-nguoi-lam-coc-ta-thoi-ky.md) |
+| 75 | Kỳ Hạn Ba Tháng | `planned` | [chapter-75-ky-han-ba-thang.md](chapter-75-ky-han-ba-thang.md) |
 
 ---
 

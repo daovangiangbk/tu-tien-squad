@@ -10,7 +10,7 @@
 | --- | --- | --- | --- | --- |
 | **1** | **Arc 1 — Tạp Dịch Khu Mỏ** *(Bi kịch phàm trần 1–2 ch → đáy hầm mỏ → chỗ đứng trong tông môn)* | **1–18** *(~15–20 ch, user chốt)* | Phàm nhân → Luyện Khí tầng 1–3 → Luyện Khí trung/hậu kỳ | **Complete** *(ch.1–18 **approved**)* |
 | **2** | **Arc 2 — Ngoại Môn & Mạch Ngầm Tông Môn** *(Tranh đoạt tài nguyên Trúc Cơ & hé lộ nhân quả cũ)* | **19–45** *(27 chương · B21–B47)* | Luyện Khí tầng 4 → Luyện Khí viên mãn → Trúc Cơ sơ kỳ *(khuyết Kim)* | **Complete** *(ch.19–45 **approved**)* |
-| **3** | **Arc 3 — Trúc Cơ Phong Vân & Bí Cảnh Cổ** *(Vượt nghẽn Ngũ linh căn & đối diện quy tắc Chính–Tà)* | 46–75 `[giả định]` | Trúc Cơ sơ kỳ → Trúc Cơ hậu kỳ / viên mãn | **planned** |
+| **3** | **Arc 3 — Trúc Cơ Phong Vân & Bí Cảnh Cổ** *(Vượt nghẽn Ngũ linh căn & đối diện quy tắc Chính–Tà)* | **46–75** *(30 chương · B48–B77)* | Trúc Cơ sơ kỳ *(khuyết Kim)* → Trúc Cơ trung/hậu kỳ *(đủ 5 hệ, mở C-sơ)* | **A3 active** *(ch.46–53 **approved** · ch.54 **draft** · Hồi II mở)* |
 | **4** | **Arc 4 — Kim Đan Đại Cục & Chân Tướng Chí Bảo** *(Từ quân cờ tầng đáy thành người định đoạt)* | 76–110+ `[giả định]` | Trúc Cơ viên mãn → Kết Đan | **planned** |
 
 ---
@@ -99,7 +99,27 @@
   - [x] **Hồi IV (`Chương 41–45`):** *Cổng Thủy Ngân Phủ* · *Đêm Trước Bảng Vàng* · *Bút Gãy Vì Sổ* · *Khuyết Kim Trúc Cơ* · *Chuông Mở Bí Cảnh* (`approved`).
   - [x] **`T-reader-arc-2`** — **Approved** 2026-10-23 ([`reader-arc-2-kho-hai-tien-lo.md`](interface/chapter-view/reader-comment/reader-arc-2-kho-hai-tien-lo.md)).
   - [x] **`T-char-sync-arc-2`** — **Approved** 2026-10-23 ([`phase-02-roster-delta.md`](logic/characters/phase-02-roster-delta.md)).
+- **A2 — Khởi tạo Arc 3 (`Chương 46–75`):** **Complete** (2026-10-26)
+  - [x] Step 1 (`T-world-arc-3`): **Approved** — [`logic/world/01-region-active.md`](logic/world/01-region-active.md) §9 · [`02-tieu-cuc-index.md`](logic/world/02-tieu-cuc-index.md) §10–§12.
+  - [x] Step 2 (`T-plot-arc-3`): **Approved** — [`logic/arcs/03-arc3-beats.md`](logic/arcs/03-arc3-beats.md) (B48–B77).
+  - [x] Step 3 (`T-characters-arc-3`): **Approved** — [`logic/characters/arc-3-roster.md`](logic/characters/arc-3-roster.md).
+  - [x] Step 4 (`T-spine-arc-3`): **Approved** — [`logic/chapters/00-chapter-spine-arc-3-kho-hai-tien-lo.md`](logic/chapters/00-chapter-spine-arc-3-kho-hai-tien-lo.md) · [`interface/chapters/00-index.md`](interface/chapters/00-index.md).
+
+- **A3 — Viết chương (Prose Arc 3 · `Chương 46–75`):** **Active** (2026-10-26)
+  - [x] **`T-prose-46`** — [`chapter-46-huyet-ngan-cung-kim.md`](interface/chapters/chapter-46-huyet-ngan-cung-kim.md) · *Huyết Ngân Cung Kim* · B48 · **`approved`** (2026-10-26)
+  - [x] **`T-review-46`** — [`review-chapter-46-huyet-ngan-cung-kim.md`](interface/chapter-view/review-chapter-46-huyet-ngan-cung-kim.md) · **`approved`** (2026-10-26)
+  - [x] **`T-prose-47`** — [`chapter-47-mo-thuong-phong-vu.md`](interface/chapters/chapter-47-mo-thuong-phong-vu.md) · *Mộ Thượng Phong Vũ* · B49 · **`approved`** (2026-10-26)
+  - [x] **`T-review-47`** — [`review-chapter-47-mo-thuong-phong-vu.md`](interface/chapter-view/review-chapter-47-mo-thuong-phong-vu.md) · **`approved`** (2026-10-26)
+  - [x] **`T-prose-48`** — [`chapter-48-khoi-doc-dau-muc.md`](interface/chapters/chapter-48-khoi-doc-dau-muc.md) · *Khói Độc Đầu Mục* · B50 · **`approved`** (2026-10-26)
+  - [x] **`T-review-48`** — [`review-chapter-48-khoi-doc-dau-muc.md`](interface/chapter-view/review-chapter-48-khoi-doc-dau-muc.md) · **`approved`** (2026-10-26)
+  - [x] **`T-prose-49`** — [`chapter-49-doan-quan-liet-duong.md`](interface/chapters/chapter-49-doan-quan-liet-duong.md) · *Đoàn Quân Liệt Dương* · B51 · **`approved`** (2026-10-26)
+  - [x] **`T-review-49`** — [`review-chapter-49-doan-quan-liet-duong.md`](interface/chapter-view/review-chapter-49-doan-quan-liet-duong.md) · **`approved`** (2026-10-26)
+  - [x] **`T-prose-50`** — [`chapter-50-vet-rach-phan-gioi.md`](interface/chapters/chapter-50-vet-rach-phan-gioi.md) · *Vết Rách Phân Giới* · B52 · **`approved`** (2026-10-26)
+  - [x] **`T-review-50`** — [`review-chapter-50-vet-rach-phan-gioi.md`](interface/chapter-view/review-chapter-50-vet-rach-phan-gioi.md) · **`approved`** (2026-10-26)
+  - [x] **`T-prose-51`** — [`chapter-51-hoang-tuyen-sat-khi.md`](interface/chapters/chapter-51-hoang-tuyen-sat-khi.md) · *Hoang Tuyền Sát Khí* · B53 · **`draft` · awaiting_human_confirm**
+  - [ ] **`T-review-51`** — queued (sau human confirm)
 
 **Kế tiếp:**
-1. **Arc 2 đã khép hoàn toàn (`CLOSED`).** Khi mở **Arc 3 — Trúc Cơ Phong Vân & Bí Cảnh Cổ** (ch.46–75): chạy `T-world-arc-3` → `T-plot-arc-3` → `T-characters-arc-3` → `T-spine-arc-3`.
-2. *(Tùy chọn)* `T-naming-places-arc-1` · `T-naming-people-arc-1`.
+1. **`T-prose-57`** (*Đường Vào Tâm Trận* · B59) · Ch.56 **`approved`** (2026-10-26).
+2. Pipeline: prose → **`T-review-57`** → approve/revise.
+3. *(Tùy chọn)* `T-naming-places-arc-1` · `T-naming-people-arc-1`.

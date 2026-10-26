@@ -8,7 +8,7 @@
 
 Hai tuần trước, một thư lại từ Chấp pháp đường xuống hỏi về đêm mở mạch ở Thạch Khê; hắn trả lời bằng hố khoai và vết bánh xe, giữ mặt khờ. Chuyến đi hôm nay là việc khác — số đo trên giấy, không phải lời khai trong sổ đen. Tần Thanh Mặc đi cùng hắn như bảo lãnh trên phiếu cử đi; nếu số liệu linh điền sai, điểm công tích trừ vào đội nàng trước.
 
-Trên vách lán ngoại viện, khế ba mươi sáu tháng vẫn đếm — còn hơn hai mươi tháng nữa mới tới kỳ xét cuối. Bảng Tam Ngạch và tên Khương Minh Thư đứng đầu công tích vẫn in trong trí hắn như một hàng chữ không thể bắt chước bằng quét sân. Hắn cần chuyến đo địa khí này, cần điểm, cần giữ kín tầng năm trong thân dưới lớp tạp dịch tầng bốn trên thẻ.
+Trên vách lán ngoại viện, khế ba mươi sáu tháng vẫn đếm — hàng số trên đá mới giảm một nét, còn ba mươi lăm tháng nữa mới tới kỳ xét cuối. Bảng Tam Ngạch và tên Khương Minh Thư đứng đầu công tích vẫn in trong trí hắn như một hàng chữ không thể bắt chước bằng quét sân. Hắn cần chuyến đo địa khí này, cần điểm, cần giữ kín tầng năm trong thân dưới lớp tạp dịch tầng bốn trên thẻ.
 
 Gió từ thung lũng phía dưới mang lên mùi đất khô và tro bếp, không có hơi linh thảo tươi như trên sườn núi Thái Nhạc. Cạn Mạch Thành nằm ở chân một dải đồi thấp, tường thành đá xám vá víu bằng vôi trắng loang lổ, mái ngói phía trong lồi lõm như hàm răng già. Thành phụ này không phải trung tâm tu luyện; nó là nơi các gia tộc hạng bét canh tác linh điền thế chấp, trả cống cho tông môn bằng linh thạch và lúa linh, đổi lấy quyền được đào mạch nông ở rìa Tây Mạch. Linh khí ở đây mỏng như nước trong bình để quá lâu: vẫn còn, nhưng không đủ nuôi một đứa trẻ mở kinh mạch nếu không có đan dược.
 

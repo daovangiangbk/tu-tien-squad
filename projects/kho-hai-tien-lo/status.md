@@ -11,7 +11,7 @@
 | **lifecycle** | `active` |
 | **created_at** | `2026-10-23` |
 | **pipeline** | **A** — Sáng tác tiểu thuyết tiên hiệp dài kỳ (epic multi-arc) |
-| **workflow hiện tại** | **Arc 2 `CLOSED` (`complete` · ch.19–45 `approved`)** — Sẵn sàng mở **A2 Arc 3** (*Trúc Cơ Phong Vân & Bí Cảnh Cổ*) |
+| **workflow hiện tại** | **A3 (Prose Arc 3 · Ch.46–75) `active` — Ch.46–56 `approved` · chờ `T-prose-57`** |
 | **foundation_root** | `foundation/` (shared) |
 | **world_strategy** | `foundation-fixed` (`TH-LINH-CAN-NGUYEN` · Càn Nguyên Tinh — Linh Giới · `waive_T-world-project: true`) |
 
@@ -118,15 +118,53 @@
 | 5 | `T-reader-arc-2` | **`done (approved)`** | `experimental-reader` | [`interface/chapter-view/reader-comment/reader-arc-2-kho-hai-tien-lo.md`](interface/chapter-view/reader-comment/reader-arc-2-kho-hai-tien-lo.md) · End-of-Arc Beta Read (27/27 ch) · 2026-10-23 |
 | 6 | `T-char-sync-arc-2` | **`done (approved)`** | `character-architect` | [`logic/characters/phase-02-roster-delta.md`](logic/characters/phase-02-roster-delta.md) · Phase 2 Roster Delta (khép Arc 2 → bàn giao Arc 3) · 2026-10-23 |
 
-**Current task:** **Arc 2 — Ngoại Môn & Mạch Ngầm Tông Môn (`ch.19–45`) ĐÃ KHÉP (`CLOSED / COMPLETE`)**
+### A2 — Khởi tạo Arc 3: Trúc Cơ Phong Vân & Bí Cảnh Cổ (Chương 46–75)
+
+| Step | Task ID | State | Owner | Artifact / Ghi chú |
+| --- | --- | --- | --- | --- |
+| 1 | `T-world-arc-3` | **`done (approved)`** | `world-builder` | [`logic/world/01-region-active.md`](logic/world/01-region-active.md) §9 · [`02-tieu-cuc-index.md`](logic/world/02-tieu-cuc-index.md) §10–§12 (`MICRO-ARC03-TAY-MACH` / `TC-KHTL-A3`: Bí cảnh cổ phân giới `LOC-RUIN-001`, Tầng đáy cổ Hắc Nham `LOC-MINE-001-DEEP`, Tiền đồn Viêm Thần Tông `CAMP-VT-001`) · 2026-10-26 |
+| 2 | `T-plot-arc-3` | **`done (approved)`** | `plot-architect` | [`logic/arcs/03-arc3-beats.md`](logic/arcs/03-arc3-beats.md) (Dual-View · B48–B77 · ch.46–75 · khóa `PW-01`, `PW-02`, `PW-03`, `PW-06`, `PW-08`) · 2026-10-26 |
+| 3 | `T-characters-arc-3` | **`done (approved)`** | `character-architect` | [`logic/characters/arc-3-roster.md`](logic/characters/arc-3-roster.md) (Dual-View · cast Arc 3 + off-screen flags) · 2026-10-26 |
+| 4 | `T-spine-arc-3` | **`done (approved)`** | `plot-architect` | [`logic/chapters/00-chapter-spine-arc-3-kho-hai-tien-lo.md`](logic/chapters/00-chapter-spine-arc-3-kho-hai-tien-lo.md) · [`interface/chapters/00-index.md`](interface/chapters/00-index.md) (ch.46–75 `planned`) · 2026-10-26 |
+
+### A3 — Prose Arc 3 (Chương 46–75)
+
+| Step | Task ID | State | Owner | Artifact / Ghi chú |
+| --- | --- | --- | --- | --- |
+| 1 | `T-prose-46` | **`done (approved)`** *(revised C-01–C-05)* | `xianxia-prose-writer` | Human **`approve 46`** 2026-10-26 · [`chapter-46-huyet-ngan-cung-kim.md`](interface/chapters/chapter-46-huyet-ngan-cung-kim.md) · *Huyết Ngân Cung Kim* · B48 |
+| 2 | `T-review-46` | **`done (approved)`** *(r1 fixes applied)* | `xianxia-chapter-reviewer` | Human **`approve 46`** 2026-10-26 · [`review-chapter-46-huyet-ngan-cung-kim.md`](interface/chapter-view/review-chapter-46-huyet-ngan-cung-kim.md) · C-01→C-05 done · ch.46 **`approved`** |
+| 3 | `T-prose-47` | **`done (approved)`** *(revised C-01–C-05)* | `xianxia-prose-writer` | Human **`approve 47`** 2026-10-26 · [`chapter-47-mo-thuong-phong-vu.md`](interface/chapters/chapter-47-mo-thuong-phong-vu.md) · *Mộ Thượng Phong Vũ* · B49 |
+| 4 | `T-review-47` | **`done (approved)`** *(r1 fixes applied)* | `xianxia-chapter-reviewer` | Human **`approve 47`** 2026-10-26 · [`review-chapter-47-mo-thuong-phong-vu.md`](interface/chapter-view/review-chapter-47-mo-thuong-phong-vu.md) · C-01→C-05 done · ch.47 **`approved`** |
+| 5 | `T-prose-48` | **`done (approved)`** *(revised C-01–C-05)* | `xianxia-prose-writer` | Human **`approve 48`** 2026-10-26 · [`chapter-48-khoi-doc-dau-muc.md`](interface/chapters/chapter-48-khoi-doc-dau-muc.md) · *Khói Độc Đầu Mục* · B50 |
+| 6 | `T-review-48` | **`done (approved)`** *(r1 fixes applied)* | `xianxia-chapter-reviewer` | Human **`approve 48`** 2026-10-26 · [`review-chapter-48-khoi-doc-dau-muc.md`](interface/chapter-view/review-chapter-48-khoi-doc-dau-muc.md) · C-01→C-05 done · ch.48 **`approved`** |
+| 7 | `T-prose-49` | **`done (approved)`** *(revised C-01–C-03)* | `xianxia-prose-writer` | Human **`approve 49`** 2026-10-26 · [`chapter-49-doan-quan-liet-duong.md`](interface/chapters/chapter-49-doan-quan-liet-duong.md) · *Đoàn Quân Liệt Dương* · B51 |
+| 8 | `T-review-49` | **`done (approved)`** *(r1 fixes applied)* | `xianxia-chapter-reviewer` | Human **`approve 49`** 2026-10-26 · [`review-chapter-49-doan-quan-liet-duong.md`](interface/chapter-view/review-chapter-49-doan-quan-liet-duong.md) · C-01→C-03 done · ch.49 **`approved`** |
+| 9 | `T-prose-50` | **`done (approved)`** *(revised C-01–C-04)* | `xianxia-prose-writer` | Human **`approve 50`** 2026-10-26 · [`chapter-50-vet-rach-phan-gioi.md`](interface/chapters/chapter-50-vet-rach-phan-gioi.md) · *Vết Rách Phân Giới* · B52 |
+| 10 | `T-review-50` | **`done (approved)`** *(r1 fixes applied)* | `xianxia-chapter-reviewer` | Human **`approve 50`** 2026-10-26 · [`review-chapter-50-vet-rach-phan-gioi.md`](interface/chapter-view/review-chapter-50-vet-rach-phan-gioi.md) · C-01→C-04 done · ch.50 **`approved`** |
+| 11 | `T-prose-51` | **`done (approved)`** *(revised C-01–C-05)* | `xianxia-prose-writer` | Human **`approve 51`** 2026-10-26 · [`chapter-51-hoang-tuyen-sat-khi.md`](interface/chapters/chapter-51-hoang-tuyen-sat-khi.md) · *Hoang Tuyền Sát Khí* · B53 |
+| 12 | `T-review-51` | **`done (approved)`** *(r1 fixes applied)* | `xianxia-chapter-reviewer` | Human **`approve 51`** 2026-10-26 · [`review-chapter-51-hoang-tuyen-sat-khi.md`](interface/chapter-view/review-chapter-51-hoang-tuyen-sat-khi.md) · C-01→C-05 done · ch.51 **`approved`** |
+| 13 | `T-prose-52` | **`done (approved)`** *(revised C-01–C-05)* | `xianxia-prose-writer` | Human **`approve 52`** 2026-10-26 · [`chapter-52-go-kiem-gay.md`](interface/chapters/chapter-52-go-kiem-gay.md) · *Gò Kiếm Gãy* · B54 |
+| 14 | `T-review-52` | **`done (approved)`** *(r1 fixes applied)* | `xianxia-chapter-reviewer` | Human **`approve 52`** 2026-10-26 · [`review-chapter-52-go-kiem-gay.md`](interface/chapter-view/review-chapter-52-go-kiem-gay.md) · C-01→C-05 done · ch.52 **`approved`** |
+| 15 | `T-prose-53` | **`done (approved)`** *(revised C-01–C-04)* | `xianxia-prose-writer` | Human **`approve 53`** 2026-10-26 · [`chapter-53-ngu-hanh-quy-nhat.md`](interface/chapters/chapter-53-ngu-hanh-quy-nhat.md) · *Ngũ Hành Quy Nhất* · B55 |
+| 16 | `T-review-53` | **`done (approved)`** *(r1 fixes applied)* | `xianxia-chapter-reviewer` | Human **`approve 53`** 2026-10-26 · [`review-chapter-53-ngu-hanh-quy-nhat.md`](interface/chapter-view/review-chapter-53-ngu-hanh-quy-nhat.md) · C-01→C-04 done · ch.53 **`approved`** |
+| 17 | `T-prose-54` | **`done (approved)`** *(revised C-01→C-04)* | `xianxia-prose-writer` | Human **`approve 54`** 2026-10-26 · [`chapter-54-coc-phu-ri-mau.md`](interface/chapters/chapter-54-coc-phu-ri-mau.md) · *Cọc Phù Rỉ Máu* · B56 |
+| 18 | `T-review-54` | **`done (approved)`** | `xianxia-chapter-reviewer` | Human **`approve 54`** 2026-10-26 · C-01→C-04 applied · ch.54 **`approved`** |
+| 19 | `T-prose-55` | **`done (approved)`** *(revised C-01→C-02)* | `xianxia-prose-writer` | Human **`approve 55`** 2026-10-26 · [`chapter-55-lua-viem-than.md`](interface/chapters/chapter-55-lua-viem-than.md) · *Lửa Viêm Thần* · B57 |
+| 20 | `T-review-55` | **`done (approved)`** | `xianxia-chapter-reviewer` | Human **`approve 55`** 2026-10-26 · C-01→C-02 applied · ch.55 **`approved`** |
+| 21 | `T-prose-56` | **`done (approved)`** *(revised C-01→C-02 · L-01→L-03)* | `xianxia-prose-writer` | Human **`approve 56`** 2026-10-26 · [`chapter-56-but-cu-cua-nguoi-tin-so.md`](interface/chapters/chapter-56-but-cu-cua-nguoi-tin-so.md) · *Bút Cũ Của Người Tin Sổ* · B58 |
+| 22 | `T-review-56` | **`done (approved)`** | `xianxia-chapter-reviewer` | Human **`approve 56`** 2026-10-26 · C-01→C-02 · L-01→L-03 applied · ch.56 **`approved`** |
+
+**Current task:** **`T-prose-57`** (*Đường Vào Tâm Trận* · B59) — chờ lệnh viết draft
 
 **A1:** **`complete`** (2026-10-23).
 
 **Arc 1 (A2 + A3 · ch.1–18):** **`CLOSED / COMPLETE`** (2026-10-23).
 
-**Arc 2 (A2 + A3 · ch.19–45):** **`CLOSED / COMPLETE`** (2026-10-23) — toàn bộ **Chương 19 → Chương 45** (`approved`), **`T-reader-arc-2`** (`approved`), **`T-char-sync-arc-2`** (`phase-02-roster-delta.md` `approved`).
+**Arc 2 (A2 + A3 · ch.19–45):** **`CLOSED / COMPLETE`** (2026-10-23).
 
-**Kế tiếp:** Khi sẵn sàng, mở **Arc 3 — Trúc Cơ Phong Vân & Bí Cảnh Cổ (`ch.46–75`)**: `T-world-arc-3` → `T-plot-arc-3` → `T-characters-arc-3` → `T-spine-arc-3`.
+**A2 (Arc 3 · ch.46–75):** **`complete`** (2026-10-26) — world delta · plot beats (B48–B77) · char roster · chapter spine (ch.46–75) đã sẵn sàng.
+
+**Kế tiếp:** **`T-prose-57`** (*Đường Vào Tâm Trận* · B59) hoặc **`viết T-prose-57`**.
 
 **Naming sync delta:** **Approved** 2026-10-23 — CHAR-010→012 + LOC merged vào registry canon.
 

@@ -40,7 +40,7 @@ Quản gia nói tiếp, lần này giọng nhẹ hơn, như thể đang đọc m
 
 — Lễ hôn ước giữa đệ tử khảo mạch Tần Thanh Mặc và đệ tử chân truyền Vệ Thủy Ngân phủ, Vệ Cảnh Hành, vào cuối kỳ ba năm ngoại môn, đúng ngày công bố ngạch Trúc Cơ Đan. Vệ lão gia làm chủ hôn, Vệ phủ miễn lãi nợ một phần trong thời gian chờ lễ. Thanh Mặc cô nương ấn dấu tay xác nhận, linh điền không bị thu hồi; cha mẫu giữ quyền canh tác đến hết đời.
 
-Trong bụng Lâm Hàn, những mảnh ghép từ Chương chín, mười, mười bảy lần lượt khớp vào nhau: câu nói về nợ linh thạch ở miệng hầm khảo mạch; Tần Thanh Mặc quay mặt khi người mang hiệu họ Vệ đi ngang; bóng áo trắng Vệ Cảnh Hành trên bậc ngọc không đỡ người chỉ đỡ hòm đan. Hôn ước không phải tin đồn đính hôn giữa hai đệ tử yêu nhau. Hôn ước là sợi dây buộc nợ máu — đổi một lễ cưới trên giấy để giữ ruộng, để cha mẹ khỏi mất nhà, để nàng còn chỗ đứng trên sổ tông môn.
+Trong bụng Lâm Hàn, những mảnh ghép lần lượt khớp vào nhau — câu nói về nợ linh thạch ở miệng hầm khảo mạch; Tần Thanh Mặc quay mặt khi người mang hiệu họ Vệ đi ngang; bóng áo trắng Vệ Cảnh Hành trên bậc ngọc không đỡ người chỉ đỡ hòm đan. Hôn ước không phải tin đồn đính hôn giữa hai đệ tử yêu nhau. Hôn ước là sợi dây buộc nợ máu — đổi một lễ cưới trên giấy để giữ ruộng, để cha mẹ khỏi mất nhà, để nàng còn chỗ đứng trên sổ tông môn.
 
 Không cần ai giải thích thành lời trong sân. Lâm Hàn thấy mọi thứ nằm gọn trong con dấu đỏ và dòng chữ Vệ Cảnh Hành in sẵn — ruộng đổi lấy lễ, lễ đổi lấy nợ, nợ đổi lấy một đời canh tác của cha mẹ.
 
@@ -62,7 +62,7 @@ Nàng đặt tờ khế xuống bàn. Quản gia đưa bút lông và nghiên m�
 
 — Thanh Mặc cô nương ấn dấu tay trước. Lễ chính cuối kỳ ba năm. Vệ Cảnh Hành công tử đã biết tên, sẽ có sứ giả phủ đến ngoại môn thông báo sau.
 
-Lâm Hàn nghe rõ chữ Vệ Cảnh Hành. Hắn nghĩ tới chàng đệ tử áo trắng trên bậc ngọc — kẻ nhớ mặt người bị luật xử, kẻ sẽ thành chồng trên giấy của người cùng hắn vẽ bản đồ mạch. Không ghen. Không đau lòng kiểu truyện phường nói. Chỉ có cảm giác lạnh: một người bạn đồng nghề đang bị buộc vào khế mà cả hai đều không cầm được lưỡi dao.
+Lâm Hàn nghe rõ chữ Vệ Cảnh Hành. Hắn nghĩ tới chàng đệ tử áo trắng trên bậc ngọc — kẻ nhớ mặt người bị luật xử, kẻ sẽ thành phu trên giấy của đồng đội cùng kéo thước đo mạch. Hắn không dính vào khế đó; hắn chỉ là kẻ giữ thước ngoài hiên. Lạnh rũ xuống mu bàn tay: người đi trước trên phiếu tre đang bị buộc tên vào giấy đỏ, và lưỡi dao nằm trong con dấu phủ, không nằm trong tay ai thuộc đội khảo mạch.
 
 Tần Thanh Mặc lấy bút. Tiếng nghênh nghiên đá gõ nhẹ — quản gia mài đầu bút. Nàng nhúng bút vào mực. Lâm Hàn thấy tay nàng không run; run có lẽ nằm ở chỗ khác, sâu hơn, nơi nàng từng tin rằng ký tên vào sổ sự cố là chọn đúng dù phải trả giá.
 
@@ -97,7 +97,7 @@ Dưới đai lưng, mảnh đá xám hơi ấm một nhịp rồi lại lạnh, 
 *(Logic — không thuộc prose chương.)*
 
 - **Beat B26 · FS-010 payoff lộ hôn ước · D-02:** Khế nợ + phạt 3 tháng Bắc Tuyến (ch.16); ấn tay hôn ước Vệ Cảnh Hành cuối kỳ 3 năm.
-- **R-A2-04:** Không đánh ghen; Hàn đứng ngoài hiên, không can dự.
+- **R-A2-04:** Hàn ngoài khế / ngoài hiên; cảm xúc đồng đội khảo mạch, không tuyến tình.
 - **Power:** LK5 vững / sổ LK4.
 - **Vệ Hoài Trà:** Chỉ qua lời quản gia (OS), không Sub-POV.
 - **Hook ch.25:** Hàn về ngoại viện lọc đan bằng ấn.

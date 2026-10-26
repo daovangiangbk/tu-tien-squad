@@ -30,7 +30,7 @@ Tô Trường Vi run, giọng khản:
 
 Vệ Cảnh Hành không ngồi. Hắn đứng thẳng, tay chắp sau lưng, nhìn xuống Tô Trường Vi. Ánh mắt không căm, không thương — chỉ như người đọc một dòng chữ đã biết trước kết quả.
 
-— Tô Trường Vi, — Vệ Cảnh Hành nói, phát âm rõ từng chữ Hán Việt trong tên. — Trán ngươi, ta nhớ.
+— Tô Trường Vi, — Vệ Cảnh Hành nói, phát âm rõ từng chữ trong tên. — Trán ngươi, ta nhớ.
 
 Thiếu niên quỳ gập người sâu hơn, sẹo trán nằm sát đá trắng.
 

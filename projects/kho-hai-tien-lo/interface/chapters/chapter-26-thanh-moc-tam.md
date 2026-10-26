@@ -12,7 +12,7 @@ Trên thẻ gỗ ngoại môn của hắn, tên vẫn ghi Luyện Khí tầng n�
 
 Lâm Hàn gật. Hắn đã quen cách nàng nói «ta cần» thay vì «chúng ta cần» — như thể công việc là thứ duy nhất còn giữ được hình dạng sau buổi ký khế hôn ước ở trang viên Tần gia. Hắn không nhắc lại chuyện đó. Trong rừng chỉ có gió, đá, và nợ công tích trên vách lán ngoại viện vẫn đang đếm tháng.
 
-Sáng sớm khi rời lán, hắn đã xem lại dòng khắc đếm ngược: còn hơn hai mươi tháng khế ba mươi sáu tháng, trong khi bảng Đan các vẫn niêm yết hai ngạch Trúc Cơ Đan đã khóa bảo lãnh. Muốn sống sót trước hạn, hắn cần điểm khảo mạch và cần tự mở đường tu — hai thứ cùng kéo một cơ thể. Tần Thanh Mặc cần điểm để khất nợ và để giữ linh điền cha mẹ; hắn không hỏi nàng còn bao nhiêu ngày trước kỳ hôn ước cuối ba năm. Chỉ cần nàng còn đi đo, hắn còn đi cầm thước.
+Sáng sớm khi rời lán, hắn đã xem lại dòng khắc đếm ngược trên vách: còn ba mươi bốn tháng — khế mới sang tháng thứ hai kể từ đêm nhận tờ ở sân tập hợp — trong khi bảng Đan các vẫn niêm yết hai ngạch Trúc Cơ Đan đã khóa bảo lãnh. Muốn sống sót trước hạn, hắn cần điểm khảo mạch và cần tự mở đường tu — hai thứ cùng kéo một cơ thể. Tần Thanh Mặc cần điểm để khất nợ và để giữ linh điền cha mẹ; hắn không hỏi nàng còn bao nhiêu ngày trước kỳ hôn ước cuối ba năm. Chỉ cần nàng còn đi đo, hắn còn đi cầm thước.
 
 Phiếu cử đi mang dấu đỏ «ưu tiên nhánh phụ» — dấu mới sau tin Thượng tông sắp xuống, dù hôm nay mới là chuyến đo đầu tiên của họ. Lâm Hàn không tin ưu tiên là may; ưu tiên là ai đi trước sẽ ghi số liệu trước, và số liệu trước thường thành chuẩn để soi số liệu sau.
 
@@ -100,7 +100,7 @@ Tại Phòng khảo mạch, chấp sự đối chiếu sơ đồ Tần Thanh M�
 
 Chiều về ngoại viện, hắn lén vào khe đá sau lán, không lấy đan. Hắn đặt mảnh vải bọc Thanh Mộc Tâm lên đá phẳng, quỳ, lắng nghe nhịp trong lõi Mộc — chậm, đều — rồi cất lại vào túi trong, sát ngực, xa ấn một tấc.
 
-Trên vách lán, dòng khắc đếm tháng khế ba mươi sáu tháng vẫn còn dài. Nhưng trong túi hắn đã có một hành đầu tiên tự kiếm, trả bằng tai nghe đá và một lần kéo người khỏi hố sụt — không phải bằng lời hứa trên giấy hôn ước.
+Trên vách lán, dòng khắc đếm ngược vẫn còn dài. Nhưng trong túi trong hắn đã có tinh Mộc đầu tiên trong năm hệ ấn đòi — Thanh Mộc Tâm tự bẻ ở khe, không mua ở Đan các, không kê trên biên nhận Phòng khảo mạch — trả bằng tai nghe đá và một lần kéo người khỏi hố sụt, không phải bằng lời hứa trên giấy hôn ước.
 
 Đêm đó, gió rít qua khe núi ngoại viện. Lâm Hàn nằm nhìn trần đá, tay chạm túi vải. Thanh Mộc Tâm không phát sáng, không kêu gọi; nó chỉ tồn tại, lặng như mạch cây già dưới đất. Hắn nghĩ tới gốc cổ mộc hóa ngọc — cây chết từ lâu mà vẫn giữ nhịp — rồi nghĩ tới cuộn bản đồ trên bàn Tần Thanh Mặc đang thiếu một góc ít ai hỏi tên.
 

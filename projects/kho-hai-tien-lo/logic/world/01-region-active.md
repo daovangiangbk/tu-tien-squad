@@ -19,6 +19,8 @@ child_index:
     path: 02-tieu-cuc-index.md
   - id: MICRO-ARC02-TAY-MACH
     path: 02-tieu-cuc-index.md#arc-2-ngoai-mon-mach-ngam
+  - id: MICRO-ARC03-TAY-MACH
+    path: 02-tieu-cuc-index.md#arc-3-truc-co-phong-van-bi-canh-co
   - id: SECT-001
     path: 02-tieu-cuc-index.md#sect-001
   - id: CLAN-VE-001
@@ -39,7 +41,7 @@ child_index:
 
 # Vùng active — Tây Mạch (`REG-TL-TAY-MACH`)
 
-> **work_slug:** `kho-hai-tien-lo` · **Mode:** delta Logic (Foundation geo read-only) · **Arc mở:** 1 (Tạp Dịch Khu Mỏ — `complete`) & **2 (Ngoại Môn & Mạch Ngầm Tông Môn — `active`)**  
+> **work_slug:** `kho-hai-tien-lo` · **Mode:** delta Logic (Foundation geo read-only) · **Arc mở:** 1 (`complete`) · 2 (`complete`) · **3 (Trúc Cơ Phong Vân & Bí Cảnh Cổ — `active`)**  
 > **Micro:** [`02-tieu-cuc-index.md`](02-tieu-cuc-index.md) · [`geo/micro/arc-01-kho-hai-tien-lo.geojson`](geo/micro/arc-01-kho-hai-tien-lo.geojson) *(giữ nguyên geometry)*
 
 **Hợp đồng kế thừa:** [`CHL-TRUNG-LINH`](../../../../foundation/logic/world/realms/linh-gioi/planets/can-nguyen-tinh/continents/trung-linh/00-overview.md) — linh khí **dày**, Tam Tông chia mạch gốc xa, thuế mỏ **20–35%** (planet atlas §4). **Cụ thể hóa Logic project:** mạch Tây **cạn** (plot D-05) · **Thái Nhạc Tông** trấn nhánh mạch + mỏ **Hắc Nham** · phàm–tu chung vùng mỏ (Luật 6b).
@@ -147,6 +149,23 @@ child_index:
 **Kinh tế & chính trị Arc 2 (delta):**
 - **Khế ngoại môn & Sổ ngạch Trúc Cơ Đan:** Đệ tử tạp dịch thăng lên ngoại môn phải gánh **khế định mức ngoại viện** (phục dịch 3 năm hoặc nộp đủ điểm công tích khảo mạch / linh dược). Toàn ngoại môn mỗi kỳ 3 năm chỉ có **3 ngạch Trúc Cơ Đan chính thức** từ Đan các (2 ngạch nội định cho môn khách thế gia bảo lãnh, chỉ **1 ngạch mở** tranh đoạt bằng điểm công tích + kiểm duyệt Chấp pháp đường).
 - **Ngũ hệ vật liệu Trúc Cơ (chuẩn bị D-06):** Để mở Bậc C-sơ của **Trầm Quân Thạch Ấn** hỗ trợ ép khí hóa lỏng khi thiếu Trúc Cơ Đan hoàn chỉnh, Lâm Hàn cần gom đủ dẫn chất 5 hành: **Thổ** (tinh thạch đáy Bắc Tuyến), **Hỏa** (xỉ hỏa tủy biên Hỏa Diễm / lò lậu), **Mộc** (linh mộc tâm từ linh điền Tần gia / khảo mạch), **Thủy** (hàn thủy dịch do Cố lão cất giữ dưới kho phế), và **Kim** (canh kim tinh do **Vệ Thủy Ngân phủ** độc quyền khóa chặt).
+
+---
+
+## §9 — Bố cục micro Arc 3 (delta Bí Cảnh Cổ & Hành Lang Đáy Hắc Nham)
+
+**Gốc tham chiếu:** Biên giới phía tây `REG-TL-TAY-MACH` giáp ranh `REG-HD-DONG-MACH` (Hỏa Diễm châu lục, dãy `BRR-HD-LIET-DUONG`) và tầng sâu nhất bên dưới **Hắc Nham Khoáng Động** (`LOC-MINE-001`).
+
+| ID | Vị trí tương đối | Độ cao / Tầng | Khoảng cách & Tuyến nối | Vai trò Arc 3 (ch.46–75) |
+| --- | --- | --- | --- | --- |
+| `LOC-RUIN-001` | Khe đứt gãy biên Tây Mạch – Hỏa Diễm (`BRR-HD-LIET-DUONG`) | Sâu dưới lòng đèo biên (-300m đến -800m) | ~**3 ngày** hành quân từ sơn môn Thái Nhạc Tông về phía tây | **Bí cảnh cổ đại** *(Đoạn Mạch Cổ Cảnh / Cổ Trận Phân Giới)* — di tích đại trận trấn mạch từ thời thượng cổ; nơi bốn phe (Thái Nhạc Tông, Viêm Thần Tông, Tán tu, Tà đạo Tro Lão) hội tụ; nơi Lâm Hàn lấy linh vật Kim cổ đại vá đạo cơ (`FS-005`) và thấy bia trận ghi phép tính *«một mạch, một mạng»* (`FS-002`, `FS-003`) |
+| `LOC-MINE-001-DEEP` | Tầng đáy cổ xưa bên dưới Kho phế & Hầm tối Bắc Tuyến (`LOC-MINE-001`) | Sâu (-500m dưới cửa mỏ) | Thông với kho phế của Cố lão và khe nứt hầm tối cũ | **Lối ngầm Đáy Mỏ** — con đường dẫn xuống rìa **Trận Nhãn Hắc Nham** (`FS-008`); nơi Cố Quy Trần (`CHAR-006`) dùng chút thọ nguyên cuối cùng mở lối cho Lâm Hàn thoát vây và tử trận (`D-08`, `FS-007`) |
+| `CAMP-VT-001` | Sườn tây đèo Liệt Dương (mặt biên Hỏa Diễm) | Cao (+500m) | Giáp cửa vào `LOC-RUIN-001` | Tiền đồn chiến tuyến của **Viêm Thần Tông** (Hỏa Diễm) — tu sĩ chuyên luyện Hỏa sát và đoạt mạch, đối trọng trực tiếp ép biên khiến Nghiêm Hoằng Độ phải tìm đường mạch sống (`FS-017`) |
+
+**Cơ chế Bí cảnh cổ & Cổ trận trấn mạch (delta khóa `PW-01`, `PW-03`, `PW-06`):**
+- **Bản chất Cổ trận (`D-04`):** Toàn bộ nhánh linh mạch Tây Mạch vốn bị rò rỉ linh khí sang vùng địa hỏa Liệt Dương từ thời cổ đại. Cổ tu đã dựng một đại trận trấn mạch nối từ `LOC-RUIN-001` (Đài Phân Mạch trong bí cảnh) về tới **Trận Nhãn dưới đáy Hắc Nham** (`LOC-MINE-001-DEEP`), dùng **Trầm Quân Thạch Ấn** làm hạt nhân trung tâm điều hòa Ngũ hành.
+- **Lý do có «mười hai rãnh ngón tay» (`FS-003`, `PW-06`) & luật «kỳ hạn» (`PW-01`):** Đại trận cổ vốn được thiết kế để cứ mỗi **một giáp (60 năm)** lại có một tu sĩ Trúc Cơ/Kim Đan tự nguyện cầm ấn ngồi vào mắt trận làm «người giữ cọc» suốt một kỳ hạn, dùng đạo cơ của mình lọc sát khí địa nhiệt cho cả vùng rồi truyền lại cho người kế nhiệm. Qua mười hai đời người giữ cọc cổ đại, mười hai bàn tay nắm ấn lúc chịu đựng sát khí đã in sâu thành **mười hai vết rãnh ngón tay mòn nhẵn** trên thân đá.
+- **Sự biến tướng thành «Một mạch, một mạng» (`D-04`, `D-05`, `PW-03`):** Hàng trăm năm trước, khi một đời giữ cọc tử trận trong loạn biên Hỏa Diễm làm mảnh trấn ấn thất lạc khỏi mắt trận chính và trôi dạt theo mạch ngầm về lắng dưới lòng đất Thạch Khê, Thái Nhạc Tông không còn người nguyện làm cọc và cũng không giữ được ấn chủ. Thay vì tự hiến đạo cơ tu sĩ trên núi, các đời chấp pháp (đến đời Nghiêm Hoằng Độ) đã dùng phương pháp thay thế tàn khốc ghi trong tàn quyển: mỗi khi nhánh mạch suy kiệt, dùng **huyết dẫn của cả một thôn phàm nhân sống trên mắt mạch phụ** để kích nổ mạch khí bù vào đại trận (*một mạch mở bằng mạng một thôn*). Đêm Thạch Khê, mảnh ấn nằm ngay rìa nhãn mạch phụ; sau khi huyết dẫn kích hoạt làm đất nứt, cha mẹ giấu Lâm Hàn dưới hố khoai nên Hàn vô tình chạm tay nhặt mất mảnh ấn ngay khi mạch vừa mở, khiến linh khí Thạch Khê không khóa được vào trận mà thất thoát — tông môn đo thấy mạch mở thiếu nhưng tưởng do địa chấn làm vỡ nhãn mạch, từ đó mới đẩy định mức Bắc Tuyến lên bù và nhắm tới Bạch Thổ Thôn (`D-05`).
 
 ---
 

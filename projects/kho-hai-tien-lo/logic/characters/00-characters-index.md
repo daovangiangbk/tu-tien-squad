@@ -28,6 +28,8 @@
 | [`01-project-roster.md`](./01-project-roster.md) | Project (`T-characters-project` + sync) | Dual-View (Phần I + Phần II) cho MC (`CHAR-001`) + đặc tả **Bảo vật của trời đất** (`ITEM-CORE-001`, bậc mở khóa A + C) + 7 nhân vật dài hạn/trụ cột chủ đề (`CHAR-002` → `CHAR-008`) + nhóm bóng dáng gia đình phàm trần (`CHAR-009`) + **cast arc-band bổ sung** (`CHAR-010`→`CHAR-012`, §1b + Phần I bổ sung + §5 bàn giao naming) | **`canon`** *(human approved Phần I · 2026-10-23; sync 2026-10-23)* |
 | [`arc-1-roster.md`](./arc-1-roster.md) | Arc 1 (`T-characters-arc-1`) | Dual-View: mục tiêu cast B01–B20, off-screen flags, beat map · NPC stub §II.3 | **`approved`** *(2026-10-23)* |
 | [`arc-2-roster.md`](./arc-2-roster.md) | Arc 2 (`T-characters-arc-2`) | Dual-View: mục tiêu cast B21–B47, off-screen flags, beat map Arc 2 (ch.19–45) | **`approved`** *(2026-10-23)* |
+| [`arc-3-roster.md`](./arc-3-roster.md) | Arc 3 (`T-characters-arc-3`) | Dual-View: mục tiêu cast B48–B77, off-screen flags, beat map Arc 3 (ch.46–75) | **`approved`** *(2026-10-26)* |
+| [`arc-3-roster.md`](./arc-3-roster.md) | Arc 3 (`T-characters-arc-3`) | Dual-View: mục tiêu cast B48–B77, off-screen flags, beat map Arc 3 (ch.46–75) | **`approved`** *(2026-10-26)* |
 | [`phase-01-roster-delta.md`](./phase-01-roster-delta.md) | Phase 1 (Arc 1) Wrap-up | Cập nhật tu vi, vết thương tâm lý, trạng thái mở khóa Bảo vật và quan hệ sau Arc 1 | **`approved`** *(2026-10-23 · khép Arc 1)* |
 | [`phase-02-roster-delta.md`](./phase-02-roster-delta.md) | Phase 2 (Arc 2) Wrap-up | Cập nhật tu vi (Trúc Cơ khuyết Kim), vết thương đồng lõa Bạch Thổ, Lương Khôn gạch tên, Tro Lão & Khương Minh Thư sau Arc 2 | **`approved`** *(2026-10-23 · khép Arc 2)* |
 
